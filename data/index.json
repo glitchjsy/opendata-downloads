@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2025-12-10T13:04:44.801Z",
+  "datasets": {
+    "eatsafe": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "eatsafe/eatsafe.json",
+          "sizeBytes": 279723
+        },
+        {
+          "path": "eatsafe/eatsafe.csv",
+          "sizeBytes": 87942
+        }
+      ]
+    },
+    "toilets": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "toilets/toilets.json",
+          "sizeBytes": 42848
+        },
+        {
+          "path": "toilets/toilets.csv",
+          "sizeBytes": 23989
+        }
+      ]
+    },
+    "defibrillators": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "defibrillators/defibrillators.json",
+          "sizeBytes": 14030
+        },
+        {
+          "path": "defibrillators/defibrillators.csv",
+          "sizeBytes": 5537
+        }
+      ]
+    },
+    "recycling": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "recycling/recycling.json",
+          "sizeBytes": 20313
+        },
+        {
+          "path": "recycling/recycling.csv",
+          "sizeBytes": 8710
+        }
+      ]
+    },
+    "vehicles": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "vehicles/vehicles.json",
+          "sizeBytes": 38073439
+        },
+        {
+          "path": "vehicles/vehicles.csv",
+          "sizeBytes": 8510834
+        }
+      ]
+    },
+    "vehicles-colors": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "vehicles-colors/vehicles-colors.json",
+          "sizeBytes": 417
+        },
+        {
+          "path": "vehicles-colors/vehicles-colors.csv",
+          "sizeBytes": 248
+        }
+      ]
+    },
+    "vehicles-makes": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "vehicles-makes/vehicles-makes.json",
+          "sizeBytes": 12863
+        },
+        {
+          "path": "vehicles-makes/vehicles-makes.csv",
+          "sizeBytes": 7333
+        }
+      ]
+    },
+    "vehicles-models": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "vehicles-models/vehicles-models.json",
+          "sizeBytes": 1546002
+        },
+        {
+          "path": "vehicles-models/vehicles-models.csv",
+          "sizeBytes": 1175880
+        }
+      ]
+    },
+    "carparks": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "carparks/carparks.json",
+          "sizeBytes": 49992
+        },
+        {
+          "path": "carparks/carparks.csv",
+          "sizeBytes": 19060
+        }
+      ]
+    },
+    "foi-requests": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "foi-requests/foi-requests.json",
+          "sizeBytes": 1993870
+        },
+        {
+          "path": "foi-requests/foi-requests.csv",
+          "sizeBytes": 1034599
+        }
+      ]
+    },
+    "bus-stops": {
+      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "files": [
+        {
+          "path": "bus-stops/bus-stops.json",
+          "sizeBytes": 177198
+        },
+        {
+          "path": "bus-stops/bus-stops.csv",
+          "sizeBytes": 69500
+        }
+      ]
+    }
+  }
+}

@@ -6,6 +6,12 @@ import { transforms } from "./transformations.js";
 const BASE_URL = "https://api.opendata.je/v1";
 const LIMIT = 1000000;
 const DATA_ROOT = path.resolve("data");
+const RUN_DATE = new Date().toISOString();
+
+const INDEX = {
+    generatedAt: RUN_DATE,
+    datasets: {}
+}
 
 async function run() {
     console.log("Starting...");
@@ -88,6 +94,8 @@ async function run() {
     });
 
     updateReadme();
+    writeIndex();
+
     console.log("Done");
 }
 
@@ -147,10 +155,10 @@ async function fetchEndpoint(endpoint) {
 function writeJson(dir, filename, data) {
     ensureDir(dir);
 
-    fs.writeFileSync(
-        path.join(dir, filename),
-        JSON.stringify(data, null, 2)
-    );
+    const filePath = path.join(dir, filename);
+    
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+    recordFile(path.basename(dir), filePath);
 }
 
 function writeCsv(dir, filename, records) {
@@ -158,8 +166,12 @@ function writeCsv(dir, filename, records) {
         return;
     }
     ensureDir(dir);
+    
     const csv = stringify(records, { header: true });
-    fs.writeFileSync(path.join(dir, filename), csv);
+    const filePath = path.join(dir, filename);
+
+    fs.writeFileSync(filePath, csv);
+    recordFile(path.basename(dir), filePath);
 }
 
 function objectMapToRows(obj, keyName, valueName) {
@@ -167,6 +179,30 @@ function objectMapToRows(obj, keyName, valueName) {
         [keyName]: key,
         [valueName]: value
     }));
+}
+
+function recordFile(dataset, filePath) {
+    const stats = fs.statSync(filePath);
+    const relativePath = path
+        .relative(DATA_ROOT, filePath)
+        .replace(/\\/g, "/");
+
+    if (!INDEX.datasets[dataset]) {
+        INDEX.datasets[dataset] = {
+            updatedAt: RUN_DATE,
+            files: []
+        };
+    }
+
+    INDEX.datasets[dataset].files.push({
+        path: relativePath,
+        sizeBytes: stats.size
+    });
+}
+
+function writeIndex() {
+    const indexPath = path.join(DATA_ROOT, "index.json");
+    fs.writeFileSync(indexPath, JSON.stringify(INDEX, null, 2));
 }
 
 function updateReadme() {
