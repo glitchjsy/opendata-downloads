@@ -1,0 +1,56 @@
+id,createdAt,name,parish,latitude,longitude,ownerName,facilities
+03d8bf66-e451-4a20-b3e5-96f8c1293f2c,2024-07-01T13:01:56.000Z,La Folie Commercial Buildings St. Helier,St. Helier,49.17793188,-2.10985971,Ports of Jersey,
+0467c094-9037-49e0-9098-2e7feb25a459,2024-07-01T13:01:56.000Z,Les Creux La Moye St. Brelade,St. Brelade,49.185829,-2.21379499,Government of Jersey,DISABLED
+0808451f-011c-4993-8163-486a09fae6d5,2024-07-01T13:01:56.000Z,Bonne Nuit Les Charrieres de Bonne Nuit St. John,St. John,49.25225901,-2.12096186,Government of Jersey,DISABLED
+11c14a55-1212-4a1b-aaa7-6782e5945d92,2024-07-01T13:01:55.000Z,Bouley Bay Les Charrieres de Boulay Trinity,Trinity,49.238868,-2.08166393,Government of Jersey,BEACH_SHOWER
+12aec285-85e8-49a5-9059-18b2731263cc,2024-07-01T13:01:56.000Z,Coronation Park La Route de St. Aubin St. Lawrence,St. Lawrence,49.19777913,-2.14208321,Government of Jersey,DISABLED
+156d6d3a-f5bc-40dd-8f4c-3423df12cf0b,2024-07-01T13:01:56.000Z,Plemont Bay La Route de Plemont St. Ouen,St. Ouen,49.25651053,-2.22911326,Government of Jersey,DISABLED
+186765f2-e931-483a-85d7-dbf33e8a9d84,2024-07-01T13:01:56.000Z,Parade Gardens (PoSH) Gloucester Street St. Helier,St. Helier,49.18767909,-2.11069158,,DISABLED
+236598b9-c947-40f4-97ca-e49252c3a740,2024-07-01T13:01:56.000Z,St. Aubin La Neuve Route St. Brelade,St. Brelade,49.18774852,-2.16919926,Government of Jersey,DISABLED|BABY_CHANGING
+24a01a8c-12ae-4ec5-a133-23be5e9e0894,2024-07-01T13:01:56.000Z,Gorey House Le Mont de Gouray St. Martin,St. Martin,49.20000734,-2.02135859,Andium Homes,DISABLED
+2500fe9c-4412-410e-8107-f2ffc14afc34,2024-07-01T13:01:56.000Z,Millennium Town Park Tunnell Street St.Helier,St. Helier,49.1874601,-2.09970421,Government of Jersey,DISABLED
+2892d8d3-7a76-4b80-8bfa-f46e3274e399,2024-07-01T13:01:55.000Z,Gorey Common Longbeach La Rue a Don Grouville,Grouville,49.19618566,-2.03066981,Government of Jersey,BEACH_SHOWER|DISABLED|BABY_CHANGING
+296ff3f3-38fd-4567-977e-dfc94b1ee6be,2024-07-01T13:01:56.000Z,Howard Davis Park St. Clements Road St. Helier,St. Helier,49.17985301,-2.09828251,Government of Jersey,DISABLED
+2e4a5739-43ec-46df-8881-27a8da389cbe,2024-07-01T13:01:56.000Z,Woodford Car Park La Route de la Baie St. Brelade,St. Brelade,49.18579372,-2.19885529,Government of Jersey,BEACH_SHOWER|DISABLED|BABY_CHANGING
+47aeb0f8-c721-45f3-be99-544ecf091211,2024-07-01T13:01:56.000Z,Corbiere La Rue de la Corbiere St. Brelade,St. Brelade,49.18103496,-2.23892806,Government of Jersey,GENDER_NEUTRAL|DISABLED|BABY_CHANGING
+509985cc-a710-4d03-bed5-5f150b85db12,2024-07-01T13:01:56.000Z,St. Brelade's Bay Promenade La Route de la Baie St. Brelade,St. Brelade,49.1853255,-2.20002067,Government of Jersey,DISABLED|BABY_CHANGING
+5519dbaa-7375-4080-ba48-a68665e10c5d,2024-07-01T13:01:56.000Z,Le Braye La Grande Route des Mielles St. Brelade,St. Brelade,49.1988782,-2.22376511,Government of Jersey,DISABLED
+605f608a-f0a2-4719-bfa2-a0ea323c6fcc,2024-07-01T13:01:56.000Z,Les Laveurs La Route des Laveurs St. Ouen,St. Ouen,49.23065492,-2.23465773,Government of Jersey,DISABLED|BABY_CHANGING
+60aa98ca-210d-4ab2-93f6-993b2de2d260,2024-07-01T13:01:56.000Z,"Archirondel La Route de la Cote Gorey Coast Road, St. Martin",St. Martin,49.2116822,-2.02511985,Government of Jersey,BEACH_SHOWER|DISABLED
+63a431cf-9261-4372-bc37-0de820ae36a8,2024-07-01T13:01:56.000Z,Sand Street MSCP Castle Street St. Helier,St. Helier,49.18514846,-2.11023603,Government of Jersey,DISABLED|BABY_CHANGING
+6aa6dd28-adbf-4412-8e60-38c376027a63,2024-07-01T13:01:56.000Z,Millbrook Victoria Avenue St. Lawrence,St. Lawrence,49.19637192,-2.13831586,Government of Jersey,DISABLED
+6da66403-84fa-4eaa-bfca-41a040c4e4c7,2024-07-01T13:01:56.000Z,La Rocque Harbour La Grande Route des Sablons Grouville,Grouville,49.16442032,-2.03345146,Ports of Jersey,BEACH_SHOWER|DISABLED
+7014bc81-6700-4efd-a632-6a4ce4bd223b,2024-07-01T13:01:56.000Z,Midbay La Route de la Baie St. Brelade,St. Brelade,49.18536403,-2.19528821,Government of Jersey,
+7371c28b-77c5-4d2c-8932-220aa0306b54,2024-07-01T13:01:56.000Z,Gunsite Slipway Beaumont La Route de la Haule St. Peter,St. Peter,49.19611367,-2.15759756,Government of Jersey,DISABLED
+7a25dbb3-db9a-40b1-932e-85bab28457ae,2024-07-01T13:01:56.000Z,Minden Place MSCP Minden Place St. Helier,St. Helier,49.1860974,-2.10311061,Government of Jersey,DISABLED
+7e26678b-54fa-4996-8fcd-cc41aa9df655,2024-07-01T13:01:56.000Z,Green Street (PoSH) Green Street St. Helier,St. Helier,49.18134853,-2.10190113,,DISABLED
+7f37f54d-43cb-42a1-b818-e86ec8630546,2024-07-01T13:01:55.000Z,Bel Royal Victoria Avenue St. Lawrence,St. Lawrence,49.19683473,-2.14570211,Government of Jersey,BEACH_SHOWER|DISABLED
+8165dc92-2813-475a-9d4a-f9196be1c212,2024-07-01T13:01:56.000Z,First Tower Park (PoSH) La Route de St. Aubin St. Helier,St. Helier,49.19701502,-2.13210497,,
+823f6040-df8a-44ec-a3f1-df57cd99c17f,2024-07-01T13:01:56.000Z,Albert Pier St. Helier,St. Helier,49.17931748,-2.11426177,Ports of Jersey,
+89cb7409-ac7e-4336-aaa4-d04c8c8240bb,2024-07-01T13:01:56.000Z,Patriotic Street MSCP Patriotic Street St. Helier,St. Helier,49.18745489,-2.11366851,Government of Jersey,DISABLED
+8d9aa8b8-d413-483c-9ddd-b0f9514f7b1e,2024-07-01T13:01:56.000Z,5 La Bantchette (PoSH) Conway Street St. Helier,St. Helier,49.18379399,-2.10764831,,DISABLED
+9901e662-a59e-4113-b6d3-d5139c38bc62,2024-07-01T13:01:56.000Z,Victoria Park (PoSH) Peirson Road St. Helier,St. Helier,49.18777912,-2.11676865,,
+9b3ee8c6-e226-47e8-b889-8473c13dfec0,2024-07-01T13:01:56.000Z,La Collette (PoSH) Mount Bingham St. Helier,St. Helier,49.17636011,-2.10597232,,DISABLED
+9b99f75a-d3af-4e09-bce3-d01802b7e451,2024-07-01T13:01:56.000Z,La Mare Slipway La Grande Route de la Cote St. Clement,St. Clement,49.1673819,-2.08304482,Government of Jersey,DISABLED
+9c4b074a-e446-4ed4-8563-480ccb0d7bd3,2024-07-01T13:01:56.000Z,Le Hocq La Grande Route de la Cote St. Clement,St. Clement,49.16740904,-2.06178906,,DISABLED|BABY_CHANGING
+a33b7a2f-8430-4f51-b07e-75c55ceb63dc,2024-07-01T13:01:56.000Z,Liberation Station Esplanade St. Helier,St. Helier,49.18318296,-2.10944555,Government of Jersey,DISABLED|BABY_CHANGING
+a3444a7a-9934-4deb-aa09-2c276c25e987,2024-07-01T13:01:56.000Z,La Haule La Route de la Haule St. Brelade,St. Brelade,49.19379683,-2.16419023,Government of Jersey,BEACH_SHOWER|DISABLED
+a5ff273d-4ffd-4c6f-9164-147c77e67d4a,2024-07-01T13:01:55.000Z,Cotil du Grouin Le Mont Sohier St. Brelade,St. Brelade,49.18306482,-2.18993586,Government of Jersey,BABY_CHANGING
+a6de2246-2956-4299-b347-77332577ca23,2024-07-01T13:01:56.000Z,"Anne Port La Route de la Cote Gorey Coast Road, St. Martin",St. Martin,49.20593417,-2.02268987,Government of Jersey,BEACH_SHOWER
+abc03b7e-0b02-4f9b-8573-1a80502466ad,2024-07-01T13:01:56.000Z,St. Catherine's Breakwater La Route de St. Catherine St. Martin,St. Martin,49.22235,-2.01097042,Ports of Jersey,
+b6f08d93-fba1-44cf-8a8e-9775402e269c,2024-07-01T13:01:56.000Z,Victoria Pier Victoria Pier St. Helier,St. Helier,49.17539708,-2.11426341,Ports of Jersey,GENDER_NEUTRAL
+c1110c44-7b5c-4c93-ab94-8e7ea0b658db,2024-07-01T13:01:56.000Z,Central Market Beresford Street St. Helier,St. Helier,49.18517778,-2.10397128,Government of Jersey,DISABLED|BABY_CHANGING
+c8aefafe-cf70-4da6-a6be-0eb02e376aee,2024-07-01T13:01:56.000Z,Pier Road MSCP Pier Road St. Helier,St. Helier,49.18070076,-2.10733454,Government of Jersey,
+cb94254c-293d-42ea-b4d0-2951c17a784d,2024-07-01T13:01:55.000Z,Snow Hill Snow Hill St. Helier,St. Helier,49.1834161,-2.10322207,Government of Jersey,DISABLED
+cd3d2d26-794f-4618-9279-cfa4133d6b30,2024-07-01T13:01:55.000Z,Le Dicq La Greve d'Azette St. Saviour,St. Saviour,49.1769573,-2.09714629,Government of Jersey,
+d68662f9-4162-41df-9eee-245834a1f233,2024-07-01T13:01:56.000Z,First Tower Victoria Avenue St. Helier,St. Helier,49.19416454,-2.12923768,Government of Jersey,DISABLED
+d881776e-bbb4-4593-80d2-2671440fca6a,2024-07-01T13:01:55.000Z,Ouaisne Le Mont du Ouaisne St. Brelade,St. Brelade,49.17669963,-2.18378447,,DISABLED|BABY_CHANGING
+dcd14008-e760-480c-91e7-7a3f0d894372,2024-07-01T13:01:56.000Z,Gorey Pier Gorey Pier St. Martin,St. Martin,49.1972833,-2.02181761,Ports of Jersey,
+e032e200-57f3-4bdf-be54-be6996daa17d,2024-07-01T13:01:56.000Z,Rozel Pier La Brecque du Nord Trinity,Trinity,49.23780303,-2.04453508,Ports of Jersey,DISABLED|BABY_CHANGING
+e901b70d-a550-4edb-90d2-5a4f0d5acc55,2024-07-01T13:01:56.000Z,Accessible Toilet Le Braye Slipway La Grande Route des Mielles St. Brelade,St. Brelade,49.1988421,-2.22394068,,GENDER_NEUTRAL|DISABLED|BABY_CHANGING
+f256173e-7267-4364-83bc-8c4e6e5a0367,2024-07-01T13:01:56.000Z,West Park Promenade Esplanade St. Helier,St. Helier,49.18713173,-2.11685121,Government of Jersey,DISABLED
+f4fb8562-366f-41c8-b505-2489e2c2f334,2024-07-01T13:01:55.000Z,Green Island La Rue de Samares St. Clement,St. Clement,49.16357632,-2.07336716,,
+f5f2adb9-0300-4553-bf82-48dcb0db4859,2024-07-01T13:01:56.000Z,Red Houses La Route des Quennevais St. Brelade,St. Brelade,49.19099016,-2.20024761,Government of Jersey,DISABLED
+f6758dc1-c58d-4d90-9423-e4efcb7e22ce,2024-07-01T13:01:55.000Z,Greve de Lecq La Greve de Lecq St. Ouen,St. Ouen,49.24691776,-2.20136509,Government of Jersey,BEACH_SHOWER|DISABLED|BABY_CHANGING
+f727428a-b63f-4387-99d4-7e67eac0f944,2024-07-01T13:01:56.000Z,Millard's Corner La Greve d'Azette St. Clement,St. Clement,49.17335334,-2.08947872,Government of Jersey,DISABLED
+febf356b-c2d2-4c98-a5bb-3ca25a237a02,2024-07-01T13:01:56.000Z,St. Catherine's La Route de St. Catherine St. Martin,St. Martin,49.22469746,-2.02028608,Ports of Jersey,DISABLED

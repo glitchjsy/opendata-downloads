@@ -1,0 +1,779 @@
+{
+  "results": [
+    {
+      "id": "010c4d66-cd8b-49da-a130-c13d2960e50c",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Peter's Valley",
+      "parish": "St Lawrence",
+      "latitude": 49.210991,
+      "longitude": -2.160824,
+      "notes": "Opposite Victoria in the Valley",
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "020730a8-62b3-4abe-a05b-ae69e3b79e7e",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Luke's Church",
+      "parish": "St Saviour",
+      "latitude": 49.17923,
+      "longitude": -2.09597,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "0466f9af-9f68-4130-b690-5d24e53ca0bf",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Acorn Enterprises",
+      "parish": "Trinity",
+      "latitude": 49.233821,
+      "longitude": -2.094823,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "04ff572e-28c3-4b3d-8692-cecb2d24ba56",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Rue des Pres",
+      "parish": "St Saviour",
+      "latitude": 49.18289,
+      "longitude": -2.07722,
+      "notes": "At entrance to trading estate",
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "0624946f-cde6-4d75-b348-51f9e62810c1",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Grouville Parish Hall",
+      "parish": "Grouville",
+      "latitude": 49.18437,
+      "longitude": -2.05216,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "1123f119-d18f-4bdd-828a-b4f6471ba2bb",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Peter Community Centre",
+      "parish": "St Peter",
+      "latitude": 49.21194,
+      "longitude": -2.18381,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "176edfae-641c-4234-b5ed-dab77672af15",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Grand Marche St Peter",
+      "parish": "St Peter",
+      "latitude": 49.21248,
+      "longitude": -2.1824,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "1c26b0cb-cdbd-4143-b6fc-c9d179cc8414",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Waitrose St Saviour",
+      "parish": "St Saviour",
+      "latitude": 49.17967,
+      "longitude": -2.08484,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "1dcef65a-8fa4-4be0-8c15-efbc73001868",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "The Parade",
+      "parish": "St Helier",
+      "latitude": 49.18776,
+      "longitude": -2.11071,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "21d33a5b-9f69-459f-bcc3-a5a70c90de27",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale Pontac",
+      "parish": "St Clement",
+      "latitude": 49.16972,
+      "longitude": -2.04886,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "30afa764-16fb-4bd4-a6b0-a5539aeee2f4",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Mary Community Centre Car Park",
+      "parish": "St Mary",
+      "latitude": 49.237413,
+      "longitude": -2.174394,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "3219231b-63c9-4335-bd6d-4da8da38ca1a",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale Charing Cross",
+      "parish": "St Helier",
+      "latitude": 49.18519,
+      "longitude": -2.10909,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "33097aee-7c18-4ca8-9447-f8c33a647292",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Maufant Youth Club",
+      "parish": "St Martin",
+      "latitude": 49.20976,
+      "longitude": -2.06156,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "35a09adc-6508-4aad-ba5a-9f932bc41306",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Waitrose St Helier",
+      "parish": "St Helier",
+      "latitude": 49.19549,
+      "longitude": -2.10207,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "50c45b3c-26d7-4b01-a987-bcd3119299ab",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Jersey Bowl",
+      "parish": "St Peter",
+      "latitude": 49.20511,
+      "longitude": -2.18302,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "5580f376-a638-4c90-b80e-2a129cd54ba4",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Saviour Parish Depot",
+      "parish": "St Saviour",
+      "latitude": 49.182061,
+      "longitude": -2.079948,
+      "notes": "Rue des Pres trading estate",
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "GLASS",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "581e958f-9a6c-4c19-888d-9480b7417a50",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Trinity Youth Club",
+      "parish": "Trinity",
+      "latitude": 49.23508,
+      "longitude": -2.09082,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "599fae6a-c75c-486e-a42f-56a93d2fb079",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "People's Park",
+      "parish": "St Helier",
+      "latitude": 49.18919,
+      "longitude": -2.11589,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "5b6d7dde-f691-4c87-af42-02e5457d42ff",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Ouen Parish Depot",
+      "parish": "St Ouen",
+      "latitude": 49.234951,
+      "longitude": -2.203458,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "60174cfb-a5e9-4412-9427-6b7a9f510c08",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Les Quennevais Precinct",
+      "parish": "St Brelade",
+      "latitude": 49.192591,
+      "longitude": -2.198328,
+      "notes": "Lower car park",
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "6ee27221-15d6-4b6a-a2f5-2f7e802cbb78",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Gorey Village Car Park",
+      "parish": "Grouville",
+      "latitude": 49.19797,
+      "longitude": -2.03249,
+      "notes": "Opposite Butchers",
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "731d08c1-f4bb-495a-b79f-774136e8ee3a",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Trinity Primary School Car Park",
+      "parish": "Trinity",
+      "latitude": 49.22921,
+      "longitude": -2.0933,
+      "notes": "Field opposite the school",
+      "services": [
+        "PAPER"
+      ]
+    },
+    {
+      "id": "7a4538e3-cfaa-4f56-b380-892e36c962a0",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "El Tico",
+      "parish": "St Peter",
+      "latitude": 49.20466,
+      "longitude": -2.22311,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "8165d8fd-76f7-4a54-88c0-e6f4631ac3c9",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Archirondel Driftwood Cafe",
+      "parish": "St Martin",
+      "latitude": 49.21164,
+      "longitude": -2.02497,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "8ff16663-3830-43bb-8f2f-e78300ec1a64",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Le Hocq Car Park",
+      "parish": "St Clement",
+      "latitude": 49.168237,
+      "longitude": -2.062683,
+      "notes": "Next to the parish hall",
+      "services": [
+        "METAL_PACKAGING",
+        "MIXED_TEXTILES",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "938d07c0-f9a9-4dd4-9fc1-a62b52605450",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Grande Marche St Helier",
+      "parish": "St Helier",
+      "latitude": 49.18894,
+      "longitude": -2.09881,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "965b728a-f585-4073-b428-6c8a1a7e2928",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Centrepoint (La Pouquelaye)",
+      "parish": "St Helier",
+      "latitude": 49.19821,
+      "longitude": -2.11095,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "9d71b481-1338-4f5e-ac41-af0b2bc2fbd4",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Gunsite Cafe",
+      "parish": "St Lawrence",
+      "latitude": 49.19587,
+      "longitude": -2.15803,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "9e14d0a2-9be9-49ea-8b30-41f8d466b788",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Goose Green Car Park",
+      "parish": "St Peter",
+      "latitude": 49.197747,
+      "longitude": -2.158985,
+      "notes": null,
+      "services": [
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "9ea9fddf-62b1-44cb-bc41-4a16a95bef22",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Martin Public Hall Car Park",
+      "parish": "St Martin",
+      "latitude": 49.219073,
+      "longitude": -2.0539,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "a26a6837-1c32-48f7-96b0-3f59f7b147ee",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Le Marais",
+      "parish": "St Clement",
+      "latitude": 49.168219,
+      "longitude": -2.08095,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "a3e17a3f-bf84-4fc9-b69b-addbbf233fe6",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "B&Q",
+      "parish": "St Helier",
+      "latitude": 49.20092,
+      "longitude": -2.11484,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "a6f22158-aa33-4f25-8fa8-45ee7f9dba3e",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Holme Grown",
+      "parish": "Grouville",
+      "latitude": 49.174471,
+      "longitude": -2.040401,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "aaa3e6b2-5634-4a78-a69c-62d16ace7152",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Communicare",
+      "parish": "St Brelade",
+      "latitude": 49.19498,
+      "longitude": -2.19914,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "ab8bb04e-cc0e-4e2c-b4cf-fde34e7fc21c",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Aubin Car Park",
+      "parish": "St Brelade",
+      "latitude": 49.188103,
+      "longitude": -2.169652,
+      "notes": "Behind the parish hall",
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "MIXED_TEXTILES",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "addf5d4a-684a-4606-8721-712395b5b20d",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale Val Plaisant",
+      "parish": "St Helier",
+      "latitude": 49.19184,
+      "longitude": -2.10217,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "b1889b5a-10bb-4494-ad3b-75dbfa656b43",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Green Island Car Park",
+      "parish": "St Clement",
+      "latitude": 49.1636,
+      "longitude": -2.07396,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "b747cd7a-101b-4ab2-90d1-638d94b67227",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Andrew's Park",
+      "parish": "St Helier",
+      "latitude": 49.19741,
+      "longitude": -2.13129,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "bcfe1035-1e71-4588-811b-c6ea7e3b33b3",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St John's Primary School",
+      "parish": "St John",
+      "latitude": 49.2394,
+      "longitude": -2.1207,
+      "notes": "Opposite the car park",
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "befb18d6-44bf-494c-b5b7-9350562f045d",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Clos Gosset",
+      "parish": "St Saviour",
+      "latitude": 49.18124,
+      "longitude": -2.08576,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "c1c82b79-892e-4220-b706-b72b72b42a1b",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "La Mare Car Park",
+      "parish": "St Clement",
+      "latitude": 49.166,
+      "longitude": -2.08127,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "c2bad9f2-0e8c-4afc-8aff-19869fd6c249",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Grainville Playing Fields",
+      "parish": "St Saviour",
+      "latitude": 49.199301,
+      "longitude": -2.0864,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "GLASS",
+        "METAL_PACKAGING",
+        "MIXED_TEXTILES",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "c4b9a9d5-c6e0-4db2-bc1f-51cbfd059750",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Les Jardins Car Park",
+      "parish": "St Helier",
+      "latitude": 49.1849,
+      "longitude": -2.11473,
+      "notes": "Cheapside end",
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "c4f707bb-a026-42df-820f-3a3ac04d758d",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Lawrence Community Centre Car Park",
+      "parish": "St Lawrence",
+      "latitude": 49.219139,
+      "longitude": -2.13979,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES",
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "c9085fdf-510b-4c28-9c0e-77cbabc87f61",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "JFTU Retail Outlet Car Park",
+      "parish": "Trinity",
+      "latitude": 49.20554,
+      "longitude": -2.0637,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "ca2b6e2d-190f-44d9-99bd-c25c5982cefa",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Gorey Pier",
+      "parish": "St Martin",
+      "latitude": 49.19879,
+      "longitude": -2.02032,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "d7a3acbb-4158-46f3-885d-c67e2327820a",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "St Catherine's Breakwater",
+      "parish": "St Martin",
+      "latitude": 49.22457,
+      "longitude": -2.01971,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "d7c54f57-8b11-4c26-bd41-05e9a65de450",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Trinity Parish Hall",
+      "parish": "Trinity",
+      "latitude": 49.23514,
+      "longitude": -2.0913,
+      "notes": null,
+      "services": [
+        "MIXED_TEXTILES"
+      ]
+    },
+    {
+      "id": "dd4c3497-9086-4572-9415-0894571d8d75",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Durrel Wildlife Conservation Trust Car Park",
+      "parish": "Trinity",
+      "latitude": 49.23007,
+      "longitude": -2.075429,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    },
+    {
+      "id": "e3954eaf-1f06-4f90-b8ff-3b87966f76e9",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Waitrose Red Houses",
+      "parish": "St Brelade",
+      "latitude": 49.19031,
+      "longitude": -2.20084,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "e4f7dfe6-de4b-4dcc-9739-dea793d3eb29",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "DVS",
+      "parish": "St Helier",
+      "latitude": 49.17382,
+      "longitude": -2.11131,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "e53b72bf-4b13-4ccb-a5f1-218e86592130",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale St Brelade",
+      "parish": "St Brelade",
+      "latitude": 49.19109,
+      "longitude": -2.19982,
+      "notes": null,
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "GLASS",
+        "METAL_PACKAGING",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "e79a1a6d-764d-489a-83c9-156b67724631",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Les Creux Country Park",
+      "parish": "St Brelade",
+      "latitude": 49.186714,
+      "longitude": -2.210764,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "ee23142a-7884-4ef9-bf8c-a63bcd47eaa6",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale Beaumont",
+      "parish": "St Peter",
+      "latitude": 49.19753,
+      "longitude": -2.15922,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "f190d3e4-dba5-43f1-a0fe-6713c6f9d97f",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Co-op Locale Georgetown",
+      "parish": "St Saviour",
+      "latitude": 49.17909,
+      "longitude": -2.09457,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "f6d4d1da-de09-43b3-8a65-8c355966e6f4",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "FB Fields",
+      "parish": "St Clement",
+      "latitude": 49.17394,
+      "longitude": -2.08499,
+      "notes": "Inner road car park",
+      "services": [
+        "BATTERIES",
+        "CARDBOARD",
+        "METAL_PACKAGING",
+        "MIXED_TEXTILES",
+        "PAPER",
+        "PLASTIC_BOTTLES"
+      ]
+    },
+    {
+      "id": "f78d4c9c-636b-4721-b97a-e1f7fb988ac0",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Central Market",
+      "parish": "St Helier",
+      "latitude": 49.18509,
+      "longitude": -2.10458,
+      "notes": null,
+      "services": [
+        "BATTERIES"
+      ]
+    },
+    {
+      "id": "f8c81b30-c7d3-47de-bb2c-02969aeb2043",
+      "createdAt": "2024-06-17T07:23:12.000Z",
+      "location": "Millbrook Park",
+      "parish": "St Lawrence",
+      "latitude": 49.19812,
+      "longitude": -2.14138,
+      "notes": null,
+      "services": [
+        "METAL_PACKAGING_DRINK_CANS"
+      ]
+    }
+  ]
+}
