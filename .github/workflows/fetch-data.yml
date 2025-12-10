@@ -2,8 +2,8 @@ name: Fetch Data
 
 on:
   schedule:
-    # Runs every Sunday at 02:00 UTC
-    - cron: "0 2 * * 0"
+    # Runs every day at 02:00
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -36,7 +36,7 @@ jobs:
 
           if [[ -n "$(git status --porcelain)" ]]; then
             git add data README.md
-            git commit -m "Weekly data update"
+            git commit -m "Daily data update"
             git push
           else
             echo "No changes to commit"
