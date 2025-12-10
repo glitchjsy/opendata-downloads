@@ -80,6 +80,13 @@ async function run() {
         transform: transforms.foi
     });
 
+    await fetchAndWrite({
+        path: "bus-stops",
+        endpoint: "/bus/stops",
+        select: d => d.results,
+        transform: transforms.busStops
+    });
+
     updateReadme();
     console.log("Done");
 }

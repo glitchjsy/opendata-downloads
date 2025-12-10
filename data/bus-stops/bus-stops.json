@@ -1,0 +1,6700 @@
+{
+  "results": [
+    {
+      "id": "001bcd85-b0ed-4c01-91f6-71360e10c4eb",
+      "name": "Rue des Vignes E",
+      "stopNumber": "4362",
+      "latitude": 49.20619345,
+      "longitude": -2.17884485,
+      "shelter": false
+    },
+    {
+      "id": "00532836-2b53-4f3e-a4a6-d39e8fc2e0e5",
+      "name": "Five Roads",
+      "stopNumber": "2637",
+      "latitude": 49.24036579,
+      "longitude": -2.21945777,
+      "shelter": false
+    },
+    {
+      "id": "007d9e16-d569-41f6-8e73-a7c2d0af9b7e",
+      "name": "Hollydale Estate S",
+      "stopNumber": "3457",
+      "latitude": 49.20407584,
+      "longitude": -2.14013649,
+      "shelter": false
+    },
+    {
+      "id": "00d2d07f-1f50-4836-acad-76a7fd6ceb87",
+      "name": "Highfield Lane N",
+      "stopNumber": "2762",
+      "latitude": 49.20421998,
+      "longitude": -2.08537087,
+      "shelter": false
+    },
+    {
+      "id": "010b54f6-b912-41db-b8fc-e328619ca563",
+      "name": "Jardin de Devant",
+      "stopNumber": "2923",
+      "latitude": 49.17622945,
+      "longitude": -2.04169382,
+      "shelter": false
+    },
+    {
+      "id": "0110d051-2a6b-4568-8200-f818167e9c06",
+      "name": "Havre des Pas E",
+      "stopNumber": "3496",
+      "latitude": 49.177437,
+      "longitude": -2.09859688,
+      "shelter": false
+    },
+    {
+      "id": "012aff83-82cc-49e0-927e-b8cdef800700",
+      "name": "Beaulieu School",
+      "stopNumber": "2376",
+      "latitude": 49.18930487,
+      "longitude": -2.09561,
+      "shelter": false
+    },
+    {
+      "id": "02104e61-8704-4d3d-9a3f-4aeb2c655af9",
+      "name": "Bagatelle Lane S",
+      "stopNumber": "2498",
+      "latitude": 49.18892618,
+      "longitude": -2.08944029,
+      "shelter": true
+    },
+    {
+      "id": "02d56b05-6b19-4e26-bbb7-78e0692da6d4",
+      "name": "Clos des Champs N",
+      "stopNumber": "2967",
+      "latitude": 49.21526725,
+      "longitude": -2.06620168,
+      "shelter": false
+    },
+    {
+      "id": "0317cd13-1b64-4181-abca-b4624c010f8c",
+      "name": "The Windmill W",
+      "stopNumber": "2483",
+      "latitude": 49.23337349,
+      "longitude": -2.18311288,
+      "shelter": false
+    },
+    {
+      "id": "036c1e4a-a427-4213-b563-8eb55cb6f851",
+      "name": "Clos Bertram N",
+      "stopNumber": "2437",
+      "latitude": 49.17660087,
+      "longitude": -2.03259826,
+      "shelter": false
+    },
+    {
+      "id": "03a6d359-54ec-456b-8cd9-a0668c158f98",
+      "name": "Samares Manor W",
+      "stopNumber": "3765",
+      "latitude": 49.17341195,
+      "longitude": -2.07912291,
+      "shelter": false
+    },
+    {
+      "id": "04c60c75-83bc-4140-8083-a39e4955a42b",
+      "name": "La Hougue Farm",
+      "stopNumber": "2862",
+      "latitude": 49.24891185,
+      "longitude": -2.22201384,
+      "shelter": false
+    },
+    {
+      "id": "04dbeec9-a486-4328-b5f9-8291ebb8ed88",
+      "name": "Cinq Chenes Estate E",
+      "stopNumber": "4326",
+      "latitude": 49.1978599,
+      "longitude": -2.08003581,
+      "shelter": false
+    },
+    {
+      "id": "051600b5-fd41-40f9-9c1e-e63f7c13c289",
+      "name": "Pres d'Auvergne",
+      "stopNumber": "2975",
+      "latitude": 49.23542193,
+      "longitude": -2.22914596,
+      "shelter": false
+    },
+    {
+      "id": "0521e7b2-ab78-4cdc-8424-1f8380368412",
+      "name": "Clos de Corvez",
+      "stopNumber": "3756",
+      "latitude": 49.17373911,
+      "longitude": -2.05485219,
+      "shelter": true
+    },
+    {
+      "id": "05b10bed-06e1-42ed-8f0d-581ab53f2500",
+      "name": "Tabor Park E",
+      "stopNumber": "3858",
+      "latitude": 49.18898848,
+      "longitude": -2.19330138,
+      "shelter": true
+    },
+    {
+      "id": "05bec26d-83e9-4614-b952-4a417f509755",
+      "name": "Plat Douet School",
+      "stopNumber": "3545",
+      "latitude": 49.17936562,
+      "longitude": -2.08786493,
+      "shelter": false
+    },
+    {
+      "id": "063fbb13-0a10-409e-96ff-24056cf8b3d8",
+      "name": "La Mare des Pres N",
+      "stopNumber": "4394",
+      "latitude": 49.2464274,
+      "longitude": -2.11180154,
+      "shelter": false
+    },
+    {
+      "id": "066ebe14-1330-473f-b0a5-b34e480b435c",
+      "name": "Clos de la Rocque",
+      "stopNumber": "2526",
+      "latitude": 49.16594065,
+      "longitude": -2.0365913,
+      "shelter": false
+    },
+    {
+      "id": "06ac05e7-f57e-4d9e-b01d-d30a0ee7701d",
+      "name": "Bus Station Stand I",
+      "stopNumber": "4534",
+      "latitude": 49.18326676,
+      "longitude": -2.10976097,
+      "shelter": false
+    },
+    {
+      "id": "06d2db87-2004-4b9f-9b6b-ca4a0d7bb92b",
+      "name": "Sion Village N",
+      "stopNumber": "3725",
+      "latitude": 49.21989034,
+      "longitude": -2.11449716,
+      "shelter": false
+    },
+    {
+      "id": "06ebeec6-4087-4eef-8e55-3cec74b891e3",
+      "name": "La Fosse N",
+      "stopNumber": "3687",
+      "latitude": 49.23227915,
+      "longitude": -2.04328466,
+      "shelter": false
+    },
+    {
+      "id": "0770043d-cae5-4217-ac48-f9adf492feb8",
+      "name": "Rue d'Olive S",
+      "stopNumber": "3659",
+      "latitude": 49.24530601,
+      "longitude": -2.16590153,
+      "shelter": false
+    },
+    {
+      "id": "079db26a-75da-410a-bca5-1de53d601089",
+      "name": "Rue Baal",
+      "stopNumber": "3578",
+      "latitude": 49.18131106,
+      "longitude": -2.22058487,
+      "shelter": false
+    },
+    {
+      "id": "07bb419b-68d3-4cae-97c0-892ba3cbf921",
+      "name": "Atlantic Hotel W",
+      "stopNumber": "4246",
+      "latitude": 49.1871152,
+      "longitude": -2.22593369,
+      "shelter": false
+    },
+    {
+      "id": "07bd4c98-3bb7-4a27-b90f-aa398a5b6964",
+      "name": "Rue de Bechet N",
+      "stopNumber": "2382",
+      "latitude": 49.22476682,
+      "longitude": -2.11374756,
+      "shelter": false
+    },
+    {
+      "id": "07c4a946-995a-44e7-9fbd-1a1b9d09c318",
+      "name": "St Ouens Pond N",
+      "stopNumber": "2398",
+      "latitude": 49.21505004,
+      "longitude": -2.22491279,
+      "shelter": false
+    },
+    {
+      "id": "07f5df9e-32a8-4cce-80b7-32bfd4e7f83f",
+      "name": "Rue de Bechet S",
+      "stopNumber": "3638",
+      "latitude": 49.22497469,
+      "longitude": -2.11377414,
+      "shelter": false
+    },
+    {
+      "id": "0860040a-330e-4155-8e91-bf134d4e9bd8",
+      "name": "Le Rondin",
+      "stopNumber": "4258",
+      "latitude": 49.23910783,
+      "longitude": -2.18076984,
+      "shelter": false
+    },
+    {
+      "id": "086b6901-8dda-42ac-b188-f2b09920a77c",
+      "name": "Chateau des Reves N",
+      "stopNumber": "2492",
+      "latitude": 49.21051246,
+      "longitude": -2.03678075,
+      "shelter": false
+    },
+    {
+      "id": "0877e7a5-4a53-4ccb-b816-8e5b44748c9e",
+      "name": "St Aubin S",
+      "stopNumber": "3743",
+      "latitude": 49.18779888,
+      "longitude": -2.17005371,
+      "shelter": true
+    },
+    {
+      "id": "088aaf85-e9ef-41f5-8fe5-b8a37c2e19f1",
+      "name": "Pontac Common E",
+      "stopNumber": "3565",
+      "latitude": 49.1694615,
+      "longitude": -2.04743715,
+      "shelter": false
+    },
+    {
+      "id": "08a3d7c9-3355-427b-b8bf-537d23eded49",
+      "name": "Ville des Marettes",
+      "stopNumber": "3967",
+      "latitude": 49.23373236,
+      "longitude": -2.19845861,
+      "shelter": false
+    },
+    {
+      "id": "08de93b5-dd37-436d-b121-d088cc59ad39",
+      "name": "Colomberie Parade",
+      "stopNumber": "2525",
+      "latitude": 49.18158673,
+      "longitude": -2.09975414,
+      "shelter": false
+    },
+    {
+      "id": "0905d657-fa73-43f8-a7a7-ead17eafbaa8",
+      "name": "Le Douet",
+      "stopNumber": "4632",
+      "latitude": 49.24097291,
+      "longitude": -2.20491093,
+      "shelter": false
+    },
+    {
+      "id": "09752bb6-9328-45d7-8961-df10e106d1e1",
+      "name": "Spectrum",
+      "stopNumber": "2598",
+      "latitude": 49.18717114,
+      "longitude": -2.11169379,
+      "shelter": false
+    },
+    {
+      "id": "09cd6d9e-4ad5-42d5-9430-6ccd96ec9ee3",
+      "name": "St Ouen Garage S",
+      "stopNumber": "2878",
+      "latitude": 49.22971535,
+      "longitude": -2.2001232,
+      "shelter": false
+    },
+    {
+      "id": "0a2f5ed4-8aad-4299-9804-7b694edc8e67",
+      "name": "St Martins Arsenal N",
+      "stopNumber": "3782",
+      "latitude": 49.22797668,
+      "longitude": -2.06928989,
+      "shelter": false
+    },
+    {
+      "id": "0a4b6517-9251-4e3f-9144-a49e28d80169",
+      "name": "Ransoms S",
+      "stopNumber": "2648",
+      "latitude": 49.20550071,
+      "longitude": -2.03236404,
+      "shelter": false
+    },
+    {
+      "id": "0a92ee4b-de0b-457f-91e0-a08320e045fe",
+      "name": "La Nouvelle Croix E",
+      "stopNumber": "4562",
+      "latitude": 49.23674373,
+      "longitude": -2.09319544,
+      "shelter": false
+    },
+    {
+      "id": "0b44bc19-6355-4d85-a972-27e108d49d83",
+      "name": "Bagot Manor Avenue E",
+      "stopNumber": "2535",
+      "latitude": 49.18100801,
+      "longitude": -2.0879461,
+      "shelter": false
+    },
+    {
+      "id": "0b67ef10-f86a-4480-a7a8-187e13e7aff4",
+      "name": "La Longue Rue W",
+      "stopNumber": "3785",
+      "latitude": 49.2157165,
+      "longitude": -2.04445017,
+      "shelter": false
+    },
+    {
+      "id": "0c780a35-59bb-44b1-8a90-53477dc5c37d",
+      "name": "Broadfields N",
+      "stopNumber": "2823",
+      "latitude": 49.23110901,
+      "longitude": -2.15483855,
+      "shelter": false
+    },
+    {
+      "id": "0cf2a8d6-bd7a-4035-adfb-47cfa0c99aff",
+      "name": "Cinq Chenes Estate W",
+      "stopNumber": "4325",
+      "latitude": 49.19755274,
+      "longitude": -2.07819573,
+      "shelter": false
+    },
+    {
+      "id": "0d544584-fedf-49b1-9027-0d2f36f3ea0a",
+      "name": "Mont Mado E",
+      "stopNumber": "3459",
+      "latitude": 49.24543318,
+      "longitude": -2.12506885,
+      "shelter": false
+    },
+    {
+      "id": "0d567028-a0ca-43f4-b343-93c56bda6bb0",
+      "name": "Chestnut Farm",
+      "stopNumber": "2495",
+      "latitude": 49.19836088,
+      "longitude": -2.11335437,
+      "shelter": false
+    },
+    {
+      "id": "0d5e498d-a6e4-4cd6-bd06-70f047d08b14",
+      "name": "Le Hocq Slipway W",
+      "stopNumber": "2953",
+      "latitude": 49.16719155,
+      "longitude": -2.06167182,
+      "shelter": true
+    },
+    {
+      "id": "0d60a1f9-0017-4bd2-8ff6-0efcd13e8ea8",
+      "name": "Les Charrieres S",
+      "stopNumber": "2987",
+      "latitude": 49.22396442,
+      "longitude": -2.18188688,
+      "shelter": false
+    },
+    {
+      "id": "0d812d7e-8791-468a-88c3-4035021fb7d8",
+      "name": "Pontac Slipway W",
+      "stopNumber": "3564",
+      "latitude": 49.16932794,
+      "longitude": -2.05578237,
+      "shelter": true
+    },
+    {
+      "id": "0d866fe7-fe9c-431a-b6b2-f4b6b14456a6",
+      "name": "Rue des Arbres",
+      "stopNumber": "2537",
+      "latitude": 49.21106192,
+      "longitude": -2.1128477,
+      "shelter": false
+    },
+    {
+      "id": "0de4c9a4-ec0b-4353-b204-d1d14866e181",
+      "name": "Clos Le Troquer W",
+      "stopNumber": "4638",
+      "latitude": 49.21697128,
+      "longitude": -2.04707867,
+      "shelter": true
+    },
+    {
+      "id": "0e3d4247-bedf-4c21-be0a-7727ec34352a",
+      "name": "Grasett Park W",
+      "stopNumber": "3473",
+      "latitude": 49.17726263,
+      "longitude": -2.08933743,
+      "shelter": false
+    },
+    {
+      "id": "0e4bbd00-e537-4dd6-8370-b13483d227ac",
+      "name": "Grenville Court S",
+      "stopNumber": "3924",
+      "latitude": 49.1681214,
+      "longitude": -2.02904057,
+      "shelter": false
+    },
+    {
+      "id": "0e54ca52-2119-47bb-8e0e-143654cb5c18",
+      "name": "Marett Road W",
+      "stopNumber": "2642",
+      "latitude": 49.17701857,
+      "longitude": -2.10194045,
+      "shelter": true
+    },
+    {
+      "id": "0e5f0532-44b0-4032-99a7-6e3e2fae589a",
+      "name": "Quennevais Drive E",
+      "stopNumber": "3582",
+      "latitude": 49.18904277,
+      "longitude": -2.20966699,
+      "shelter": false
+    },
+    {
+      "id": "0ea2c834-56bd-42b2-8baf-569f0553b399",
+      "name": "Mont Fallu N",
+      "stopNumber": "2849",
+      "latitude": 49.2086484,
+      "longitude": -2.17565153,
+      "shelter": true
+    },
+    {
+      "id": "0ea9c6b6-0363-4bb0-ae93-508b0e3c4135",
+      "name": "L'Horizon Hotel E",
+      "stopNumber": "3248",
+      "latitude": 49.18499916,
+      "longitude": -2.19338102,
+      "shelter": true
+    },
+    {
+      "id": "0ec328f3-f14a-4087-a4f8-c3852308809e",
+      "name": "St Peters Arsenal S",
+      "stopNumber": "3438",
+      "latitude": 49.20168695,
+      "longitude": -2.18024409,
+      "shelter": false
+    },
+    {
+      "id": "0f25a3f6-5e5f-4797-949f-2ae29195f651",
+      "name": "Mont Cantel",
+      "stopNumber": "3276",
+      "latitude": 49.19412173,
+      "longitude": -2.10432811,
+      "shelter": false
+    },
+    {
+      "id": "0f2602ec-16cd-48aa-aa37-886651cbb49c",
+      "name": "Victoria Village",
+      "stopNumber": "3962",
+      "latitude": 49.21648493,
+      "longitude": -2.08152917,
+      "shelter": false
+    },
+    {
+      "id": "0f50748b-d48b-4b93-a43a-9428e64d9bc6",
+      "name": "La Grange S",
+      "stopNumber": "3749",
+      "latitude": 49.212883,
+      "longitude": -2.09712297,
+      "shelter": false
+    },
+    {
+      "id": "0f6b051d-6460-44a2-b715-58f9f53dfd17",
+      "name": "Hougue des Platons W",
+      "stopNumber": "4272",
+      "latitude": 49.24568784,
+      "longitude": -2.10153365,
+      "shelter": false
+    },
+    {
+      "id": "0f9d41f6-2f0c-408b-89de-a602a14bbad1",
+      "name": "Le Relais N",
+      "stopNumber": "4594",
+      "latitude": 49.24057332,
+      "longitude": -2.24394471,
+      "shelter": false
+    },
+    {
+      "id": "0fa14641-f935-4af7-9bc4-bda1a9efead1",
+      "name": "La Piece Mauger N",
+      "stopNumber": "2848",
+      "latitude": 49.2246619,
+      "longitude": -2.06810707,
+      "shelter": false
+    },
+    {
+      "id": "0fc45d52-a503-4462-bafa-e1ba88a88a45",
+      "name": "Aubin Lane",
+      "stopNumber": "2363",
+      "latitude": 49.17954099,
+      "longitude": -2.09052237,
+      "shelter": false
+    },
+    {
+      "id": "0fc5d506-08d4-4322-88b6-a38d6934d5a8",
+      "name": "Devonshire Place",
+      "stopNumber": "4656",
+      "latitude": 49.18705865,
+      "longitude": -2.10835294,
+      "shelter": false
+    },
+    {
+      "id": "0fd19938-7322-42e1-b042-24f863f6ecbc",
+      "name": "Grenville Court N",
+      "stopNumber": "2732",
+      "latitude": 49.16837171,
+      "longitude": -2.02918751,
+      "shelter": false
+    },
+    {
+      "id": "0fe1a1bf-20ba-4fc4-8779-80507146af95",
+      "name": "Gorey Common N",
+      "stopNumber": "2686",
+      "latitude": 49.19386286,
+      "longitude": -2.03498921,
+      "shelter": false
+    },
+    {
+      "id": "0fe942fc-62e0-43b2-9167-746be3817d25",
+      "name": "Deloraine Road",
+      "stopNumber": "2695",
+      "latitude": 49.20279965,
+      "longitude": -2.09008569,
+      "shelter": false
+    },
+    {
+      "id": "104196fd-b1e5-4bcd-bcc8-433fbf1fb176",
+      "name": "Travers Farm Lane N",
+      "stopNumber": "3573",
+      "latitude": 49.17994142,
+      "longitude": -2.17551575,
+      "shelter": false
+    },
+    {
+      "id": "10823948-3217-4fe1-a7a4-b967cc42d9a8",
+      "name": "Seymour Inn S",
+      "stopNumber": "3696",
+      "latitude": 49.16949809,
+      "longitude": -2.02982559,
+      "shelter": true
+    },
+    {
+      "id": "10a9d459-d031-4598-9901-60d82db2f314",
+      "name": "La Maitrerie Farm W",
+      "stopNumber": "4627",
+      "latitude": 49.22217327,
+      "longitude": -2.06269028,
+      "shelter": false
+    },
+    {
+      "id": "10fbdd7d-e868-4c37-849b-e9db4ac62ad2",
+      "name": "El Tico N",
+      "stopNumber": "3258",
+      "latitude": 49.20542395,
+      "longitude": -2.22210341,
+      "shelter": false
+    },
+    {
+      "id": "110b84a4-f88a-4a30-9b8c-439b44d67a6b",
+      "name": "Belval N",
+      "stopNumber": "3428",
+      "latitude": 49.22197596,
+      "longitude": -2.02629594,
+      "shelter": false
+    },
+    {
+      "id": "11e321ff-54af-48d2-a655-c28963f374e0",
+      "name": "St Peters Village S",
+      "stopNumber": "3835",
+      "latitude": 49.21309429,
+      "longitude": -2.18237911,
+      "shelter": true
+    },
+    {
+      "id": "133e291f-7ff6-481c-9b3d-89ca4ea28be0",
+      "name": "Mont des Landes S",
+      "stopNumber": "4637",
+      "latitude": 49.21215983,
+      "longitude": -2.02703125,
+      "shelter": false
+    },
+    {
+      "id": "134618a4-aac9-4ab8-a51c-de06793fa438",
+      "name": "Mont des Landes N",
+      "stopNumber": "4636",
+      "latitude": 49.21229385,
+      "longitude": -2.02726257,
+      "shelter": false
+    },
+    {
+      "id": "1359ffa1-05ab-455c-bad2-a415113c6be5",
+      "name": "Jubilee Homes",
+      "stopNumber": "3879",
+      "latitude": 49.21483908,
+      "longitude": -2.18347206,
+      "shelter": true
+    },
+    {
+      "id": "13d30ceb-49a0-40f3-b8b3-059e3faf930d",
+      "name": "Causie Lane W",
+      "stopNumber": "2485",
+      "latitude": 49.17326081,
+      "longitude": -2.04944736,
+      "shelter": false
+    },
+    {
+      "id": "1413b418-5eac-4ed0-9ab3-076b40b4dfbd",
+      "name": "Rue des Niemes",
+      "stopNumber": "3528",
+      "latitude": 49.21956245,
+      "longitude": -2.18839157,
+      "shelter": false
+    },
+    {
+      "id": "14235dcd-5d4e-41d7-a2d3-0e29dfaf24c9",
+      "name": "Le Catillon E",
+      "stopNumber": "3923",
+      "latitude": 49.20059454,
+      "longitude": -2.05896445,
+      "shelter": false
+    },
+    {
+      "id": "142cd079-8082-4e86-9f81-11462a2d6cfa",
+      "name": "Castle Quay S",
+      "stopNumber": "4649",
+      "latitude": 49.18269536,
+      "longitude": -2.11466105,
+      "shelter": false
+    },
+    {
+      "id": "14673cf9-527b-4d9c-b61a-f6be2d8b46f0",
+      "name": "Maison d'Azette",
+      "stopNumber": "3273",
+      "latitude": 49.16989966,
+      "longitude": -2.08422012,
+      "shelter": false
+    },
+    {
+      "id": "147a41d7-ac5f-441f-afb6-d1585165a22a",
+      "name": "St Peters House S",
+      "stopNumber": "3834",
+      "latitude": 49.22111692,
+      "longitude": -2.18281113,
+      "shelter": false
+    },
+    {
+      "id": "15012a17-cfe1-4b0e-9a6a-3d0b91585430",
+      "name": "Six Roads E",
+      "stopNumber": "3728",
+      "latitude": 49.22746944,
+      "longitude": -2.14969885,
+      "shelter": false
+    },
+    {
+      "id": "152d824c-aaff-479f-adf9-cb83d3b2b67d",
+      "name": "La Croix N",
+      "stopNumber": "3526",
+      "latitude": 49.23528047,
+      "longitude": -2.20381783,
+      "shelter": false
+    },
+    {
+      "id": "154b3edd-90ae-4604-a0f1-970602f39065",
+      "name": "Jeffreys Leap W",
+      "stopNumber": "4254",
+      "latitude": 49.20342998,
+      "longitude": -2.02064699,
+      "shelter": false
+    },
+    {
+      "id": "158a43ba-726b-4d50-a830-2daffbd6d81f",
+      "name": "Bagot Manor Avenue W",
+      "stopNumber": "2364",
+      "latitude": 49.18118078,
+      "longitude": -2.08742501,
+      "shelter": false
+    },
+    {
+      "id": "15efc603-c16b-4540-84f0-d0b79fbb80ed",
+      "name": "Rue de Belin S",
+      "stopNumber": "3786",
+      "latitude": 49.22035282,
+      "longitude": -2.04840775,
+      "shelter": false
+    },
+    {
+      "id": "1668b3ee-2f03-408f-9851-ed56a4f4e0cd",
+      "name": "Langford",
+      "stopNumber": "3957",
+      "latitude": 49.18596954,
+      "longitude": -2.09517037,
+      "shelter": true
+    },
+    {
+      "id": "167374a1-db9b-4ce4-842d-87917e161510",
+      "name": "Havre des Pas W",
+      "stopNumber": "3724",
+      "latitude": 49.17741358,
+      "longitude": -2.09810192,
+      "shelter": false
+    },
+    {
+      "id": "16a629ec-d079-4afc-9529-267efbc27c82",
+      "name": "Cloverley Court S",
+      "stopNumber": "2934",
+      "latitude": 49.20810312,
+      "longitude": -2.03383865,
+      "shelter": false
+    },
+    {
+      "id": "16b39a2f-a1ce-48ec-a86b-6f79346ce8ba",
+      "name": "La Chasse W",
+      "stopNumber": "2843",
+      "latitude": 49.2336108,
+      "longitude": -2.19499924,
+      "shelter": false
+    },
+    {
+      "id": "16bc708d-703b-4cbb-ac19-8fe5819ed96a",
+      "name": "Miladi Farm Parade E",
+      "stopNumber": "2572",
+      "latitude": 49.18322712,
+      "longitude": -2.08151341,
+      "shelter": false
+    },
+    {
+      "id": "17545da3-372e-408b-ac60-9896f9bd9d0c",
+      "name": "Bonne Nuit Bay E",
+      "stopNumber": "2434",
+      "latitude": 49.25067628,
+      "longitude": -2.12105874,
+      "shelter": false
+    },
+    {
+      "id": "180af5f5-0f91-429f-96d1-f071a645f30a",
+      "name": "Hautes Croix Store S",
+      "stopNumber": "2468",
+      "latitude": 49.23857743,
+      "longitude": -2.11144612,
+      "shelter": false
+    },
+    {
+      "id": "1887d421-39c3-4599-9bab-8ac1bbe80411",
+      "name": "Corbiere",
+      "stopNumber": "2545",
+      "latitude": 49.18144015,
+      "longitude": -2.23824892,
+      "shelter": true
+    },
+    {
+      "id": "18a4ed44-56c5-408f-998f-77274c5e2224",
+      "name": "Sunnyfields Farm",
+      "stopNumber": "3269",
+      "latitude": 49.21457183,
+      "longitude": -2.18343171,
+      "shelter": false
+    },
+    {
+      "id": "18a5a5a0-89f4-40e5-8968-0fff4a32765e",
+      "name": "Verona Stores N",
+      "stopNumber": "3952",
+      "latitude": 49.1829775,
+      "longitude": -2.03794995,
+      "shelter": false
+    },
+    {
+      "id": "18b9066c-5a95-4974-a0d6-0fcfb20437eb",
+      "name": "Dessous Les Hougues",
+      "stopNumber": "3926",
+      "latitude": 49.23544464,
+      "longitude": -2.22901088,
+      "shelter": false
+    },
+    {
+      "id": "18ea271d-9c58-4f99-ad7d-f2aa67f36b5c",
+      "name": "Rue au Blancq W",
+      "stopNumber": "3898",
+      "latitude": 49.1717405,
+      "longitude": -2.07099607,
+      "shelter": false
+    },
+    {
+      "id": "1945a495-e7bd-4a8f-b4c3-8f2ffdfb11a5",
+      "name": "The Powerhouse N",
+      "stopNumber": "2359",
+      "latitude": 49.19999237,
+      "longitude": -2.11329449,
+      "shelter": false
+    },
+    {
+      "id": "195bedb1-e362-480e-ae8e-460f0b2f4002",
+      "name": "Rue de la Commune",
+      "stopNumber": "4596",
+      "latitude": 49.19937022,
+      "longitude": -2.06782148,
+      "shelter": false
+    },
+    {
+      "id": "19ab2bbe-0b2f-4011-874e-5d9c8066285e",
+      "name": "Poplar Avenue N",
+      "stopNumber": "3568",
+      "latitude": 49.2106299,
+      "longitude": -2.06114307,
+      "shelter": false
+    },
+    {
+      "id": "19d7280e-575e-4f10-a969-ab984e8ed3fe",
+      "name": "Sydney Crill Park W",
+      "stopNumber": "2428",
+      "latitude": 49.16975152,
+      "longitude": -2.05280761,
+      "shelter": false
+    },
+    {
+      "id": "19e7b26a-fe1d-4b00-aa5f-a42c7dffd113",
+      "name": "Royal Hotel S",
+      "stopNumber": "4674",
+      "latitude": 49.18867751,
+      "longitude": -2.10288076,
+      "shelter": false
+    },
+    {
+      "id": "19fedc85-3cfd-4074-bc8f-28d0588a0623",
+      "name": "La Providence W",
+      "stopNumber": "4282",
+      "latitude": 49.20102224,
+      "longitude": -2.15273332,
+      "shelter": true
+    },
+    {
+      "id": "1aa1870e-64c4-4691-bab6-2d7a74d30106",
+      "name": "Route du Francfief N",
+      "stopNumber": "2853",
+      "latitude": 49.19923888,
+      "longitude": -2.17892677,
+      "shelter": false
+    },
+    {
+      "id": "1b6258aa-a8d5-405e-982c-7dc8969b286c",
+      "name": "Clos St Andre N",
+      "stopNumber": "4585",
+      "latitude": 49.19615273,
+      "longitude": -2.12491449,
+      "shelter": false
+    },
+    {
+      "id": "1c3d277a-6121-4922-b9e0-a8984f31abc0",
+      "name": "Surville Cemetery S",
+      "stopNumber": "2383",
+      "latitude": 49.21492198,
+      "longitude": -2.11333836,
+      "shelter": true
+    },
+    {
+      "id": "1d7b69be-b939-4342-866b-f13630909dbb",
+      "name": "Beach Road E",
+      "stopNumber": "3482",
+      "latitude": 49.17706849,
+      "longitude": -2.09642102,
+      "shelter": false
+    },
+    {
+      "id": "1d862619-cac6-40f7-88ce-92fe11cbc3a6",
+      "name": "Maufant Village S",
+      "stopNumber": "3295",
+      "latitude": 49.20937282,
+      "longitude": -2.0630935,
+      "shelter": false
+    },
+    {
+      "id": "1ec69f1c-e6da-4bf6-a9b7-4d022b092894",
+      "name": "St Martins Arsenal S",
+      "stopNumber": "3986",
+      "latitude": 49.2277417,
+      "longitude": -2.06919606,
+      "shelter": false
+    },
+    {
+      "id": "1ed0442e-3c5c-4bea-a1ff-033bfcc76f34",
+      "name": "Albert Road E",
+      "stopNumber": "2658",
+      "latitude": 49.17814888,
+      "longitude": -2.09085598,
+      "shelter": false
+    },
+    {
+      "id": "1f83cca2-0172-4454-9800-1b6fcabd2448",
+      "name": "Gargate N",
+      "stopNumber": "2649",
+      "latitude": 49.21458397,
+      "longitude": -2.17101403,
+      "shelter": false
+    },
+    {
+      "id": "20a86807-22d2-46c4-869c-59ccd621c2a6",
+      "name": "Les Croix S",
+      "stopNumber": "2973",
+      "latitude": 49.23697435,
+      "longitude": -2.09366096,
+      "shelter": false
+    },
+    {
+      "id": "21af60ae-9650-4bd0-8473-b3ad027437c5",
+      "name": "Eden Chapel",
+      "stopNumber": "2583",
+      "latitude": 49.20467691,
+      "longitude": -2.07117195,
+      "shelter": false
+    },
+    {
+      "id": "22c98edc-eae0-4fd4-a701-aec5e693fc0a",
+      "name": "Samares School",
+      "stopNumber": "3686",
+      "latitude": 49.17084744,
+      "longitude": -2.08238253,
+      "shelter": true
+    },
+    {
+      "id": "23086766-228b-4eda-aada-ae9e47da729a",
+      "name": "West Hill",
+      "stopNumber": "3975",
+      "latitude": 49.20053814,
+      "longitude": -2.11562257,
+      "shelter": false
+    },
+    {
+      "id": "233cb7a6-6a9a-405e-8949-1d7d58c13794",
+      "name": "Red Houses Shops N",
+      "stopNumber": "3596",
+      "latitude": 49.19164669,
+      "longitude": -2.19992099,
+      "shelter": true
+    },
+    {
+      "id": "233f26a4-ed31-46a9-a8f3-aa6a42017109",
+      "name": "La Maison Slipway N",
+      "stopNumber": "3257",
+      "latitude": 49.21839786,
+      "longitude": -2.03004114,
+      "shelter": false
+    },
+    {
+      "id": "23510373-b452-48b8-8cad-2a7e22058efb",
+      "name": "St Catherine",
+      "stopNumber": "3752",
+      "latitude": 49.22414891,
+      "longitude": -2.02043794,
+      "shelter": true
+    },
+    {
+      "id": "235ee172-5263-4bc2-b999-b0047c02dcd3",
+      "name": "Howard Davis Mews",
+      "stopNumber": "3963",
+      "latitude": 49.18085197,
+      "longitude": -2.09716332,
+      "shelter": false
+    },
+    {
+      "id": "23901cc2-0520-41a3-9242-1208738195a9",
+      "name": "Church Lane",
+      "stopNumber": "3784",
+      "latitude": 49.21801016,
+      "longitude": -2.05161666,
+      "shelter": false
+    },
+    {
+      "id": "23eb342c-0910-4621-926e-e0db965256d4",
+      "name": "Ville de l'Eglise W",
+      "stopNumber": "4352",
+      "latitude": 49.21227447,
+      "longitude": -2.18672714,
+      "shelter": false
+    },
+    {
+      "id": "23fc89db-3681-43d3-93b0-0625325e7a41",
+      "name": "King Street",
+      "stopNumber": "3472",
+      "latitude": 49.18466276,
+      "longitude": -2.10680959,
+      "shelter": false
+    },
+    {
+      "id": "24560e8a-932e-4ca1-9b74-5bae215c17e1",
+      "name": "aMaizin! Park N",
+      "stopNumber": "2392",
+      "latitude": 49.22285624,
+      "longitude": -2.19248557,
+      "shelter": false
+    },
+    {
+      "id": "24b7dc5e-87f7-40fe-bbd6-723826d11aaf",
+      "name": "St Martins Hall W",
+      "stopNumber": "3658",
+      "latitude": 49.21899497,
+      "longitude": -2.05335988,
+      "shelter": false
+    },
+    {
+      "id": "24ce67f0-d553-487a-90bc-cb9a4979398d",
+      "name": "Clos des Blanches W",
+      "stopNumber": "4568",
+      "latitude": 49.17118272,
+      "longitude": -2.08675419,
+      "shelter": false
+    },
+    {
+      "id": "24d7d2b0-6fb9-48d7-9510-b6a9cbe51a97",
+      "name": "Trinity School S",
+      "stopNumber": "3935",
+      "latitude": 49.228897,
+      "longitude": -2.09345172,
+      "shelter": false
+    },
+    {
+      "id": "24f4c937-4b97-4720-8edd-26b342d36a48",
+      "name": "Les Routeurs S",
+      "stopNumber": "4547",
+      "latitude": 49.202969,
+      "longitude": -2.07409025,
+      "shelter": false
+    },
+    {
+      "id": "24fbfcb8-4222-4b7d-b3fe-f617fb666366",
+      "name": "Route du Francfief S",
+      "stopNumber": "3264",
+      "latitude": 49.19921698,
+      "longitude": -2.17886134,
+      "shelter": false
+    },
+    {
+      "id": "251da299-79cb-46f5-9012-0b1f666d3ddd",
+      "name": "Oxenford Close S",
+      "stopNumber": "3538",
+      "latitude": 49.22257145,
+      "longitude": -2.14204544,
+      "shelter": true
+    },
+    {
+      "id": "2580b232-b344-490e-9361-a9b775f005be",
+      "name": "Highfield Lane S",
+      "stopNumber": "2627",
+      "latitude": 49.20420491,
+      "longitude": -2.08529145,
+      "shelter": false
+    },
+    {
+      "id": "26438ca3-f807-467c-b7ef-5f74e025cc81",
+      "name": "Longueville Court W",
+      "stopNumber": "3865",
+      "latitude": 49.18259181,
+      "longitude": -2.07494925,
+      "shelter": false
+    },
+    {
+      "id": "26ae8d1f-41a0-4fb7-ab6d-03970b054049",
+      "name": "Parcq du Rivage E",
+      "stopNumber": "3525",
+      "latitude": 49.19692003,
+      "longitude": -2.15296903,
+      "shelter": false
+    },
+    {
+      "id": "26c08015-324f-4d9f-8242-1eae8f845b04",
+      "name": "La Mare Wine Estate",
+      "stopNumber": "4546",
+      "latitude": 49.24582139,
+      "longitude": -2.16820535,
+      "shelter": true
+    },
+    {
+      "id": "2700149b-2d22-4818-8966-44b4cb0c7cf3",
+      "name": "Portelet Bay",
+      "stopNumber": "3574",
+      "latitude": 49.17266891,
+      "longitude": -2.17298848,
+      "shelter": true
+    },
+    {
+      "id": "2703d8db-7724-471e-af52-8014beaff42e",
+      "name": "Hautes Croix House",
+      "stopNumber": "2754",
+      "latitude": 49.23992858,
+      "longitude": -2.11137042,
+      "shelter": false
+    },
+    {
+      "id": "2720930c-3b71-40fa-b021-576222a595fb",
+      "name": "La Fosse S",
+      "stopNumber": "2373",
+      "latitude": 49.23230218,
+      "longitude": -2.04306294,
+      "shelter": false
+    },
+    {
+      "id": "276f2581-cd5f-44c7-bfea-24f13efe014e",
+      "name": "Three Oaks N",
+      "stopNumber": "3894",
+      "latitude": 49.21925983,
+      "longitude": -2.14049143,
+      "shelter": false
+    },
+    {
+      "id": "278aa4f4-4cc6-4dfc-99fc-1ae821b811ff",
+      "name": "First Tower E",
+      "stopNumber": "2632",
+      "latitude": 49.19438162,
+      "longitude": -2.12769645,
+      "shelter": true
+    },
+    {
+      "id": "2797fab2-85aa-4968-bffb-a3de9f81139a",
+      "name": "Seven Oaks N",
+      "stopNumber": "3723",
+      "latitude": 49.18887153,
+      "longitude": -2.18016103,
+      "shelter": false
+    },
+    {
+      "id": "2821ab24-d5f7-42be-a268-39979954d94a",
+      "name": "Paul Mill S",
+      "stopNumber": "3876",
+      "latitude": 49.20646311,
+      "longitude": -2.08419859,
+      "shelter": false
+    },
+    {
+      "id": "285f9baf-5e3b-4ea8-ba36-1f1257eca830",
+      "name": "Georgetown Road E",
+      "stopNumber": "2657",
+      "latitude": 49.1789807,
+      "longitude": -2.09265991,
+      "shelter": false
+    },
+    {
+      "id": "288cc5a9-8bee-40bd-902e-3f5d2376aeea",
+      "name": "Mountrow Villas",
+      "stopNumber": "2978",
+      "latitude": 49.19953492,
+      "longitude": -2.07887534,
+      "shelter": false
+    },
+    {
+      "id": "2892ff14-8a79-4fd0-9ddd-bc1c288f6e67",
+      "name": "Bus Station Stand H",
+      "stopNumber": "4532",
+      "latitude": 49.18331174,
+      "longitude": -2.10985696,
+      "shelter": false
+    },
+    {
+      "id": "28da98f5-ac20-486d-bd6b-8d82c8b9047d",
+      "name": "St Peter Tech Park N",
+      "stopNumber": "2792",
+      "latitude": 49.21592897,
+      "longitude": -2.18450214,
+      "shelter": true
+    },
+    {
+      "id": "292db697-0a28-4576-9a14-a36bed994e3c",
+      "name": "Belmont Road",
+      "stopNumber": "4672",
+      "latitude": 49.18696385,
+      "longitude": -2.10020225,
+      "shelter": false
+    },
+    {
+      "id": "298446a5-1876-4f70-b805-aa511177b945",
+      "name": "Le Rocquier School",
+      "stopNumber": "2424",
+      "latitude": 49.1707026,
+      "longitude": -2.06720589,
+      "shelter": false
+    },
+    {
+      "id": "29a446d2-cccb-45e9-ba2d-6a502152413d",
+      "name": "Grande Charriere",
+      "stopNumber": "3623",
+      "latitude": 49.17308061,
+      "longitude": -2.08897142,
+      "shelter": true
+    },
+    {
+      "id": "2a08a184-c36f-4927-834e-01e1c4338882",
+      "name": "Jeffreys Leap E",
+      "stopNumber": "2797",
+      "latitude": 49.20345037,
+      "longitude": -2.02084265,
+      "shelter": false
+    },
+    {
+      "id": "2a1524b8-e10d-4db0-a1fb-91d7267dd9c9",
+      "name": "St Marys School E",
+      "stopNumber": "2965",
+      "latitude": 49.23630322,
+      "longitude": -2.17421667,
+      "shelter": false
+    },
+    {
+      "id": "2a53ac38-6ea7-431f-8677-53d926593c93",
+      "name": "Rue du Cerf E",
+      "stopNumber": "3672",
+      "latitude": 49.24175844,
+      "longitude": -2.15518549,
+      "shelter": false
+    },
+    {
+      "id": "2a68cfb8-45be-40e2-a1cf-f598e52f8778",
+      "name": "Marina Cottages",
+      "stopNumber": "3289",
+      "latitude": 49.20274294,
+      "longitude": -2.04551501,
+      "shelter": true
+    },
+    {
+      "id": "2a75f45c-7a3f-441c-ba25-d871c70a3e3d",
+      "name": "Clos de Charriere E",
+      "stopNumber": "4378",
+      "latitude": 49.17391368,
+      "longitude": -2.08962501,
+      "shelter": false
+    },
+    {
+      "id": "2a7efa7a-b913-461f-9827-106f92f9953c",
+      "name": "Langley Avenue N",
+      "stopNumber": "2827",
+      "latitude": 49.19649272,
+      "longitude": -2.08976125,
+      "shelter": false
+    },
+    {
+      "id": "2a843ad9-c744-4f25-8745-ee3d0f72dad5",
+      "name": "Clos de Longueville",
+      "stopNumber": "3654",
+      "latitude": 49.1826208,
+      "longitude": -2.07984389,
+      "shelter": false
+    },
+    {
+      "id": "2af648ae-2830-43a5-b261-63588fe55a41",
+      "name": "Rue de Samares",
+      "stopNumber": "3682",
+      "latitude": 49.17208998,
+      "longitude": -2.07404617,
+      "shelter": false
+    },
+    {
+      "id": "2af84cd9-d5ee-4509-888d-dc1a7a396736",
+      "name": "Rue des Cotils",
+      "stopNumber": "2587",
+      "latitude": 49.20655041,
+      "longitude": -2.11328828,
+      "shelter": false
+    },
+    {
+      "id": "2bbbfb86-b5e6-4605-8fa8-034da39dcec1",
+      "name": "Trinity Youth Club N",
+      "stopNumber": "3929",
+      "latitude": 49.23468638,
+      "longitude": -2.09161438,
+      "shelter": false
+    },
+    {
+      "id": "2c062058-cbd0-4032-ba78-059e38634fb8",
+      "name": "Belval S",
+      "stopNumber": "2672",
+      "latitude": 49.22197571,
+      "longitude": -2.02619685,
+      "shelter": false
+    },
+    {
+      "id": "2c46efd2-031d-47e8-a329-bd9ed6366dea",
+      "name": "St Marys Church W",
+      "stopNumber": "3792",
+      "latitude": 49.23504365,
+      "longitude": -2.17288969,
+      "shelter": false
+    },
+    {
+      "id": "2c648e67-fd64-4938-a0e0-8066bf8aa73f",
+      "name": "R. J. Showground N",
+      "stopNumber": "4357",
+      "latitude": 49.23177337,
+      "longitude": -2.09341407,
+      "shelter": false
+    },
+    {
+      "id": "2ccc58e0-a235-40b4-9b5f-c422f0f060e3",
+      "name": "La Hougue Bie E",
+      "stopNumber": "2858",
+      "latitude": 49.20091526,
+      "longitude": -2.06361906,
+      "shelter": false
+    },
+    {
+      "id": "2ce8238d-3944-47b6-b327-548a4ace701b",
+      "name": "Five Mile Avenue S",
+      "stopNumber": "2369",
+      "latitude": 49.22672149,
+      "longitude": -2.23064702,
+      "shelter": false
+    },
+    {
+      "id": "2d2090ea-b99e-40e2-b7f1-15afdfc03132",
+      "name": "Jersey War Tunnels",
+      "stopNumber": "3973",
+      "latitude": 49.20915387,
+      "longitude": -2.15337938,
+      "shelter": true
+    },
+    {
+      "id": "2ddc172e-0f2c-40e9-8b27-86505b6aba78",
+      "name": "Le Bu de la Rue",
+      "stopNumber": "4368",
+      "latitude": 49.21679104,
+      "longitude": -2.12637137,
+      "shelter": false
+    },
+    {
+      "id": "2e5d6458-db3c-4685-a283-b580b213df1a",
+      "name": "Cannon Street",
+      "stopNumber": "4654",
+      "latitude": 49.18772851,
+      "longitude": -2.10948374,
+      "shelter": false
+    },
+    {
+      "id": "2f014eaf-c737-4a2b-acdc-cd931c96983f",
+      "name": "Overdale Hospital",
+      "stopNumber": "3498",
+      "latitude": 49.19144694,
+      "longitude": -2.1164537,
+      "shelter": false
+    },
+    {
+      "id": "2f478a2e-9a87-4ea8-a8c7-97fb43e04be6",
+      "name": "Millennium Park S",
+      "stopNumber": "4675",
+      "latitude": 49.18739633,
+      "longitude": -2.10255274,
+      "shelter": false
+    },
+    {
+      "id": "2f7a23ab-25a4-4a04-ba6e-73ed671e63f4",
+      "name": "Clinique Pinel",
+      "stopNumber": "3838",
+      "latitude": 49.20265783,
+      "longitude": -2.04633938,
+      "shelter": false
+    },
+    {
+      "id": "3079510d-7150-4415-840a-ac8fc4eaab8a",
+      "name": "Rue des Brulees N",
+      "stopNumber": "4253",
+      "latitude": 49.22558019,
+      "longitude": -2.09364822,
+      "shelter": false
+    },
+    {
+      "id": "30b72f34-21f0-432c-a6c7-946e3249dbbe",
+      "name": "La Pellerie W",
+      "stopNumber": "4268",
+      "latitude": 49.24482949,
+      "longitude": -2.09385175,
+      "shelter": false
+    },
+    {
+      "id": "30fe486d-71e4-47ca-bff5-30ac4f3b87a2",
+      "name": "The Old Forge E",
+      "stopNumber": "4294",
+      "latitude": 49.24024034,
+      "longitude": -2.10425547,
+      "shelter": false
+    },
+    {
+      "id": "3115dc82-fbd4-4eb4-b325-112919d71691",
+      "name": "Maufant Village N",
+      "stopNumber": "3892",
+      "latitude": 49.20950914,
+      "longitude": -2.06286665,
+      "shelter": false
+    },
+    {
+      "id": "316c9f07-f1bb-4a42-b57b-86863f32b0e8",
+      "name": "Bethlehem Chapel W",
+      "stopNumber": "2396",
+      "latitude": 49.23504393,
+      "longitude": -2.17051956,
+      "shelter": false
+    },
+    {
+      "id": "319401e5-4deb-4a5b-b5d0-4d522937671e",
+      "name": "La Pellerie E",
+      "stopNumber": "3639",
+      "latitude": 49.24486845,
+      "longitude": -2.0938347,
+      "shelter": false
+    },
+    {
+      "id": "31be0b4c-4d4d-464b-8061-3efaee51b557",
+      "name": "Chemin du Moulin S",
+      "stopNumber": "2634",
+      "latitude": 49.23295369,
+      "longitude": -2.23254487,
+      "shelter": false
+    },
+    {
+      "id": "31d614c0-2960-4671-9b43-012bc47690c4",
+      "name": "Rue de la Haye",
+      "stopNumber": "4592",
+      "latitude": 49.21699519,
+      "longitude": -2.05303556,
+      "shelter": false
+    },
+    {
+      "id": "3249c7ca-90c3-4333-9b80-5829d1599957",
+      "name": "St Clement Gardens E",
+      "stopNumber": "3758",
+      "latitude": 49.17490047,
+      "longitude": -2.08532146,
+      "shelter": false
+    },
+    {
+      "id": "327468c4-bbda-448e-a07c-e21a8bc00fef",
+      "name": "Mont Fallu S",
+      "stopNumber": "3828",
+      "latitude": 49.20863418,
+      "longitude": -2.1754933,
+      "shelter": false
+    },
+    {
+      "id": "327cbbfa-667d-4f83-b4f9-658eafe279a2",
+      "name": "Birches Avenue W",
+      "stopNumber": "2423",
+      "latitude": 49.19613719,
+      "longitude": -2.08988165,
+      "shelter": false
+    },
+    {
+      "id": "3292d67c-7683-4f0a-8dcf-8d59316e82bd",
+      "name": "St Marys Church E",
+      "stopNumber": "3794",
+      "latitude": 49.23508337,
+      "longitude": -2.1729158,
+      "shelter": true
+    },
+    {
+      "id": "32b0fa36-68bb-4bc9-8091-6f61ba056c0e",
+      "name": "Maison des Landes",
+      "stopNumber": "3278",
+      "latitude": 49.24444692,
+      "longitude": -2.24138446,
+      "shelter": false
+    },
+    {
+      "id": "32b45f20-8bd9-4603-8991-c096b9b460a3",
+      "name": "Oaklands Manor",
+      "stopNumber": "3489",
+      "latitude": 49.21248976,
+      "longitude": -2.08245297,
+      "shelter": false
+    },
+    {
+      "id": "32ec33dd-840a-4785-a945-87c102696d5f",
+      "name": "Landscape Grove N",
+      "stopNumber": "4584",
+      "latitude": 49.20110112,
+      "longitude": -2.12941975,
+      "shelter": false
+    },
+    {
+      "id": "33440a97-ee4c-435a-92d3-0dbcc0765c56",
+      "name": "St Ouen Manor S",
+      "stopNumber": "2927",
+      "latitude": 49.22490183,
+      "longitude": -2.19544602,
+      "shelter": false
+    },
+    {
+      "id": "33b22c33-9bf5-4f8c-b21b-a5b2d0deb30b",
+      "name": "La Fantaisie",
+      "stopNumber": "3649",
+      "latitude": 49.21659762,
+      "longitude": -2.05901281,
+      "shelter": false
+    },
+    {
+      "id": "33d1265c-7e47-49d2-850e-37f0c506b7c4",
+      "name": "St Saviours Church N",
+      "stopNumber": "3837",
+      "latitude": 49.19481145,
+      "longitude": -2.09085756,
+      "shelter": false
+    },
+    {
+      "id": "33d7e5d6-37b4-4416-9011-25df6a15398d",
+      "name": "La Rocque Church N",
+      "stopNumber": "2897",
+      "latitude": 49.17264315,
+      "longitude": -2.03108395,
+      "shelter": false
+    },
+    {
+      "id": "341334b5-54f6-41d7-a729-848136d94714",
+      "name": "Jersey Pearl S",
+      "stopNumber": "3679",
+      "latitude": 49.23088856,
+      "longitude": -2.23352954,
+      "shelter": false
+    },
+    {
+      "id": "3445aa25-a654-4519-853f-9dcefca60889",
+      "name": "Links Estate N",
+      "stopNumber": "3262",
+      "latitude": 49.19027007,
+      "longitude": -2.03873552,
+      "shelter": false
+    },
+    {
+      "id": "34b0bafd-c01f-485d-8369-794b32220e19",
+      "name": "The Mermaid S",
+      "stopNumber": "3423",
+      "latitude": 49.20468318,
+      "longitude": -2.18977209,
+      "shelter": true
+    },
+    {
+      "id": "34cab2bb-e64f-4be4-bebd-3fe4358fb360",
+      "name": "Clos de la Mielle E",
+      "stopNumber": "2865",
+      "latitude": 49.19407461,
+      "longitude": -2.16413996,
+      "shelter": false
+    },
+    {
+      "id": "366d64bf-9022-46b9-a72c-20811507c7e2",
+      "name": "Chapel Lane",
+      "stopNumber": "3763",
+      "latitude": 49.18329022,
+      "longitude": -2.10021539,
+      "shelter": false
+    },
+    {
+      "id": "366ffc9a-7397-4a85-83e8-99b1980ae4af",
+      "name": "Trinity Youth Club S",
+      "stopNumber": "4369",
+      "latitude": 49.23492761,
+      "longitude": -2.09154086,
+      "shelter": false
+    },
+    {
+      "id": "3685810a-e459-4e09-8c1d-51c429d2bece",
+      "name": "St Brelade College W",
+      "stopNumber": "3747",
+      "latitude": 49.18806812,
+      "longitude": -2.17569956,
+      "shelter": false
+    },
+    {
+      "id": "36a20ab6-15f7-4836-9ae9-0cda942ecd08",
+      "name": "Anne Port Slipway S",
+      "stopNumber": "4343",
+      "latitude": 49.20523636,
+      "longitude": -2.02261693,
+      "shelter": false
+    },
+    {
+      "id": "36f54b4b-88d0-40aa-b18f-9f48f6204c6a",
+      "name": "Le Couvent",
+      "stopNumber": "4236",
+      "latitude": 49.22206255,
+      "longitude": -2.12523118,
+      "shelter": false
+    },
+    {
+      "id": "370459be-42a4-42f8-9f73-d5ac063d709b",
+      "name": "Brampton Farm W",
+      "stopNumber": "2457",
+      "latitude": 49.2348076,
+      "longitude": -2.19002763,
+      "shelter": false
+    },
+    {
+      "id": "3715429b-3c88-4467-9f49-64c003eeddba",
+      "name": "Rue des Fonds W",
+      "stopNumber": "3652",
+      "latitude": 49.18587843,
+      "longitude": -2.04552016,
+      "shelter": false
+    },
+    {
+      "id": "371db7ea-06e7-4441-abc5-0fdcb3376c66",
+      "name": "La Lande E",
+      "stopNumber": "2626",
+      "latitude": 49.24631515,
+      "longitude": -2.1060524,
+      "shelter": false
+    },
+    {
+      "id": "37642575-70b3-4225-867c-c036f85ca4a2",
+      "name": "Bel Royal Gardens",
+      "stopNumber": "2385",
+      "latitude": 49.19818849,
+      "longitude": -2.14639065,
+      "shelter": true
+    },
+    {
+      "id": "38216137-8f3b-4f3f-b34e-7db04dab0660",
+      "name": "Ruette de Faldouet E",
+      "stopNumber": "2928",
+      "latitude": 49.20357945,
+      "longitude": -2.03335453,
+      "shelter": false
+    },
+    {
+      "id": "382f3b7d-df10-4246-8ab4-bdc1a712ee5f",
+      "name": "La Grande Mielle",
+      "stopNumber": "4387",
+      "latitude": 49.17983216,
+      "longitude": -2.03539094,
+      "shelter": false
+    },
+    {
+      "id": "384b88b4-24df-4142-a6ff-ee4beae8f38e",
+      "name": "Le Marais",
+      "stopNumber": "4392",
+      "latitude": 49.16737164,
+      "longitude": -2.07930498,
+      "shelter": true
+    },
+    {
+      "id": "385a2f8e-495e-414e-bde0-52f2334010e0",
+      "name": "Rue d'Egypte E",
+      "stopNumber": "2584",
+      "latitude": 49.2453339,
+      "longitude": -2.09881542,
+      "shelter": false
+    },
+    {
+      "id": "388ecab5-57f5-4903-83a9-c636adbc9a9b",
+      "name": "Belle Vue N",
+      "stopNumber": "3492",
+      "latitude": 49.19753172,
+      "longitude": -2.19781995,
+      "shelter": true
+    },
+    {
+      "id": "38d748a8-e09f-4f08-ab4d-9c2ada162256",
+      "name": "Ouaisne Junction S",
+      "stopNumber": "3572",
+      "latitude": 49.17689057,
+      "longitude": -2.17311,
+      "shelter": false
+    },
+    {
+      "id": "3920578e-7e14-4b43-b3b9-b6f739d727f1",
+      "name": "Archirondel S",
+      "stopNumber": "2352",
+      "latitude": 49.21006403,
+      "longitude": -2.02576896,
+      "shelter": false
+    },
+    {
+      "id": "3a1553da-23a0-4d3b-8e14-1ff3a966e9bc",
+      "name": "Gloster Terrace S",
+      "stopNumber": "2628",
+      "latitude": 49.19182432,
+      "longitude": -2.10911979,
+      "shelter": true
+    },
+    {
+      "id": "3a299289-3df5-4b0d-bb75-e9c7e3c2f600",
+      "name": "St Peters Arsenal N",
+      "stopNumber": "3827",
+      "latitude": 49.20172676,
+      "longitude": -2.18031431,
+      "shelter": false
+    },
+    {
+      "id": "3a8146b9-f7e2-4ba8-bce3-6845a03495b0",
+      "name": "Hameau de la Mer W",
+      "stopNumber": "2784",
+      "latitude": 49.16683593,
+      "longitude": -2.0398548,
+      "shelter": true
+    },
+    {
+      "id": "3a897f1b-0ab6-4cc0-8e22-7ba7348b62a1",
+      "name": "St Lawrence Church N",
+      "stopNumber": "3768",
+      "latitude": 49.21376342,
+      "longitude": -2.14135075,
+      "shelter": true
+    },
+    {
+      "id": "3aa42824-5b5b-4906-bdc0-35c481f4ba03",
+      "name": "Midland Stores N",
+      "stopNumber": "2473",
+      "latitude": 49.20853257,
+      "longitude": -2.06553301,
+      "shelter": false
+    },
+    {
+      "id": "3afa4029-1bff-46f0-8b07-3e13fdbea078",
+      "name": "Troy Court N",
+      "stopNumber": "3937",
+      "latitude": 49.19632007,
+      "longitude": -2.09674513,
+      "shelter": false
+    },
+    {
+      "id": "3c3b82fb-8b91-45de-8df0-a44c8e4e83c7",
+      "name": "Grouville Arsenal W",
+      "stopNumber": "2346",
+      "latitude": 49.1813584,
+      "longitude": -2.05987778,
+      "shelter": true
+    },
+    {
+      "id": "3c4a2553-d1ce-4d1e-86ed-32487cb735cf",
+      "name": "Petit Port Close",
+      "stopNumber": "3536",
+      "latitude": 49.18410041,
+      "longitude": -2.22748612,
+      "shelter": false
+    },
+    {
+      "id": "3c8280cd-f1a9-42e0-9dd6-66406d5a204a",
+      "name": "Byron Road N",
+      "stopNumber": "2749",
+      "latitude": 49.19144264,
+      "longitude": -2.10284305,
+      "shelter": false
+    },
+    {
+      "id": "3c91b106-039e-496a-9ee7-226bf3bc603c",
+      "name": "Gloucester Street N",
+      "stopNumber": "3524",
+      "latitude": 49.1877109,
+      "longitude": -2.11016197,
+      "shelter": true
+    },
+    {
+      "id": "3ca524d6-5345-40da-a9b5-c29b9f62e3c5",
+      "name": "Patier Road",
+      "stopNumber": "4373",
+      "latitude": 49.19489723,
+      "longitude": -2.08602661,
+      "shelter": false
+    },
+    {
+      "id": "3cda3a43-9d66-4b4e-bc30-e52a15e239cf",
+      "name": "The Mermaid N",
+      "stopNumber": "2474",
+      "latitude": 49.20473926,
+      "longitude": -2.189935,
+      "shelter": true
+    },
+    {
+      "id": "3d3b2446-1e3c-4bf5-9552-e795b93db931",
+      "name": "Tunnell Street",
+      "stopNumber": "2345",
+      "latitude": 49.18798987,
+      "longitude": -2.09723561,
+      "shelter": false
+    },
+    {
+      "id": "3d622231-4bfd-47cf-8403-82d23914146b",
+      "name": "Les Landes Avenue W",
+      "stopNumber": "2638",
+      "latitude": 49.18695249,
+      "longitude": -2.18625971,
+      "shelter": false
+    },
+    {
+      "id": "3d8fc477-77b3-40ff-bea9-841a846928ce",
+      "name": "Grasett Park E",
+      "stopNumber": "2697",
+      "latitude": 49.17696883,
+      "longitude": -2.08833135,
+      "shelter": true
+    },
+    {
+      "id": "3d90183a-577c-4be4-b8fd-79e68394085a",
+      "name": "Jersey Airport",
+      "stopNumber": "2326",
+      "latitude": 49.20592224,
+      "longitude": -2.19462701,
+      "shelter": true
+    },
+    {
+      "id": "3de1da5c-4dd7-42e1-913f-6dbd70217d60",
+      "name": "The Crematorium",
+      "stopNumber": "2548",
+      "latitude": 49.19332092,
+      "longitude": -2.11544114,
+      "shelter": false
+    },
+    {
+      "id": "3e080ec8-00f4-49b5-ba15-c3ebce2845b2",
+      "name": "Clos des Champs S",
+      "stopNumber": "2647",
+      "latitude": 49.21519439,
+      "longitude": -2.0661214,
+      "shelter": false
+    },
+    {
+      "id": "3e32072b-f33c-49ef-b67b-a21ae1f1ffe6",
+      "name": "The Royal W",
+      "stopNumber": "3783",
+      "latitude": 49.21788216,
+      "longitude": -2.05098654,
+      "shelter": true
+    },
+    {
+      "id": "3e7e9e5e-c4fd-42e1-bb38-1c20523f2722",
+      "name": "Rue du Hucquet E",
+      "stopNumber": "3274",
+      "latitude": 49.22057976,
+      "longitude": -2.05765729,
+      "shelter": false
+    },
+    {
+      "id": "3ea42723-cacb-4d7e-beee-f2aefce07961",
+      "name": "Grouville Church W",
+      "stopNumber": "2742",
+      "latitude": 49.18364814,
+      "longitude": -2.04985142,
+      "shelter": false
+    },
+    {
+      "id": "3eb91bbc-5d69-4f67-b1ba-6bb5d20b1c21",
+      "name": "Southfork Farm",
+      "stopNumber": "3735",
+      "latitude": 49.20672871,
+      "longitude": -2.06576356,
+      "shelter": false
+    },
+    {
+      "id": "3edf02f9-dde0-43a8-bd7f-a08f282bf740",
+      "name": "Hollydale Estate N",
+      "stopNumber": "2768",
+      "latitude": 49.20422846,
+      "longitude": -2.14044499,
+      "shelter": false
+    },
+    {
+      "id": "3fb25223-3bb1-4aaa-a503-dce1ca9663e5",
+      "name": "Les Varines E",
+      "stopNumber": "2597",
+      "latitude": 49.18229975,
+      "longitude": -2.08462256,
+      "shelter": false
+    },
+    {
+      "id": "403230f7-f668-44de-8c1f-65015b730bbe",
+      "name": "Rue des Pres Estate",
+      "stopNumber": "3656",
+      "latitude": 49.18186594,
+      "longitude": -2.07853347,
+      "shelter": false
+    },
+    {
+      "id": "4101a28d-3cd6-4d64-8db4-062a0ebbe57c",
+      "name": "Le Feugerel E",
+      "stopNumber": "2946",
+      "latitude": 49.18602208,
+      "longitude": -2.22084668,
+      "shelter": false
+    },
+    {
+      "id": "4120b5d5-7788-472c-a727-71062380c39e",
+      "name": "Mont a l'Abbe Sch S",
+      "stopNumber": "3454",
+      "latitude": 49.20293843,
+      "longitude": -2.11365506,
+      "shelter": true
+    },
+    {
+      "id": "4130eed9-335e-402d-9623-5e36ce42720a",
+      "name": "Clos de Charriere W",
+      "stopNumber": "4379",
+      "latitude": 49.17397568,
+      "longitude": -2.08978164,
+      "shelter": false
+    },
+    {
+      "id": "4138e953-8ce4-4fc5-a225-afb857ea316e",
+      "name": "Rue des Camps",
+      "stopNumber": "2379",
+      "latitude": 49.18295513,
+      "longitude": -2.22032344,
+      "shelter": false
+    },
+    {
+      "id": "414bb43c-b5db-4d11-909c-b4ec792adc03",
+      "name": "Samares Manor E",
+      "stopNumber": "3683",
+      "latitude": 49.17347333,
+      "longitude": -2.07923285,
+      "shelter": false
+    },
+    {
+      "id": "41da51bb-07b5-4ab6-a623-7723f1c2334a",
+      "name": "Radisson Hotel",
+      "stopNumber": "4652",
+      "latitude": 49.18389613,
+      "longitude": -2.11511355,
+      "shelter": false
+    },
+    {
+      "id": "42dd7549-0ee2-4815-a1b9-dabcfa92aec4",
+      "name": "Croix au Maitre",
+      "stopNumber": "2563",
+      "latitude": 49.22045323,
+      "longitude": -2.05770725,
+      "shelter": false
+    },
+    {
+      "id": "431a4ea9-1505-4368-b959-80aca3b20b2d",
+      "name": "St Bernards W",
+      "stopNumber": "2476",
+      "latitude": 49.20210554,
+      "longitude": -2.0533034,
+      "shelter": false
+    },
+    {
+      "id": "43558189-05df-4439-87fb-7929c78a2e58",
+      "name": "Le Feugerel W",
+      "stopNumber": "3587",
+      "latitude": 49.1859627,
+      "longitude": -2.22109922,
+      "shelter": false
+    },
+    {
+      "id": "43e3d7cd-8c20-4042-83a0-ceb2059ecaa3",
+      "name": "Grands Vaux School",
+      "stopNumber": "2696",
+      "latitude": 49.20267083,
+      "longitude": -2.0912337,
+      "shelter": false
+    },
+    {
+      "id": "4478f256-96cb-49d0-bae6-9d2804557f2b",
+      "name": "St Matthews Church W",
+      "stopNumber": "2673",
+      "latitude": 49.19845496,
+      "longitude": -2.14276427,
+      "shelter": false
+    },
+    {
+      "id": "450f14e8-13c4-4520-a5a8-5c134f48701c",
+      "name": "Broad Street",
+      "stopNumber": "2462",
+      "latitude": 49.18444782,
+      "longitude": -2.1080807,
+      "shelter": false
+    },
+    {
+      "id": "453974ad-f7f8-476e-b3a4-bfd896c4052e",
+      "name": "Les Hougues W",
+      "stopNumber": "4398",
+      "latitude": 49.23329862,
+      "longitude": -2.06932599,
+      "shelter": false
+    },
+    {
+      "id": "45434e2c-ad5a-4427-baf4-d0d70a0affba",
+      "name": "La Blanche Maison S",
+      "stopNumber": "3979",
+      "latitude": 49.23947014,
+      "longitude": -2.23990114,
+      "shelter": false
+    },
+    {
+      "id": "455fe15a-2636-41dc-bcac-e6e8493315d9",
+      "name": "Hamptonne Museum",
+      "stopNumber": "4367",
+      "latitude": 49.22181804,
+      "longitude": -2.14169973,
+      "shelter": false
+    },
+    {
+      "id": "45d0f467-2e27-4a11-aeaf-2a4316700f09",
+      "name": "Atlantic Hotel E",
+      "stopNumber": "2354",
+      "latitude": 49.18684858,
+      "longitude": -2.22537393,
+      "shelter": false
+    },
+    {
+      "id": "467adefe-3664-4ece-8141-40e686493c7a",
+      "name": "Seymour Inn N",
+      "stopNumber": "3695",
+      "latitude": 49.16963517,
+      "longitude": -2.0300495,
+      "shelter": false
+    },
+    {
+      "id": "468de431-6470-4be8-a7fe-57092400c476",
+      "name": "Pontorson Lane W",
+      "stopNumber": "2838",
+      "latitude": 49.16759427,
+      "longitude": -2.06448806,
+      "shelter": false
+    },
+    {
+      "id": "46cad13c-a41f-4e38-8e6d-57c4d4e71909",
+      "name": "Five Oaks N",
+      "stopNumber": "2636",
+      "latitude": 49.19898301,
+      "longitude": -2.07991986,
+      "shelter": false
+    },
+    {
+      "id": "4745cc54-4262-40f3-88a6-89a68323b67d",
+      "name": "Le Don Baudains",
+      "stopNumber": "4597",
+      "latitude": 49.17350381,
+      "longitude": -2.05140748,
+      "shelter": false
+    },
+    {
+      "id": "47761a56-04ea-43d2-9fba-da244902cc22",
+      "name": "Don Farm",
+      "stopNumber": "2542",
+      "latitude": 49.19457445,
+      "longitude": -2.19880771,
+      "shelter": true
+    },
+    {
+      "id": "4799e1e5-e088-4993-8c3f-e919f5a9eb90",
+      "name": "Jardin des Carreaux",
+      "stopNumber": "2794",
+      "latitude": 49.19861306,
+      "longitude": -2.11328558,
+      "shelter": true
+    },
+    {
+      "id": "47e35417-1ff3-4ce1-8c45-fc53a886e983",
+      "name": "Regent Road",
+      "stopNumber": "4574",
+      "latitude": 49.18083453,
+      "longitude": -2.10272302,
+      "shelter": false
+    },
+    {
+      "id": "48584f0e-0b1f-4660-80a3-f5e3c421ff92",
+      "name": "Le Hurel S",
+      "stopNumber": "2958",
+      "latitude": 49.22026045,
+      "longitude": -2.09415664,
+      "shelter": false
+    },
+    {
+      "id": "48b0cdd2-67b8-47cc-aff9-0860fef4094e",
+      "name": "Clos des Blanches E",
+      "stopNumber": "4567",
+      "latitude": 49.17099605,
+      "longitude": -2.08646835,
+      "shelter": false
+    },
+    {
+      "id": "49130e8f-809a-4ce6-ab7f-dda76913a38f",
+      "name": "Bethlehem Chapel E",
+      "stopNumber": "3796",
+      "latitude": 49.23509298,
+      "longitude": -2.17022906,
+      "shelter": false
+    },
+    {
+      "id": "49131e94-54e9-4c5f-ad71-5011a6dd9d1d",
+      "name": "Midbay E",
+      "stopNumber": "3426",
+      "latitude": 49.1852819,
+      "longitude": -2.19568239,
+      "shelter": false
+    },
+    {
+      "id": "494f9e6f-faa0-45d6-8177-8e9703a03a53",
+      "name": "Links Estate S",
+      "stopNumber": "2936",
+      "latitude": 49.19003623,
+      "longitude": -2.03884536,
+      "shelter": false
+    },
+    {
+      "id": "496967ba-f76e-4c4f-ba6f-c6cb6368e7d6",
+      "name": "St Catherines Wood S",
+      "stopNumber": "3753",
+      "latitude": 49.21725648,
+      "longitude": -2.03118821,
+      "shelter": false
+    },
+    {
+      "id": "496d7944-c207-47e7-8301-b53265e7a7af",
+      "name": "Victoria Hotel N",
+      "stopNumber": "3959",
+      "latitude": 49.21073562,
+      "longitude": -2.16129784,
+      "shelter": false
+    },
+    {
+      "id": "4984ae3c-643b-4c14-942a-36d6c32cbee6",
+      "name": "Bagatelle Parade N",
+      "stopNumber": "2943",
+      "latitude": 49.19649275,
+      "longitude": -2.0825435,
+      "shelter": false
+    },
+    {
+      "id": "49a86ad9-b6bb-406c-a169-6bf8550f9a91",
+      "name": "Sea View Farm",
+      "stopNumber": "2737",
+      "latitude": 49.25224452,
+      "longitude": -2.2307111,
+      "shelter": false
+    },
+    {
+      "id": "4a4cdf44-73ce-4f0b-ab08-3169b5d6de2b",
+      "name": "Rue du Bocage",
+      "stopNumber": "4348",
+      "latitude": 49.21359229,
+      "longitude": -2.18944569,
+      "shelter": false
+    },
+    {
+      "id": "4a6273d8-b646-4dcb-a203-871e7f38a880",
+      "name": "Sandybrook S",
+      "stopNumber": "3247",
+      "latitude": 49.20235788,
+      "longitude": -2.15491303,
+      "shelter": false
+    },
+    {
+      "id": "4ac88e6a-d73b-444f-95c4-ca2626239332",
+      "name": "La Collette Shops",
+      "stopNumber": "2846",
+      "latitude": 49.17745809,
+      "longitude": -2.10458927,
+      "shelter": false
+    },
+    {
+      "id": "4b1ec261-5760-4d65-ad7d-085128ac2683",
+      "name": "Greenhills S",
+      "stopNumber": "3484",
+      "latitude": 49.21774577,
+      "longitude": -2.17316911,
+      "shelter": false
+    },
+    {
+      "id": "4b5846a6-477e-4d05-8fcd-f15a6e19f59b",
+      "name": "Rue de la Chesnaie S",
+      "stopNumber": "3642",
+      "latitude": 49.2280249,
+      "longitude": -2.11478408,
+      "shelter": false
+    },
+    {
+      "id": "4bd4dd72-8190-47d0-87ea-5722dd0b275c",
+      "name": "Betchet es Cats W",
+      "stopNumber": "4274",
+      "latitude": 49.24668217,
+      "longitude": -2.11142663,
+      "shelter": false
+    },
+    {
+      "id": "4bec26d9-9e2e-40d4-a88d-c0218be4d834",
+      "name": "Route de Plemont",
+      "stopNumber": "4276",
+      "latitude": 49.25167131,
+      "longitude": -2.22528234,
+      "shelter": false
+    },
+    {
+      "id": "4ca2edf2-ebe0-4456-b418-0fa5210e5e70",
+      "name": "Sydney Crill Park E",
+      "stopNumber": "4383",
+      "latitude": 49.16982096,
+      "longitude": -2.05175994,
+      "shelter": false
+    },
+    {
+      "id": "4cbcad8a-1e88-4742-b0f9-ef614b11ad0c",
+      "name": "Bay View Court",
+      "stopNumber": "2368",
+      "latitude": 49.19192145,
+      "longitude": -2.12242793,
+      "shelter": false
+    },
+    {
+      "id": "4cbee567-e4be-4003-a700-5c4424123658",
+      "name": "Rozel Manor S",
+      "stopNumber": "3897",
+      "latitude": 49.22730936,
+      "longitude": -2.04700954,
+      "shelter": false
+    },
+    {
+      "id": "4d809174-f99e-493a-8c3a-2e38b961e97e",
+      "name": "Rue de la Croiserie",
+      "stopNumber": "3259",
+      "latitude": 49.21110682,
+      "longitude": -2.09699537,
+      "shelter": false
+    },
+    {
+      "id": "4e149c88-25eb-4547-99b6-17e3db414f90",
+      "name": "St Marys Garage E",
+      "stopNumber": "3795",
+      "latitude": 49.23534768,
+      "longitude": -2.16800848,
+      "shelter": false
+    },
+    {
+      "id": "4e340d48-28b0-4265-a73f-a5f50c8a3ab3",
+      "name": "Maupertuis Lane",
+      "stopNumber": "4324",
+      "latitude": 49.16793127,
+      "longitude": -2.08227036,
+      "shelter": false
+    },
+    {
+      "id": "4e6548ed-d651-49d5-a5e2-0cab412929c8",
+      "name": "Hotel de France N",
+      "stopNumber": "3254",
+      "latitude": 49.19046187,
+      "longitude": -2.0971128,
+      "shelter": false
+    },
+    {
+      "id": "4ebc07e5-c0ab-420f-ab47-e2350d19fcf4",
+      "name": "Snow Hill",
+      "stopNumber": "3729",
+      "latitude": 49.18357242,
+      "longitude": -2.10350493,
+      "shelter": true
+    },
+    {
+      "id": "4ed44002-2f33-4ea3-9e90-09e13e952561",
+      "name": "I. J. Bathe Field S",
+      "stopNumber": "2353",
+      "latitude": 49.20407512,
+      "longitude": -2.0643693,
+      "shelter": false
+    },
+    {
+      "id": "4f1623a0-ef75-4b5f-8cf7-4d32cd42f380",
+      "name": "Ryburn Road W",
+      "stopNumber": "3593",
+      "latitude": 49.17565235,
+      "longitude": -2.08900692,
+      "shelter": false
+    },
+    {
+      "id": "4f51e060-c883-45fa-a57f-059da4968295",
+      "name": "Ville Emphrie S",
+      "stopNumber": "3968",
+      "latitude": 49.2079086,
+      "longitude": -2.14284704,
+      "shelter": true
+    },
+    {
+      "id": "4f911d10-5f8f-4a2c-9243-fa2d87e7be3b",
+      "name": "Jersey Zoo",
+      "stopNumber": "2579",
+      "latitude": 49.2293241,
+      "longitude": -2.07345756,
+      "shelter": true
+    },
+    {
+      "id": "503cca0e-11b7-4019-b115-a9c5a46cb445",
+      "name": "Rue du Douet",
+      "stopNumber": "3673",
+      "latitude": 49.2271028,
+      "longitude": -2.19803551,
+      "shelter": false
+    },
+    {
+      "id": "504d9916-59ce-44fc-9dca-bd8167192531",
+      "name": "Fayreways Flats",
+      "stopNumber": "4242",
+      "latitude": 49.1980242,
+      "longitude": -2.08198811,
+      "shelter": false
+    },
+    {
+      "id": "505400c3-f368-4095-a2c7-566ac1d4706f",
+      "name": "Woodbine Farm",
+      "stopNumber": "4264",
+      "latitude": 49.23907134,
+      "longitude": -2.21590877,
+      "shelter": false
+    },
+    {
+      "id": "506e5d0d-e05c-4f7a-be79-da8872693c9b",
+      "name": "Chestnut Lea",
+      "stopNumber": "2496",
+      "latitude": 49.2036851,
+      "longitude": -2.11541768,
+      "shelter": false
+    },
+    {
+      "id": "50a3aabc-474b-477a-bf1d-501a0749f9d9",
+      "name": "Leamington Court",
+      "stopNumber": "3584",
+      "latitude": 49.19464963,
+      "longitude": -2.10958662,
+      "shelter": false
+    },
+    {
+      "id": "50c63773-7bb6-4f19-96a8-73072db5cda1",
+      "name": "Sea Crest Apts",
+      "stopNumber": "3843",
+      "latitude": 49.18393553,
+      "longitude": -2.23405846,
+      "shelter": false
+    },
+    {
+      "id": "50faa48d-a55b-4eba-bea2-a552e3e2db41",
+      "name": "Rue d'Egypte W",
+      "stopNumber": "4269",
+      "latitude": 49.24528837,
+      "longitude": -2.09903142,
+      "shelter": false
+    },
+    {
+      "id": "514f7d06-946f-40c4-a320-8bdbabad4509",
+      "name": "Victoria Hotel S",
+      "stopNumber": "3958",
+      "latitude": 49.21117921,
+      "longitude": -2.16134816,
+      "shelter": false
+    },
+    {
+      "id": "51eb8207-3d7f-4b43-b5ff-f97d4e96c2ae",
+      "name": "Les Charrieres N",
+      "stopNumber": "2985",
+      "latitude": 49.22415,
+      "longitude": -2.18194826,
+      "shelter": false
+    },
+    {
+      "id": "51f24b16-47be-4b91-a641-66e8a78bbf74",
+      "name": "Rue du Tapon W",
+      "stopNumber": "4587",
+      "latitude": 49.19821869,
+      "longitude": -2.0725312,
+      "shelter": false
+    },
+    {
+      "id": "52359726-105a-413e-bd06-effdaa8b8cf9",
+      "name": "Richmond Road",
+      "stopNumber": "2532",
+      "latitude": 49.19516344,
+      "longitude": -2.10692311,
+      "shelter": false
+    },
+    {
+      "id": "533d9dfa-aded-43ef-bd99-2282b2164aee",
+      "name": "Mont a l'Abbe Sch N",
+      "stopNumber": "2764",
+      "latitude": 49.20299463,
+      "longitude": -2.11374812,
+      "shelter": false
+    },
+    {
+      "id": "534979ba-aace-47ea-86a3-b8f55af74e03",
+      "name": "Rue de Bel Air W",
+      "stopNumber": "3949",
+      "latitude": 49.23613508,
+      "longitude": -2.16456465,
+      "shelter": false
+    },
+    {
+      "id": "53803f29-57b9-4167-94ca-e7749a6f6267",
+      "name": "Grainville School",
+      "stopNumber": "2692",
+      "latitude": 49.19835113,
+      "longitude": -2.08707844,
+      "shelter": false
+    },
+    {
+      "id": "538585bd-da20-473f-a2e9-6ecf1646a2cf",
+      "name": "Blanches Pierres",
+      "stopNumber": "2426",
+      "latitude": 49.2441005,
+      "longitude": -2.21233256,
+      "shelter": false
+    },
+    {
+      "id": "539e26ef-c44e-4233-9baa-da0352cd1e0f",
+      "name": "The Windmill E",
+      "stopNumber": "3878",
+      "latitude": 49.23340509,
+      "longitude": -2.18342567,
+      "shelter": false
+    },
+    {
+      "id": "5459cb75-b691-4989-b9f3-1303a899b1e9",
+      "name": "St Clements School W",
+      "stopNumber": "2968",
+      "latitude": 49.17095684,
+      "longitude": -2.06797231,
+      "shelter": true
+    },
+    {
+      "id": "546480c8-25ae-4334-bb07-7ae0dc402cb4",
+      "name": "Longueville Manor E",
+      "stopNumber": "3476",
+      "latitude": 49.18335936,
+      "longitude": -2.07818129,
+      "shelter": false
+    },
+    {
+      "id": "549f8380-86b3-4e58-bf96-0c63f4a0f6b1",
+      "name": "La Profonde Rue",
+      "stopNumber": "2945",
+      "latitude": 49.24299064,
+      "longitude": -2.22252333,
+      "shelter": false
+    },
+    {
+      "id": "54bac880-87c5-4cf2-82a0-25df86234d58",
+      "name": "Bus Station Stand L",
+      "stopNumber": "4537",
+      "latitude": 49.18344319,
+      "longitude": -2.10980006,
+      "shelter": false
+    },
+    {
+      "id": "54eed86d-ee85-4941-bbae-e3909732f02a",
+      "name": "Avalon Park W",
+      "stopNumber": "2834",
+      "latitude": 49.16476735,
+      "longitude": -2.07941522,
+      "shelter": true
+    },
+    {
+      "id": "55bf9111-8b10-432e-a006-5a6dfdc74afd",
+      "name": "Portinfer Junction",
+      "stopNumber": "3575",
+      "latitude": 49.25137022,
+      "longitude": -2.22604025,
+      "shelter": false
+    },
+    {
+      "id": "55e9f34e-8ebf-4618-9af4-dea380d5502a",
+      "name": "La Longue Rue E",
+      "stopNumber": "2842",
+      "latitude": 49.21588317,
+      "longitude": -2.04472232,
+      "shelter": false
+    },
+    {
+      "id": "55ecf871-6da8-498b-8422-bfad0befc1de",
+      "name": "Millennium Park N",
+      "stopNumber": "4683",
+      "latitude": 49.18743963,
+      "longitude": -2.10263277,
+      "shelter": false
+    },
+    {
+      "id": "5604379c-1ece-4cd1-a425-1bfd21ea07a5",
+      "name": "Mont Nicolle W",
+      "stopNumber": "3464",
+      "latitude": 49.18821384,
+      "longitude": -2.18933232,
+      "shelter": true
+    },
+    {
+      "id": "561b39d5-90f5-4978-803c-7b991dd477e8",
+      "name": "West Park Slipway",
+      "stopNumber": "2852",
+      "latitude": 49.18669789,
+      "longitude": -2.11562195,
+      "shelter": true
+    },
+    {
+      "id": "56b81bcc-b701-4168-8221-b9c54148851f",
+      "name": "Hotel de France S",
+      "stopNumber": "2786",
+      "latitude": 49.190568,
+      "longitude": -2.09707577,
+      "shelter": true
+    },
+    {
+      "id": "56ea0319-3e85-4869-aa9a-15668e844b47",
+      "name": "Clos des Sables E",
+      "stopNumber": "3537",
+      "latitude": 49.1895884,
+      "longitude": -2.20652262,
+      "shelter": true
+    },
+    {
+      "id": "56fd64d3-0591-474a-a685-bb30f1b80bfc",
+      "name": "Jubilee Hill",
+      "stopNumber": "4234",
+      "latitude": 49.21108143,
+      "longitude": -2.21092142,
+      "shelter": false
+    },
+    {
+      "id": "5761ae45-a78e-4fb7-8737-a899753cddb3",
+      "name": "Albert Road W",
+      "stopNumber": "2656",
+      "latitude": 49.17848379,
+      "longitude": -2.0916789,
+      "shelter": false
+    },
+    {
+      "id": "57ac1bdb-4dab-416f-80f2-aebaf77622fb",
+      "name": "Hautes Croix Store N",
+      "stopNumber": "4563",
+      "latitude": 49.2393005,
+      "longitude": -2.11144583,
+      "shelter": false
+    },
+    {
+      "id": "5884a11f-d25d-4295-8f74-f7e45d75b544",
+      "name": "Rue de St Clement S",
+      "stopNumber": "3486",
+      "latitude": 49.21183924,
+      "longitude": -2.18079389,
+      "shelter": false
+    },
+    {
+      "id": "58f04576-3ece-4f16-8e72-3ae28b80868d",
+      "name": "Fort William S",
+      "stopNumber": "2676",
+      "latitude": 49.19498622,
+      "longitude": -2.03314145,
+      "shelter": false
+    },
+    {
+      "id": "59ee1d68-fbf9-4419-91ac-e538a9105869",
+      "name": "La Rocque Church S",
+      "stopNumber": "3425",
+      "latitude": 49.17295492,
+      "longitude": -2.03100007,
+      "shelter": false
+    },
+    {
+      "id": "5a62412f-ebe4-412d-a66c-51c1467223e1",
+      "name": "St Clements Church",
+      "stopNumber": "2469",
+      "latitude": 49.17369281,
+      "longitude": -2.05595246,
+      "shelter": false
+    },
+    {
+      "id": "5aa13f41-8cc9-4b84-9daf-bf5927bf8212",
+      "name": "Jersey Pearl N",
+      "stopNumber": "2825",
+      "latitude": 49.23100454,
+      "longitude": -2.23366463,
+      "shelter": false
+    },
+    {
+      "id": "5af25d1e-2e59-46fd-9d92-c9306c9a9b41",
+      "name": "Le Geyt Street",
+      "stopNumber": "4657",
+      "latitude": 49.18637664,
+      "longitude": -2.10723102,
+      "shelter": false
+    },
+    {
+      "id": "5b0e916e-65f6-4b9f-b0df-8fdba522c4c5",
+      "name": "Jersey Post N",
+      "stopNumber": "4364",
+      "latitude": 49.18084569,
+      "longitude": -2.08126318,
+      "shelter": false
+    },
+    {
+      "id": "5b465c46-2ec7-430a-87e3-dfa0bcf24d22",
+      "name": "Le Vier Mont W",
+      "stopNumber": "3869",
+      "latitude": 49.1814246,
+      "longitude": -2.07047085,
+      "shelter": false
+    },
+    {
+      "id": "5bdad1ee-f71d-4692-85a1-7cc2ee078e7c",
+      "name": "Beaumont E",
+      "stopNumber": "2378",
+      "latitude": 49.19666122,
+      "longitude": -2.15760757,
+      "shelter": false
+    },
+    {
+      "id": "5cbaaa35-a7c6-4fe8-b669-fbd9dc043e28",
+      "name": "Hameau de la Mer E",
+      "stopNumber": "2765",
+      "latitude": 49.16682833,
+      "longitude": -2.03961096,
+      "shelter": true
+    },
+    {
+      "id": "5cd8bc04-6ca0-4fcb-b1e1-3c9d76ae9a99",
+      "name": "Rue du Boulay N",
+      "stopNumber": "4275",
+      "latitude": 49.2349442,
+      "longitude": -2.08570946,
+      "shelter": false
+    },
+    {
+      "id": "5cf21ad8-9495-4871-bb97-f67a51ccf320",
+      "name": "La Rocque Harbour S",
+      "stopNumber": "2898",
+      "latitude": 49.16537617,
+      "longitude": -2.03190526,
+      "shelter": false
+    },
+    {
+      "id": "5d009898-f66a-4537-99cd-f45e57458848",
+      "name": "Hautmont Estate S",
+      "stopNumber": "2796",
+      "latitude": 49.18740314,
+      "longitude": -2.09239215,
+      "shelter": true
+    },
+    {
+      "id": "5d1b0a04-05f6-42c5-8428-c0509c6ee2b1",
+      "name": "Castle Green N",
+      "stopNumber": "3467",
+      "latitude": 49.20056121,
+      "longitude": -2.02082941,
+      "shelter": false
+    },
+    {
+      "id": "5d7b2244-d1ac-4138-bd3d-887af0900fb7",
+      "name": "Chasse Brunet E",
+      "stopNumber": "2547",
+      "latitude": 49.19750728,
+      "longitude": -2.08474302,
+      "shelter": false
+    },
+    {
+      "id": "5d93d576-2f03-4715-b82c-1442bfd6af6c",
+      "name": "West Park Shelter",
+      "stopNumber": "3976",
+      "latitude": 49.18908247,
+      "longitude": -2.11853275,
+      "shelter": true
+    },
+    {
+      "id": "5dec98bc-14cb-4781-a6f1-194b1978a956",
+      "name": "Mont Mado W",
+      "stopNumber": "3462",
+      "latitude": 49.24539369,
+      "longitude": -2.12505748,
+      "shelter": false
+    },
+    {
+      "id": "5f23d6ef-3f1f-49af-9968-8e51e527c0ed",
+      "name": "Plemont Bay",
+      "stopNumber": "3548",
+      "latitude": 49.25573191,
+      "longitude": -2.22688462,
+      "shelter": false
+    },
+    {
+      "id": "5fb4454b-73ed-4a22-aa87-c8d6e68fd975",
+      "name": "La Maison Slipway S",
+      "stopNumber": "3256",
+      "latitude": 49.21849171,
+      "longitude": -2.02989352,
+      "shelter": false
+    },
+    {
+      "id": "605e5356-db63-455b-8c70-05d7329b14d2",
+      "name": "Georgetown Road W",
+      "stopNumber": "2654",
+      "latitude": 49.17892379,
+      "longitude": -2.09276728,
+      "shelter": false
+    },
+    {
+      "id": "605fe6c8-7bc0-489f-89c0-28a915681be6",
+      "name": "Charles Street",
+      "stopNumber": "4676",
+      "latitude": 49.18561851,
+      "longitude": -2.10231742,
+      "shelter": false
+    },
+    {
+      "id": "6110cf5a-a6d1-438b-b2e4-b6f3e2bcced5",
+      "name": "St Catherines Wood N",
+      "stopNumber": "3754",
+      "latitude": 49.21733651,
+      "longitude": -2.03129002,
+      "shelter": false
+    },
+    {
+      "id": "612f6706-2224-4fd6-857b-e991c39ecc7c",
+      "name": "Le Hocq Slipway E",
+      "stopNumber": "2954",
+      "latitude": 49.16734725,
+      "longitude": -2.06231347,
+      "shelter": false
+    },
+    {
+      "id": "612f7046-4c14-4aac-9426-c9d4272e2db6",
+      "name": "La Pulente N",
+      "stopNumber": "3579",
+      "latitude": 49.18853486,
+      "longitude": -2.22964143,
+      "shelter": false
+    },
+    {
+      "id": "61a176ca-837b-41c2-aec5-8ed40c031bc5",
+      "name": "Clos de Noirmont",
+      "stopNumber": "2528",
+      "latitude": 49.1830871,
+      "longitude": -2.17840545,
+      "shelter": false
+    },
+    {
+      "id": "61f94837-f2e2-4476-bf34-4fe3769fddd6",
+      "name": "Le Saie S",
+      "stopNumber": "4243",
+      "latitude": 49.23393813,
+      "longitude": -2.03867423,
+      "shelter": false
+    },
+    {
+      "id": "6218d457-8a94-4b65-a33a-b23091e30388",
+      "name": "St Peters School",
+      "stopNumber": "4353",
+      "latitude": 49.21248676,
+      "longitude": -2.18497603,
+      "shelter": false
+    },
+    {
+      "id": "624a23e4-838c-42ee-ba29-35730cc1d602",
+      "name": "Fremont Perle N",
+      "stopNumber": "3242",
+      "latitude": 49.24493207,
+      "longitude": -2.13437447,
+      "shelter": false
+    },
+    {
+      "id": "62646624-189f-49c0-b39e-411dc5df59b3",
+      "name": "Betchet es Cats E",
+      "stopNumber": "3237",
+      "latitude": 49.24665669,
+      "longitude": -2.11162768,
+      "shelter": false
+    },
+    {
+      "id": "627a28e3-1239-4f41-ac52-2aedac0c6778",
+      "name": "Bellozanne Road",
+      "stopNumber": "2343",
+      "latitude": 49.19295404,
+      "longitude": -2.12482476,
+      "shelter": false
+    },
+    {
+      "id": "62b2b1ae-9920-425d-bf21-feea35831198",
+      "name": "St Matthews Church E",
+      "stopNumber": "3797",
+      "latitude": 49.19850525,
+      "longitude": -2.14268801,
+      "shelter": false
+    },
+    {
+      "id": "62bff4cd-e9ea-4f78-97f1-63824dfc0b97",
+      "name": "Rue des Croix E",
+      "stopNumber": "4576",
+      "latitude": 49.23649875,
+      "longitude": -2.09327854,
+      "shelter": false
+    },
+    {
+      "id": "62c84b40-222f-4503-be1e-ed26c2fb4f43",
+      "name": "Rue du Pont",
+      "stopNumber": "3675",
+      "latitude": 49.21628478,
+      "longitude": -2.0750428,
+      "shelter": false
+    },
+    {
+      "id": "631c9dd7-4dc1-4703-a343-25cc5e75ed21",
+      "name": "Bus Station Stand B",
+      "stopNumber": "4524",
+      "latitude": 49.18356361,
+      "longitude": -2.11029578,
+      "shelter": false
+    },
+    {
+      "id": "640721f9-222a-4f57-b85c-a90a4c88d108",
+      "name": "Ruette de Faldouet W",
+      "stopNumber": "3736",
+      "latitude": 49.20368396,
+      "longitude": -2.03315077,
+      "shelter": false
+    },
+    {
+      "id": "642437ea-88b2-4fc9-9d30-894073f50611",
+      "name": "Trinity School N",
+      "stopNumber": "3547",
+      "latitude": 49.22885398,
+      "longitude": -2.09351037,
+      "shelter": false
+    },
+    {
+      "id": "6498833a-62e3-40db-8071-fb4f14bc3f53",
+      "name": "Le Braye S",
+      "stopNumber": "2938",
+      "latitude": 49.19802183,
+      "longitude": -2.22376429,
+      "shelter": false
+    },
+    {
+      "id": "64eecc87-517b-4638-8062-7aa66a1f7a70",
+      "name": "Clos du Rivage S",
+      "stopNumber": "2684",
+      "latitude": 49.19764454,
+      "longitude": -2.02863984,
+      "shelter": true
+    },
+    {
+      "id": "651713b0-721d-4cb5-8690-f43d64971e5d",
+      "name": "Clarke Avenue",
+      "stopNumber": "2523",
+      "latitude": 49.1988702,
+      "longitude": -2.11425706,
+      "shelter": true
+    },
+    {
+      "id": "651e1847-d7d4-41b3-98fe-fed94da6888a",
+      "name": "Trinity Arms W",
+      "stopNumber": "3927",
+      "latitude": 49.23291155,
+      "longitude": -2.08949334,
+      "shelter": true
+    },
+    {
+      "id": "6535787d-fecc-4d16-adad-d4636fd0fd36",
+      "name": "Longueville Court E",
+      "stopNumber": "3265",
+      "latitude": 49.18264097,
+      "longitude": -2.07470933,
+      "shelter": false
+    },
+    {
+      "id": "6558d902-8a2a-42fb-a640-7c57c6550474",
+      "name": "Albert Place N",
+      "stopNumber": "2329",
+      "latitude": 49.18232903,
+      "longitude": -2.11341832,
+      "shelter": false
+    },
+    {
+      "id": "65b9be57-b53a-4379-9b13-8c49117b9b67",
+      "name": "Grands Vaux Court N",
+      "stopNumber": "2693",
+      "latitude": 49.19747569,
+      "longitude": -2.09579903,
+      "shelter": false
+    },
+    {
+      "id": "66305b1c-9201-4a74-aef1-f68eb304236c",
+      "name": "Moulin de Quetivel S",
+      "stopNumber": "3734",
+      "latitude": 49.20878228,
+      "longitude": -2.16095064,
+      "shelter": false
+    },
+    {
+      "id": "666dfc72-3410-48e0-ae61-ba2333cdafc1",
+      "name": "Bagatelle Parade S",
+      "stopNumber": "3267",
+      "latitude": 49.19637443,
+      "longitude": -2.08252819,
+      "shelter": false
+    },
+    {
+      "id": "669b8cff-591c-4ec7-904c-a8b51d43f04d",
+      "name": "St Ouens Village S",
+      "stopNumber": "3826",
+      "latitude": 49.23280612,
+      "longitude": -2.20247819,
+      "shelter": true
+    },
+    {
+      "id": "66e0031f-9bb5-48e9-8713-18003158ea44",
+      "name": "Coastlands Avenue W",
+      "stopNumber": "3954",
+      "latitude": 49.1765623,
+      "longitude": -2.09226336,
+      "shelter": false
+    },
+    {
+      "id": "66e12ae1-e1de-4638-af22-961293516021",
+      "name": "St Ouens Village N",
+      "stopNumber": "3823",
+      "latitude": 49.23297324,
+      "longitude": -2.20266083,
+      "shelter": true
+    },
+    {
+      "id": "67354228-0690-49ad-8184-d8ed2861799d",
+      "name": "Millbrook W",
+      "stopNumber": "3692",
+      "latitude": 49.19779221,
+      "longitude": -2.13507372,
+      "shelter": false
+    },
+    {
+      "id": "675431d3-9348-44ba-97de-f37ff5bdc821",
+      "name": "Haute Tombette N",
+      "stopNumber": "2756",
+      "latitude": 49.24047379,
+      "longitude": -2.1644122,
+      "shelter": false
+    },
+    {
+      "id": "67bac814-a479-48b9-ab9b-868481e78ede",
+      "name": "Grouville Arsenal E",
+      "stopNumber": "2739",
+      "latitude": 49.18142258,
+      "longitude": -2.05930849,
+      "shelter": false
+    },
+    {
+      "id": "67f95344-43b1-4623-8ec2-2d09e25c314f",
+      "name": "Beaumont W",
+      "stopNumber": "2748",
+      "latitude": 49.19657206,
+      "longitude": -2.15735593,
+      "shelter": false
+    },
+    {
+      "id": "686f55dc-2a7c-4b4e-95e1-326c5e23ad8d",
+      "name": "Pomona Road S",
+      "stopNumber": "3562",
+      "latitude": 49.1902963,
+      "longitude": -2.10976429,
+      "shelter": false
+    },
+    {
+      "id": "6946465d-b572-4ec9-8fa5-d802a209f30e",
+      "name": "Longbeach S",
+      "stopNumber": "3268",
+      "latitude": 49.19614283,
+      "longitude": -2.03128954,
+      "shelter": true
+    },
+    {
+      "id": "6964efdd-a9f8-419b-9de3-78f92d26ca53",
+      "name": "La Hougue Bie W",
+      "stopNumber": "2486",
+      "latitude": 49.20094026,
+      "longitude": -2.06383368,
+      "shelter": false
+    },
+    {
+      "id": "697bd97d-f9e0-4e7e-a9d1-79313cd4992e",
+      "name": "La Blinerie",
+      "stopNumber": "2837",
+      "latitude": 49.17212353,
+      "longitude": -2.07414289,
+      "shelter": false
+    },
+    {
+      "id": "69cf89e1-bd07-4231-b6e3-80a12174f19f",
+      "name": "Greve de Lecq",
+      "stopNumber": "2736",
+      "latitude": 49.24584094,
+      "longitude": -2.19995611,
+      "shelter": false
+    },
+    {
+      "id": "69e8c9bd-11b6-437a-8cc1-c7a7bdd8b36a",
+      "name": "La Moye Garage N",
+      "stopNumber": "2868",
+      "latitude": 49.18558669,
+      "longitude": -2.21778516,
+      "shelter": false
+    },
+    {
+      "id": "6a62403f-124e-485c-a7e5-7ac0d1cb3218",
+      "name": "Rue des Brulees S",
+      "stopNumber": "2983",
+      "latitude": 49.2256925,
+      "longitude": -2.09357883,
+      "shelter": false
+    },
+    {
+      "id": "6a699429-1150-400a-88c4-8471ba8c3863",
+      "name": "St Saviours Church S",
+      "stopNumber": "3842",
+      "latitude": 49.19492705,
+      "longitude": -2.09082958,
+      "shelter": false
+    },
+    {
+      "id": "6a7350ac-61c2-4636-82e7-9d5f92e12397",
+      "name": "Clos Orange S",
+      "stopNumber": "2653",
+      "latitude": 49.18676418,
+      "longitude": -2.21678987,
+      "shelter": false
+    },
+    {
+      "id": "6aace129-c030-4745-8179-c18021a2b95d",
+      "name": "Les Vaux Larrons",
+      "stopNumber": "4397",
+      "latitude": 49.18066609,
+      "longitude": -2.23137487,
+      "shelter": false
+    },
+    {
+      "id": "6bdf4942-138b-4c63-b5c9-06dcda8ac443",
+      "name": "Rue de Bel Air E",
+      "stopNumber": "2725",
+      "latitude": 49.23613736,
+      "longitude": -2.16474679,
+      "shelter": false
+    },
+    {
+      "id": "6c6198ec-ebbc-4ffe-b544-b2f6dd4b4a31",
+      "name": "La Preference",
+      "stopNumber": "2893",
+      "latitude": 49.2134385,
+      "longitude": -2.05908781,
+      "shelter": false
+    },
+    {
+      "id": "6d3f709f-1a24-498a-acd0-541693a971e0",
+      "name": "West View S",
+      "stopNumber": "3982",
+      "latitude": 49.23762802,
+      "longitude": -2.16774342,
+      "shelter": false
+    },
+    {
+      "id": "6d46347a-8a37-4ef3-9b1c-8bae4a69ed4b",
+      "name": "Sion Lodge N",
+      "stopNumber": "2435",
+      "latitude": 49.21825818,
+      "longitude": -2.11457869,
+      "shelter": false
+    },
+    {
+      "id": "6d488307-f697-4259-abaf-36e1cfe3bc84",
+      "name": "Lime Grove E",
+      "stopNumber": "4285",
+      "latitude": 49.1799799,
+      "longitude": -2.10275525,
+      "shelter": false
+    },
+    {
+      "id": "6d5b0be2-ab08-4a1b-b7f6-66e2cd05684a",
+      "name": "Hotel La Place N",
+      "stopNumber": "2876",
+      "latitude": 49.19580083,
+      "longitude": -2.17724222,
+      "shelter": false
+    },
+    {
+      "id": "6d96a28f-5370-4261-8555-c4a98c66b98b",
+      "name": "Greve d'Azette E",
+      "stopNumber": "2342",
+      "latitude": 49.1694023,
+      "longitude": -2.08471517,
+      "shelter": false
+    },
+    {
+      "id": "6db05f75-61ea-4ea8-b8a5-184c4ec7682a",
+      "name": "Ouaisne Junction N",
+      "stopNumber": "3497",
+      "latitude": 49.17713355,
+      "longitude": -2.17320699,
+      "shelter": false
+    },
+    {
+      "id": "6db87a9d-7bf5-409b-b329-1a0cdb7c4506",
+      "name": "Rue du Ponterrin",
+      "stopNumber": "3487",
+      "latitude": 49.21246585,
+      "longitude": -2.08197845,
+      "shelter": false
+    },
+    {
+      "id": "6f245bf2-2d76-4620-b56b-19730177fc50",
+      "name": "Rose Farm W",
+      "stopNumber": "3239",
+      "latitude": 49.18442281,
+      "longitude": -2.18244012,
+      "shelter": false
+    },
+    {
+      "id": "6f368287-3380-4798-8d02-91fc6417917c",
+      "name": "Carrefour Selous W",
+      "stopNumber": "2478",
+      "latitude": 49.22699962,
+      "longitude": -2.14610647,
+      "shelter": false
+    },
+    {
+      "id": "6f9d2288-bf37-47af-b58f-650ae1f55036",
+      "name": "Ransoms N",
+      "stopNumber": "3589",
+      "latitude": 49.20546247,
+      "longitude": -2.03240049,
+      "shelter": false
+    },
+    {
+      "id": "6fb81f3d-ba4d-4d5c-9ddc-0a805a55c0ea",
+      "name": "Mont Cambrai S",
+      "stopNumber": "3984",
+      "latitude": 49.20611778,
+      "longitude": -2.14274371,
+      "shelter": false
+    },
+    {
+      "id": "6ffe0c0d-b7f5-43bf-b9ae-c773c5296ae3",
+      "name": "La Croix Messervy E",
+      "stopNumber": "3738",
+      "latitude": 49.21234303,
+      "longitude": -2.03867145,
+      "shelter": false
+    },
+    {
+      "id": "70e23e62-c245-4893-bd8d-6eb437f55ee7",
+      "name": "Priory Farm",
+      "stopNumber": "2952",
+      "latitude": 49.17177728,
+      "longitude": -2.06500727,
+      "shelter": false
+    },
+    {
+      "id": "70e2e630-8f51-4708-8fcd-92d06e2eeec8",
+      "name": "St Peters House N",
+      "stopNumber": "3832",
+      "latitude": 49.22093451,
+      "longitude": -2.18294094,
+      "shelter": false
+    },
+    {
+      "id": "711ee0d2-dc01-4da1-9c93-2b30d484803f",
+      "name": "The Cedars",
+      "stopNumber": "3942",
+      "latitude": 49.18003426,
+      "longitude": -2.10391278,
+      "shelter": false
+    },
+    {
+      "id": "71497dd0-0eca-4fe9-b6bb-62f9f1d3b036",
+      "name": "Hastings Road",
+      "stopNumber": "4385",
+      "latitude": 49.17975548,
+      "longitude": -2.09858987,
+      "shelter": false
+    },
+    {
+      "id": "714c4d61-6f64-4c87-b02f-286738fc3de0",
+      "name": "Rue Cyril Mauger",
+      "stopNumber": "4252",
+      "latitude": 49.20292777,
+      "longitude": -2.12838515,
+      "shelter": false
+    },
+    {
+      "id": "71eb26cf-e79a-429f-8a48-34f0531f1c01",
+      "name": "Queens Valley E",
+      "stopNumber": "3585",
+      "latitude": 49.20281522,
+      "longitude": -2.04134258,
+      "shelter": false
+    },
+    {
+      "id": "71fbf688-bb48-41fc-96f5-6e0513449062",
+      "name": "Route des Landes",
+      "stopNumber": "3653",
+      "latitude": 49.24652193,
+      "longitude": -2.23813757,
+      "shelter": false
+    },
+    {
+      "id": "726c47e2-6807-4842-af49-54009c9adc3d",
+      "name": "La Chesnee Farm S",
+      "stopNumber": "2845",
+      "latitude": 49.22231618,
+      "longitude": -2.09487686,
+      "shelter": false
+    },
+    {
+      "id": "728228ac-3a7d-4152-ba6c-b9d145591b50",
+      "name": "L'Enclos",
+      "stopNumber": "2932",
+      "latitude": 49.21357458,
+      "longitude": -2.07527237,
+      "shelter": false
+    },
+    {
+      "id": "729e3142-e72b-4187-b3e5-5078967d7bdc",
+      "name": "La Croix Messervy W",
+      "stopNumber": "3298",
+      "latitude": 49.21262911,
+      "longitude": -2.03942055,
+      "shelter": false
+    },
+    {
+      "id": "72e8be90-e7c0-4669-bfed-c4327f9d7244",
+      "name": "Tesson Chapel W",
+      "stopNumber": "3862",
+      "latitude": 49.20467496,
+      "longitude": -2.1549291,
+      "shelter": false
+    },
+    {
+      "id": "7331f315-5568-4143-81c5-b3e22dd90a90",
+      "name": "Five Mile Avenue N",
+      "stopNumber": "4232",
+      "latitude": 49.22637408,
+      "longitude": -2.23048414,
+      "shelter": false
+    },
+    {
+      "id": "7427bb52-a95f-42de-8478-19278ff386e8",
+      "name": "Rue Militaire N",
+      "stopNumber": "2393",
+      "latitude": 49.23958668,
+      "longitude": -2.11735423,
+      "shelter": false
+    },
+    {
+      "id": "745df3e1-8e86-409a-8a33-c97a5267d5a5",
+      "name": "The Union Inn",
+      "stopNumber": "3945",
+      "latitude": 49.21165186,
+      "longitude": -2.11316862,
+      "shelter": false
+    },
+    {
+      "id": "74687347-e667-4588-a9a7-495383247204",
+      "name": "Trinity Arms E",
+      "stopNumber": "4645",
+      "latitude": 49.23307946,
+      "longitude": -2.09006534,
+      "shelter": false
+    },
+    {
+      "id": "74d82fac-e88c-4723-82d4-d696a70a613c",
+      "name": "Rue de la Houguette",
+      "stopNumber": "2497",
+      "latitude": 49.17260471,
+      "longitude": -2.06008636,
+      "shelter": false
+    },
+    {
+      "id": "753d1349-9839-478f-975e-416f35dfeaae",
+      "name": "The Royal E",
+      "stopNumber": "3875",
+      "latitude": 49.21780098,
+      "longitude": -2.05025938,
+      "shelter": true
+    },
+    {
+      "id": "75582747-0724-47fb-b770-4607fac69f55",
+      "name": "St Marys Arsenal",
+      "stopNumber": "4293",
+      "latitude": 49.23442399,
+      "longitude": -2.17805998,
+      "shelter": false
+    },
+    {
+      "id": "756aefcb-e97e-4de3-ae37-7ff5480f7bc1",
+      "name": "Landscape Grove S",
+      "stopNumber": "4256",
+      "latitude": 49.20109248,
+      "longitude": -2.12936587,
+      "shelter": false
+    },
+    {
+      "id": "75707bf8-e76e-42e6-985d-5c7e6b3edcf0",
+      "name": "York Farm W",
+      "stopNumber": "3846",
+      "latitude": 49.19559237,
+      "longitude": -2.15982194,
+      "shelter": true
+    },
+    {
+      "id": "757216dd-f4ac-4ade-9fdc-280dd6c42b76",
+      "name": "Rectory Close",
+      "stopNumber": "3595",
+      "latitude": 49.17183084,
+      "longitude": -2.06492434,
+      "shelter": false
+    },
+    {
+      "id": "75b75563-1408-41be-bb70-048f3d12602b",
+      "name": "Haute Tombette S",
+      "stopNumber": "2854",
+      "latitude": 49.24054933,
+      "longitude": -2.16427236,
+      "shelter": false
+    },
+    {
+      "id": "7677f84a-41fe-4ee1-8bc6-64a38e6d9978",
+      "name": "Chasse Brunet W",
+      "stopNumber": "2489",
+      "latitude": 49.19752492,
+      "longitude": -2.08449108,
+      "shelter": false
+    },
+    {
+      "id": "768a616d-29d2-4c98-8256-f346d8f6a9f5",
+      "name": "Rue de la Preterie",
+      "stopNumber": "2782",
+      "latitude": 49.23367869,
+      "longitude": -2.18641284,
+      "shelter": false
+    },
+    {
+      "id": "772623bb-40d7-4205-b2b5-8aac7315acf6",
+      "name": "St Georges Church",
+      "stopNumber": "4346",
+      "latitude": 49.24730637,
+      "longitude": -2.22695698,
+      "shelter": false
+    },
+    {
+      "id": "772e7701-fc44-403a-bead-d638e332f1f6",
+      "name": "Ryburn Avenue N",
+      "stopNumber": "3594",
+      "latitude": 49.17595349,
+      "longitude": -2.08802491,
+      "shelter": false
+    },
+    {
+      "id": "7769a8a2-437a-4cac-a9eb-df70bcc7cafb",
+      "name": "Fosse a l'Ecrivain",
+      "stopNumber": "2643",
+      "latitude": 49.20476077,
+      "longitude": -2.0711532,
+      "shelter": false
+    },
+    {
+      "id": "77922e30-08b2-487b-b97b-bab7355a449a",
+      "name": "Petites Hinguettes",
+      "stopNumber": "2962",
+      "latitude": 49.1680449,
+      "longitude": -2.07928066,
+      "shelter": false
+    },
+    {
+      "id": "77a26a07-5c48-4413-b288-a2fab56126ba",
+      "name": "Maufant Lodge",
+      "stopNumber": "3294",
+      "latitude": 49.20965909,
+      "longitude": -2.06560596,
+      "shelter": false
+    },
+    {
+      "id": "77db555f-139b-4932-9e14-27288be06fac",
+      "name": "Rue Militaire S",
+      "stopNumber": "2389",
+      "latitude": 49.23951289,
+      "longitude": -2.11730652,
+      "shelter": false
+    },
+    {
+      "id": "7819efa4-fc9e-414a-afd5-a62c0af42c0c",
+      "name": "Abbotsmount",
+      "stopNumber": "2539",
+      "latitude": 49.19616884,
+      "longitude": -2.11370982,
+      "shelter": true
+    },
+    {
+      "id": "78d3d881-803e-407f-882f-bd01a2377272",
+      "name": "Croix au Lion S",
+      "stopNumber": "2562",
+      "latitude": 49.2174871,
+      "longitude": -2.18596518,
+      "shelter": true
+    },
+    {
+      "id": "797d4b9c-47a6-4362-a24c-72d89ebad8d8",
+      "name": "Green Farm E",
+      "stopNumber": "2524",
+      "latitude": 49.24565032,
+      "longitude": -2.12974803,
+      "shelter": false
+    },
+    {
+      "id": "7a08e7de-0e77-4fb6-9956-d3b8385cef5b",
+      "name": "Bellozanne Avenue",
+      "stopNumber": "2394",
+      "latitude": 49.19273802,
+      "longitude": -2.12420734,
+      "shelter": true
+    },
+    {
+      "id": "7afb774c-a2cc-4c48-8ab5-557f9b63e985",
+      "name": "Anne Port Slipway N",
+      "stopNumber": "4345",
+      "latitude": 49.20528313,
+      "longitude": -2.02269253,
+      "shelter": false
+    },
+    {
+      "id": "7b3b9e0d-9ff7-4c6f-9e46-990ea54c5041",
+      "name": "St Marks Church N",
+      "stopNumber": "3769",
+      "latitude": 49.18997796,
+      "longitude": -2.10339506,
+      "shelter": false
+    },
+    {
+      "id": "7b67390b-4b87-439b-8cba-1ac72f8b0aa0",
+      "name": "Woodbine Store",
+      "stopNumber": "4382",
+      "latitude": 49.18412474,
+      "longitude": -2.18034975,
+      "shelter": false
+    },
+    {
+      "id": "7b9ba0a0-5057-41a4-a45e-196ab08dea6f",
+      "name": "Five Oaks S",
+      "stopNumber": "2635",
+      "latitude": 49.19874068,
+      "longitude": -2.0802476,
+      "shelter": false
+    },
+    {
+      "id": "7bcd5a0f-9c27-43b1-b091-73ab9b4a4626",
+      "name": "St Andrews Park E",
+      "stopNumber": "3739",
+      "latitude": 49.19575671,
+      "longitude": -2.13137015,
+      "shelter": true
+    },
+    {
+      "id": "7c0e6bd1-2342-4268-bdc0-9eb282b590d8",
+      "name": "St Aubin N",
+      "stopNumber": "3742",
+      "latitude": 49.18790172,
+      "longitude": -2.1701276,
+      "shelter": true
+    },
+    {
+      "id": "7c3100e3-e9fd-40c9-be2f-b70c4ed26a9d",
+      "name": "Carrefour Selous S",
+      "stopNumber": "4624",
+      "latitude": 49.22749248,
+      "longitude": -2.14538586,
+      "shelter": false
+    },
+    {
+      "id": "7c7952ff-3423-4dfb-9361-d95909ccec88",
+      "name": "Les Monts W",
+      "stopNumber": "3939",
+      "latitude": 49.2019521,
+      "longitude": -2.03701596,
+      "shelter": false
+    },
+    {
+      "id": "7cb4abff-62c6-4474-bd83-2474d7edb628",
+      "name": "La Ruette N",
+      "stopNumber": "3849",
+      "latitude": 49.23536427,
+      "longitude": -2.16121063,
+      "shelter": false
+    },
+    {
+      "id": "7d1424f5-c47f-40e0-b2c5-611619cf0b10",
+      "name": "Castle Street",
+      "stopNumber": "2594",
+      "latitude": 49.1846389,
+      "longitude": -2.11166341,
+      "shelter": false
+    },
+    {
+      "id": "7d2a57ed-a099-421b-8465-504ab129618b",
+      "name": "Kempt Tower N",
+      "stopNumber": "2828",
+      "latitude": 49.21984626,
+      "longitude": -2.22632485,
+      "shelter": false
+    },
+    {
+      "id": "7d7cecea-51c6-4463-b57b-18569472a6a9",
+      "name": "Route des Pelles N",
+      "stopNumber": "3632",
+      "latitude": 49.2292002,
+      "longitude": -2.04407909,
+      "shelter": false
+    },
+    {
+      "id": "7da1a52b-54a4-4baa-a35a-d88079987e3f",
+      "name": "Les Perrons",
+      "stopNumber": "3542",
+      "latitude": 49.24506481,
+      "longitude": -2.22916909,
+      "shelter": false
+    },
+    {
+      "id": "7dee09d0-7414-4429-83e2-fb1bdf82f958",
+      "name": "St Brelades Bay W",
+      "stopNumber": "2463",
+      "latitude": 49.18552576,
+      "longitude": -2.19955947,
+      "shelter": false
+    },
+    {
+      "id": "7fa5361b-5ace-455b-8b35-45b6c09f552c",
+      "name": "St Brelade Church W",
+      "stopNumber": "3748",
+      "latitude": 49.18502286,
+      "longitude": -2.20414446,
+      "shelter": false
+    },
+    {
+      "id": "804e1070-5340-4399-a431-edaf7a960106",
+      "name": "Rue des Buttes S",
+      "stopNumber": "3676",
+      "latitude": 49.21537008,
+      "longitude": -2.05442557,
+      "shelter": false
+    },
+    {
+      "id": "81283f2f-1219-40b7-bcaa-c2c7edf0bf21",
+      "name": "Les Cabots E",
+      "stopNumber": "2467",
+      "latitude": 49.18076837,
+      "longitude": -2.06678467,
+      "shelter": false
+    },
+    {
+      "id": "8166503c-f6a9-46be-8ad0-fe94d17dc8b3",
+      "name": "La Hacienda",
+      "stopNumber": "2857",
+      "latitude": 49.20143815,
+      "longitude": -2.01890139,
+      "shelter": false
+    },
+    {
+      "id": "81995cda-4a6f-4071-a960-f0a0df23a7b7",
+      "name": "Roche du Lion",
+      "stopNumber": "3625",
+      "latitude": 49.20156195,
+      "longitude": -2.01872946,
+      "shelter": false
+    },
+    {
+      "id": "81ad8aaf-26dd-48d5-993a-c1786ab6e965",
+      "name": "St Lawrence Church S",
+      "stopNumber": "2459",
+      "latitude": 49.2136851,
+      "longitude": -2.14124731,
+      "shelter": false
+    },
+    {
+      "id": "822a8dee-eead-48d0-8545-326bdf6b5bd0",
+      "name": "Rue du Manoir",
+      "stopNumber": "3285",
+      "latitude": 49.22712446,
+      "longitude": -2.19816482,
+      "shelter": false
+    },
+    {
+      "id": "82d6e75c-475d-4097-80a7-be6ba2776d60",
+      "name": "Hotel La Place S",
+      "stopNumber": "3453",
+      "latitude": 49.19596133,
+      "longitude": -2.1771618,
+      "shelter": false
+    },
+    {
+      "id": "835c9035-67eb-4834-b6ba-4278d3ed5fb1",
+      "name": "Trinity Church S",
+      "stopNumber": "2787",
+      "latitude": 49.23341361,
+      "longitude": -2.09163819,
+      "shelter": false
+    },
+    {
+      "id": "8412febb-d887-4eab-b61a-c8ac4e3bb09c",
+      "name": "Green Farm W",
+      "stopNumber": "2698",
+      "latitude": 49.24560017,
+      "longitude": -2.12955887,
+      "shelter": false
+    },
+    {
+      "id": "841578f2-b3ac-4d66-ab76-600f5e9faca8",
+      "name": "Travers Farm Lane S",
+      "stopNumber": "3279",
+      "latitude": 49.17983521,
+      "longitude": -2.17531043,
+      "shelter": false
+    },
+    {
+      "id": "841e80e4-de93-4a44-994c-94f0b1f3ab9e",
+      "name": "Rue des Vignes W",
+      "stopNumber": "4359",
+      "latitude": 49.20615745,
+      "longitude": -2.17866853,
+      "shelter": false
+    },
+    {
+      "id": "84345be7-7801-4cf4-adf1-8b63b2ac6810",
+      "name": "Clos des Pauvres",
+      "stopNumber": "4629",
+      "latitude": 49.24521177,
+      "longitude": -2.16575848,
+      "shelter": false
+    },
+    {
+      "id": "8448852c-df9f-47ed-b125-a571f43937e6",
+      "name": "Rozel Manor N",
+      "stopNumber": "2974",
+      "latitude": 49.22710425,
+      "longitude": -2.04700329,
+      "shelter": false
+    },
+    {
+      "id": "844a8d4d-8891-4a9f-aebe-a703a896b1ab",
+      "name": "St Marys Garage W",
+      "stopNumber": "3793",
+      "latitude": 49.2353097,
+      "longitude": -2.16807429,
+      "shelter": false
+    },
+    {
+      "id": "8462f566-10dd-4172-9826-6413dab32b86",
+      "name": "Les Varines W",
+      "stopNumber": "3953",
+      "latitude": 49.18250238,
+      "longitude": -2.08376698,
+      "shelter": true
+    },
+    {
+      "id": "84aaa07e-344c-49fa-8009-975670249cec",
+      "name": "St Clement Gardens W",
+      "stopNumber": "3757",
+      "latitude": 49.17495485,
+      "longitude": -2.08576143,
+      "shelter": false
+    },
+    {
+      "id": "8535e2df-02f7-45e6-9ce8-0392e6629c49",
+      "name": "Grosnez House",
+      "stopNumber": "2738",
+      "latitude": 49.2530508,
+      "longitude": -2.23917739,
+      "shelter": false
+    },
+    {
+      "id": "8553127b-8705-4965-a231-0235e677fa80",
+      "name": "Don Street",
+      "stopNumber": "4658",
+      "latitude": 49.18610339,
+      "longitude": -2.10536796,
+      "shelter": false
+    },
+    {
+      "id": "85743d42-bd4f-4485-882e-6f5ac5885c60",
+      "name": "Les Routeurs N",
+      "stopNumber": "3238",
+      "latitude": 49.20324126,
+      "longitude": -2.07363569,
+      "shelter": false
+    },
+    {
+      "id": "85b901c7-c1a3-44e6-bb19-de54d6abf6cf",
+      "name": "Sutton Court S",
+      "stopNumber": "3983",
+      "latitude": 49.20002545,
+      "longitude": -2.09528562,
+      "shelter": false
+    },
+    {
+      "id": "85b92753-302d-4092-b3b1-255fcabfec4c",
+      "name": "Moulin de Quetivel N",
+      "stopNumber": "3469",
+      "latitude": 49.20879358,
+      "longitude": -2.16104503,
+      "shelter": false
+    },
+    {
+      "id": "86aa85d2-010f-4557-9223-425ae0018348",
+      "name": "Paul Mill N",
+      "stopNumber": "3532",
+      "latitude": 49.20652664,
+      "longitude": -2.08423316,
+      "shelter": false
+    },
+    {
+      "id": "86da56b2-4a9d-4362-881f-b1d1719bb299",
+      "name": "Parcq du Rivage W",
+      "stopNumber": "3429",
+      "latitude": 49.19697774,
+      "longitude": -2.15205708,
+      "shelter": false
+    },
+    {
+      "id": "87057f6c-512f-4918-abe3-be8c42dea39a",
+      "name": "Manor Park Road",
+      "stopNumber": "2568",
+      "latitude": 49.19793771,
+      "longitude": -2.10964039,
+      "shelter": false
+    },
+    {
+      "id": "8734a231-0a6f-4e02-8e24-50c01b89e28a",
+      "name": "Castle View",
+      "stopNumber": "2454",
+      "latitude": 49.19032202,
+      "longitude": -2.11712595,
+      "shelter": false
+    },
+    {
+      "id": "8773c258-a69c-4594-9c2a-3d0c44b57314",
+      "name": "Rocque Bay W",
+      "stopNumber": "2458",
+      "latitude": 49.16660457,
+      "longitude": -2.06965874,
+      "shelter": false
+    },
+    {
+      "id": "88440256-54ab-47ea-ae70-73893c6d25e5",
+      "name": "Les Ruettes N",
+      "stopNumber": "3693",
+      "latitude": 49.23475385,
+      "longitude": -2.11296156,
+      "shelter": false
+    },
+    {
+      "id": "8856223f-5084-42c8-b992-4797ca3487cb",
+      "name": "Rue au Blancq E",
+      "stopNumber": "3637",
+      "latitude": 49.17189053,
+      "longitude": -2.07147549,
+      "shelter": false
+    },
+    {
+      "id": "8892602e-417b-40ce-a09f-c9ad807105b1",
+      "name": "La Rocque Harbour N",
+      "stopNumber": "2896",
+      "latitude": 49.16544995,
+      "longitude": -2.03184351,
+      "shelter": false
+    },
+    {
+      "id": "88b38e66-d42b-48ba-8069-eaab265edf1a",
+      "name": "La Blanche Maison N",
+      "stopNumber": "2752",
+      "latitude": 49.23934521,
+      "longitude": -2.23963014,
+      "shelter": false
+    },
+    {
+      "id": "88ba7660-039f-4f0b-b6e8-e0622dea606b",
+      "name": "La Pulente S",
+      "stopNumber": "2895",
+      "latitude": 49.18832552,
+      "longitude": -2.22979885,
+      "shelter": false
+    },
+    {
+      "id": "88d16f54-7ab9-408e-b028-80aafe7b4829",
+      "name": "Manor Close",
+      "stopNumber": "3284",
+      "latitude": 49.17398929,
+      "longitude": -2.0823018,
+      "shelter": false
+    },
+    {
+      "id": "8933cab8-4fe7-43fa-af63-ca5947cdd9f2",
+      "name": "Hautes Croix Store W",
+      "stopNumber": "2753",
+      "latitude": 49.23943572,
+      "longitude": -2.11204405,
+      "shelter": false
+    },
+    {
+      "id": "89f5ad98-3da6-4aef-bf50-3dccad83597a",
+      "name": "Miladi Farm Parade W",
+      "stopNumber": "3435",
+      "latitude": 49.18302896,
+      "longitude": -2.08212442,
+      "shelter": false
+    },
+    {
+      "id": "8a5b26d9-4753-4fde-90ab-81ce8a386de9",
+      "name": "Fort William N",
+      "stopNumber": "3946",
+      "latitude": 49.195101,
+      "longitude": -2.03307722,
+      "shelter": false
+    },
+    {
+      "id": "8ac97bed-dc12-4a02-9537-a2501c2bad26",
+      "name": "La Collette Flats",
+      "stopNumber": "2728",
+      "latitude": 49.17726594,
+      "longitude": -2.10474749,
+      "shelter": true
+    },
+    {
+      "id": "8b034af3-6019-4fc9-ba3e-585b2a9fb357",
+      "name": "St Saviours School N",
+      "stopNumber": "3836",
+      "latitude": 49.19369458,
+      "longitude": -2.08425239,
+      "shelter": false
+    },
+    {
+      "id": "8b295672-8bd4-4b8d-85dd-4903025d1a52",
+      "name": "St Marks Church S",
+      "stopNumber": "4673",
+      "latitude": 49.19030604,
+      "longitude": -2.10348961,
+      "shelter": false
+    },
+    {
+      "id": "8b44fc3c-e80e-42be-b5bd-e51caeafed95",
+      "name": "Red Houses Waitrose E",
+      "stopNumber": "2529",
+      "latitude": 49.19035757,
+      "longitude": -2.20220708,
+      "shelter": true
+    },
+    {
+      "id": "8ba02ed0-c31e-4b68-a649-fc02d0517e48",
+      "name": "The Cloisters",
+      "stopNumber": "3272",
+      "latitude": 49.18219896,
+      "longitude": -2.09641093,
+      "shelter": false
+    },
+    {
+      "id": "8c114673-fc07-4c47-8a22-1fd57dfcb146",
+      "name": "Rue Cappelain N",
+      "stopNumber": "2564",
+      "latitude": 49.2041733,
+      "longitude": -2.1808563,
+      "shelter": false
+    },
+    {
+      "id": "8cacb9c8-2538-4406-9835-53362837a6ef",
+      "name": "Oak Tree Gardens N",
+      "stopNumber": "3938",
+      "latitude": 49.20012594,
+      "longitude": -2.09923581,
+      "shelter": false
+    },
+    {
+      "id": "8cd9f97f-0e83-4502-b3dc-0755cca1dee1",
+      "name": "Green Island E",
+      "stopNumber": "2724",
+      "latitude": 49.16473267,
+      "longitude": -2.07358153,
+      "shelter": false
+    },
+    {
+      "id": "8ce905d3-c228-4d56-9ddc-ee9128b02b92",
+      "name": "Samares Avenue",
+      "stopNumber": "2624",
+      "latitude": 49.1742111,
+      "longitude": -2.08324917,
+      "shelter": true
+    },
+    {
+      "id": "8d906c22-1f10-46d9-a1c6-640fb95adc5a",
+      "name": "Les Quennevais Sch",
+      "stopNumber": "3586",
+      "latitude": 49.19192902,
+      "longitude": -2.20706863,
+      "shelter": false
+    },
+    {
+      "id": "8db6450a-db03-48ba-a5ae-21cba1d703ca",
+      "name": "Avenue de la Reine",
+      "stopNumber": "3874",
+      "latitude": 49.20684141,
+      "longitude": -2.17507534,
+      "shelter": false
+    },
+    {
+      "id": "8df18fff-bb4a-4e74-b950-db74edd41496",
+      "name": "Causie Lane E",
+      "stopNumber": "3495",
+      "latitude": 49.17352137,
+      "longitude": -2.04832063,
+      "shelter": false
+    },
+    {
+      "id": "8e3e8850-4652-4f41-ad6c-3ec43642d2cb",
+      "name": "Lewis Lane",
+      "stopNumber": "3534",
+      "latitude": 49.189082,
+      "longitude": -2.11388226,
+      "shelter": false
+    },
+    {
+      "id": "904f5f3d-1672-4068-baf6-a5c3bee787e9",
+      "name": "Rue d'Olive N",
+      "stopNumber": "2864",
+      "latitude": 49.24521433,
+      "longitude": -2.16589536,
+      "shelter": false
+    },
+    {
+      "id": "9080d63f-e9a3-434e-b392-11fcc6953008",
+      "name": "La Lande W",
+      "stopNumber": "4273",
+      "latitude": 49.24630284,
+      "longitude": -2.10629185,
+      "shelter": false
+    },
+    {
+      "id": "90b0eec2-0963-42c4-8b38-03f4c7887eda",
+      "name": "Route du Petit Port",
+      "stopNumber": "3852",
+      "latitude": 49.18379133,
+      "longitude": -2.22357335,
+      "shelter": false
+    },
+    {
+      "id": "90dc0564-ac3d-4c8b-82be-a3be596e2cc7",
+      "name": "Les Monts E",
+      "stopNumber": "2687",
+      "latitude": 49.20206153,
+      "longitude": -2.03670152,
+      "shelter": false
+    },
+    {
+      "id": "90e1af96-b673-4d3c-8433-f6192c9b60db",
+      "name": "Hautlieu School",
+      "stopNumber": "2758",
+      "latitude": 49.19251387,
+      "longitude": -2.09164662,
+      "shelter": false
+    },
+    {
+      "id": "9114fd7f-48b6-4f0c-85f2-d6bc2ae9e5eb",
+      "name": "I. J. Bathe Field N",
+      "stopNumber": "3647",
+      "latitude": 49.20410775,
+      "longitude": -2.06445021,
+      "shelter": false
+    },
+    {
+      "id": "91ea8c6e-8ecc-4393-95a5-1ff210ffe3a4",
+      "name": "Augres S",
+      "stopNumber": "3232",
+      "latitude": 49.21652582,
+      "longitude": -2.09597783,
+      "shelter": false
+    },
+    {
+      "id": "92a8f747-7a48-4c25-8355-34c6066cff73",
+      "name": "Le Vier Mont E",
+      "stopNumber": "3628",
+      "latitude": 49.18199111,
+      "longitude": -2.07102966,
+      "shelter": false
+    },
+    {
+      "id": "92c52c09-1580-4884-bd3e-38fd837c1997",
+      "name": "Gloster Terrace N",
+      "stopNumber": "3549",
+      "latitude": 49.19199759,
+      "longitude": -2.10912544,
+      "shelter": false
+    },
+    {
+      "id": "93d139f8-0fe2-428c-b625-1a96f18380d0",
+      "name": "Beach Road W",
+      "stopNumber": "2574",
+      "latitude": 49.17697922,
+      "longitude": -2.09667644,
+      "shelter": true
+    },
+    {
+      "id": "93f132c6-f84b-4b84-bebc-2041b4fe341c",
+      "name": "Queen Street",
+      "stopNumber": "4682",
+      "latitude": 49.18427162,
+      "longitude": -2.10479729,
+      "shelter": false
+    },
+    {
+      "id": "9420f520-b40a-4187-bfe3-15da57adc401",
+      "name": "Albert Place S",
+      "stopNumber": "2328",
+      "latitude": 49.18229313,
+      "longitude": -2.11321034,
+      "shelter": false
+    },
+    {
+      "id": "942e1691-fbf4-4991-abf6-930e3ca57ca4",
+      "name": "Perquage Car Park",
+      "stopNumber": "3694",
+      "latitude": 49.19655681,
+      "longitude": -2.15519642,
+      "shelter": true
+    },
+    {
+      "id": "94b35a62-027b-4be5-8e08-b595c6129da2",
+      "name": "Rue de Cambrai S",
+      "stopNumber": "2675",
+      "latitude": 49.23905359,
+      "longitude": -2.09374557,
+      "shelter": false
+    },
+    {
+      "id": "9659bec7-d1fb-45b3-8223-2ca32ec96fde",
+      "name": "Les Augerez N",
+      "stopNumber": "2982",
+      "latitude": 49.23271266,
+      "longitude": -2.18176866,
+      "shelter": false
+    },
+    {
+      "id": "97e80b32-3a33-44a6-9d93-bb38720d312b",
+      "name": "Rose Farm E",
+      "stopNumber": "3627",
+      "latitude": 49.18432189,
+      "longitude": -2.18116462,
+      "shelter": true
+    },
+    {
+      "id": "97ff81fb-cc66-40a0-9a0c-ace0504cd164",
+      "name": "Bus Station Stand J",
+      "stopNumber": "4535",
+      "latitude": 49.18322179,
+      "longitude": -2.10970612,
+      "shelter": false
+    },
+    {
+      "id": "980b4bd5-c436-4a4e-a2c5-5d41a538671f",
+      "name": "Quenault Centre",
+      "stopNumber": "4646",
+      "latitude": 49.19179416,
+      "longitude": -2.20721557,
+      "shelter": true
+    },
+    {
+      "id": "98bded59-d440-48f2-a736-4e9fa6b0b206",
+      "name": "Les Carrieres",
+      "stopNumber": "2783",
+      "latitude": 49.21256569,
+      "longitude": -2.05909045,
+      "shelter": false
+    },
+    {
+      "id": "993e6cdd-a156-464d-8b7d-a646cb75814e",
+      "name": "Cloverley Court N",
+      "stopNumber": "2538",
+      "latitude": 49.20775216,
+      "longitude": -2.03354007,
+      "shelter": false
+    },
+    {
+      "id": "99e85093-6558-4ddc-98a3-1a3fab872941",
+      "name": "Lime Grove W",
+      "stopNumber": "4286",
+      "latitude": 49.17980795,
+      "longitude": -2.10269838,
+      "shelter": false
+    },
+    {
+      "id": "9a0b70e5-bd01-4395-a348-4bda005496e9",
+      "name": "Rue Cappelain S",
+      "stopNumber": "2565",
+      "latitude": 49.20423811,
+      "longitude": -2.18080626,
+      "shelter": false
+    },
+    {
+      "id": "9a6f4590-d411-4174-8fe2-64b15eda763c",
+      "name": "Bradford Avenue E",
+      "stopNumber": "2456",
+      "latitude": 49.18989909,
+      "longitude": -2.19739657,
+      "shelter": false
+    },
+    {
+      "id": "9b291a4e-bb61-4c36-8217-12ccf8647147",
+      "name": "Springfield Stadium",
+      "stopNumber": "3737",
+      "latitude": 49.19121413,
+      "longitude": -2.09949898,
+      "shelter": true
+    },
+    {
+      "id": "9bffab81-7c31-418b-a945-3a6bba372074",
+      "name": "Mont Huelin N",
+      "stopNumber": "3275",
+      "latitude": 49.23696741,
+      "longitude": -2.23436935,
+      "shelter": false
+    },
+    {
+      "id": "9c2dfa7c-90f5-4131-b705-9cc8c76946c5",
+      "name": "Coronation Park W",
+      "stopNumber": "3437",
+      "latitude": 49.19854821,
+      "longitude": -2.13975198,
+      "shelter": false
+    },
+    {
+      "id": "9c53e8be-12bd-4273-9cf0-2b7420677e8c",
+      "name": "Pomona Road N",
+      "stopNumber": "3847",
+      "latitude": 49.19006401,
+      "longitude": -2.11009895,
+      "shelter": true
+    },
+    {
+      "id": "9c59fd37-c223-4470-96f1-e5f2bde34476",
+      "name": "Fremont Perle S",
+      "stopNumber": "2646",
+      "latitude": 49.2447519,
+      "longitude": -2.13457745,
+      "shelter": false
+    },
+    {
+      "id": "9d090c50-248b-4e96-a01e-3b441344b51d",
+      "name": "Rue du Boulay S",
+      "stopNumber": "4257",
+      "latitude": 49.2349702,
+      "longitude": -2.08565015,
+      "shelter": false
+    },
+    {
+      "id": "9d76aab5-45e7-4c2a-987e-ed4b1915da10",
+      "name": "Les Residences",
+      "stopNumber": "2578",
+      "latitude": 49.19854332,
+      "longitude": -2.02668746,
+      "shelter": false
+    },
+    {
+      "id": "9dabd818-5d6c-44be-97e6-3b78ba07e110",
+      "name": "Tabor Park W",
+      "stopNumber": "3864",
+      "latitude": 49.18905836,
+      "longitude": -2.1938831,
+      "shelter": false
+    },
+    {
+      "id": "9dd0eb1b-5c04-497f-835f-1183a73cd282",
+      "name": "Les Croix N",
+      "stopNumber": "4265",
+      "latitude": 49.23732014,
+      "longitude": -2.09359853,
+      "shelter": false
+    },
+    {
+      "id": "9ea55347-dbb3-4e77-a70b-d86d64d708e5",
+      "name": "Sion Lodge S",
+      "stopNumber": "2826",
+      "latitude": 49.21815309,
+      "longitude": -2.11449186,
+      "shelter": true
+    },
+    {
+      "id": "9eca1d16-ff59-4eff-9830-5ab4f7c16955",
+      "name": "Millbrook E",
+      "stopNumber": "2767",
+      "latitude": 49.19817007,
+      "longitude": -2.13558429,
+      "shelter": true
+    },
+    {
+      "id": "9f63cf43-e955-4ee3-828e-f6fdabcf26c2",
+      "name": "Glencoe N",
+      "stopNumber": "3468",
+      "latitude": 49.2315106,
+      "longitude": -2.14353163,
+      "shelter": false
+    },
+    {
+      "id": "9f6e5074-3f08-49d6-9e39-a49bfbe37942",
+      "name": "Mont Nicolle E",
+      "stopNumber": "3465",
+      "latitude": 49.18808683,
+      "longitude": -2.18880524,
+      "shelter": true
+    },
+    {
+      "id": "a050db62-0ae1-4926-89ea-d35ffad1970a",
+      "name": "La Piece Mauger S",
+      "stopNumber": "2324",
+      "latitude": 49.22448983,
+      "longitude": -2.06783279,
+      "shelter": false
+    },
+    {
+      "id": "a094deaf-bcf3-44c9-96ed-ab9966db565f",
+      "name": "Bus Station Stand M",
+      "stopNumber": "4538",
+      "latitude": 49.18354275,
+      "longitude": -2.10996796,
+      "shelter": false
+    },
+    {
+      "id": "a12b999a-14bb-47b2-84d4-23145209fbce",
+      "name": "Tesson Chapel E",
+      "stopNumber": "3859",
+      "latitude": 49.20487048,
+      "longitude": -2.1548746,
+      "shelter": false
+    },
+    {
+      "id": "a1686cb1-05ff-4d8c-8571-2a51287e4b6a",
+      "name": "Salisbury Crescent",
+      "stopNumber": "2694",
+      "latitude": 49.18849764,
+      "longitude": -2.09831919,
+      "shelter": true
+    },
+    {
+      "id": "a198fde0-da02-4ba5-b62f-70fcb1065b28",
+      "name": "Bon Air Apartments",
+      "stopNumber": "2549",
+      "latitude": 49.16979306,
+      "longitude": -2.05282897,
+      "shelter": false
+    },
+    {
+      "id": "a1b3ebc6-f275-4bd6-9081-657b380da1c8",
+      "name": "Grouville School",
+      "stopNumber": "2972",
+      "latitude": 49.18662996,
+      "longitude": -2.0439237,
+      "shelter": true
+    },
+    {
+      "id": "a1bdd48b-6c98-4b72-94ea-bb9978c0a971",
+      "name": "Jersey Rugby Club N",
+      "stopNumber": "3678",
+      "latitude": 49.20530486,
+      "longitude": -2.18136771,
+      "shelter": false
+    },
+    {
+      "id": "a272effa-c790-4b59-932d-3a3d4f77a246",
+      "name": "Bon Air Lane N",
+      "stopNumber": "2429",
+      "latitude": 49.19070081,
+      "longitude": -2.08737458,
+      "shelter": false
+    },
+    {
+      "id": "a2a8a19a-32aa-426d-b39a-513314f944cc",
+      "name": "Devon Gardens N",
+      "stopNumber": "2678",
+      "latitude": 49.19996474,
+      "longitude": -2.02323965,
+      "shelter": false
+    },
+    {
+      "id": "a39d9088-4e8b-4fad-b717-f6e26077aeba",
+      "name": "Surville Cemetery N",
+      "stopNumber": "3854",
+      "latitude": 49.2151798,
+      "longitude": -2.11347637,
+      "shelter": false
+    },
+    {
+      "id": "a3ec298c-4ed3-4174-b3a2-20549d736fec",
+      "name": "Grouville Church E",
+      "stopNumber": "2743",
+      "latitude": 49.18384422,
+      "longitude": -2.04962602,
+      "shelter": false
+    },
+    {
+      "id": "a42dc266-cf3b-42d3-ac97-303caab90b0d",
+      "name": "Jersey Aero Club W",
+      "stopNumber": "2798",
+      "latitude": 49.20613489,
+      "longitude": -2.18382552,
+      "shelter": true
+    },
+    {
+      "id": "a48e305d-e44e-4138-8d09-c2bb6671ab25",
+      "name": "Queens Lane",
+      "stopNumber": "3583",
+      "latitude": 49.19429491,
+      "longitude": -2.10937664,
+      "shelter": false
+    },
+    {
+      "id": "a48f132a-7e25-4ed2-acbc-1098752ba3d2",
+      "name": "Rue de Mon Sejour S",
+      "stopNumber": "3845",
+      "latitude": 49.20551501,
+      "longitude": -2.09818745,
+      "shelter": false
+    },
+    {
+      "id": "a48fc497-b8ef-4cca-91bf-82915633d1bf",
+      "name": "La Moye School W",
+      "stopNumber": "4238",
+      "latitude": 49.1880607,
+      "longitude": -2.21515895,
+      "shelter": false
+    },
+    {
+      "id": "a4e2a837-f81e-46b0-a83a-57f9a19c8765",
+      "name": "Les Landes Common",
+      "stopNumber": "3235",
+      "latitude": 49.24437662,
+      "longitude": -2.24406659,
+      "shelter": false
+    },
+    {
+      "id": "a51ea4eb-8035-41be-a99a-1bcbd3b1a52c",
+      "name": "Les Hougues E",
+      "stopNumber": "4323",
+      "latitude": 49.23324134,
+      "longitude": -2.06942203,
+      "shelter": false
+    },
+    {
+      "id": "a58fb3e8-394b-42e0-9ed9-23a504dcd7e4",
+      "name": "First Tower W",
+      "stopNumber": "2629",
+      "latitude": 49.19434833,
+      "longitude": -2.12785458,
+      "shelter": true
+    },
+    {
+      "id": "a5e7fb22-3d38-4059-b6a4-227c0a6747f4",
+      "name": "Longueville Manor W",
+      "stopNumber": "3657",
+      "latitude": 49.18317728,
+      "longitude": -2.07778161,
+      "shelter": true
+    },
+    {
+      "id": "a60a62b3-0a69-4d5d-a902-14fbf376611e",
+      "name": "Le Hurel N",
+      "stopNumber": "2957",
+      "latitude": 49.22014743,
+      "longitude": -2.09420467,
+      "shelter": false
+    },
+    {
+      "id": "a74e0821-858d-41c5-9f54-ba74433ccea0",
+      "name": "Headlands",
+      "stopNumber": "2674",
+      "latitude": 49.16516605,
+      "longitude": -2.03549205,
+      "shelter": false
+    },
+    {
+      "id": "a756ebef-3c23-4f29-a6bf-332c35002701",
+      "name": "Les Fourneaux Est",
+      "stopNumber": "3965",
+      "latitude": 49.18002048,
+      "longitude": -2.22618529,
+      "shelter": false
+    },
+    {
+      "id": "a77945d6-29f4-4850-9a88-81f4eea24c15",
+      "name": "Clos St Andre S",
+      "stopNumber": "4259",
+      "latitude": 49.19642009,
+      "longitude": -2.12461706,
+      "shelter": false
+    },
+    {
+      "id": "a7c2f8e0-764f-44c4-985f-c483cf20338d",
+      "name": "Sutton Court N",
+      "stopNumber": "3856",
+      "latitude": 49.20075952,
+      "longitude": -2.09471177,
+      "shelter": false
+    },
+    {
+      "id": "a7e284af-8a52-40b7-8407-86b7a6a3c994",
+      "name": "La Verte Rue",
+      "stopNumber": "2929",
+      "latitude": 49.1726571,
+      "longitude": -2.0600199,
+      "shelter": false
+    },
+    {
+      "id": "a7f12a82-fcfb-47f0-bff0-6a8a618ddfe6",
+      "name": "Fauvic Farm",
+      "stopNumber": "2623",
+      "latitude": 49.17619889,
+      "longitude": -2.04166428,
+      "shelter": false
+    },
+    {
+      "id": "a8b44446-c46d-4121-a1e3-bb7157d28177",
+      "name": "Rue des Fonds E",
+      "stopNumber": "2372",
+      "latitude": 49.186082,
+      "longitude": -2.04520952,
+      "shelter": false
+    },
+    {
+      "id": "a8d6f0de-a5fb-44a0-a3cf-1c14b51654eb",
+      "name": "Airport Garages N",
+      "stopNumber": "2924",
+      "latitude": 49.20072556,
+      "longitude": -2.19627572,
+      "shelter": true
+    },
+    {
+      "id": "a8e94714-ec10-489f-896a-0c2c066cd12e",
+      "name": "Rozel Bay",
+      "stopNumber": "3634",
+      "latitude": 49.23478411,
+      "longitude": -2.04684463,
+      "shelter": false
+    },
+    {
+      "id": "a8fbfb4e-3838-4e2b-9a8c-ee323422b5c3",
+      "name": "Byron Road S",
+      "stopNumber": "3947",
+      "latitude": 49.1916985,
+      "longitude": -2.1024328,
+      "shelter": false
+    },
+    {
+      "id": "a949ae3c-3e6e-4f2e-b921-34821c21aa2a",
+      "name": "Clarendon Road",
+      "stopNumber": "2639",
+      "latitude": 49.19316204,
+      "longitude": -2.10437785,
+      "shelter": false
+    },
+    {
+      "id": "a9f0d795-64ce-46cb-8a9e-3808d9c0f050",
+      "name": "Fauvic Common S",
+      "stopNumber": "2836",
+      "latitude": 49.17900534,
+      "longitude": -2.03506771,
+      "shelter": false
+    },
+    {
+      "id": "aab0e31f-01e1-4b6b-b497-f95e793aba7c",
+      "name": "Red Houses Shops S",
+      "stopNumber": "3598",
+      "latitude": 49.19126744,
+      "longitude": -2.19986923,
+      "shelter": true
+    },
+    {
+      "id": "aac0de29-5770-4e23-bac4-b228259d266b",
+      "name": "Bus Station Stand C",
+      "stopNumber": "4525",
+      "latitude": 49.18352762,
+      "longitude": -2.11022721,
+      "shelter": false
+    },
+    {
+      "id": "ab1c626f-57fa-486c-a960-45093cf5469f",
+      "name": "Sion Village S",
+      "stopNumber": "3726",
+      "latitude": 49.219635,
+      "longitude": -2.11447828,
+      "shelter": true
+    },
+    {
+      "id": "abdaa64f-b1de-489e-ba39-ca996625d891",
+      "name": "Bus Station Stand O",
+      "stopNumber": "4542",
+      "latitude": 49.18374939,
+      "longitude": -2.11032195,
+      "shelter": false
+    },
+    {
+      "id": "abff90d7-5623-4123-9075-dd777dcff41c",
+      "name": "Bus Station Stand D",
+      "stopNumber": "4526",
+      "latitude": 49.18348265,
+      "longitude": -2.11014493,
+      "shelter": false
+    },
+    {
+      "id": "ac871f6b-5fd4-4ec9-abe7-4964af279b52",
+      "name": "Kempt Tower S",
+      "stopNumber": "2494",
+      "latitude": 49.21996332,
+      "longitude": -2.22629631,
+      "shelter": false
+    },
+    {
+      "id": "ace27bfa-1998-4064-8580-90a875492bd1",
+      "name": "Langtry Gardens W",
+      "stopNumber": "2567",
+      "latitude": 49.19652286,
+      "longitude": -2.08840276,
+      "shelter": true
+    },
+    {
+      "id": "acf9044e-d8bf-436f-8683-a1ceced8f568",
+      "name": "Mont de Gouray E",
+      "stopNumber": "3689",
+      "latitude": 49.19922398,
+      "longitude": -2.02617977,
+      "shelter": false
+    },
+    {
+      "id": "ad0fa623-4f0f-4a3c-b579-bc8fefebff0c",
+      "name": "Earls Court Flats",
+      "stopNumber": "3463",
+      "latitude": 49.18246432,
+      "longitude": -2.09633347,
+      "shelter": false
+    },
+    {
+      "id": "ae247627-9f66-476a-ad3c-9e521f2d4a60",
+      "name": "Le Braye N",
+      "stopNumber": "2939",
+      "latitude": 49.19818601,
+      "longitude": -2.22377313,
+      "shelter": false
+    },
+    {
+      "id": "ae344532-5053-479e-bdd0-f93c58c185e8",
+      "name": "The Limes",
+      "stopNumber": "3872",
+      "latitude": 49.17988915,
+      "longitude": -2.10389575,
+      "shelter": true
+    },
+    {
+      "id": "ae816244-ae51-4eaf-82f0-17b85f3efd0e",
+      "name": "Town Mills S",
+      "stopNumber": "2947",
+      "latitude": 49.19435794,
+      "longitude": -2.09948323,
+      "shelter": false
+    },
+    {
+      "id": "aea1e1a6-5969-4a07-8bd2-a02d6aea6ce1",
+      "name": "Ville Emphrie N",
+      "stopNumber": "2589",
+      "latitude": 49.20773893,
+      "longitude": -2.14299834,
+      "shelter": false
+    },
+    {
+      "id": "aebf1fd3-c333-4f31-bb10-f5c36cfe78db",
+      "name": "Rue de Cambrai N",
+      "stopNumber": "4267",
+      "latitude": 49.23915514,
+      "longitude": -2.09383953,
+      "shelter": false
+    },
+    {
+      "id": "aec50e14-4f8a-4755-9bc4-717d7ec07c6b",
+      "name": "Jersey Aero Club E",
+      "stopNumber": "2325",
+      "latitude": 49.20612665,
+      "longitude": -2.18291572,
+      "shelter": false
+    },
+    {
+      "id": "af31d6ef-59b5-44fa-8a82-25557832c4b1",
+      "name": "St Marys School W",
+      "stopNumber": "2984",
+      "latitude": 49.23628604,
+      "longitude": -2.17434156,
+      "shelter": true
+    },
+    {
+      "id": "af7cdf2e-fb75-4b5b-8ba1-e0b3ac1dc3f4",
+      "name": "Devon Gardens S",
+      "stopNumber": "2683",
+      "latitude": 49.19990534,
+      "longitude": -2.02328028,
+      "shelter": false
+    },
+    {
+      "id": "af9f24eb-5902-4119-9439-61a5591dea2b",
+      "name": "Cleveland Road",
+      "stopNumber": "3629",
+      "latitude": 49.17922578,
+      "longitude": -2.09905234,
+      "shelter": true
+    },
+    {
+      "id": "afa6a90e-06f2-4915-8358-a859d8e8416e",
+      "name": "La Hougue Avenue N",
+      "stopNumber": "4248",
+      "latitude": 49.20969553,
+      "longitude": -2.11286626,
+      "shelter": false
+    },
+    {
+      "id": "afeb5362-8b55-4473-bc5c-d699974c38dc",
+      "name": "Gorse Hill",
+      "stopNumber": "2689",
+      "latitude": 49.18388991,
+      "longitude": -2.23728493,
+      "shelter": false
+    },
+    {
+      "id": "b09ac541-997b-445e-af48-9ba8c4f1e9e3",
+      "name": "Bus Station Stand F",
+      "stopNumber": "4528",
+      "latitude": 49.1833927,
+      "longitude": -2.11000781,
+      "shelter": false
+    },
+    {
+      "id": "b1570987-eead-4bad-a9e0-f5e4c5359d89",
+      "name": "La Grange N",
+      "stopNumber": "2856",
+      "latitude": 49.21306027,
+      "longitude": -2.09711035,
+      "shelter": false
+    },
+    {
+      "id": "b171cd71-2e17-47d3-b5e4-9f7cf4326533",
+      "name": "George V Homes",
+      "stopNumber": "2829",
+      "latitude": 49.19165452,
+      "longitude": -2.12172615,
+      "shelter": false
+    },
+    {
+      "id": "b198b933-9d6d-4e9f-8ddb-6753263bc83e",
+      "name": "Watersplash S",
+      "stopNumber": "3853",
+      "latitude": 49.2098568,
+      "longitude": -2.22330666,
+      "shelter": false
+    },
+    {
+      "id": "b1d2e135-b332-4167-b7af-e2a2561070c6",
+      "name": "Route de l'Eglise",
+      "stopNumber": "4565",
+      "latitude": 49.23564564,
+      "longitude": -2.17296076,
+      "shelter": false
+    },
+    {
+      "id": "b20dbb18-619c-4413-be85-7bf779cdd649",
+      "name": "York Farm E",
+      "stopNumber": "3987",
+      "latitude": 49.19542305,
+      "longitude": -2.16059008,
+      "shelter": false
+    },
+    {
+      "id": "b23494f5-587a-4fcf-80da-c923ce985cbb",
+      "name": "Timaru Farm",
+      "stopNumber": "4327",
+      "latitude": 49.24468864,
+      "longitude": -2.16039596,
+      "shelter": false
+    },
+    {
+      "id": "b234d8c7-78de-4993-8a04-9ceadb4e3ce6",
+      "name": "Saramar",
+      "stopNumber": "3685",
+      "latitude": 49.16511751,
+      "longitude": -2.03526252,
+      "shelter": false
+    },
+    {
+      "id": "b2ca61bd-2916-431a-9ab8-010ed1b715a5",
+      "name": "The Parade",
+      "stopNumber": "2785",
+      "latitude": 49.18786163,
+      "longitude": -2.11131378,
+      "shelter": false
+    },
+    {
+      "id": "b3334bb1-4657-4204-b338-d4a4944ea037",
+      "name": "Les Tours E",
+      "stopNumber": "4628",
+      "latitude": 49.17493944,
+      "longitude": -2.04591278,
+      "shelter": false
+    },
+    {
+      "id": "b372a969-6ba7-41f5-8d1e-74bcf32abaf7",
+      "name": "Plaisant Court",
+      "stopNumber": "2543",
+      "latitude": 49.18985245,
+      "longitude": -2.1044722,
+      "shelter": false
+    },
+    {
+      "id": "b3e37518-1edb-473a-bb3f-579f1570722f",
+      "name": "Vinchelez",
+      "stopNumber": "3969",
+      "latitude": 49.24681856,
+      "longitude": -2.21836493,
+      "shelter": false
+    },
+    {
+      "id": "b4162786-a698-4c2c-abbc-a2e92e56aa34",
+      "name": "Le Hurel Farm",
+      "stopNumber": "2956",
+      "latitude": 49.25068953,
+      "longitude": -2.24077018,
+      "shelter": false
+    },
+    {
+      "id": "b42defd3-9bcb-4d1b-ac52-993826c4fa87",
+      "name": "Caledonia Place",
+      "stopNumber": "4278",
+      "latitude": 49.18193265,
+      "longitude": -2.10837541,
+      "shelter": true
+    },
+    {
+      "id": "b4ac7a72-7d9c-4432-bd06-3f22b88994a2",
+      "name": "Pontorson Lane E",
+      "stopNumber": "3567",
+      "latitude": 49.16763544,
+      "longitude": -2.06474989,
+      "shelter": false
+    },
+    {
+      "id": "b4cc1608-8a8e-4aef-9eb4-72ac32c77bb1",
+      "name": "La Moye Garage S",
+      "stopNumber": "3485",
+      "latitude": 49.1854442,
+      "longitude": -2.21785896,
+      "shelter": false
+    },
+    {
+      "id": "b5319aed-6e3d-4ecc-8b93-84e75b2930bf",
+      "name": "Rue de la Parade",
+      "stopNumber": "4595",
+      "latitude": 49.19928826,
+      "longitude": -2.06802127,
+      "shelter": false
+    },
+    {
+      "id": "b531c50d-6cf4-4004-9e85-0849bea17cca",
+      "name": "Craig Street",
+      "stopNumber": "3895",
+      "latitude": 49.1865875,
+      "longitude": -2.10584709,
+      "shelter": false
+    },
+    {
+      "id": "b5bd3876-cae5-49ce-86a0-00449f4555ed",
+      "name": "La Selliere Court",
+      "stopNumber": "2959",
+      "latitude": 49.168124,
+      "longitude": -2.08084644,
+      "shelter": true
+    },
+    {
+      "id": "b6183fe7-e3b8-4f10-b404-8f0a71b0c7a2",
+      "name": "Jersey Rugby Club S",
+      "stopNumber": "2464",
+      "latitude": 49.20548332,
+      "longitude": -2.18134544,
+      "shelter": false
+    },
+    {
+      "id": "b666afe2-8828-4967-bd3e-9223d0553560",
+      "name": "Airport Garages S",
+      "stopNumber": "2327",
+      "latitude": 49.20104072,
+      "longitude": -2.19604843,
+      "shelter": true
+    },
+    {
+      "id": "b669f2d7-fe9c-454d-9f41-d2229911dacc",
+      "name": "St Nicholas Avenue",
+      "stopNumber": "3798",
+      "latitude": 49.17237514,
+      "longitude": -2.08808091,
+      "shelter": false
+    },
+    {
+      "id": "b7650435-877f-4c64-a32e-ee297978b4b3",
+      "name": "L'Etacquerel Fort E",
+      "stopNumber": "4297",
+      "latitude": 49.23661538,
+      "longitude": -2.06406906,
+      "shelter": false
+    },
+    {
+      "id": "b79c8254-2001-4f5f-9dc5-42da077a73fa",
+      "name": "Three Oaks S",
+      "stopNumber": "3893",
+      "latitude": 49.21838758,
+      "longitude": -2.14028234,
+      "shelter": false
+    },
+    {
+      "id": "b80ddad7-1964-4d3b-9d71-effe3523b73c",
+      "name": "Clos Bertram S",
+      "stopNumber": "2436",
+      "latitude": 49.17602403,
+      "longitude": -2.03189185,
+      "shelter": false
+    },
+    {
+      "id": "b80e4fe5-272e-4348-be6d-90d34789fe51",
+      "name": "Les Tours W",
+      "stopNumber": "2769",
+      "latitude": 49.17499707,
+      "longitude": -2.045736,
+      "shelter": false
+    },
+    {
+      "id": "b819cef7-9d95-4edf-b5ca-dd04a51781ac",
+      "name": "The Mount",
+      "stopNumber": "2452",
+      "latitude": 49.23585437,
+      "longitude": -2.08670938,
+      "shelter": false
+    },
+    {
+      "id": "b81a756d-c1a6-40bd-9730-1701ce698519",
+      "name": "La Hougue Bie N",
+      "stopNumber": "4586",
+      "latitude": 49.20066571,
+      "longitude": -2.06328849,
+      "shelter": false
+    },
+    {
+      "id": "b83910cc-a27f-4bb3-9243-a7f6fecaf617",
+      "name": "Grenville Street",
+      "stopNumber": "2734",
+      "latitude": 49.18216081,
+      "longitude": -2.10206491,
+      "shelter": true
+    },
+    {
+      "id": "b88cfbdd-3bad-45f6-a160-762cf69a3c7d",
+      "name": "Marett Road E",
+      "stopNumber": "2365",
+      "latitude": 49.17715083,
+      "longitude": -2.10174367,
+      "shelter": false
+    },
+    {
+      "id": "b8ae410c-ac64-4953-81a3-d80a670d93e0",
+      "name": "Rue de Belin N",
+      "stopNumber": "3636",
+      "latitude": 49.22036957,
+      "longitude": -2.04848253,
+      "shelter": false
+    },
+    {
+      "id": "b9dfe286-4c2e-4ed5-aa6f-d1d567c4a36a",
+      "name": "Le Relais S",
+      "stopNumber": "3249",
+      "latitude": 49.24051493,
+      "longitude": -2.24387912,
+      "shelter": false
+    },
+    {
+      "id": "bae2cece-e3c7-4050-8d01-ae7a4b329ac8",
+      "name": "La Haule Slipway N",
+      "stopNumber": "2948",
+      "latitude": 49.19255312,
+      "longitude": -2.1666389,
+      "shelter": true
+    },
+    {
+      "id": "bb422413-2623-4237-ba43-f27f36bdc183",
+      "name": "Rue de la Chesnaie N",
+      "stopNumber": "2592",
+      "latitude": 49.22759591,
+      "longitude": -2.11473406,
+      "shelter": false
+    },
+    {
+      "id": "bba17b37-e8b2-4d80-a516-290bcedc92e7",
+      "name": "Leoville N",
+      "stopNumber": "2976",
+      "latitude": 49.23834434,
+      "longitude": -2.20554514,
+      "shelter": false
+    },
+    {
+      "id": "bc2b9ac2-4aea-4285-ae9b-b3a2a590a54c",
+      "name": "Rue des Croix W",
+      "stopNumber": "2873",
+      "latitude": 49.23664988,
+      "longitude": -2.09351925,
+      "shelter": false
+    },
+    {
+      "id": "bc6534bd-f840-41b0-b99d-70c1a6367e05",
+      "name": "Bus Station Stand N",
+      "stopNumber": "4539",
+      "latitude": 49.1836416,
+      "longitude": -2.11014397,
+      "shelter": false
+    },
+    {
+      "id": "bcb5690a-b6f6-4565-a35c-b4d5d2e0efbf",
+      "name": "Rue de Carteret E",
+      "stopNumber": "4363",
+      "latitude": 49.17946371,
+      "longitude": -2.08317084,
+      "shelter": false
+    },
+    {
+      "id": "bcc4af4d-0b02-4c05-b560-4abf4f3ad2c7",
+      "name": "Bon Air Lane S",
+      "stopNumber": "3243",
+      "latitude": 49.19064091,
+      "longitude": -2.08736187,
+      "shelter": true
+    },
+    {
+      "id": "bcd93f06-21ac-4617-a533-1b6a66246a69",
+      "name": "Chestnut Grove E",
+      "stopNumber": "2874",
+      "latitude": 49.24235785,
+      "longitude": -2.11789739,
+      "shelter": false
+    },
+    {
+      "id": "bd04215d-be9c-4897-8dca-c5600b50f919",
+      "name": "Bel Royal School W",
+      "stopNumber": "2387",
+      "latitude": 49.19966948,
+      "longitude": -2.14905387,
+      "shelter": false
+    },
+    {
+      "id": "bd1f0720-b1a1-4b96-bcc3-a2698866af40",
+      "name": "Clos du Verger",
+      "stopNumber": "3985",
+      "latitude": 49.18358157,
+      "longitude": -2.179348,
+      "shelter": false
+    },
+    {
+      "id": "be2bf946-2714-4e28-b8fa-66501d7c3256",
+      "name": "Maufant Vineries",
+      "stopNumber": "3296",
+      "latitude": 49.21060604,
+      "longitude": -2.06563035,
+      "shelter": false
+    },
+    {
+      "id": "be8fb8e4-2545-4c08-834f-330259118d7d",
+      "name": "Fernlea Drive",
+      "stopNumber": "4593",
+      "latitude": 49.18371445,
+      "longitude": -2.03816421,
+      "shelter": true
+    },
+    {
+      "id": "bec1ba09-bc37-46b7-806c-c7faf7ca34c4",
+      "name": "La Providence E",
+      "stopNumber": "4279",
+      "latitude": 49.20088098,
+      "longitude": -2.15220021,
+      "shelter": true
+    },
+    {
+      "id": "bec62f5f-d1eb-4e8e-8913-73264f682ac9",
+      "name": "Chemin de Herupe N",
+      "stopNumber": "3483",
+      "latitude": 49.23135025,
+      "longitude": -2.1153697,
+      "shelter": false
+    },
+    {
+      "id": "bee4ebab-b891-4d6e-8275-6d428fe73b2b",
+      "name": "St Andrews Park W",
+      "stopNumber": "2438",
+      "latitude": 49.19644795,
+      "longitude": -2.13305407,
+      "shelter": false
+    },
+    {
+      "id": "bf0e4e32-b871-4a31-9ab3-f7cb85c67c89",
+      "name": "Chateau des Reves S",
+      "stopNumber": "2963",
+      "latitude": 49.21050324,
+      "longitude": -2.03672429,
+      "shelter": false
+    },
+    {
+      "id": "bf66221f-d660-4f32-8c5a-2340ce4304b0",
+      "name": "Mont Huelin S",
+      "stopNumber": "3246",
+      "latitude": 49.23695399,
+      "longitude": -2.23420673,
+      "shelter": false
+    },
+    {
+      "id": "bf968a17-b649-46dd-899d-960d18af1861",
+      "name": "James Road",
+      "stopNumber": "3424",
+      "latitude": 49.17996876,
+      "longitude": -2.09540139,
+      "shelter": false
+    },
+    {
+      "id": "bf9817ed-f0e2-4186-bdc6-d4f3e432673f",
+      "name": "West View N",
+      "stopNumber": "2595",
+      "latitude": 49.23749935,
+      "longitude": -2.16799182,
+      "shelter": false
+    },
+    {
+      "id": "c0f247c3-9344-4483-9191-8f3945c93113",
+      "name": "Pier Road Car Park",
+      "stopNumber": "4573",
+      "latitude": 49.1805586,
+      "longitude": -2.10785055,
+      "shelter": false
+    },
+    {
+      "id": "c0f6a13b-9745-49f3-b439-1b6944ea83e9",
+      "name": "Beauvoir",
+      "stopNumber": "4548",
+      "latitude": 49.18415551,
+      "longitude": -2.22047458,
+      "shelter": false
+    },
+    {
+      "id": "c10e4277-dd6b-4478-b88e-9451fdda9102",
+      "name": "Waterloo Street",
+      "stopNumber": "4679",
+      "latitude": 49.1852558,
+      "longitude": -2.10454803,
+      "shelter": false
+    },
+    {
+      "id": "c124754c-72ff-4eae-ae8e-0e052fcc844b",
+      "name": "Bus Station Stand G",
+      "stopNumber": "4529",
+      "latitude": 49.18334772,
+      "longitude": -2.10991181,
+      "shelter": false
+    },
+    {
+      "id": "c1907419-3108-468b-a8ed-dfcbacfae6aa",
+      "name": "La Villaise",
+      "stopNumber": "4625",
+      "latitude": 49.24333868,
+      "longitude": -2.24310277,
+      "shelter": false
+    },
+    {
+      "id": "c1f89dcb-2594-4227-abc4-22a1d6c4d73e",
+      "name": "La Mare Slipway W",
+      "stopNumber": "2863",
+      "latitude": 49.16718941,
+      "longitude": -2.08279284,
+      "shelter": true
+    },
+    {
+      "id": "c1fbaa98-1ba2-4b20-88b1-c33b74424b81",
+      "name": "Brampton Farm E",
+      "stopNumber": "2872",
+      "latitude": 49.23496495,
+      "longitude": -2.18927358,
+      "shelter": false
+    },
+    {
+      "id": "c2075cd3-2fe0-4443-ab64-0b177c468167",
+      "name": "Langley Park W",
+      "stopNumber": "3867",
+      "latitude": 49.19879436,
+      "longitude": -2.09087257,
+      "shelter": false
+    },
+    {
+      "id": "c24c1818-0911-4588-ab8b-9391f450a9c0",
+      "name": "L'Horizon Hotel W",
+      "stopNumber": "4384",
+      "latitude": 49.18497659,
+      "longitude": -2.19370709,
+      "shelter": true
+    },
+    {
+      "id": "c2e21a65-0785-499b-b9f0-a3dd420e0514",
+      "name": "Langtry Gardens E",
+      "stopNumber": "2432",
+      "latitude": 49.19659146,
+      "longitude": -2.08837732,
+      "shelter": true
+    },
+    {
+      "id": "c35b84fb-3745-4f8a-9895-3151b9c56beb",
+      "name": "Clos de la Mielle W",
+      "stopNumber": "2356",
+      "latitude": 49.19422292,
+      "longitude": -2.16369738,
+      "shelter": false
+    },
+    {
+      "id": "c3d86ab5-a210-41ba-a9e0-4aae788685ce",
+      "name": "Le Neuf Chemin N",
+      "stopNumber": "4569",
+      "latitude": 49.23783823,
+      "longitude": -2.13960209,
+      "shelter": false
+    },
+    {
+      "id": "c49a2c3d-78ff-42e6-ad6d-a098667bc11f",
+      "name": "Leoville S",
+      "stopNumber": "3543",
+      "latitude": 49.23862611,
+      "longitude": -2.2055026,
+      "shelter": false
+    },
+    {
+      "id": "c4b50eda-6a09-4447-a28f-eab1470ca052",
+      "name": "Oak Tree Gardens S",
+      "stopNumber": "2593",
+      "latitude": 49.19945331,
+      "longitude": -2.09905851,
+      "shelter": true
+    },
+    {
+      "id": "c52eec6a-1597-49a8-b253-94797fa47045",
+      "name": "Castle Green S",
+      "stopNumber": "2482",
+      "latitude": 49.20051758,
+      "longitude": -2.02082348,
+      "shelter": false
+    },
+    {
+      "id": "c5553b03-f69d-417b-87ff-338953745a66",
+      "name": "Les Ruettes S",
+      "stopNumber": "2835",
+      "latitude": 49.23496037,
+      "longitude": -2.11271924,
+      "shelter": false
+    },
+    {
+      "id": "c5ab86b3-1809-4bf5-a624-ed8bceb28606",
+      "name": "Mont Cambrai N",
+      "stopNumber": "2659",
+      "latitude": 49.20590583,
+      "longitude": -2.14267588,
+      "shelter": false
+    },
+    {
+      "id": "c6204bf2-7e2d-4f6f-b562-2703d5b22acc",
+      "name": "La Motte Street",
+      "stopNumber": "2867",
+      "latitude": 49.18366151,
+      "longitude": -2.10258541,
+      "shelter": false
+    },
+    {
+      "id": "c6b2f36f-d420-4cb7-b47e-828c5edbc409",
+      "name": "Les Fontaines",
+      "stopNumber": "4245",
+      "latitude": 49.25601988,
+      "longitude": -2.14734997,
+      "shelter": false
+    },
+    {
+      "id": "c73df614-45fe-400b-a9f6-2580e8f12bc4",
+      "name": "Trinity Church N",
+      "stopNumber": "3928",
+      "latitude": 49.23351089,
+      "longitude": -2.09183947,
+      "shelter": false
+    },
+    {
+      "id": "c76d417c-e51c-43c9-afaf-f56d60850a9c",
+      "name": "La Petite Lande",
+      "stopNumber": "3283",
+      "latitude": 49.18143193,
+      "longitude": -2.234753,
+      "shelter": false
+    },
+    {
+      "id": "c76f4a93-72f9-4fd4-9c59-2ba9a65d7c6f",
+      "name": "Rue du Hucquet W",
+      "stopNumber": "3674",
+      "latitude": 49.22047426,
+      "longitude": -2.05741126,
+      "shelter": false
+    },
+    {
+      "id": "c7b0e080-863d-44f9-9528-127380278bdf",
+      "name": "Belle Vue S",
+      "stopNumber": "2534",
+      "latitude": 49.19850779,
+      "longitude": -2.19735395,
+      "shelter": true
+    },
+    {
+      "id": "c833ebeb-1b40-4214-8312-f2c97dba8737",
+      "name": "Highview Lane",
+      "stopNumber": "2763",
+      "latitude": 49.20052646,
+      "longitude": -2.11236692,
+      "shelter": false
+    },
+    {
+      "id": "c9481661-24ae-40fc-aaac-5d788c4eff43",
+      "name": "Verona Stores S",
+      "stopNumber": "2472",
+      "latitude": 49.1828597,
+      "longitude": -2.03782485,
+      "shelter": false
+    },
+    {
+      "id": "c9b01828-5a2f-4163-8e24-1acf571905e1",
+      "name": "Halkett Street",
+      "stopNumber": "4678",
+      "latitude": 49.1852428,
+      "longitude": -2.10329113,
+      "shelter": false
+    },
+    {
+      "id": "c9bb8af5-72e6-4d18-aa05-a777f352cab7",
+      "name": "New Kingdom Hall",
+      "stopNumber": "2832",
+      "latitude": 49.18012383,
+      "longitude": -2.22889719,
+      "shelter": false
+    },
+    {
+      "id": "ca4c8a69-d271-4c33-8cdf-08bad587465e",
+      "name": "Rue de St Clement N",
+      "stopNumber": "3868",
+      "latitude": 49.2113254,
+      "longitude": -2.18050259,
+      "shelter": false
+    },
+    {
+      "id": "ca8f6cdb-78d9-41c9-ae3e-2e7095a7c72c",
+      "name": "Gorey Common S",
+      "stopNumber": "2323",
+      "latitude": 49.1938059,
+      "longitude": -2.03497364,
+      "shelter": true
+    },
+    {
+      "id": "cac39de4-d09f-461a-a108-c2cb4f55ef4e",
+      "name": "Rue du Tapon E",
+      "stopNumber": "4578",
+      "latitude": 49.19833142,
+      "longitude": -2.07232504,
+      "shelter": false
+    },
+    {
+      "id": "caf48fd2-ee39-4993-94bf-bd4be23c7432",
+      "name": "Rue au Sellier",
+      "stopNumber": "4643",
+      "latitude": 49.23487093,
+      "longitude": -2.09279783,
+      "shelter": false
+    },
+    {
+      "id": "cb7b0054-9fec-4052-a9b2-9a636196da96",
+      "name": "Chestnut Grove W",
+      "stopNumber": "3286",
+      "latitude": 49.24228334,
+      "longitude": -2.11777268,
+      "shelter": false
+    },
+    {
+      "id": "cb8be1d0-7b2b-4d98-9a07-bf587e96b012",
+      "name": "Red Houses Waitrose W",
+      "stopNumber": "3597",
+      "latitude": 49.19044171,
+      "longitude": -2.20092757,
+      "shelter": false
+    },
+    {
+      "id": "cbd8f7a4-bc10-4cbb-8143-e1cf0b5cc9a8",
+      "name": "St John Cemetery W",
+      "stopNumber": "4342",
+      "latitude": 49.24572621,
+      "longitude": -2.14272252,
+      "shelter": false
+    },
+    {
+      "id": "cbe54046-5718-4adb-b685-c28f77eadda3",
+      "name": "Rozel Apple Cottage",
+      "stopNumber": "2348",
+      "latitude": 49.23560362,
+      "longitude": -2.04588854,
+      "shelter": true
+    },
+    {
+      "id": "cc3e3f02-3496-4b05-97fa-72ea075eb439",
+      "name": "Trinity Gardens S",
+      "stopNumber": "3932",
+      "latitude": 49.19314714,
+      "longitude": -2.10116689,
+      "shelter": true
+    },
+    {
+      "id": "cc490673-8686-4ed3-84ed-cbf3f7d0c68f",
+      "name": "Chemin du Moulin N",
+      "stopNumber": "2926",
+      "latitude": 49.23302483,
+      "longitude": -2.232519,
+      "shelter": false
+    },
+    {
+      "id": "cc7ca62b-aa09-47f0-ad48-34ead4d71321",
+      "name": "Bel Royal Terrace",
+      "stopNumber": "2386",
+      "latitude": 49.19810932,
+      "longitude": -2.14689739,
+      "shelter": false
+    },
+    {
+      "id": "cd028f41-94c2-4558-a4b2-430f45282ecc",
+      "name": "Raleigh Avenue",
+      "stopNumber": "3479",
+      "latitude": 49.19286816,
+      "longitude": -2.10726195,
+      "shelter": false
+    },
+    {
+      "id": "cd5c6331-afb7-434d-97fa-afec17fa9256",
+      "name": "Old Trinity Hill S",
+      "stopNumber": "3759",
+      "latitude": 49.19694178,
+      "longitude": -2.09955434,
+      "shelter": false
+    },
+    {
+      "id": "cdcb5792-082b-4ab4-96cf-95800d02e464",
+      "name": "Rocque Bay E",
+      "stopNumber": "3697",
+      "latitude": 49.16682476,
+      "longitude": -2.06928205,
+      "shelter": false
+    },
+    {
+      "id": "ce0bbb57-63d2-4072-b524-901f630805e5",
+      "name": "Clos du Rivage N",
+      "stopNumber": "2679",
+      "latitude": 49.19774837,
+      "longitude": -2.0285493,
+      "shelter": false
+    },
+    {
+      "id": "ce322b6b-6960-4c09-9f0b-61d3bc86e99e",
+      "name": "Le Saie N",
+      "stopNumber": "2425",
+      "latitude": 49.23339688,
+      "longitude": -2.03914125,
+      "shelter": false
+    },
+    {
+      "id": "ce3c8adf-5152-46c9-a01c-b861f56a3833",
+      "name": "Mont de Gouray W",
+      "stopNumber": "3456",
+      "latitude": 49.19920441,
+      "longitude": -2.02644246,
+      "shelter": false
+    },
+    {
+      "id": "ce4a8cdc-9259-42b0-99cb-4158461b0691",
+      "name": "La Porte",
+      "stopNumber": "2879",
+      "latitude": 49.2480087,
+      "longitude": -2.12874471,
+      "shelter": false
+    },
+    {
+      "id": "ce9e633e-6ade-4ff8-8cd9-fb1c5743886c",
+      "name": "Rue de Carteret W",
+      "stopNumber": "2493",
+      "latitude": 49.17948634,
+      "longitude": -2.08291137,
+      "shelter": false
+    },
+    {
+      "id": "cfa344bd-ad0d-4556-b563-8b421013e1c2",
+      "name": "Carrefour Selous N",
+      "stopNumber": "4354",
+      "latitude": 49.22729382,
+      "longitude": -2.14548768,
+      "shelter": false
+    },
+    {
+      "id": "d04eeb09-0365-4d2f-be47-36a222a0ab93",
+      "name": "L'Etacquerel Fort W",
+      "stopNumber": "4395",
+      "latitude": 49.23660879,
+      "longitude": -2.06399891,
+      "shelter": false
+    },
+    {
+      "id": "d15b3e73-b3cf-4494-a839-9fbe7db38d44",
+      "name": "Ebenezer Chapel W",
+      "stopNumber": "2759",
+      "latitude": 49.23815519,
+      "longitude": -2.0997322,
+      "shelter": false
+    },
+    {
+      "id": "d16bd43a-1097-47c1-97e2-642792fb9de1",
+      "name": "St Johns Church",
+      "stopNumber": "3764",
+      "latitude": 49.24638968,
+      "longitude": -2.13909153,
+      "shelter": true
+    },
+    {
+      "id": "d18fe9a8-a60f-4bf6-b613-113ed889a2bd",
+      "name": "Bus Station Stand E",
+      "stopNumber": "4527",
+      "latitude": 49.18343767,
+      "longitude": -2.11007637,
+      "shelter": false
+    },
+    {
+      "id": "d210d9ac-b312-4187-902b-72b40390172e",
+      "name": "Les Hinguettes",
+      "stopNumber": "2964",
+      "latitude": 49.16849036,
+      "longitude": -2.08078422,
+      "shelter": false
+    },
+    {
+      "id": "d277c9d8-05a2-43fe-8162-a1aff9497bc0",
+      "name": "Oaklands Lane",
+      "stopNumber": "4356",
+      "latitude": 49.20602926,
+      "longitude": -2.09763371,
+      "shelter": false
+    },
+    {
+      "id": "d2ecb1ff-6db9-4458-8a5c-3663b197c206",
+      "name": "Hougue des Platons E",
+      "stopNumber": "3943",
+      "latitude": 49.2457981,
+      "longitude": -2.10176426,
+      "shelter": false
+    },
+    {
+      "id": "d38890d5-bb74-4ce3-8845-5c90223e4457",
+      "name": "Daisy Cottage",
+      "stopNumber": "2427",
+      "latitude": 49.24297622,
+      "longitude": -2.20927741,
+      "shelter": false
+    },
+    {
+      "id": "d3bdf39f-517b-4b54-baca-b8370b9159d4",
+      "name": "Biarritz Hotel W",
+      "stopNumber": "2397",
+      "latitude": 49.18460869,
+      "longitude": -2.18831106,
+      "shelter": false
+    },
+    {
+      "id": "d3c69fc1-4f43-4438-b2fc-03d5175347b8",
+      "name": "Quennevais Drive W",
+      "stopNumber": "2847",
+      "latitude": 49.18903439,
+      "longitude": -2.20946386,
+      "shelter": false
+    },
+    {
+      "id": "d4165409-6dde-471d-857c-ee03f0cc0d8c",
+      "name": "Le Catillon W",
+      "stopNumber": "2942",
+      "latitude": 49.20055577,
+      "longitude": -2.05914709,
+      "shelter": false
+    },
+    {
+      "id": "d422886c-ce59-4f2f-a461-0d49e7ecef01",
+      "name": "Rue du Cerf W",
+      "stopNumber": "4328",
+      "latitude": 49.24180335,
+      "longitude": -2.15493598,
+      "shelter": false
+    },
+    {
+      "id": "d44a1b77-b46c-4161-a5fc-1bca83982e05",
+      "name": "Grouville Station N",
+      "stopNumber": "2747",
+      "latitude": 49.18651451,
+      "longitude": -2.03964063,
+      "shelter": false
+    },
+    {
+      "id": "d46ed2ba-b64c-4950-bad6-1f469cbfc4fa",
+      "name": "Jersey Hospice",
+      "stopNumber": "4583",
+      "latitude": 49.20076076,
+      "longitude": -2.12824814,
+      "shelter": false
+    },
+    {
+      "id": "d4d6ba71-68af-4b3e-912c-d6feea1a184d",
+      "name": "West View W",
+      "stopNumber": "3978",
+      "latitude": 49.23724306,
+      "longitude": -2.16817416,
+      "shelter": false
+    },
+    {
+      "id": "d59fa4bd-e199-4f88-bdb2-22c9b8c6ea4d",
+      "name": "Carrefour a Cendre N",
+      "stopNumber": "3848",
+      "latitude": 49.22714675,
+      "longitude": -2.18255498,
+      "shelter": false
+    },
+    {
+      "id": "d5babad0-3764-4fd0-9bdf-58c8495f1d4d",
+      "name": "Don Bridge",
+      "stopNumber": "2575",
+      "latitude": 49.19413078,
+      "longitude": -2.19890615,
+      "shelter": true
+    },
+    {
+      "id": "d6bbed8c-51c4-455a-9ff9-d312381e23be",
+      "name": "La Mare des Pres S",
+      "stopNumber": "4296",
+      "latitude": 49.24626118,
+      "longitude": -2.11165952,
+      "shelter": false
+    },
+    {
+      "id": "d7590a31-0b53-4c4c-959a-e79c1deaf8c1",
+      "name": "Clos des Sables W",
+      "stopNumber": "3236",
+      "latitude": 49.18955671,
+      "longitude": -2.2064343,
+      "shelter": false
+    },
+    {
+      "id": "d75b5aad-6b81-4d0f-b8ca-2ab957581e3e",
+      "name": "F. C. J. School",
+      "stopNumber": "2625",
+      "latitude": 49.20023618,
+      "longitude": -2.0876469,
+      "shelter": false
+    },
+    {
+      "id": "d785c860-8f11-43a9-8a77-54f8ae7cbb9f",
+      "name": "Les Verrieres S",
+      "stopNumber": "4692",
+      "latitude": 49.2454507,
+      "longitude": -2.20157173,
+      "shelter": false
+    },
+    {
+      "id": "d7b5d066-7ce1-4c2a-848a-ae7fd489e8f8",
+      "name": "Falaise de Fremont",
+      "stopNumber": "4283",
+      "latitude": 49.25164539,
+      "longitude": -2.12216633,
+      "shelter": false
+    },
+    {
+      "id": "d8242b9f-5324-49c2-8dc0-c40cb03b46d9",
+      "name": "Oxenford Close N",
+      "stopNumber": "3523",
+      "latitude": 49.22298144,
+      "longitude": -2.1424133,
+      "shelter": false
+    },
+    {
+      "id": "d8774660-e89f-438c-aae4-1be619de7680",
+      "name": "Le Grouet Slipway",
+      "stopNumber": "4393",
+      "latitude": 49.18349398,
+      "longitude": -2.23967041,
+      "shelter": false
+    },
+    {
+      "id": "d884a421-c238-47d5-acfa-be72fb2d2ca9",
+      "name": "Croix au Lion N",
+      "stopNumber": "3873",
+      "latitude": 49.21755629,
+      "longitude": -2.18610757,
+      "shelter": false
+    },
+    {
+      "id": "d89a9162-527c-47d5-b6db-f5e657605f83",
+      "name": "Green Island W",
+      "stopNumber": "2723",
+      "latitude": 49.16364612,
+      "longitude": -2.07565059,
+      "shelter": false
+    },
+    {
+      "id": "d8ca3293-1391-4463-b522-e6be76faea94",
+      "name": "Ruelle de Rauvlet",
+      "stopNumber": "4247",
+      "latitude": 49.20634524,
+      "longitude": -2.11344513,
+      "shelter": false
+    },
+    {
+      "id": "d9052d14-0c08-43dc-bc56-75c340cfa366",
+      "name": "Plat Douet Stores",
+      "stopNumber": "3546",
+      "latitude": 49.17781966,
+      "longitude": -2.0876193,
+      "shelter": false
+    },
+    {
+      "id": "d9ba6189-1519-45bc-8e52-29b45f3acde5",
+      "name": "St Bernards E",
+      "stopNumber": "3745",
+      "latitude": 49.20220526,
+      "longitude": -2.05317996,
+      "shelter": false
+    },
+    {
+      "id": "d9fd42e0-1de0-4b9e-8775-a1108fc360bd",
+      "name": "Haute Vallee School",
+      "stopNumber": "2757",
+      "latitude": 49.19841453,
+      "longitude": -2.11505377,
+      "shelter": false
+    },
+    {
+      "id": "da472fa4-0554-415e-8418-30e211b45830",
+      "name": "Brooklyn Street N",
+      "stopNumber": "3297",
+      "latitude": 49.18454721,
+      "longitude": -2.0993144,
+      "shelter": false
+    },
+    {
+      "id": "da49d286-1644-453a-ba3e-e5831942524e",
+      "name": "La Ruche N",
+      "stopNumber": "4262",
+      "latitude": 49.21285829,
+      "longitude": -2.16934572,
+      "shelter": false
+    },
+    {
+      "id": "da98c9a2-6921-4595-b11b-2e4d26da5809",
+      "name": "St Peter Tech Park S",
+      "stopNumber": "2839",
+      "latitude": 49.21641016,
+      "longitude": -2.18499355,
+      "shelter": false
+    },
+    {
+      "id": "daf0a95a-cac9-4e97-868d-9ec6c1e5962e",
+      "name": "Millennium Court E",
+      "stopNumber": "4375",
+      "latitude": 49.17642105,
+      "longitude": -2.0926583,
+      "shelter": false
+    },
+    {
+      "id": "db0445a8-c654-4fcc-8ae7-9460dbc13e2c",
+      "name": "Watersplash N",
+      "stopNumber": "3974",
+      "latitude": 49.20994108,
+      "longitude": -2.22339787,
+      "shelter": false
+    },
+    {
+      "id": "dbb9c50f-cf20-4f12-8b08-091fb2e8353b",
+      "name": "St Clements School E",
+      "stopNumber": "2925",
+      "latitude": 49.17107607,
+      "longitude": -2.06815171,
+      "shelter": false
+    },
+    {
+      "id": "dc7bbab1-7f14-4934-9a57-3b220760abad",
+      "name": "Seven Oaks S",
+      "stopNumber": "3698",
+      "latitude": 49.18853004,
+      "longitude": -2.17965314,
+      "shelter": false
+    },
+    {
+      "id": "dcf40690-9174-4c6e-a803-b2c31659ec2a",
+      "name": "La Croix S",
+      "stopNumber": "3432",
+      "latitude": 49.23625,
+      "longitude": -2.20430546,
+      "shelter": false
+    },
+    {
+      "id": "dcfdbb3d-0495-498b-85ee-bf825dc6dc9e",
+      "name": "Greve d'Azette W",
+      "stopNumber": "2735",
+      "latitude": 49.16932482,
+      "longitude": -2.08477336,
+      "shelter": true
+    },
+    {
+      "id": "dd51e475-4a4a-4db9-8580-d89618f4526d",
+      "name": "Le Neuf Chemin S",
+      "stopNumber": "4572",
+      "latitude": 49.23836857,
+      "longitude": -2.13912225,
+      "shelter": false
+    },
+    {
+      "id": "dddc665d-dc21-48f6-8da4-fdcd333df469",
+      "name": "Royal Crescent",
+      "stopNumber": "2576",
+      "latitude": 49.18228904,
+      "longitude": -2.09881199,
+      "shelter": false
+    },
+    {
+      "id": "deea965d-95ad-44cb-98fd-2a7b9d5749ef",
+      "name": "St Ouens Pond S",
+      "stopNumber": "4235",
+      "latitude": 49.21513314,
+      "longitude": -2.22488035,
+      "shelter": false
+    },
+    {
+      "id": "df08cf3a-e433-485a-864f-ac10d60130e4",
+      "name": "Hautmont Estate N",
+      "stopNumber": "2795",
+      "latitude": 49.18742768,
+      "longitude": -2.09250144,
+      "shelter": false
+    },
+    {
+      "id": "df12dd9b-03b9-4436-abfa-4aeff2829011",
+      "name": "Les Cabots W",
+      "stopNumber": "2745",
+      "latitude": 49.18055541,
+      "longitude": -2.06741838,
+      "shelter": false
+    },
+    {
+      "id": "dfabf53c-c171-465d-ab94-3b71d4e0737b",
+      "name": "Les Landes Avenue E",
+      "stopNumber": "3234",
+      "latitude": 49.18707897,
+      "longitude": -2.18646413,
+      "shelter": false
+    },
+    {
+      "id": "e0357c30-29b7-4baa-9a40-0f9b241ca5e6",
+      "name": "Town Mills N",
+      "stopNumber": "3925",
+      "latitude": 49.19440557,
+      "longitude": -2.09903443,
+      "shelter": false
+    },
+    {
+      "id": "e04956a5-8420-4687-ba14-7f7bbb8daebf",
+      "name": "Rue du Catel E",
+      "stopNumber": "4298",
+      "latitude": 49.23767059,
+      "longitude": -2.05427675,
+      "shelter": false
+    },
+    {
+      "id": "e0712c20-03e9-4368-a4e5-cabf08a46944",
+      "name": "Les Augerez S",
+      "stopNumber": "3964",
+      "latitude": 49.23269498,
+      "longitude": -2.18171002,
+      "shelter": false
+    },
+    {
+      "id": "e076e6ba-9e04-482c-ad25-0f155eb7b0d9",
+      "name": "St Brelade College E",
+      "stopNumber": "3458",
+      "latitude": 49.18808428,
+      "longitude": -2.17548088,
+      "shelter": false
+    },
+    {
+      "id": "e15dbc38-8a4d-4b50-88fc-6be01d639e6e",
+      "name": "Grands Vaux Court S",
+      "stopNumber": "3576",
+      "latitude": 49.19765697,
+      "longitude": -2.09557565,
+      "shelter": false
+    },
+    {
+      "id": "e178c66e-1482-4b01-b101-1bfa199d0db7",
+      "name": "Avalon Park E",
+      "stopNumber": "2358",
+      "latitude": 49.16410936,
+      "longitude": -2.07808478,
+      "shelter": false
+    },
+    {
+      "id": "e2087895-f3dd-4ca6-90fd-076e31b10d30",
+      "name": "L'Etacq",
+      "stopNumber": "3245",
+      "latitude": 49.24097515,
+      "longitude": -2.24842857,
+      "shelter": false
+    },
+    {
+      "id": "e21f655a-0311-42a2-aa43-c3d270b6cb6f",
+      "name": "Greenhills N",
+      "stopNumber": "2729",
+      "latitude": 49.21806483,
+      "longitude": -2.17344348,
+      "shelter": false
+    },
+    {
+      "id": "e2adf5d0-3d60-4491-b737-7f77d082409c",
+      "name": "Ryburn Road E",
+      "stopNumber": "2726",
+      "latitude": 49.17580672,
+      "longitude": -2.08943847,
+      "shelter": false
+    },
+    {
+      "id": "e2d9ceb6-a5fe-4178-9028-bebe67d7ccfb",
+      "name": "J. C. G. Coach Park",
+      "stopNumber": "4386",
+      "latitude": 49.18783662,
+      "longitude": -2.09108862,
+      "shelter": false
+    },
+    {
+      "id": "e2f4fcc7-dbc7-444f-9cdb-b96d59a15d4f",
+      "name": "St Martins Hall E",
+      "stopNumber": "3787",
+      "latitude": 49.21908424,
+      "longitude": -2.05346011,
+      "shelter": false
+    },
+    {
+      "id": "e3a4f06e-0a68-4847-b699-666aaf16032b",
+      "name": "St Peters Village N",
+      "stopNumber": "3829",
+      "latitude": 49.21304727,
+      "longitude": -2.18254877,
+      "shelter": false
+    },
+    {
+      "id": "e3abd1c8-1fa2-45f7-9a5f-56e1247c8197",
+      "name": "Six Roads W",
+      "stopNumber": "3727",
+      "latitude": 49.22743422,
+      "longitude": -2.14980969,
+      "shelter": false
+    },
+    {
+      "id": "e3bdc29f-9ace-424a-bf07-7881fd9a60d9",
+      "name": "Bus Station Stand K",
+      "stopNumber": "4536",
+      "latitude": 49.18317682,
+      "longitude": -2.10963756,
+      "shelter": false
+    },
+    {
+      "id": "e3de8291-21e5-4f6f-b030-0416fb8c9d57",
+      "name": "Birches Avenue E",
+      "stopNumber": "2935",
+      "latitude": 49.19615947,
+      "longitude": -2.09004214,
+      "shelter": false
+    },
+    {
+      "id": "e4187367-e86f-4284-bc58-1eff21160c86",
+      "name": "De la Salle College",
+      "stopNumber": "2569",
+      "latitude": 49.19068479,
+      "longitude": -2.09228219,
+      "shelter": false
+    },
+    {
+      "id": "e47f1a6d-e769-4ca9-b0c9-9b1dc1f1278d",
+      "name": "Bel Royal School E",
+      "stopNumber": "3948",
+      "latitude": 49.19961288,
+      "longitude": -2.14884771,
+      "shelter": false
+    },
+    {
+      "id": "e4d058f8-a01f-4975-8b41-876e47411322",
+      "name": "Millais",
+      "stopNumber": "3439",
+      "latitude": 49.24419866,
+      "longitude": -2.22677373,
+      "shelter": false
+    },
+    {
+      "id": "e4ede763-2d2a-4e87-b6b0-b0d2b2605664",
+      "name": "Champ Donne",
+      "stopNumber": "2487",
+      "latitude": 49.2373303,
+      "longitude": -2.20982476,
+      "shelter": false
+    },
+    {
+      "id": "e50ab9df-fadc-4239-af08-0d0b3222f48a",
+      "name": "St Ouen Garage N",
+      "stopNumber": "3824",
+      "latitude": 49.22997124,
+      "longitude": -2.20041504,
+      "shelter": false
+    },
+    {
+      "id": "e5812b78-438e-42b0-a822-19e0d290f52b",
+      "name": "Ryburn Avenue S",
+      "stopNumber": "3592",
+      "latitude": 49.1761149,
+      "longitude": -2.08787128,
+      "shelter": false
+    },
+    {
+      "id": "e5a86f4d-554c-4145-8bbd-777497bffd01",
+      "name": "Bagatelle Lane N",
+      "stopNumber": "2362",
+      "latitude": 49.18911713,
+      "longitude": -2.08926693,
+      "shelter": false
+    },
+    {
+      "id": "e5cb2438-a91c-49b9-b14e-e143390cfd91",
+      "name": "Jersey Post S",
+      "stopNumber": "3282",
+      "latitude": 49.18080797,
+      "longitude": -2.08122188,
+      "shelter": false
+    },
+    {
+      "id": "e5d19c9a-c34e-4d8e-940c-8f2679e52fc7",
+      "name": "Dunell Road",
+      "stopNumber": "4374",
+      "latitude": 49.17852553,
+      "longitude": -2.09784656,
+      "shelter": false
+    },
+    {
+      "id": "e5d5fdf6-dc55-479e-aa03-c5041f33a515",
+      "name": "Sandybrook N",
+      "stopNumber": "3684",
+      "latitude": 49.20240323,
+      "longitude": -2.15499086,
+      "shelter": false
+    },
+    {
+      "id": "e5ecdb37-ce6d-483b-bbdb-8be00096a0f3",
+      "name": "Devils Hole",
+      "stopNumber": "2573",
+      "latitude": 49.25027963,
+      "longitude": -2.16858311,
+      "shelter": false
+    },
+    {
+      "id": "e61c6bfd-fc2a-4637-821c-6ba556444d22",
+      "name": "St Brelades Bay E",
+      "stopNumber": "4545",
+      "latitude": 49.18563977,
+      "longitude": -2.198251,
+      "shelter": true
+    },
+    {
+      "id": "e63b8424-9fe7-40ee-b36c-eb1f86db020d",
+      "name": "Royal Hotel N",
+      "stopNumber": "4684",
+      "latitude": 49.18886707,
+      "longitude": -2.10306032,
+      "shelter": false
+    },
+    {
+      "id": "e67c9a36-f1c3-4367-bbc6-68287ea82cc0",
+      "name": "Pot du Rocher S",
+      "stopNumber": "4634",
+      "latitude": 49.23191919,
+      "longitude": -2.0712327,
+      "shelter": false
+    },
+    {
+      "id": "e6b56d01-a705-4752-b2fc-768f6af26e2e",
+      "name": "Bus Station Entry",
+      "stopNumber": "2465",
+      "latitude": 49.18382536,
+      "longitude": -2.11066933,
+      "shelter": false
+    },
+    {
+      "id": "e7040040-aa9c-42fd-9dd7-535a6bd87cf5",
+      "name": "Rue de Mon Sejour N",
+      "stopNumber": "2527",
+      "latitude": 49.20607222,
+      "longitude": -2.09809163,
+      "shelter": false
+    },
+    {
+      "id": "e7083cda-2c98-474b-9dad-de7745c1e506",
+      "name": "Carrefour a Cendre S",
+      "stopNumber": "2475",
+      "latitude": 49.22739245,
+      "longitude": -2.18249441,
+      "shelter": false
+    },
+    {
+      "id": "e767879c-3868-4f2f-ae2a-f07e5c90f051",
+      "name": "La Chasse E",
+      "stopNumber": "2986",
+      "latitude": 49.23366143,
+      "longitude": -2.19496901,
+      "shelter": false
+    },
+    {
+      "id": "e7cd9333-44a0-4237-9a61-353bff392c86",
+      "name": "Route des Pelles S",
+      "stopNumber": "3635",
+      "latitude": 49.22926768,
+      "longitude": -2.0440465,
+      "shelter": false
+    },
+    {
+      "id": "e7f70278-d513-4c53-ab5b-38327b207806",
+      "name": "Elizabeth Terminal",
+      "stopNumber": "2586",
+      "latitude": 49.17950871,
+      "longitude": -2.1162997,
+      "shelter": false
+    },
+    {
+      "id": "e7fb37c0-6d47-4e00-9e37-b8c36501fa1b",
+      "name": "Rue des Buttes N",
+      "stopNumber": "2484",
+      "latitude": 49.21594443,
+      "longitude": -2.05399304,
+      "shelter": false
+    },
+    {
+      "id": "e828bb2f-1343-43bb-98fd-9097edfc75fc",
+      "name": "St Ouen Manor N",
+      "stopNumber": "3825",
+      "latitude": 49.22495299,
+      "longitude": -2.19558081,
+      "shelter": false
+    },
+    {
+      "id": "e8be2bf7-1d58-4e2a-9865-821fa1be2d6d",
+      "name": "Century Buildings",
+      "stopNumber": "2789",
+      "latitude": 49.18651317,
+      "longitude": -2.1148743,
+      "shelter": false
+    },
+    {
+      "id": "e92073e6-50b9-492a-bf13-ede81e1eddb7",
+      "name": "La Maitrerie Farm E",
+      "stopNumber": "4626",
+      "latitude": 49.22212362,
+      "longitude": -2.06258016,
+      "shelter": false
+    },
+    {
+      "id": "e98338a8-9ec4-4130-a88a-eb21ae5b845c",
+      "name": "La Neuve Route",
+      "stopNumber": "3475",
+      "latitude": 49.2192859,
+      "longitude": -2.18806445,
+      "shelter": false
+    },
+    {
+      "id": "e9ae5959-8231-46fe-8d2c-d080a71abfcf",
+      "name": "La Mare Slipway E",
+      "stopNumber": "3646",
+      "latitude": 49.16733181,
+      "longitude": -2.08280826,
+      "shelter": false
+    },
+    {
+      "id": "ea2b450c-289f-41b7-8151-9da6b2bdb196",
+      "name": "Rue de la Garenne",
+      "stopNumber": "3494",
+      "latitude": 49.21173088,
+      "longitude": -2.09705102,
+      "shelter": false
+    },
+    {
+      "id": "ea6e8d3a-ee39-4ca5-b3b9-aec33e5bc2ef",
+      "name": "El Tico S",
+      "stopNumber": "2585",
+      "latitude": 49.20577021,
+      "longitude": -2.22213986,
+      "shelter": false
+    },
+    {
+      "id": "eabbbbfb-395d-4f2a-a2c3-2d14f0484b0b",
+      "name": "Le Bourg W",
+      "stopNumber": "2937",
+      "latitude": 49.16772048,
+      "longitude": -2.04306038,
+      "shelter": true
+    },
+    {
+      "id": "eac291da-beee-43da-aadd-924e64c30ac2",
+      "name": "La Chesnee Farm N",
+      "stopNumber": "2596",
+      "latitude": 49.22217049,
+      "longitude": -2.09485743,
+      "shelter": false
+    },
+    {
+      "id": "eb38f7a7-8b34-4f08-aa76-b10dccf0460c",
+      "name": "Rue du Catel W",
+      "stopNumber": "4396",
+      "latitude": 49.23761123,
+      "longitude": -2.0545281,
+      "shelter": false
+    },
+    {
+      "id": "eb3e428c-9aab-4fed-b568-5d70aaee552f",
+      "name": "St Ouens Church",
+      "stopNumber": "3989",
+      "latitude": 49.22539913,
+      "longitude": -2.20629781,
+      "shelter": false
+    },
+    {
+      "id": "eba40b6d-499d-43a8-b2d1-c76826c41897",
+      "name": "St Saviours School S",
+      "stopNumber": "3529",
+      "latitude": 49.19485924,
+      "longitude": -2.08279447,
+      "shelter": true
+    },
+    {
+      "id": "ebd7d0f2-3c85-4e02-821f-40c46db9e421",
+      "name": "Ville de l'Eglise E",
+      "stopNumber": "4549",
+      "latitude": 49.2121854,
+      "longitude": -2.18726894,
+      "shelter": false
+    },
+    {
+      "id": "ecdeb21d-6f36-4e66-a3a7-40734baa547a",
+      "name": "La Cambrette",
+      "stopNumber": "3474",
+      "latitude": 49.16983465,
+      "longitude": -2.08160119,
+      "shelter": false
+    },
+    {
+      "id": "ed5afa6c-5b5a-434d-a2c3-389dbcfdeba1",
+      "name": "Rue des Fontaines",
+      "stopNumber": "4349",
+      "latitude": 49.21090684,
+      "longitude": -2.19196806,
+      "shelter": false
+    },
+    {
+      "id": "eda4a34d-a22b-4eef-adcf-25323479e180",
+      "name": "St Brelade Church E",
+      "stopNumber": "3746",
+      "latitude": 49.18499609,
+      "longitude": -2.20330832,
+      "shelter": false
+    },
+    {
+      "id": "eea890c8-6fdb-4969-b74c-bfed7fcb8a7a",
+      "name": "Fauvic Common N",
+      "stopNumber": "3292",
+      "latitude": 49.17822487,
+      "longitude": -2.03483212,
+      "shelter": false
+    },
+    {
+      "id": "eede7162-0d41-42c0-ae7d-5eec79af73a2",
+      "name": "The Old Forge W",
+      "stopNumber": "2357",
+      "latitude": 49.2401908,
+      "longitude": -2.10423223,
+      "shelter": false
+    },
+    {
+      "id": "efa39733-a22b-44a8-b529-f81027641d95",
+      "name": "La Ruche S",
+      "stopNumber": "4263",
+      "latitude": 49.21276861,
+      "longitude": -2.16900519,
+      "shelter": false
+    },
+    {
+      "id": "efd5fc93-efae-4020-af71-0c6231e911bf",
+      "name": "Clos de la Gare",
+      "stopNumber": "4389",
+      "latitude": 49.18557845,
+      "longitude": -2.21859244,
+      "shelter": true
+    },
+    {
+      "id": "effb99b3-fac2-4270-981f-116870493572",
+      "name": "Brooklyn Street S",
+      "stopNumber": "2347",
+      "latitude": 49.18442225,
+      "longitude": -2.09936166,
+      "shelter": false
+    },
+    {
+      "id": "f07492bf-8c40-45af-9efd-aa5da335ae22",
+      "name": "Poplar Avenue S",
+      "stopNumber": "3569",
+      "latitude": 49.21064442,
+      "longitude": -2.06107508,
+      "shelter": false
+    },
+    {
+      "id": "f150cac6-5df3-42a1-a4a0-317ac933c802",
+      "name": "Langley Park E",
+      "stopNumber": "3857",
+      "latitude": 49.19897021,
+      "longitude": -2.09090765,
+      "shelter": false
+    },
+    {
+      "id": "f187108d-7989-45e8-8293-37d183ffcb80",
+      "name": "Pillar Gardens",
+      "stopNumber": "3478",
+      "latitude": 49.20163662,
+      "longitude": -2.09169564,
+      "shelter": false
+    },
+    {
+      "id": "f239301e-5bc8-4368-a6f6-157165854a41",
+      "name": "La Ruette S",
+      "stopNumber": "2892",
+      "latitude": 49.23545964,
+      "longitude": -2.16129278,
+      "shelter": false
+    },
+    {
+      "id": "f30816ec-5c46-4603-bfe9-53a09e7cba5e",
+      "name": "Minden Place",
+      "stopNumber": "4659",
+      "latitude": 49.18601231,
+      "longitude": -2.10294743,
+      "shelter": false
+    },
+    {
+      "id": "f3164f55-cc22-49cb-9bbe-c5c2b7642e6f",
+      "name": "La Hougue Avenue S",
+      "stopNumber": "4249",
+      "latitude": 49.20981178,
+      "longitude": -2.11276051,
+      "shelter": true
+    },
+    {
+      "id": "f320e879-f479-4456-9f81-0ac3f1600511",
+      "name": "Bradford Avenue W",
+      "stopNumber": "3527",
+      "latitude": 49.18967932,
+      "longitude": -2.19658145,
+      "shelter": false
+    },
+    {
+      "id": "f3336c06-ca22-40b6-93ac-42bc2f3c5f54",
+      "name": "R. J. Showground S",
+      "stopNumber": "4358",
+      "latitude": 49.23186486,
+      "longitude": -2.09335996,
+      "shelter": false
+    },
+    {
+      "id": "f349133d-ff61-449e-9552-363cef7a5596",
+      "name": "Augres N",
+      "stopNumber": "2989",
+      "latitude": 49.21639156,
+      "longitude": -2.09602483,
+      "shelter": false
+    },
+    {
+      "id": "f3c56e3d-1aff-49f1-bd0c-0767432a382a",
+      "name": "Pontac Slipway E",
+      "stopNumber": "2793",
+      "latitude": 49.16938271,
+      "longitude": -2.05566692,
+      "shelter": false
+    },
+    {
+      "id": "f3ffba38-846f-4822-9de1-4e9d9ed4dff1",
+      "name": "Gargate S",
+      "stopNumber": "2652",
+      "latitude": 49.21485409,
+      "longitude": -2.1711308,
+      "shelter": false
+    },
+    {
+      "id": "f4adec4e-09fa-4739-be26-056bb04f06fd",
+      "name": "Millennium Court W",
+      "stopNumber": "4376",
+      "latitude": 49.17628586,
+      "longitude": -2.0925628,
+      "shelter": true
+    },
+    {
+      "id": "f4b4a901-e4ed-42a7-bd2c-4e41ea6986ce",
+      "name": "Princess Place S",
+      "stopNumber": "3452",
+      "latitude": 49.17412107,
+      "longitude": -2.0889591,
+      "shelter": false
+    },
+    {
+      "id": "f55a7d52-24ec-48b2-81fb-74a9e078d8ff",
+      "name": "Belvedere Hill",
+      "stopNumber": "2395",
+      "latitude": 49.17978144,
+      "longitude": -2.09016532,
+      "shelter": false
+    },
+    {
+      "id": "f583e367-b788-4868-a93b-ac07b0ec315f",
+      "name": "Carrefour Selous E",
+      "stopNumber": "2479",
+      "latitude": 49.22700691,
+      "longitude": -2.14589311,
+      "shelter": false
+    },
+    {
+      "id": "f5b177ba-903e-4d39-b26f-94abeb07b87b",
+      "name": "Old Trinity Hill N",
+      "stopNumber": "2546",
+      "latitude": 49.1961658,
+      "longitude": -2.09976418,
+      "shelter": false
+    },
+    {
+      "id": "f6582175-f109-4a5a-9580-21e36c5cd050",
+      "name": "Bouley Bay",
+      "stopNumber": "2439",
+      "latitude": 49.23851119,
+      "longitude": -2.08177415,
+      "shelter": false
+    },
+    {
+      "id": "f684f6db-edd9-4e0f-9f6e-1ead172faf07",
+      "name": "Chemin de Herupe S",
+      "stopNumber": "2375",
+      "latitude": 49.2313734,
+      "longitude": -2.11526973,
+      "shelter": false
+    },
+    {
+      "id": "f6931250-3bee-47dc-8429-c6c52ca51e71",
+      "name": "Coronation Park E",
+      "stopNumber": "3436",
+      "latitude": 49.19858998,
+      "longitude": -2.13991322,
+      "shelter": true
+    },
+    {
+      "id": "f69ffd8d-fcf3-4a53-af7e-bd675c217311",
+      "name": "Gorey Pier",
+      "stopNumber": "2682",
+      "latitude": 49.19973465,
+      "longitude": -2.02113563,
+      "shelter": true
+    },
+    {
+      "id": "f6b2d66f-d059-4b50-aace-efc082c1153a",
+      "name": "Grouville Station S",
+      "stopNumber": "2746",
+      "latitude": 49.18639474,
+      "longitude": -2.03954556,
+      "shelter": true
+    },
+    {
+      "id": "f6cb211f-f7b3-40e4-83e5-d414dee68dc6",
+      "name": "Broadfields S",
+      "stopNumber": "2824",
+      "latitude": 49.23123071,
+      "longitude": -2.15481913,
+      "shelter": false
+    },
+    {
+      "id": "f6dbe5d1-f916-46fe-8b35-9180821fab73",
+      "name": "La Moye School E",
+      "stopNumber": "2869",
+      "latitude": 49.18811317,
+      "longitude": -2.21509807,
+      "shelter": false
+    },
+    {
+      "id": "f6f4043c-5022-492e-b6d0-f76dec071ae7",
+      "name": "Ebenezer Chapel E",
+      "stopNumber": "4295",
+      "latitude": 49.23827032,
+      "longitude": -2.09993194,
+      "shelter": false
+    },
+    {
+      "id": "f6f9a8f9-7b6f-4a6d-b35e-577e173d2038",
+      "name": "Le Bourg E",
+      "stopNumber": "2875",
+      "latitude": 49.16786744,
+      "longitude": -2.04321916,
+      "shelter": false
+    },
+    {
+      "id": "f7d868f6-7ded-48b1-971c-cc7698ba5797",
+      "name": "Biarritz Hotel E",
+      "stopNumber": "4292",
+      "latitude": 49.18465362,
+      "longitude": -2.1880939,
+      "shelter": false
+    },
+    {
+      "id": "f835b291-b174-4d0b-85df-7a78e00f570d",
+      "name": "Westmount Park E",
+      "stopNumber": "3762",
+      "latitude": 49.18967833,
+      "longitude": -2.11448729,
+      "shelter": false
+    },
+    {
+      "id": "f8413d8a-1f39-4522-ad46-5ab05e18504c",
+      "name": "The Manor Lodge",
+      "stopNumber": "4365",
+      "latitude": 49.18259557,
+      "longitude": -2.07993732,
+      "shelter": false
+    },
+    {
+      "id": "f87c0d2c-cec1-47bc-99c8-42c6b9f5b3ac",
+      "name": "Princess Place N",
+      "stopNumber": "3493",
+      "latitude": 49.17422175,
+      "longitude": -2.08897306,
+      "shelter": false
+    },
+    {
+      "id": "f9ab112f-a48d-4c66-8e20-47d73f868d83",
+      "name": "Trinity Gardens N",
+      "stopNumber": "3624",
+      "latitude": 49.19353729,
+      "longitude": -2.10095836,
+      "shelter": false
+    },
+    {
+      "id": "f9f594bd-34ea-4c2e-b03d-94504dddfcf4",
+      "name": "Coastlands Avenue E",
+      "stopNumber": "3732",
+      "latitude": 49.17661302,
+      "longitude": -2.09228204,
+      "shelter": false
+    },
+    {
+      "id": "fa404563-785b-4f61-9b43-6d98dd5a470a",
+      "name": "Westmount Park W",
+      "stopNumber": "4575",
+      "latitude": 49.1895832,
+      "longitude": -2.11436771,
+      "shelter": false
+    },
+    {
+      "id": "fa7a1503-d705-40ec-88ea-12f900a26bec",
+      "name": "Petit Bois",
+      "stopNumber": "3535",
+      "latitude": 49.24508214,
+      "longitude": -2.21488207,
+      "shelter": false
+    },
+    {
+      "id": "faa82b5d-d752-413a-86b2-bc2438061189",
+      "name": "Midland Stores S",
+      "stopNumber": "3434",
+      "latitude": 49.20808096,
+      "longitude": -2.06630031,
+      "shelter": true
+    },
+    {
+      "id": "faf0aad4-599a-4483-a95a-a17c23663390",
+      "name": "Pontac Common W",
+      "stopNumber": "3563",
+      "latitude": 49.16969101,
+      "longitude": -2.04808191,
+      "shelter": false
+    },
+    {
+      "id": "faf5f16a-044a-4420-a75a-fceb8c4a1043",
+      "name": "La Haule Slipway S",
+      "stopNumber": "2949",
+      "latitude": 49.19256427,
+      "longitude": -2.1664051,
+      "shelter": false
+    },
+    {
+      "id": "fb227080-dd3f-42d4-9307-8e9148f233ff",
+      "name": "aMaizin! Park S",
+      "stopNumber": "2859",
+      "latitude": 49.22285263,
+      "longitude": -2.19238955,
+      "shelter": false
+    },
+    {
+      "id": "fb6c711b-7767-4de3-a56a-cf035780ef92",
+      "name": "Rue de la Lourderie",
+      "stopNumber": "3767",
+      "latitude": 49.16642709,
+      "longitude": -2.03791367,
+      "shelter": false
+    },
+    {
+      "id": "fbf3b1d0-7954-408e-9117-f88025422a58",
+      "name": "Clos Orange N",
+      "stopNumber": "2536",
+      "latitude": 49.18701841,
+      "longitude": -2.21673171,
+      "shelter": true
+    },
+    {
+      "id": "fbfce992-5cb3-4587-9579-3a418e570785",
+      "name": "The Powerhouse S",
+      "stopNumber": "3539",
+      "latitude": 49.19991661,
+      "longitude": -2.11319194,
+      "shelter": false
+    },
+    {
+      "id": "fcc33349-206c-4089-9026-b501211260cb",
+      "name": "Queens Valley W",
+      "stopNumber": "3839",
+      "latitude": 49.20263299,
+      "longitude": -2.04236986,
+      "shelter": false
+    },
+    {
+      "id": "fcee8fea-2376-4f38-8cd8-d68e242d3e91",
+      "name": "St John Cemetery E",
+      "stopNumber": "4329",
+      "latitude": 49.24568287,
+      "longitude": -2.14326475,
+      "shelter": false
+    },
+    {
+      "id": "fd31b9b5-9436-4b19-835a-f4f987617416",
+      "name": "College Hill",
+      "stopNumber": "3956",
+      "latitude": 49.18415475,
+      "longitude": -2.0951912,
+      "shelter": false
+    },
+    {
+      "id": "fd5d870f-093a-43f7-bee0-bf166ed3dac1",
+      "name": "Oakfield",
+      "stopNumber": "4579",
+      "latitude": 49.19112453,
+      "longitude": -2.09058605,
+      "shelter": false
+    },
+    {
+      "id": "fdaa6112-32af-45c0-9319-84cbd7bae6de",
+      "name": "Rue de la Presse",
+      "stopNumber": "4347",
+      "latitude": 49.21501036,
+      "longitude": -2.18863849,
+      "shelter": false
+    },
+    {
+      "id": "fdaaac73-23d6-4899-8bec-cc6f1ee8fe2a",
+      "name": "Les Verrieres N",
+      "stopNumber": "4693",
+      "latitude": 49.24550104,
+      "longitude": -2.20162723,
+      "shelter": false
+    },
+    {
+      "id": "fdab45b1-c22b-432b-a20b-ac970baeda96",
+      "name": "Glencoe S",
+      "stopNumber": "3643",
+      "latitude": 49.23154686,
+      "longitude": -2.14345346,
+      "shelter": false
+    },
+    {
+      "id": "fdb8129b-46b9-49cf-a428-390a8e5d191b",
+      "name": "Midbay W",
+      "stopNumber": "3427",
+      "latitude": 49.18527342,
+      "longitude": -2.19584235,
+      "shelter": false
+    },
+    {
+      "id": "fe314ce7-36bf-4ce9-a043-4c2521a3a2d9",
+      "name": "Pot du Rocher N",
+      "stopNumber": "4635",
+      "latitude": 49.23191919,
+      "longitude": -2.0712327,
+      "shelter": false
+    },
+    {
+      "id": "fe45d3ce-fdeb-4a95-a779-6ed0d06125af",
+      "name": "Langley Avenue S",
+      "stopNumber": "3896",
+      "latitude": 49.19652424,
+      "longitude": -2.08970925,
+      "shelter": false
+    },
+    {
+      "id": "fe5e0d01-7c31-414b-b6c8-8d1541a2162c",
+      "name": "Rue des Chenes",
+      "stopNumber": "4582",
+      "latitude": 49.18957659,
+      "longitude": -2.09498586,
+      "shelter": false
+    },
+    {
+      "id": "fe8444f0-8159-4fb0-9ae5-7a798ee043a3",
+      "name": "Archirondel N",
+      "stopNumber": "2349",
+      "latitude": 49.21030479,
+      "longitude": -2.02595178,
+      "shelter": false
+    },
+    {
+      "id": "feede134-5b7d-40ed-b186-9b47d75ffb7a",
+      "name": "Rue des Boulees",
+      "stopNumber": "3648",
+      "latitude": 49.21880159,
+      "longitude": -2.07637603,
+      "shelter": false
+    },
+    {
+      "id": "ff15e467-e377-424f-9ecc-33c3fc0415fa",
+      "name": "Troy Court S",
+      "stopNumber": "3936",
+      "latitude": 49.19625741,
+      "longitude": -2.09672319,
+      "shelter": false
+    },
+    {
+      "id": "ff839f46-66ea-4df9-a3d0-d995d7205e56",
+      "name": "La Croix Crescent",
+      "stopNumber": "4237",
+      "latitude": 49.18813475,
+      "longitude": -2.04137897,
+      "shelter": false
+    },
+    {
+      "id": "ff896853-c9c6-4d23-981a-0e2d9e812b70",
+      "name": "Castle Quay N",
+      "stopNumber": "4648",
+      "latitude": 49.18269908,
+      "longitude": -2.11471605,
+      "shelter": false
+    },
+    {
+      "id": "ffe25d2d-79a5-45da-961c-0477f2476382",
+      "name": "Longbeach N",
+      "stopNumber": "2685",
+      "latitude": 49.19670947,
+      "longitude": -2.03078448,
+      "shelter": false
+    }
+  ]
+}
