@@ -20,6 +20,12 @@ export const transforms = {
         paymentMethods: (data.paymentMethods || []).join(",")
     }),
 
+    carparkSpaces: ([createdAt, name, spaces]) => ({
+        createdAt,
+        name,
+        spaces
+    }),
+
     foi: (data) => data,
     busStops: (data) => data,
     eatsafe: (data) => data,

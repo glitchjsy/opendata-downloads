@@ -1,9 +1,9 @@
 {
   "pagination": {
     "limit": 1000000,
-    "totalItems": 8971,
+    "totalPages": 1,
     "page": 1,
-    "totalPages": 1
+    "totalItems": 8971
   },
   "results": [
     {

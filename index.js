@@ -94,6 +94,11 @@ async function run() {
         transform: transforms.busStops
     });
 
+    await fetchAndWriteCarparkSpacesPivot({
+        path: "parking-spaces",
+        endpoint: "/carparks/spaces/all-temp-do-not-use",
+    });
+
     updateReadme();
     writeIndex();
 
@@ -148,6 +153,59 @@ async function fetchAndWriteObjectMap({
         objectMapToRows(data.results, key, value)
     );
 }
+
+async function fetchAndWriteCarparkSpacesPivot({
+    path: datasetPath,
+    endpoint,
+}) {
+    const dir = path.join(DATA_ROOT, datasetPath);
+    const data = await fetchEndpoint(endpoint);
+
+    // Extract rows
+    const rows = data.results.map(([createdAt, name, spaces]) => ({
+        createdAt,
+        name,
+        spaces
+    }));
+
+    // Collect all unique carpark names
+    const carparks = Array.from(new Set(rows.map(r => r.name))).sort();
+
+    // Group by date
+    const groupedByDate = {};
+    rows.forEach(r => {
+        if (!groupedByDate[r.createdAt]) groupedByDate[r.createdAt] = {};
+        groupedByDate[r.createdAt][r.name] = r.spaces;
+    });
+
+    // Prepare CSV rows
+    const csvRows = [];
+    const sortedDates = Object.keys(groupedByDate).sort((a, b) => new Date(b) - new Date(a)); 
+    sortedDates.forEach(date => {
+        const row = { date };
+        carparks.forEach(c => {
+            row[c] = groupedByDate[date][c] ?? "";
+        });
+        csvRows.push(row);
+    });
+
+    // Write CSV
+    ensureDir(dir);
+    const filePath = path.join(dir, `${datasetPath}.csv`);
+    const csv = stringify(csvRows, { header: true });
+    fs.writeFileSync(filePath, csv);
+
+    // Update index
+    if (!INDEX.datasets[datasetPath]) {
+        INDEX.datasets[datasetPath] = { files: [] };
+    }
+    const stats = fs.statSync(filePath);
+    INDEX.datasets[datasetPath].files.push({
+        path: `${datasetPath}/${datasetPath}.csv`,
+        sizeBytes: stats.size
+    });
+}
+
 
 function ensureDir(dir) {
     if (!fs.existsSync(dir)) {
