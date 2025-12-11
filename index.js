@@ -27,6 +27,7 @@ async function run() {
         path: "toilets",
         endpoint: "/toilets",
         select: d => d.results,
+        exclude: ["buildDate", "female", "male", "tenure"],
         transform: transforms.toilets
     });
 
@@ -103,10 +104,25 @@ async function fetchAndWrite({
     path: datasetPath,
     endpoint,
     select,
+    exclude,
     transform
 }) {
     const dir = path.join(DATA_ROOT, datasetPath);
-    const data = await fetchEndpoint(endpoint);
+    let data = await fetchEndpoint(endpoint);
+
+    if (select && Array.isArray(exclude)) {
+        let newData = select(data).map(d => Object.fromEntries(
+            Object.entries(d).filter(([k]) => !exclude.includes(k))
+        ));
+        data = {
+            results: newData
+        }
+    }
+
+    data = {
+        pagination: data?.pagination || undefined,
+        results: data.results
+    }
 
     writeJson(dir, `${datasetPath}.json`, data);
 
@@ -156,7 +172,7 @@ function writeJson(dir, filename, data) {
     ensureDir(dir);
 
     const filePath = path.join(dir, filename);
-    
+
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
     recordFile(path.basename(dir), filePath);
 }
@@ -166,7 +182,7 @@ function writeCsv(dir, filename, records) {
         return;
     }
     ensureDir(dir);
-    
+
     const csv = stringify(records, { header: true });
     const filePath = path.join(dir, filename);
 
@@ -189,7 +205,6 @@ function recordFile(dataset, filePath) {
 
     if (!INDEX.datasets[dataset]) {
         INDEX.datasets[dataset] = {
-            updatedAt: RUN_DATE,
             files: []
         };
     }

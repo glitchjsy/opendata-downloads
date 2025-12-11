@@ -1,6 +1,10 @@
 export const transforms = {
     toilets: (data) => ({
-        ...data,
+        id: data.id,
+        name: data.name,
+        parish: data.parish,
+        latitude: data.latitude,
+        longitude: data.longitude,
         ownerName: data.owner?.name ?? null,
         facilities: (data.facilities || []).join(",")
     }),

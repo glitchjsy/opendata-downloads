@@ -7,26 +7,11 @@
       "parish": "St. Helier",
       "latitude": 49.17793188,
       "longitude": -2.10985971,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1937,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "0467c094-9037-49e0-9098-2e7feb25a459",
@@ -35,28 +20,13 @@
       "parish": "St. Brelade",
       "latitude": 49.185829,
       "longitude": -2.21379499,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1998,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 1,
-        "urinals": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "0808451f-011c-4993-8163-486a09fae6d5",
@@ -65,28 +35,13 @@
       "parish": "St. John",
       "latitude": 49.25225901,
       "longitude": -2.12096186,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 2003,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 2,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "11c14a55-1212-4a1b-aaa7-6782e5945d92",
@@ -95,34 +50,13 @@
       "parish": "Trinity",
       "latitude": 49.238868,
       "longitude": -2.08166393,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1958,
       "facilities": [
         "BEACH_SHOWER"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "12aec285-85e8-49a5-9059-18b2731263cc",
@@ -131,34 +65,13 @@
       "parish": "St. Lawrence",
       "latitude": 49.19777913,
       "longitude": -2.14208321,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1938,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": 1,
-        "urinals": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "156d6d3a-f5bc-40dd-8f4c-3423df12cf0b",
@@ -167,34 +80,13 @@
       "parish": "St. Ouen",
       "latitude": 49.25651053,
       "longitude": -2.22911326,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1910,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "186765f2-e931-483a-85d7-dbf33e8a9d84",
@@ -203,28 +95,13 @@
       "parish": "St. Helier",
       "latitude": 49.18767909,
       "longitude": -2.11069158,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "236598b9-c947-40f4-97ca-e49252c3a740",
@@ -233,29 +110,14 @@
       "parish": "St. Brelade",
       "latitude": 49.18774852,
       "longitude": -2.16919926,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1949,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "24a01a8c-12ae-4ec5-a133-23be5e9e0894",
@@ -264,28 +126,13 @@
       "parish": "St. Martin",
       "latitude": 49.20000734,
       "longitude": -2.02135859,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": "52c49647-20f2-49f0-b9b6-a9ba49a13d03",
         "name": "Andium Homes"
       },
-      "buildDate": 1891,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "2500fe9c-4412-410e-8107-f2ffc14afc34",
@@ -294,30 +141,13 @@
       "parish": "St. Helier",
       "latitude": 49.1874601,
       "longitude": -2.09970421,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 2011,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "2892d8d3-7a76-4b80-8bfa-f46e3274e399",
@@ -326,30 +156,15 @@
       "parish": "Grouville",
       "latitude": 49.19618566,
       "longitude": -2.03066981,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1965,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "296ff3f3-38fd-4567-977e-dfc94b1ee6be",
@@ -358,30 +173,13 @@
       "parish": "St. Helier",
       "latitude": 49.17985301,
       "longitude": -2.09828251,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1938,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 5,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "2e4a5739-43ec-46df-8881-27a8da389cbe",
@@ -390,30 +188,15 @@
       "parish": "St. Brelade",
       "latitude": 49.18579372,
       "longitude": -2.19885529,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1966,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "47aeb0f8-c721-45f3-be99-544ecf091211",
@@ -422,30 +205,15 @@
       "parish": "St. Brelade",
       "latitude": 49.18103496,
       "longitude": -2.23892806,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1950,
       "facilities": [
         "GENDER_NEUTRAL",
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "509985cc-a710-4d03-bed5-5f150b85db12",
@@ -454,35 +222,14 @@
       "parish": "St. Brelade",
       "latitude": 49.1853255,
       "longitude": -2.20002067,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1965,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "5519dbaa-7375-4080-ba48-a68665e10c5d",
@@ -491,34 +238,13 @@
       "parish": "St. Brelade",
       "latitude": 49.1988782,
       "longitude": -2.22376511,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1959,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "605f608a-f0a2-4719-bfa2-a0ea323c6fcc",
@@ -527,29 +253,14 @@
       "parish": "St. Ouen",
       "latitude": 49.23065492,
       "longitude": -2.23465773,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1986,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "60aa98ca-210d-4ab2-93f6-993b2de2d260",
@@ -558,35 +269,14 @@
       "parish": "St. Martin",
       "latitude": 49.2116822,
       "longitude": -2.02511985,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1994,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "63a431cf-9261-4372-bc37-0de820ae36a8",
@@ -595,29 +285,14 @@
       "parish": "St. Helier",
       "latitude": 49.18514846,
       "longitude": -2.11023603,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1971,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "6aa6dd28-adbf-4412-8e60-38c376027a63",
@@ -626,30 +301,13 @@
       "parish": "St. Lawrence",
       "latitude": 49.19637192,
       "longitude": -2.13831586,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1958,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "6da66403-84fa-4eaa-bfca-41a040c4e4c7",
@@ -658,29 +316,14 @@
       "parish": "Grouville",
       "latitude": 49.16442032,
       "longitude": -2.03345146,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1958,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "7014bc81-6700-4efd-a632-6a4ce4bd223b",
@@ -689,32 +332,11 @@
       "parish": "St. Brelade",
       "latitude": 49.18536403,
       "longitude": -2.19528821,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1939,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      "facilities": []
     },
     {
       "id": "7371c28b-77c5-4d2c-8932-220aa0306b54",
@@ -723,28 +345,13 @@
       "parish": "St. Peter",
       "latitude": 49.19611367,
       "longitude": -2.15759756,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1957,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "7a25dbb3-db9a-40b1-932e-85bab28457ae",
@@ -753,28 +360,13 @@
       "parish": "St. Helier",
       "latitude": 49.1860974,
       "longitude": -2.10311061,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1970,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 4,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "7e26678b-54fa-4996-8fcd-cc41aa9df655",
@@ -783,28 +375,13 @@
       "parish": "St. Helier",
       "latitude": 49.18134853,
       "longitude": -2.10190113,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "7f37f54d-43cb-42a1-b818-e86ec8630546",
@@ -813,29 +390,14 @@
       "parish": "St. Lawrence",
       "latitude": 49.19683473,
       "longitude": -2.14570211,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1958,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "8165dc92-2813-475a-9d4a-f9196be1c212",
@@ -844,26 +406,11 @@
       "parish": "St. Helier",
       "latitude": 49.19701502,
       "longitude": -2.13210497,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "823f6040-df8a-44ec-a3f1-df57cd99c17f",
@@ -872,26 +419,11 @@
       "parish": "St. Helier",
       "latitude": 49.17931748,
       "longitude": -2.11426177,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1958,
-      "facilities": [],
-      "female": {
-        "cubicles": 3,
-        "handDryers": 1,
-        "sinks": 1,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 4,
-        "handDryers": 2,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "89cb7409-ac7e-4336-aaa4-d04c8c8240bb",
@@ -900,28 +432,13 @@
       "parish": "St. Helier",
       "latitude": 49.18745489,
       "longitude": -2.11366851,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1984,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 4,
-        "urinals": 4,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "8d9aa8b8-d413-483c-9ddd-b0f9514f7b1e",
@@ -930,28 +447,13 @@
       "parish": "St. Helier",
       "latitude": 49.18379399,
       "longitude": -2.10764831,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 2,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "9901e662-a59e-4113-b6d3-d5139c38bc62",
@@ -960,26 +462,11 @@
       "parish": "St. Helier",
       "latitude": 49.18777912,
       "longitude": -2.11676865,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "9b3ee8c6-e226-47e8-b889-8473c13dfec0",
@@ -988,28 +475,13 @@
       "parish": "St. Helier",
       "latitude": 49.17636011,
       "longitude": -2.10597232,
-      "tenure": "PARISH",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": null,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "9b99f75a-d3af-4e09-bce3-d01802b7e451",
@@ -1018,28 +490,13 @@
       "parish": "St. Clement",
       "latitude": 49.1673819,
       "longitude": -2.08304482,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1972,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "9c4b074a-e446-4ed4-8563-480ccb0d7bd3",
@@ -1048,29 +505,14 @@
       "parish": "St. Clement",
       "latitude": 49.16740904,
       "longitude": -2.06178906,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": 1969,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "a33b7a2f-8430-4f51-b07e-75c55ceb63dc",
@@ -1079,29 +521,14 @@
       "parish": "St. Helier",
       "latitude": 49.18318296,
       "longitude": -2.10944555,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 2007,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 5,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "a3444a7a-9934-4deb-aa09-2c276c25e987",
@@ -1110,29 +537,14 @@
       "parish": "St. Brelade",
       "latitude": 49.19379683,
       "longitude": -2.16419023,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1987,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "a5ff273d-4ffd-4c6f-9164-147c77e67d4a",
@@ -1141,28 +553,13 @@
       "parish": "St. Brelade",
       "latitude": 49.18306482,
       "longitude": -2.18993586,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1966,
       "facilities": [
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "a6de2246-2956-4299-b347-77332577ca23",
@@ -1171,28 +568,13 @@
       "parish": "St. Martin",
       "latitude": 49.20593417,
       "longitude": -2.02268987,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1965,
       "facilities": [
         "BEACH_SHOWER"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "abc03b7e-0b02-4f9b-8573-1a80502466ad",
@@ -1201,32 +583,11 @@
       "parish": "St. Martin",
       "latitude": 49.22235,
       "longitude": -2.01097042,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1950,
-      "facilities": [],
-      "female": {
-        "cubicles": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": 1,
-        "urinals": 2,
-        "handDryers": null,
-        "sinks": 1,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      "facilities": []
     },
     {
       "id": "b6f08d93-fba1-44cf-8a8e-9775402e269c",
@@ -1235,12 +596,10 @@
       "parish": "St. Helier",
       "latitude": 49.17539708,
       "longitude": -2.11426341,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1961,
       "facilities": [
         "GENDER_NEUTRAL"
       ]
@@ -1252,29 +611,14 @@
       "parish": "St. Helier",
       "latitude": 49.18517778,
       "longitude": -2.10397128,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1970,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 4,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "c8aefafe-cf70-4da6-a6be-0eb02e376aee",
@@ -1283,26 +627,11 @@
       "parish": "St. Helier",
       "latitude": 49.18070076,
       "longitude": -2.10733454,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1974,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "cb94254c-293d-42ea-b4d0-2951c17a784d",
@@ -1311,28 +640,13 @@
       "parish": "St. Helier",
       "latitude": 49.1834161,
       "longitude": -2.10322207,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1970,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 5,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "cd3d2d26-794f-4618-9279-cfa4133d6b30",
@@ -1341,26 +655,11 @@
       "parish": "St. Saviour",
       "latitude": 49.1769573,
       "longitude": -2.09714629,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1956,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      "facilities": []
     },
     {
       "id": "d68662f9-4162-41df-9eee-245834a1f233",
@@ -1369,28 +668,13 @@
       "parish": "St. Helier",
       "latitude": 49.19416454,
       "longitude": -2.12923768,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1996,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "d881776e-bbb4-4593-80d2-2671440fca6a",
@@ -1399,32 +683,14 @@
       "parish": "St. Brelade",
       "latitude": 49.17669963,
       "longitude": -2.18378447,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": 1969,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "dcd14008-e760-480c-91e7-7a3f0d894372",
@@ -1433,32 +699,11 @@
       "parish": "St. Martin",
       "latitude": 49.1972833,
       "longitude": -2.02181761,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1966,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      "facilities": []
     },
     {
       "id": "e032e200-57f3-4bdf-be54-be6996daa17d",
@@ -1467,29 +712,14 @@
       "parish": "Trinity",
       "latitude": 49.23780303,
       "longitude": -2.04453508,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1988,
       "facilities": [
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": 1,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 3,
-        "handDryers": 1,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "e901b70d-a550-4edb-90d2-5a4f0d5acc55",
@@ -1498,12 +728,10 @@
       "parish": "St. Brelade",
       "latitude": 49.1988421,
       "longitude": -2.22394068,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": 2022,
       "facilities": [
         "GENDER_NEUTRAL",
         "DISABLED",
@@ -1517,28 +745,13 @@
       "parish": "St. Helier",
       "latitude": 49.18713173,
       "longitude": -2.11685121,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1974,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "f4fb8562-366f-41c8-b505-2489e2c2f334",
@@ -1547,32 +760,11 @@
       "parish": "St. Clement",
       "latitude": 49.16357632,
       "longitude": -2.07336716,
-      "tenure": "LEASEHOLD",
       "owner": {
         "id": null,
         "name": null
       },
-      "buildDate": 1958,
-      "facilities": [],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      "facilities": []
     },
     {
       "id": "f5f2adb9-0300-4553-bf82-48dcb0db4859",
@@ -1581,28 +773,13 @@
       "parish": "St. Brelade",
       "latitude": 49.19099016,
       "longitude": -2.20024761,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1972,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "f6758dc1-c58d-4d90-9423-e4efcb7e22ce",
@@ -1611,36 +788,15 @@
       "parish": "St. Ouen",
       "latitude": 49.24691776,
       "longitude": -2.20136509,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1952,
       "facilities": [
         "BEACH_SHOWER",
         "DISABLED",
         "BABY_CHANGING"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": [
-          "TAMPONS",
-          "PADS"
-        ]
-      }
+      ]
     },
     {
       "id": "f727428a-b63f-4387-99d4-7e67eac0f944",
@@ -1649,28 +805,13 @@
       "parish": "St. Clement",
       "latitude": 49.17335334,
       "longitude": -2.08947872,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "6060f60d-17a1-49c8-aa4a-c268721a806a",
         "name": "Government of Jersey"
       },
-      "buildDate": 1942,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": null,
-        "urinals": null,
-        "handDryers": null,
-        "sinks": null,
-        "periodProducts": []
-      }
+      ]
     },
     {
       "id": "febf356b-c2d2-4c98-a5bb-3ca25a237a02",
@@ -1679,28 +820,13 @@
       "parish": "St. Martin",
       "latitude": 49.22469746,
       "longitude": -2.02028608,
-      "tenure": "FREEHOLD",
       "owner": {
         "id": "62a13258-686c-456c-87f3-8a93ff735d35",
         "name": "Ports of Jersey"
       },
-      "buildDate": 1950,
       "facilities": [
         "DISABLED"
-      ],
-      "female": {
-        "cubicles": 3,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      },
-      "male": {
-        "cubicles": 2,
-        "urinals": 4,
-        "handDryers": null,
-        "sinks": 2,
-        "periodProducts": []
-      }
+      ]
     }
   ]
 }

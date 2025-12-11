@@ -4522,7 +4522,7 @@
       "longitude": -90.327488
     },
     {
-      "name": "Bilbo's",
+      "name": "Bilbo's (ceased)",
       "rating": 4,
       "createdAt": "05/07/2024",
       "address1": "Longueville Stores",
@@ -10845,6 +10845,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "No1 Lounges (JER) Ltd",
+      "rating": 5,
+      "createdAt": "18/11/2025",
+      "address1": "Jersey Airport",
+      "address2": "L'Avenue de la Commune",
+      "address3": "St. Peter",
+      "postCode": "JE1 1BY",
+      "latitude": 49.202412,
+      "longitude": -2.192182
     },
     {
       "name": "Booze Box",

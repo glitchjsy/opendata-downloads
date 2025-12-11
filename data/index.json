@@ -1,34 +1,31 @@
 {
-  "generatedAt": "2025-12-10T13:04:44.801Z",
+  "generatedAt": "2025-12-11T14:51:02.119Z",
   "datasets": {
     "eatsafe": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "eatsafe/eatsafe.json",
-          "sizeBytes": 279723
+          "sizeBytes": 280034
         },
         {
           "path": "eatsafe/eatsafe.csv",
-          "sizeBytes": 87942
+          "sizeBytes": 88062
         }
       ]
     },
     "toilets": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "toilets/toilets.json",
-          "sizeBytes": 42848
+          "sizeBytes": 23706
         },
         {
           "path": "toilets/toilets.csv",
-          "sizeBytes": 23989
+          "sizeBytes": 8187
         }
       ]
     },
     "defibrillators": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "defibrillators/defibrillators.json",
@@ -41,7 +38,6 @@
       ]
     },
     "recycling": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "recycling/recycling.json",
@@ -54,7 +50,6 @@
       ]
     },
     "vehicles": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "vehicles/vehicles.json",
@@ -67,7 +62,6 @@
       ]
     },
     "vehicles-colors": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "vehicles-colors/vehicles-colors.json",
@@ -80,7 +74,6 @@
       ]
     },
     "vehicles-makes": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "vehicles-makes/vehicles-makes.json",
@@ -93,7 +86,6 @@
       ]
     },
     "vehicles-models": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "vehicles-models/vehicles-models.json",
@@ -106,20 +98,18 @@
       ]
     },
     "carparks": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "carparks/carparks.json",
-          "sizeBytes": 49992
+          "sizeBytes": 52707
         },
         {
           "path": "carparks/carparks.csv",
-          "sizeBytes": 19060
+          "sizeBytes": 20790
         }
       ]
     },
     "foi-requests": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "foi-requests/foi-requests.json",
@@ -132,7 +122,6 @@
       ]
     },
     "bus-stops": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
       "files": [
         {
           "path": "bus-stops/bus-stops.json",
