@@ -1,4 +1,10 @@
 {
+  "pagination": {
+    "limit": 1000000,
+    "totalItems": 8971,
+    "page": 1,
+    "totalPages": 1
+  },
   "results": [
     {
       "author": "Infrastructure and Environment",
@@ -62797,11 +62803,5 @@
       "id": 1,
       "title": "Zombie attack plan and emergency measures for zombie outbreak (FOI)"
     }
-  ],
-  "pagination": {
-    "page": 1,
-    "totalPages": 1,
-    "limit": 1000000,
-    "totalItems": 8971
-  }
+  ]
 }

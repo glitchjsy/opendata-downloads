@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2025-12-10T13:04:44.801Z",
+  "generatedAt": "2025-12-11T03:17:01.345Z",
   "datasets": {
     "eatsafe": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "eatsafe/eatsafe.json",
-          "sizeBytes": 279723
+          "sizeBytes": 280034
         },
         {
           "path": "eatsafe/eatsafe.csv",
-          "sizeBytes": 87942
+          "sizeBytes": 88062
         }
       ]
     },
     "toilets": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "toilets/toilets.json",
@@ -28,7 +28,7 @@
       ]
     },
     "defibrillators": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "defibrillators/defibrillators.json",
@@ -41,7 +41,7 @@
       ]
     },
     "recycling": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "recycling/recycling.json",
@@ -54,7 +54,7 @@
       ]
     },
     "vehicles": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "vehicles/vehicles.json",
@@ -67,7 +67,7 @@
       ]
     },
     "vehicles-colors": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "vehicles-colors/vehicles-colors.json",
@@ -80,7 +80,7 @@
       ]
     },
     "vehicles-makes": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "vehicles-makes/vehicles-makes.json",
@@ -93,7 +93,7 @@
       ]
     },
     "vehicles-models": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "vehicles-models/vehicles-models.json",
@@ -106,7 +106,7 @@
       ]
     },
     "carparks": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "carparks/carparks.json",
@@ -119,7 +119,7 @@
       ]
     },
     "foi-requests": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "foi-requests/foi-requests.json",
@@ -132,7 +132,7 @@
       ]
     },
     "bus-stops": {
-      "updatedAt": "2025-12-10T13:04:44.801Z",
+      "updatedAt": "2025-12-11T03:17:01.345Z",
       "files": [
         {
           "path": "bus-stops/bus-stops.json",
