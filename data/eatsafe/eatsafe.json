@@ -232,6 +232,17 @@
       "longitude": null
     },
     {
+      "name": "Morrisons Daily-La Moye",
+      "rating": 3,
+      "createdAt": "20/11/2025",
+      "address1": "Links Hault",
+      "address2": null,
+      "address3": "St. Brelade",
+      "postCode": "JE3 8GQ",
+      "latitude": 49.193024,
+      "longitude": -2.199614
+    },
+    {
       "name": "Kaffe Kitchen",
       "rating": 5,
       "createdAt": "05/07/2024",
@@ -3352,8 +3363,8 @@
       "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 4WG",
-      "latitude": 49.185393,
-      "longitude": -2.104528
+      "latitude": 49.185989,
+      "longitude": -2.104366
     },
     {
       "name": "Awabi",
@@ -4832,7 +4843,7 @@
     {
       "name": "Spiral Ices Limited",
       "rating": 5,
-      "createdAt": "12/02/2025",
+      "createdAt": "11/02/2022",
       "address1": "Longbeach Car Park",
       "address2": "La Rue à Don",
       "address3": "Grouville",
@@ -10341,6 +10352,17 @@
       "longitude": null
     },
     {
+      "name": "La Bottega",
+      "rating": 4,
+      "createdAt": "21/11/2025",
+      "address1": "Unit 75/77",
+      "address2": "Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "The Hut",
       "rating": 5,
       "createdAt": "17/06/2025",
@@ -10759,6 +10781,17 @@
       "longitude": -2.103294
     },
     {
+      "name": "Cocorico",
+      "rating": 2,
+      "createdAt": "21/11/2025",
+      "address1": "118-119",
+      "address2": "Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "Supermarket Madeira",
       "rating": 5,
       "createdAt": "02/05/2025",
@@ -10836,6 +10869,17 @@
       "longitude": null
     },
     {
+      "name": "Habibi Haus",
+      "rating": 4,
+      "createdAt": "21/11/2025",
+      "address1": "Habibi Haus",
+      "address2": "66  Bath Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4SU",
+      "latitude": 49.18605,
+      "longitude": -2.10227
+    },
+    {
       "name": "TJ's Bake & Browse",
       "rating": 5,
       "createdAt": "31/10/2025",
@@ -10861,6 +10905,17 @@
       "name": "Booze Box",
       "rating": 4,
       "createdAt": "29/04/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "La Passerelle School",
+      "rating": 5,
+      "createdAt": "26/11/2025",
       "address1": null,
       "address2": null,
       "address3": null,
