@@ -8174,6 +8174,17 @@
       "longitude": -90.327488
     },
     {
+      "name": "Quidsin.com",
+      "rating": 5,
+      "createdAt": "06/05/2025",
+      "address1": "7  Esplanade",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3QB",
+      "latitude": 49.18325,
+      "longitude": -2.10934
+    },
+    {
       "name": "Leonidas",
       "rating": 4,
       "createdAt": "09/10/2023",
