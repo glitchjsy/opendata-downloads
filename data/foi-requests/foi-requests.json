@@ -1,11 +1,116 @@
 {
   "pagination": {
-    "totalItems": 8971,
+    "totalItems": 8986,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-15",
+      "producer": "the Freedom of Information office",
+      "id": 9111,
+      "title": "Parking tickets"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2025-12-12",
+      "producer": "the Freedom of Information office",
+      "id": 9110,
+      "title": "Pension contributions"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2025-12-12",
+      "producer": "the Freedom of Information office",
+      "id": 9109,
+      "title": "Mortgage interest relief on marginal tax payers"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2025-12-12",
+      "producer": "the Freedom of Information office",
+      "id": 9107,
+      "title": "Road Traffic collisions"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-12",
+      "producer": "the Freedom of Information office",
+      "id": 9105,
+      "title": "Unoccupied accommodation"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-11",
+      "producer": "the Freedom of Information office",
+      "id": 9104,
+      "title": "Passenger Lift "
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2025-12-11",
+      "producer": "the Freedom of Information office",
+      "id": 9103,
+      "title": "LLB law degree students from Jersey"
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2025-12-10",
+      "producer": "the Freedom of Information office",
+      "id": 9102,
+      "title": "Court-appointed delegates under the Capacity and Self-Determination (Jersey) Law 2016"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2025-12-10",
+      "producer": "the Freedom of Information office",
+      "id": 9101,
+      "title": "School suspensions"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9100,
+      "title": "PFAS - Contamination sources"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9099,
+      "title": "Coastal defences"
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9098,
+      "title": "Total number of warrants"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9097,
+      "title": "25th Inter-Island Environment Meeting 2025"
+    },
+    {
+      "author": "Ministerial Support Office",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9096,
+      "title": "Notice of resignation of Constable Crowcroft "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-09",
+      "producer": "the Freedom of Information office",
+      "id": 9095,
+      "title": "Mobile Gear Authorisation scheme (MGA)"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2025-11-06",
