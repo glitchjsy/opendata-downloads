@@ -1,11 +1,60 @@
 {
   "pagination": {
-    "totalItems": 8986,
+    "totalItems": 8993,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2025-12-17",
+      "producer": "the Freedom of Information office",
+      "id": 9119,
+      "title": "SignVideo"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2025-12-17",
+      "producer": "the Freedom of Information office",
+      "id": 9118,
+      "title": "Learning disabilities in adults"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2025-12-16",
+      "producer": "the Freedom of Information office",
+      "id": 9117,
+      "title": "Work permits for nurses and midwives"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2025-12-16",
+      "producer": "the Freedom of Information office",
+      "id": 9116,
+      "title": "Domestic abuse cases"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2025-12-16",
+      "producer": "the Freedom of Information office",
+      "id": 9115,
+      "title": "Budgets for Jersey schools"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2025-12-16",
+      "producer": "the Freedom of Information office",
+      "id": 9114,
+      "title": "Bank Payroll Service Fees"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2025-12-15",
+      "producer": "the Freedom of Information office",
+      "id": 9113,
+      "title": "Conduct of States Members"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2025-12-15",
