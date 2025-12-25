@@ -496,6 +496,17 @@
       "longitude": 1.012524
     },
     {
+      "name": "The Bear",
+      "rating": 3,
+      "createdAt": "03/12/2025",
+      "address1": "The Bear Public House & Dining Room",
+      "address2": "36  King Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WF",
+      "latitude": 49.18445,
+      "longitude": -2.10681
+    },
+    {
       "name": "Gloster Vaults",
       "rating": 5,
       "createdAt": "25/07/2022",
@@ -10295,17 +10306,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Court Side Cafe",
-      "rating": 4,
-      "createdAt": "23/06/2025",
-      "address1": "Court side cafe",
-      "address2": "Caesarean Tennis Club",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7NA",
-      "latitude": 49.194897,
-      "longitude": -2.090318
     },
     {
       "name": "Arroz",
