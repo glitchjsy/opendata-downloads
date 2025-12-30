@@ -1,11 +1,95 @@
 {
   "pagination": {
-    "totalItems": 8993,
+    "totalItems": 9005,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-22",
+      "producer": "the Freedom of Information office",
+      "id": 9131,
+      "title": "Standby Duty Payments paid by the Jersey Ambulance Service"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2025-12-22",
+      "producer": "the Freedom of Information office",
+      "id": 9130,
+      "title": "Cannabis seizures by States of Jersey Police"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2025-12-22",
+      "producer": "the Freedom of Information office",
+      "id": 9129,
+      "title": "Jersey Fire and Rescue Service"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2025-12-19",
+      "producer": "the Freedom of Information office",
+      "id": 9128,
+      "title": "Long term incapacity allowance"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-19",
+      "producer": "the Freedom of Information office",
+      "id": 9127,
+      "title": "Tenancy - Bowling club site at Les Creux"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-19",
+      "producer": "the Freedom of Information office",
+      "id": 9126,
+      "title": "Abandoned bicycles"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2025-12-19",
+      "producer": "the Freedom of Information office",
+      "id": 9125,
+      "title": "Hot lunch providers"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2025-12-18",
+      "producer": "the Freedom of Information office",
+      "id": 9124,
+      "title": "Agreement between the Minister for Treasury and Resources and Ports of Jersey "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2025-12-18",
+      "producer": "the Freedom of Information office",
+      "id": 9123,
+      "title": "Fossil fuel producers"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-18",
+      "producer": "the Freedom of Information office",
+      "id": 9122,
+      "title": "Rehabilitation Centre at St Ewolds"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2025-12-17",
+      "producer": "the Freedom of Information office",
+      "id": 9121,
+      "title": "Sea walls and defences"
+    },
+    {
+      "author": "External Relations",
+      "publishDate": "2025-12-17",
+      "producer": "the Freedom of Information office",
+      "id": 9120,
+      "title": "Establishment of the ECCU "
+    },
     {
       "author": "Employment, Social Security and Housing",
       "publishDate": "2025-12-17",
