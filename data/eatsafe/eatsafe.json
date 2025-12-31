@@ -1339,8 +1339,8 @@
       "address2": "St. Helier",
       "address3": null,
       "postCode": "JE2 4TQ",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.185444,
+      "longitude": -2.105404
     },
     {
       "name": "LV Pharmacy",
@@ -1473,17 +1473,6 @@
       "postCode": "JE2 4SL",
       "latitude": 49.184361,
       "longitude": -2.10413
-    },
-    {
-      "name": "Earl Granville",
-      "rating": 4,
-      "createdAt": "26/06/2025",
-      "address1": "1 Providence Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4SF",
-      "latitude": 49.18551,
-      "longitude": -2.10101
     },
     {
       "name": "The Dog & Sausage",
@@ -3062,12 +3051,12 @@
       "name": "The Waffle Wagon",
       "rating": 5,
       "createdAt": "14/02/2025",
-      "address1": "Car Park opposite Watersplash",
-      "address2": "La Grande Route Des Mielles",
-      "address3": "St. Peter",
+      "address1": null,
+      "address2": null,
+      "address3": null,
       "postCode": null,
-      "latitude": 49.214849,
-      "longitude": -2.224828
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "The Beach Club",
@@ -5842,17 +5831,6 @@
       "longitude": -90.327488
     },
     {
-      "name": "The Bean Cafe, West Side Pizza",
-      "rating": 4,
-      "createdAt": "08/09/2022",
-      "address1": "26 Les Quennevais Parade",
-      "address2": "St. Brelade",
-      "address3": null,
-      "postCode": "JE3 8FX",
-      "latitude": 49.193037,
-      "longitude": -2.198995
-    },
-    {
       "name": "Plemont Beach Cafe",
       "rating": 4,
       "createdAt": "24/11/2025",
@@ -7888,17 +7866,6 @@
       "longitude": -2.182954
     },
     {
-      "name": "Crosstown",
-      "rating": 4,
-      "createdAt": "17/07/2024",
-      "address1": "36 King Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4WF",
-      "latitude": 49.18445,
-      "longitude": -2.10681
-    },
-    {
       "name": "TRU @ No. 8",
       "rating": 4,
       "createdAt": "19/06/2025",
@@ -8205,17 +8172,6 @@
       "postCode": "JE2 4WL",
       "latitude": 49.185277,
       "longitude": -2.103836
-    },
-    {
-      "name": "Vienna Bakery Retail Shop",
-      "rating": 5,
-      "createdAt": "10/07/2024",
-      "address1": "30-34",
-      "address2": "Central Market",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WL",
-      "latitude": 49.185665,
-      "longitude": -2.110228
     },
     {
       "name": "Delicado",
