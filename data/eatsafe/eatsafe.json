@@ -496,6 +496,17 @@
       "longitude": 1.012524
     },
     {
+      "name": "Earl Granville",
+      "rating": 4,
+      "createdAt": "26/06/2025",
+      "address1": "Earl Granville",
+      "address2": "Charles Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4SF",
+      "latitude": 49.185469,
+      "longitude": -2.10137
+    },
+    {
       "name": "The Bear",
       "rating": 3,
       "createdAt": "03/12/2025",
