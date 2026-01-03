@@ -265,17 +265,6 @@
       "longitude": -2.10596
     },
     {
-      "name": "Drifters",
-      "rating": 4,
-      "createdAt": "10/07/2025",
-      "address1": "8  Caledonia Place",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 3NG",
-      "latitude": 49.18222,
-      "longitude": -2.10788
-    },
-    {
       "name": "Spice View",
       "rating": 4,
       "createdAt": "14/02/2025",
@@ -375,7 +364,7 @@
       "longitude": -2.109397
     },
     {
-      "name": "Occasions (unregistered)",
+      "name": "Occasions",
       "rating": 5,
       "createdAt": "18/07/2024",
       "address1": "16 Les Quennevais Parade",
@@ -497,8 +486,8 @@
     },
     {
       "name": "Earl Granville",
-      "rating": 4,
-      "createdAt": "26/06/2025",
+      "rating": 3,
+      "createdAt": "28/03/2019",
       "address1": "Earl Granville",
       "address2": "Charles Street",
       "address3": "St. Helier",
@@ -1638,17 +1627,6 @@
       "postCode": "JE2 3QU",
       "latitude": 49.187029,
       "longitude": -2.113112
-    },
-    {
-      "name": "The Burger Palace",
-      "rating": 4,
-      "createdAt": "23/09/2022",
-      "address1": "15 Mulcaster Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 3NJ",
-      "latitude": 49.183115,
-      "longitude": -2.106983
     },
     {
       "name": "Ocean Restaurant, Atlantic Hotel",
@@ -5105,17 +5083,6 @@
       "longitude": -2.107852
     },
     {
-      "name": "The Golden Bowl",
-      "rating": 2,
-      "createdAt": "07/11/2024",
-      "address1": "39 Trinity Road",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4NH",
-      "latitude": 49.19443,
-      "longitude": -2.10017
-    },
-    {
       "name": "The Corner House",
       "rating": 5,
       "createdAt": "12/07/2024",
@@ -7902,12 +7869,12 @@
       "name": "Harriet & Rose",
       "rating": 5,
       "createdAt": "25/10/2023",
-      "address1": "Elmina",
+      "address1": null,
       "address2": "71 King Street",
       "address3": "Jersey",
       "postCode": "JE2 4WE",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Funchal Paradise",
@@ -9461,7 +9428,7 @@
       "longitude": -2.1035
     },
     {
-      "name": "Boots the Chemist",
+      "name": "Boots the Chemist, St. Peter",
       "rating": 5,
       "createdAt": "25/05/2022",
       "address1": "Boots",
