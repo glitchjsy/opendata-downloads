@@ -1,11 +1,53 @@
 {
   "pagination": {
-    "totalItems": 9005,
+    "totalItems": 9011,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-31",
+      "producer": "the Freedom of Information office",
+      "id": 9137,
+      "title": "Figures on learning disabilities (adults) in Jersey"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-31",
+      "producer": "the Freedom of Information office",
+      "id": 9136,
+      "title": "Adult Social Care and nursing care home services "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-30",
+      "producer": "the Freedom of Information office",
+      "id": 9135,
+      "title": "Rayner Outpatients Clinic "
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2025-12-29",
+      "producer": "the Freedom of Information office",
+      "id": 9134,
+      "title": "Pensioners on Home Carers allowance"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-29",
+      "producer": "the Freedom of Information office",
+      "id": 9133,
+      "title": "Employee headcount in Health and Care Jersey"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2025-12-29",
+      "producer": "the Freedom of Information office",
+      "id": 9132,
+      "title": "Vehicles within Jersey Health and Care/Emergency Service"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2025-12-22",
