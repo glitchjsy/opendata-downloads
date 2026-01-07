@@ -122,7 +122,7 @@
       "longitude": -2.11235
     },
     {
-      "name": "Mange Tout - York Street",
+      "name": "Mange Tout, York Street",
       "rating": 5,
       "createdAt": "31/05/2024",
       "address1": "12  York Street",
@@ -334,12 +334,12 @@
       "name": "Downdog",
       "rating": 2,
       "createdAt": "12/05/2025",
-      "address1": null,
-      "address2": "Cyril Le Marquand Court",
+      "address1": "Cyril Le Marquand Court",
+      "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 4SU",
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Hoi Hoi Jersey (Mobile Unit)",
@@ -461,6 +461,17 @@
       "postCode": "JE3 5JF",
       "latitude": 49.233709,
       "longitude": -2.094006
+    },
+    {
+      "name": "Mange Tout, International Finance Centre 5",
+      "rating": 3,
+      "createdAt": "01/08/2023",
+      "address1": "IFC 5",
+      "address2": "IFC Jersey",
+      "address3": "St. Helier",
+      "postCode": "JE2 3BY",
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Niche Events",
@@ -3202,7 +3213,7 @@
       "longitude": null
     },
     {
-      "name": "Boucher de Nord",
+      "name": "Boucher du Nord",
       "rating": 5,
       "createdAt": "29/04/2025",
       "address1": "Temple Court",
@@ -5688,17 +5699,6 @@
       "longitude": -2.10554
     },
     {
-      "name": "Mange Tout (Conway Street)",
-      "rating": 4,
-      "createdAt": "24/06/2025",
-      "address1": "14 Conway Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 3NT",
-      "latitude": 49.18361,
-      "longitude": -2.10802
-    },
-    {
       "name": "Alfonso Events",
       "rating": 3,
       "createdAt": "15/06/2023",
@@ -5708,17 +5708,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Mange Tout (New Street)",
-      "rating": 5,
-      "createdAt": "03/06/2025",
-      "address1": "39 New Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 3RA",
-      "latitude": 49.186138,
-      "longitude": -2.10609
     },
     {
       "name": "The Line Up Cafe",
@@ -6150,17 +6139,6 @@
       "longitude": null
     },
     {
-      "name": "Mange Tout (International Finance Centre)",
-      "rating": 4,
-      "createdAt": "27/09/2023",
-      "address1": "IFC 5",
-      "address2": "Esplanade",
-      "address3": "Jersey",
-      "postCode": "JE2 3BY",
-      "latitude": 49.18313,
-      "longitude": -2.10915
-    },
-    {
       "name": "Nesting Day Care",
       "rating": 5,
       "createdAt": "24/07/2024",
@@ -6315,7 +6293,7 @@
       "longitude": -2.11038
     },
     {
-      "name": "La Mare Bistro",
+      "name": "Vineyard Cafe",
       "rating": 5,
       "createdAt": "30/05/2025",
       "address1": "La Mare Vineyards",
@@ -8625,7 +8603,7 @@
       "longitude": -2.109128
     },
     {
-      "name": "Premier Inn (Charing Cross)",
+      "name": "Premier Inn, Charing Cross",
       "rating": 5,
       "createdAt": "21/02/2025",
       "address1": "27 Charing Cross",
@@ -10724,17 +10702,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Mange Tout / Little Red Rooster",
-      "rating": 5,
-      "createdAt": "17/04/2025",
-      "address1": "12  Sand Street",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 3QF",
-      "latitude": 49.18542,
-      "longitude": -2.11031
     },
     {
       "name": "La Cantina",
