@@ -3158,17 +3158,6 @@
       "longitude": -2.11047
     },
     {
-      "name": "La Hacienda",
-      "rating": 2,
-      "createdAt": "17/04/2025",
-      "address1": "La Hacienda",
-      "address2": "9  Caledonia Place",
-      "address3": "St. Helier",
-      "postCode": "JE2 3NG",
-      "latitude": 49.18228,
-      "longitude": -2.10786
-    },
-    {
       "name": "Café Louise",
       "rating": 4,
       "createdAt": "06/07/2023",
@@ -5875,7 +5864,7 @@
       "longitude": -2.1044
     },
     {
-      "name": "Hank Marvin Café",
+      "name": "Hank Marvin",
       "rating": 4,
       "createdAt": "15/03/2024",
       "address1": "Rondels Farm",
