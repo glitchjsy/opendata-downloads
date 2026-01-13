@@ -430,17 +430,6 @@
       "longitude": -2.110629
     },
     {
-      "name": "The Beach Hut (Pinel Slip)",
-      "rating": 3,
-      "createdAt": "06/06/2024",
-      "address1": "Pinel Slipway",
-      "address2": "Pinel Slipway",
-      "address3": "St Helier",
-      "postCode": "JE2 4ZT",
-      "latitude": -0.895779,
-      "longitude": 119.867997
-    },
-    {
       "name": "Maison St Brelade Care Home",
       "rating": 5,
       "createdAt": "07/02/2025",
@@ -1231,17 +1220,6 @@
       "postCode": "JE3 9DX",
       "latitude": 49.188577,
       "longitude": -2.040517
-    },
-    {
-      "name": "JJ Le Sueur",
-      "rating": 5,
-      "createdAt": "18/06/2021",
-      "address1": "12 Britannia Place",
-      "address2": "Bath Street",
-      "address3": "Jersey",
-      "postCode": "JE2 4SU",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Timmy's Hard Rocque Cafe",
@@ -3653,17 +3631,6 @@
       "longitude": -2.10011
     },
     {
-      "name": "The Wellington Inn",
-      "rating": 5,
-      "createdAt": "09/09/2022",
-      "address1": "104  St. Saviours Road",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 4BA",
-      "latitude": 49.18899,
-      "longitude": -2.09705
-    },
-    {
       "name": "Le Squez Youth Project",
       "rating": 4,
       "createdAt": "11/01/2024",
@@ -3924,17 +3891,6 @@
       "address2": "La Rue de la Chapelle",
       "address3": "Jersey",
       "postCode": "JE2 6LN",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
-      "name": "IM Stores",
-      "rating": 4,
-      "createdAt": "16/06/2023",
-      "address1": "67 ½",
-      "address2": "New Street",
-      "address3": "Jersey",
-      "postCode": "JE2 3RA",
       "latitude": 39.119433,
       "longitude": -90.327488
     },
@@ -5259,17 +5215,6 @@
       "longitude": -2.10262
     },
     {
-      "name": "Green Street Stores",
-      "rating": 3,
-      "createdAt": "15/01/2024",
-      "address1": "Shop 2-3",
-      "address2": "Clos des Pas",
-      "address3": "Jersey",
-      "postCode": "JE2 4PW",
-      "latitude": 49.17803,
-      "longitude": -2.10393
-    },
-    {
       "name": "Cafe Ube (Elizabeth Terminal)",
       "rating": 5,
       "createdAt": "19/04/2024",
@@ -5818,17 +5763,6 @@
       "postCode": "JE2 4QR",
       "latitude": 49.183804,
       "longitude": -2.098851
-    },
-    {
-      "name": "Trinity Village Stores",
-      "rating": 4,
-      "createdAt": "16/09/2022",
-      "address1": "La Rue ès Picots",
-      "address2": "Trinity",
-      "address3": null,
-      "postCode": "JE3 5JX",
-      "latitude": 49.232969,
-      "longitude": -2.086812
     },
     {
       "name": "Les Charrières Nursing Home",
