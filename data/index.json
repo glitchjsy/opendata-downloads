@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T03:20:11.075Z",
+  "generatedAt": "2026-01-14T03:27:46.040Z",
   "datasets": {
     "eatsafe": {
       "files": [
@@ -113,11 +113,11 @@
       "files": [
         {
           "path": "foi-requests/foi-requests.json",
-          "sizeBytes": 2002644
+          "sizeBytes": 2005597
         },
         {
           "path": "foi-requests/foi-requests.csv",
-          "sizeBytes": 1039109
+          "sizeBytes": 1040679
         }
       ]
     },
@@ -137,7 +137,7 @@
       "files": [
         {
           "path": "parking-spaces/parking-spaces.csv",
-          "sizeBytes": 3604193
+          "sizeBytes": 3617002
         }
       ]
     }

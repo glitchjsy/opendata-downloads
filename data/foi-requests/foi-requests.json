@@ -1,11 +1,102 @@
 {
   "pagination": {
-    "totalItems": 9011,
+    "totalItems": 9024,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-01-09",
+      "producer": "the Freedom of Information office",
+      "id": 9150,
+      "title": "Social security contributions for 2024"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-09",
+      "producer": "the Freedom of Information office",
+      "id": 9149,
+      "title": "Long covid and chronic fatigue syndrome"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9148,
+      "title": "Calls for gas leaks 2020-2025"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9147,
+      "title": "Cannabis seizures by Justice and Home Affairs"
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9146,
+      "title": "Trial of [redacted] at the Royal Court"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9145,
+      "title": "Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2013 - Applications"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9144,
+      "title": "Recruitment of nurses and midwives"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-08",
+      "producer": "the Freedom of Information office",
+      "id": 9143,
+      "title": "Behavioural incidents in schools"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-07",
+      "producer": "the Freedom of Information office",
+      "id": 9142,
+      "title": "Lawsuits or medical negligence claims "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-07",
+      "producer": "the Freedom of Information office",
+      "id": 9141,
+      "title": "Director of Strategic Planning and Projects for Health and Care Jersey"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-01-07",
+      "producer": "the Freedom of Information office",
+      "id": 9140,
+      "title": "HAS patients per GP practice"
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-01-05",
+      "producer": "the Freedom of Information office",
+      "id": 9139,
+      "title": "Breakdown of types of warrants"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-05",
+      "producer": "the Freedom of Information office",
+      "id": 9138,
+      "title": "Active gyms"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2025-12-31",
