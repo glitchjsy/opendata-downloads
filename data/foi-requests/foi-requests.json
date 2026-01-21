@@ -1,11 +1,116 @@
 {
   "pagination": {
-    "totalItems": 9024,
+    "totalItems": 9039,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-16",
+      "producer": "the Freedom of Information office",
+      "id": 9166,
+      "title": "Temporary agency staffing"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-16",
+      "producer": "the Freedom of Information office",
+      "id": 9165,
+      "title": "Waiting times to ENT department"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-15",
+      "producer": "the Freedom of Information office",
+      "id": 9164,
+      "title": "Water leak in the Rouge Bouillon vicinity"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-14",
+      "producer": "the Freedom of Information office",
+      "id": 9163,
+      "title": "Statistics on St Helier tunnel"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-01-14",
+      "producer": "the Freedom of Information office",
+      "id": 9162,
+      "title": "Vetting status of police officers"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9161,
+      "title": "Lido swimming pool"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9160,
+      "title": "Funding for the maintenance of schools"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9159,
+      "title": "Disposal of waste by parishes"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9158,
+      "title": "Lido briefing"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9157,
+      "title": "Liberty Bus Network"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-13",
+      "producer": "the Freedom of Information office",
+      "id": 9155,
+      "title": "A&E Admissions – Patient Flow & Reduction Initiatives "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-01-12",
+      "producer": "the Freedom of Information office",
+      "id": 9154,
+      "title": "Jersey Rugby Club liquidation"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-12",
+      "producer": "the Freedom of Information office",
+      "id": 9153,
+      "title": "Racist abuse instances in Jersey schools"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-12",
+      "producer": "the Freedom of Information office",
+      "id": 9152,
+      "title": "Mobile Gear Authorisation scheme - Legal basis "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-12",
+      "producer": "the Freedom of Information office",
+      "id": 9151,
+      "title": "Paybyphone charges"
+    },
     {
       "author": "Employment, Social Security and Housing",
       "publishDate": "2026-01-09",

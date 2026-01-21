@@ -1497,17 +1497,6 @@
       "longitude": -90.336891
     },
     {
-      "name": "Max Grill",
-      "rating": 3,
-      "createdAt": "18/08/2023",
-      "address1": "46 Bath Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4SU",
-      "latitude": 49.18536,
-      "longitude": -2.10237
-    },
-    {
       "name": "Jersey Delight Ices",
       "rating": 5,
       "createdAt": "18/12/2021",
@@ -1823,8 +1812,8 @@
       "address2": "Esplanade",
       "address3": "Jersey",
       "postCode": "JE2 3QA",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 43.865135,
+      "longitude": -85.37849
     },
     {
       "name": "El Tico Cafe",
@@ -2998,7 +2987,7 @@
       "createdAt": "15/12/2022",
       "address1": "La Route de la Haule",
       "address2": "St. Peter",
-      "address3": null,
+      "address3": "Jersey",
       "postCode": "JE3 7BA",
       "latitude": 49.21283,
       "longitude": -2.18372
@@ -5611,7 +5600,7 @@
       "longitude": -2.10554
     },
     {
-      "name": "Alfonso Events",
+      "name": "Alfonso (Food Trailer)",
       "rating": 3,
       "createdAt": "15/06/2023",
       "address1": null,
@@ -5996,7 +5985,7 @@
       "longitude": null
     },
     {
-      "name": "Bellagio Restaurant (Il Trullo)",
+      "name": "Il Trullo",
       "rating": 4,
       "createdAt": "12/07/2024",
       "address1": "8 Charing Cross",
@@ -6410,8 +6399,8 @@
       "address2": "4-6  Market Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WY",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.184763,
+      "longitude": -2.103724
     },
     {
       "name": "Cucina",
@@ -7862,8 +7851,8 @@
       "address2": "La Route des Quennevais",
       "address3": null,
       "postCode": "JE3 8FX",
-      "latitude": 40.72157,
-      "longitude": -74.047455
+      "latitude": 49.193048,
+      "longitude": -2.199306
     },
     {
       "name": "Cafe @ The War Tunnels",
@@ -7941,17 +7930,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Project 52 Ltd",
-      "rating": 4,
-      "createdAt": "14/07/2023",
-      "address1": "Restaurant",
-      "address2": "Waterloo Lane",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WW",
-      "latitude": 49.185957,
-      "longitude": -2.104884
     },
     {
       "name": "Fountain Court Souvenirs",
@@ -10315,8 +10293,8 @@
       "address2": "Glencoe",
       "address3": "St. Lawrence",
       "postCode": "JE3 1NN",
-      "latitude": 49.214912,
-      "longitude": -2.141689
+      "latitude": -0.895779,
+      "longitude": 119.867997
     },
     {
       "name": "Little Bolo by D",
