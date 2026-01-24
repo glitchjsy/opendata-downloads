@@ -1,11 +1,53 @@
 {
   "pagination": {
-    "totalItems": 9039,
+    "totalItems": 9045,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9172,
+      "title": "Procurement Project for a Managed Print Service "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9171,
+      "title": "2024-2025 Road Collusions Involving Buses"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9170,
+      "title": "Service Level Agreement (SLA) Correspondence with Strive (Jersey Sports Academy)"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9169,
+      "title": "Strive (Jersey Sports Academy)"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9168,
+      "title": "Higher Education applications"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9167,
+      "title": "Electric vehicles involved in accidents"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-01-16",
