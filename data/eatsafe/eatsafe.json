@@ -155,28 +155,6 @@
       "longitude": -2.107887
     },
     {
-      "name": "Little Bubbly Truck",
-      "rating": 5,
-      "createdAt": "30/04/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
-      "name": "Boss Hoggs",
-      "rating": 5,
-      "createdAt": "30/04/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Dough Jersey",
       "rating": 4,
       "createdAt": "07/08/2024",
@@ -472,6 +450,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Hotel De France",
+      "rating": 5,
+      "createdAt": "15/04/2025",
+      "address1": "St. Saviours Road",
+      "address2": null,
+      "address3": "St. Saviour",
+      "postCode": "JE1 7XP",
+      "latitude": 49.18823,
+      "longitude": -2.097242
     },
     {
       "name": "Trafalgar Inn",
@@ -1002,17 +991,6 @@
       "longitude": -68.436359
     },
     {
-      "name": "Shelter Trust",
-      "rating": 4,
-      "createdAt": "04/10/2023",
-      "address1": "Aztec House",
-      "address2": "35-37 Kensington Place",
-      "address3": "Jersey",
-      "postCode": "JE2 3PA",
-      "latitude": 43.865135,
-      "longitude": -85.37849
-    },
-    {
       "name": "Co-Op Locale - Pontac",
       "rating": 5,
       "createdAt": "05/09/2022",
@@ -1442,17 +1420,6 @@
       "longitude": -2.101715
     },
     {
-      "name": "Shelter Trust",
-      "rating": 4,
-      "createdAt": "13/10/2023",
-      "address1": "Strathmore",
-      "address2": "80 St. Marks Road",
-      "address3": "Jersey",
-      "postCode": "JE2 4LD",
-      "latitude": 40.395496,
-      "longitude": -74.21317
-    },
-    {
       "name": "Prince of Wales",
       "rating": 4,
       "createdAt": "20/02/2023",
@@ -1880,17 +1847,6 @@
       "postCode": "JE2 3JA",
       "latitude": 49.200905,
       "longitude": -2.129541
-    },
-    {
-      "name": "Hotel de France",
-      "rating": 5,
-      "createdAt": "15/04/2025",
-      "address1": "St. Saviours Road",
-      "address2": "St. Saviour",
-      "address3": null,
-      "postCode": "JE1 7XP",
-      "latitude": 49.18823,
-      "longitude": -2.097242
     },
     {
       "name": "Jersey Spartan Clubhouse",
@@ -3541,17 +3497,6 @@
       "postCode": "JE2 7LG",
       "latitude": 49.194944,
       "longitude": -2.090842
-    },
-    {
-      "name": "Shelter Trust (Evans House)",
-      "rating": 4,
-      "createdAt": "13/10/2023",
-      "address1": "Roseneath",
-      "address2": "6-7 Springfield Crescent",
-      "address3": "Jersey",
-      "postCode": "JE2 4GL",
-      "latitude": 49.19374,
-      "longitude": -2.10061
     },
     {
       "name": "Bowlers Rest",
@@ -5994,17 +5939,6 @@
       "postCode": "JE2 3RP",
       "latitude": 49.18517,
       "longitude": -2.10943
-    },
-    {
-      "name": "Shelter Trust",
-      "rating": 5,
-      "createdAt": "03/10/2023",
-      "address1": "Venetia House",
-      "address2": "Roseville Street",
-      "address3": "Jersey",
-      "postCode": "JE2 4PL",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Eddie's",

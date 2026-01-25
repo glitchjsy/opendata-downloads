@@ -13,8 +13,6 @@ Flavours of Madeira,4,11/04/2024,6 Cheapside,,St Helier,,49.18876,-2.11235
 "Mange Tout, York Street",5,31/05/2024,12  York Street,,St. Helier,JE2 3RQ,49.18583,-2.1095
 The Slip Bistro and Grill,4,16/07/2024,La Haule Slip,La Neuve Route,St. Brelade,JE3 8BS,49.189827,-2.168792
 El Gato Gordo,5,01/08/2024,Unit 11a,Liberty Wharf,St. Helier,JE2 3NY,49.182951,-2.107887
-Little Bubbly Truck,5,30/04/2024,,,,,,
-Boss Hoggs,5,30/04/2024,,,,,,
 Dough Jersey,4,07/08/2024,90 Central Market,Halkett Place,St. Helier,JE2 4WL,49.185665,-2.110228
 Burger Project,4,25/04/2024,,,,,,
 Le Geyt Day Centre,4,15/04/2024,Le Geyt Centre,La Grande Route de St. Martin,St. Saviour,JE2 7GS,49.199905,-2.078274
@@ -42,6 +40,7 @@ Maison St Brelade Care Home,5,07/02/2025,,Maison St. Brelade,St. Brelade,JE3 8FB
 Acorn Cafe,4,21/03/2024,Acorn Enterprises Ltd,La Rue D'Asplet,Trinity,JE3 5JF,49.233709,-2.094006
 "Mange Tout, International Finance Centre 5",3,01/08/2023,IFC 5,IFC Jersey,St. Helier,JE2 3BY,49.185665,-2.110228
 Niche Events,5,23/05/2024,,,,,,
+Hotel De France,5,15/04/2025,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.097242
 Trafalgar Inn,3,19/11/2018,La Rue du Crucquet,St. Aubin,JERSEY,JE3 8BR,49.301876,1.012524
 Earl Granville,3,28/03/2019,Earl Granville,Charles Street,St. Helier,JE2 4SF,49.185469,-2.10137
 The Bear,3,03/12/2025,The Bear Public House & Dining Room,36  King Street,St. Helier,JE2 4WF,49.18445,-2.10681
@@ -90,7 +89,6 @@ Cineworld,5,01/07/2022,Cineworld,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-
 Crabbe Clay Pigeon Club,5,24/02/2023,La Rue de Crabbé,St. Mary,,JE3 3AD,49.236404,-2.171625
 Cargo Coffee at Santander Work Cafe,4,21/05/2024,13-15 Charing Cross,St. Helier,,JE2 3RP,49.185157,-2.109372
 Entwhistle's Takeaway,5,02/04/2024,Entwhistles Takeaway,Gorey Village Main Road,Jersey,JE3 9EP,46.072593,-68.436359
-Shelter Trust,4,04/10/2023,Aztec House,35-37 Kensington Place,Jersey,JE2 3PA,43.865135,-85.37849
 Co-Op Locale - Pontac,5,05/09/2022,La Grande Route de la Côte,St. Clement,,JE2 6SE,49.167532,-2.063859
 Finchy's,5,29/04/2022,,,,,,
 Banjo,5,01/05/2024,8 Beresford Street,St. Helier,,JE1 5JP,49.185278,-2.103844
@@ -130,7 +128,6 @@ Princes Bar,5,22/07/2022,6 Havre des Pas,St. Helier,,JE2 4UQ,49.17689,-2.10314
 Clifton Residential Care Home,3,10/03/2025,Bagatelle Lane,St. Saviour,,JE2 7TD,49.189759,-2.090073
 Ommaroo Hotel,5,31/01/2024,Havre des Pas,St. Helier,,JE2 4UL,49.178125,-2.101715
 Marina Metro Hotel,3,20/06/2024,Havre des Pas,St. Helier,,JE2 4UL,49.178125,-2.101715
-Shelter Trust,4,13/10/2023,Strathmore,80 St. Marks Road,Jersey,JE2 4LD,40.395496,-74.21317
 Prince of Wales,4,20/02/2023,8 Hilgrove Street,St. Helier,,JE2 4SL,49.184361,-2.10413
 The Dog & Sausage,5,03/07/2024,9 Halkett Street,St. Helier,,JE2 4SL,49.18445,-2.10358
 Supermarket Alliance (Halkett Street),5,15/01/2024,12 Halkett Street,St. Helier,,JE2 4WJ,49.18453,-2.10355
@@ -170,7 +167,6 @@ Roseville Bistro,5,19/07/2025,86 Roseville Street,St. Helier,,JE2 4PL,49.178323,
 Sprigs Cafe,4,08/09/2022,Jersey Lavender Limited,La Rue du Pont Marquet,Jersey,JE3 8DS,39.119433,-90.327488
 Charlie Farley's Kitchen,5,26/06/2025,Jack Falle Community Centre,Gordon Le Breton Close,St. Saviour,JE2 7PY,49.180342,-2.086771
 St Andrew's Community Centre,5,03/10/2019,St. Andrews Church,Le Mont Cochon,Jersey,JE2 3JA,49.200905,-2.129541
-Hotel de France,5,15/04/2025,St. Saviours Road,St. Saviour,,JE1 7XP,49.18823,-2.097242
 Jersey Spartan Clubhouse,4,27/07/2022,La Grande Route de St. Clément,St. Clement,,JE2 6QN,49.173637,-2.056212
 The Tiki Hut,4,26/07/2022,10 Wharf Street,St. Helier,,JE2 3NR,49.182951,-2.107887
 Holland & Barratt,5,02/06/2022,19 King Street,St. Helier,,,49.18429,-2.10592
@@ -321,7 +317,6 @@ Springfield Primary School,5,24/01/2025,St. Marks Road,St. Saviour,,JE2 7LD,49.1
 Grainville Tennis Club,5,22/02/2023,,,,,,
 Eastern Good Companions Club,5,30/04/2025,Rue du Maupertuis,St. Clement,,JE2 6NG,49.168064,-2.081943
 St. Saviours Bowling Club,5,20/06/2022,St. Saviours Hill,St. Saviour,,JE2 7LG,49.194944,-2.090842
-Shelter Trust (Evans House),4,13/10/2023,Roseneath,6-7 Springfield Crescent,Jersey,JE2 4GL,49.19374,-2.10061
 Bowlers Rest,5,06/05/2025,Jersey Indoor Bowling,St. Saviours Hill,Jersey,JE2 7XB,49.194944,-2.090842
 The Admiral,5,26/07/2022,12-14 St. James Street,St. Helier,,JE2 3QZ,49.183256,-2.100232
 Big J Take Away,3,24/01/2024,30 Sand Street,St. Helier,,JE2 3QF,49.18576,-2.1112
@@ -544,7 +539,6 @@ St. John's School,5,15/03/2023,St John's School,La Rue De La Mare Ballam,Jersey,
 "Freedom Activity Camp, St Saviour School",4,25/10/2023,St Saviour Primary School,Bagatelle Road,Jersey,JE2 7TY,49.193129,-2.084875
 JAYF Gardens and Bridge Committee,5,23/05/2024,,,,,,
 Il Trullo,4,12/07/2024,8 Charing Cross,St. Helier,,JE2 3RP,49.18517,-2.10943
-Shelter Trust,5,03/10/2023,Venetia House,Roseville Street,Jersey,JE2 4PL,39.119433,-90.327488
 Eddie's,4,10/01/2024,1 Dumaresq Street,St. Helier,,JE2 3RL,49.1855,-2.10927
 Crafty Ouens Kitchen,5,29/02/2024,,,,,,
 Nesting Day Care,5,24/07/2024,Halkett Place,St. Helier,,JE2 4WH,49.18573,-2.104436
