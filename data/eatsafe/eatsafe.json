@@ -454,7 +454,7 @@
     {
       "name": "Hotel De France",
       "rating": 5,
-      "createdAt": "15/04/2025",
+      "createdAt": "10/04/2019",
       "address1": "St. Saviours Road",
       "address2": null,
       "address3": "St. Saviour",
@@ -1869,17 +1869,6 @@
       "postCode": "JE2 3NR",
       "latitude": 49.182951,
       "longitude": -2.107887
-    },
-    {
-      "name": "Holland & Barratt",
-      "rating": 5,
-      "createdAt": "02/06/2022",
-      "address1": "19 King Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": null,
-      "latitude": 49.18429,
-      "longitude": -2.10592
     },
     {
       "name": "Bouley Bay Beach Cafe",
