@@ -221,6 +221,17 @@
       "longitude": -2.199614
     },
     {
+      "name": "Morrisons Daily and Wine Warehouse - Snow Hill",
+      "rating": 3,
+      "createdAt": "05/01/2026",
+      "address1": "2 La Colomberie",
+      "address2": "Snow Hill",
+      "address3": "St. Helier",
+      "postCode": "JE2 4QB",
+      "latitude": 49.18349,
+      "longitude": -2.10298
+    },
+    {
       "name": "Kaffe Kitchen",
       "rating": 5,
       "createdAt": "05/07/2024",
@@ -373,6 +384,17 @@
       "postCode": "JE2 3PA",
       "latitude": 49.18844,
       "longitude": -2.11251
+    },
+    {
+      "name": "Bar Basso & Catch Fish & Chips",
+      "rating": 2,
+      "createdAt": "02/12/2025",
+      "address1": null,
+      "address2": "Unit 13b Liberty Wharf",
+      "address3": "St. Helier",
+      "postCode": "JE2 3NY",
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "La Hougue Bie",
@@ -892,17 +914,6 @@
       "longitude": -2.109891
     },
     {
-      "name": "L'Hermitage (inc. Beaumont Villa)",
-      "rating": 5,
-      "createdAt": "09/10/2024",
-      "address1": "Care Centre",
-      "address2": "La Route De Beaumont",
-      "address3": "Jersey",
-      "postCode": "JE3 7HH",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
       "name": "Stuart Court Residential Home",
       "rating": 5,
       "createdAt": "12/04/2024",
@@ -1253,6 +1264,17 @@
       "postCode": "JE2 4SS",
       "latitude": 49.186352,
       "longitude": -2.101523
+    },
+    {
+      "name": "The Bakery",
+      "rating": 3,
+      "createdAt": "13/05/2025",
+      "address1": "The Bakery",
+      "address2": "19 Les Quennevais Parade",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8FX",
+      "latitude": 49.193037,
+      "longitude": -2.198995
     },
     {
       "name": "Grand Jersey",
@@ -6577,6 +6599,17 @@
       "postCode": "JE3 4AJ",
       "latitude": 49.24774,
       "longitude": -2.138465
+    },
+    {
+      "name": "Lotus House",
+      "rating": 5,
+      "createdAt": "04/02/2025",
+      "address1": "La Route de St. Aubin",
+      "address2": "St. Helier",
+      "address3": null,
+      "postCode": "JE2 3LL",
+      "latitude": 49.198121,
+      "longitude": -2.147153
     },
     {
       "name": "Beausite Hotel",
