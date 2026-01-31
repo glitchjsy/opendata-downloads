@@ -389,12 +389,12 @@
       "name": "Bar Basso & Catch Fish & Chips",
       "rating": 2,
       "createdAt": "02/12/2025",
-      "address1": null,
-      "address2": "Unit 13b Liberty Wharf",
-      "address3": "St. Helier",
+      "address1": "Unit 13b Liberty Wharf",
+      "address2": "La Route de la Libération",
+      "address3": null,
       "postCode": "JE2 3NY",
-      "latitude": null,
-      "longitude": null
+      "latitude": 49.183607,
+      "longitude": -2.112168
     },
     {
       "name": "La Hougue Bie",
@@ -2916,6 +2916,17 @@
       "longitude": -2.14198
     },
     {
+      "name": "Clubhouse Bar & Eatery",
+      "rating": 5,
+      "createdAt": "22/03/2023",
+      "address1": "Jersey Hockey Clubhouse",
+      "address2": "La Route des Quennevais",
+      "address3": "Jersey",
+      "postCode": "JE3 8LZ",
+      "latitude": 49.193048,
+      "longitude": -2.199306
+    },
+    {
       "name": "Valley Foods (Caring Cooks)",
       "rating": 4,
       "createdAt": "24/06/2024",
@@ -3187,8 +3198,8 @@
       "address2": "92 Great Union Road",
       "address3": "Jersey",
       "postCode": "JE2 3WA",
-      "latitude": 40.696426,
-      "longitude": -74.269888
+      "latitude": 49.19037,
+      "longitude": -2.10842
     },
     {
       "name": "The Royal British Legion",
@@ -5497,8 +5508,8 @@
       "address2": "L'Avenue de la Commune",
       "address3": "Jersey",
       "postCode": "JE3 7ZP",
-      "latitude": 39.278206,
-      "longitude": -75.04356
+      "latitude": 49.202412,
+      "longitude": -2.192182
     },
     {
       "name": "Sorrento.je",
@@ -7213,8 +7224,8 @@
       "address2": "Mount Bingham",
       "address3": "Jersey",
       "postCode": "JE2 4UR",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "The Old Barn",

@@ -34,7 +34,7 @@ Bella Italia / Bird Box,4,15/04/2025,Bella Italia,10  York Street,St. Helier,JE2
 Occasions,5,18/07/2024,16 Les Quennevais Parade,La Route des Quennevais,St. Brelade,JE3 8FX,49.18316,-2.17599
 Alma Sana Noursh,5,15/05/2025,,,,,,
 Gustoso Pizzeria,3,22/09/2025,The Shop,9  Kensington Place,St. Helier,JE2 3PA,49.18844,-2.11251
-Bar Basso & Catch Fish & Chips,2,02/12/2025,,Unit 13b Liberty Wharf,St. Helier,JE2 3NY,,
+Bar Basso & Catch Fish & Chips,2,02/12/2025,Unit 13b Liberty Wharf,La Route de la Libération,,JE2 3NY,49.183607,-2.112168
 La Hougue Bie,5,29/04/2025,La Hougue Bie Museum,La Route de la Hougue Bie,Grouville,JE3 9HQ,49.202214,-2.053117
 The Bagot Inn,5,24/02/2025,Georgetown Road,,St. Saviour,JE2 7PH,49.178826,-2.093266
 The Adelphi Lounge,5,18/05/2021,The Parade,,St. Helier,JE2 3QP,49.187094,-2.110629
@@ -264,6 +264,7 @@ Fast and Tasty Food,4,28/02/2024,,,,,,
 The Old England,4,05/08/2022,10 Cheapside,St. Helier,,JE2 3PG,49.18888,-2.1125
 The Potato Shack,5,13/03/2025,Woodlands Fram,La Rue de Maupertuis,Jersey,JE2 3HG,51.34083,12.375101
 Casa Paco,3,24/07/2025,38-41 Central Market,Halkett Place,Jersey,JE2 4WL,49.21849,-2.14198
+Clubhouse Bar & Eatery,5,22/03/2023,Jersey Hockey Clubhouse,La Route des Quennevais,Jersey,JE3 8LZ,49.193048,-2.199306
 Valley Foods (Caring Cooks),4,24/06/2024,Valley Foods,La Rue de la Solitude,Jersey,JE3 6DF,39.119433,-90.327488
 AHA Cafe Lounge and Restaurant,5,05/06/2024,Howard Davis Park,St Clements Road,Jersey,JE2 7PD,39.119433,-90.327488
 Premier Inn (Bath Street),5,16/02/2024,92 Bath Street,St. Helier,,JE2 4SU,49.18713,-2.1025
@@ -288,7 +289,7 @@ Belvedere Leisure Shop,5,25/10/2023,Merton Leisure Club & Aquadome,Belvedere Hil
 Thyme Out West (HCS Catering),4,22/01/2024,Enid Quenault House,Les Quennevais Park,St. Brelade,JE3 8JW,49.192715,-2.202559
 Part in the Frame,5,02/10/2023,19  Commercial Buildings,,St. Helier,JE2 3NB,49.18052,-2.1089
 St. John's Village Cafe,5,26/04/2024,3 Temple Court,La Rue du Temple,Jersey,JE3 4BJ,39.119433,-90.327488
-Avoca Villa Guest House,5,15/08/2022,Avoca Villa Guest House,92 Great Union Road,Jersey,JE2 3WA,40.696426,-74.269888
+Avoca Villa Guest House,5,15/08/2022,Avoca Villa Guest House,92 Great Union Road,Jersey,JE2 3WA,49.19037,-2.10842
 The Royal British Legion,5,31/05/2024,Great Union Street,St. Helier,,JE2 3YD,49.187453,-2.106376
 Maison La Corderie,5,21/02/2025,Green Street,St. Helier,,JE2 4UG,49.178722,-2.104437
 Forum Wine Bar,5,25/09/2023,Ground Floor,13 Grenville Street,Jersey,JE2 4UF,49.18192,-2.10206
@@ -498,7 +499,7 @@ Bastille Brasserie,4,30/07/2024,35 Queen Street,St. Helier,,JE2 4WD,49.18372,-2.
 The Up and Down Cafe,3,02/07/2024,22 Queen Street,St. Helier,,JE2 4WD,49.183926,-2.103715
 Millennium Kiosk,4,17/05/2024,Millennium Park,Bath Street,Jersey,JE2 4LS,39.119433,-90.327488
 Staks,5,18/07/2024,67 La Colomberie,St. Helier,,,49.182176,-2.10101
-Roberts Garage - St Peter,4,18/07/2024,Commercial Premises,L'Avenue de la Commune,Jersey,JE3 7ZP,39.278206,-75.04356
+Roberts Garage - St Peter,4,18/07/2024,Commercial Premises,L'Avenue de la Commune,Jersey,JE3 7ZP,49.202412,-2.192182
 Sorrento.je,4,22/08/2023,Restaurant,Le Boulevard,Jersey,JE3 8AB,49.186263,-2.169611
 St. Luke's Primary School (Flourish),3,26/08/2022,St. Luke's School,Elizabeth Street,Jersey,JE2 7PG,38.970199,-90.188029
 St. Martin's Primary School (Flourish),3,24/10/2022,St. Martin's School,La Rue de la Croix Au Maitre,Jersey,JE3 6HW,49.219226,-2.053906
@@ -654,7 +655,7 @@ Tony's Cafe,3,19/05/2025,9a Cattle Street,St. Helier,,JE2 4WP,49.18559,-2.10386
 Harpers Catering,4,14/08/2023,,,,,,
 Sands Cafe,5,17/05/2024,Discovery bay,La Grande Route Des Mielles,Jersey,JE3 7FN,49.214849,-2.224828
 The Slipway at Greve de Lecq Pier,4,22/08/2023,,,,,,
-The Good Egg Beach Cafe,5,03/03/2025,La Collette Walkway,Mount Bingham,Jersey,JE2 4UR,49.21849,-2.14198
+The Good Egg Beach Cafe,5,03/03/2025,La Collette Walkway,Mount Bingham,Jersey,JE2 4UR,39.119433,-90.327488
 The Old Barn,3,24/06/2025,Manor Farm,La Route du Manoir,Jersey,JE3 7DD,39.119433,-90.327488
 The Watchmaker,4,23/10/2023,43 Halkett Place,St. Helier,,,49.185924,-2.104383
 G&J Flavours Of Home at Benests,4,17/11/2023,Gary Whitelaw At The Butchers,La Route de St. Aubin,Jersey,JE3 1LL,49.198121,-2.147153
