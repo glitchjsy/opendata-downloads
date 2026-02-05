@@ -1093,12 +1093,12 @@
       "name": "Le Hocq Shack",
       "rating": 2,
       "createdAt": "18/08/2025",
-      "address1": "Le Hocq Slipway",
-      "address2": "La Grande Route de la Côte",
-      "address3": "St. Clement",
+      "address1": null,
+      "address2": null,
+      "address3": null,
       "postCode": null,
-      "latitude": 49.167532,
-      "longitude": -2.063859
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Janvrin School",
@@ -1797,12 +1797,12 @@
       "name": "Liberation Square Kiosk",
       "rating": 4,
       "createdAt": "21/08/2023",
-      "address1": "Liberation Square",
-      "address2": "Esplanade",
-      "address3": "Jersey",
-      "postCode": "JE2 3QA",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "El Tico Cafe",
@@ -2490,12 +2490,12 @@
       "name": "Casa Paco, La Folie Harbour",
       "rating": 4,
       "createdAt": "08/04/2025",
-      "address1": "Casa Paco, La Folie Quay",
-      "address2": "Commercial Buildings",
-      "address3": "St. Helier",
+      "address1": null,
+      "address2": null,
+      "address3": null,
       "postCode": null,
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Fin and Feather",
@@ -4390,17 +4390,6 @@
       "longitude": -90.327488
     },
     {
-      "name": "Bilbo's (ceased)",
-      "rating": 4,
-      "createdAt": "05/07/2024",
-      "address1": "Longueville Stores",
-      "address2": "Longueville Road",
-      "address3": "Jersey",
-      "postCode": "JE2 7WF",
-      "latitude": 49.183385,
-      "longitude": -2.078407
-    },
-    {
       "name": "Relish Delicatessen",
       "rating": 5,
       "createdAt": "09/10/2023",
@@ -4751,17 +4740,6 @@
       "postCode": "JE3 8EQ",
       "latitude": 49.188941,
       "longitude": -2.198858
-    },
-    {
-      "name": "Gama Aviation (Engineering) Limited",
-      "rating": 5,
-      "createdAt": "23/06/2021",
-      "address1": "Aviation Beauport",
-      "address2": "Beauport House",
-      "address3": "St. Peter",
-      "postCode": "JE3 7BY",
-      "latitude": 49.21283,
-      "longitude": -2.18372
     },
     {
       "name": "Alvin's Hot Stuff Pizza",
@@ -5315,8 +5293,8 @@
     },
     {
       "name": "Borough Market Kitchen",
-      "rating": 4,
-      "createdAt": "30/10/2023",
+      "rating": 2,
+      "createdAt": "14/01/2026",
       "address1": "Hotel de Normandie",
       "address2": "Havre des Pas",
       "address3": "St. Saviour",
@@ -9530,12 +9508,12 @@
       "name": "Beez Kneez",
       "rating": 4,
       "createdAt": "09/07/2024",
-      "address1": "Bechet es Cats Car Park",
-      "address2": "La Rue des Platons",
-      "address3": "Trinity",
+      "address1": null,
+      "address2": null,
+      "address3": null,
       "postCode": null,
-      "latitude": 49.245959,
-      "longitude": -2.102311
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Anytime Fitness (Shake Kiosk)",
@@ -9888,6 +9866,17 @@
       "postCode": "JE3 8EB",
       "latitude": 49.185653,
       "longitude": -2.186934
+    },
+    {
+      "name": "Blakes",
+      "rating": 2,
+      "createdAt": "13/01/2026",
+      "address1": "59-61  King Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4WE",
+      "latitude": 49.184451,
+      "longitude": -2.106853
     },
     {
       "name": "La Petite Baguette/Petitte Cafe",
@@ -10355,12 +10344,12 @@
       "name": "Frida Cowlo",
       "rating": 4,
       "createdAt": "01/04/2025",
-      "address1": "Beauport Common Car Park",
-      "address2": "La Route des Camps",
-      "address3": "St. Brelade",
+      "address1": null,
+      "address2": null,
+      "address3": null,
       "postCode": null,
-      "latitude": 49.18281,
-      "longitude": -2.2183
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Tea Tent",
@@ -10575,12 +10564,12 @@
       "name": "Jersey Seafood Trailer",
       "rating": 5,
       "createdAt": "10/05/2025",
-      "address1": "Strive Jersey",
-      "address2": "L'Avenue de la Reine Elizabeth II",
-      "address3": "St. Peter",
-      "postCode": "JE3 7BP",
-      "latitude": 49.206594,
-      "longitude": -2.187314
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Ima's Rum Punch",
