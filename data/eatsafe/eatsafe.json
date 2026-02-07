@@ -391,7 +391,7 @@
       "createdAt": "02/12/2025",
       "address1": "Unit 13b Liberty Wharf",
       "address2": "La Route de la Libération",
-      "address3": null,
+      "address3": "St. Helier",
       "postCode": "JE2 3NY",
       "latitude": 49.183607,
       "longitude": -2.112168
@@ -459,8 +459,8 @@
       "address2": "IFC Jersey",
       "address3": "St. Helier",
       "postCode": "JE2 3BY",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "Niche Events",
@@ -1512,8 +1512,8 @@
       "rating": 0,
       "createdAt": "04/11/2025",
       "address1": "La Vallée de Rozel",
-      "address2": "St. Martin",
-      "address3": null,
+      "address2": null,
+      "address3": "St. Martin",
       "postCode": "JE3 6AJ",
       "latitude": 49.217728,
       "longitude": -2.051631
@@ -3778,11 +3778,11 @@
       "rating": 2,
       "createdAt": "23/07/2025",
       "address1": "Robin Hood Take Away",
-      "address2": "10 Union Street",
-      "address3": "Jersey",
+      "address2": "10  Union Street",
+      "address3": "St. Helier",
       "postCode": "JE2 3RF",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.18626,
+      "longitude": -2.10676
     },
     {
       "name": "Cleveland Stores",
@@ -4129,12 +4129,12 @@
       "name": "Partners Restaurant",
       "rating": 2,
       "createdAt": "11/02/2025",
-      "address1": "Recreational Grounds",
+      "address1": "St. Clement's Sports Hub",
       "address2": "Plat Douet Road",
-      "address3": "Jersey",
+      "address3": "St. Clement",
       "postCode": "JE2 6PN",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.178519,
+      "longitude": -2.087669
     },
     {
       "name": "Samares Stores",
@@ -8641,7 +8641,7 @@
       "createdAt": "25/06/2025",
       "address1": "Hungry Man",
       "address2": "La Brecque du Nord",
-      "address3": "Jersey",
+      "address3": "Trinity",
       "postCode": "JE3 5BN",
       "latitude": 49.237203,
       "longitude": -2.045847

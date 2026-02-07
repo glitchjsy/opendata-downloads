@@ -8,4 +8,4 @@ Data is fetched once a day at 02:00 via a GitHub actions job and committed to th
 
 See the datasets: https://opendata.je/downloads
 
-### Last updated: 2026-02-06
+### Last updated: 2026-02-07
