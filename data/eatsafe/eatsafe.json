@@ -114,10 +114,10 @@
       "name": "Flavours of Madeira",
       "rating": 4,
       "createdAt": "11/04/2024",
-      "address1": "6 Cheapside",
+      "address1": "6  Cheapside",
       "address2": null,
-      "address3": "St Helier",
-      "postCode": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3PG",
       "latitude": 49.18876,
       "longitude": -2.11235
     },
@@ -9296,17 +9296,6 @@
       "longitude": -2.10137
     },
     {
-      "name": "Lloyds Pharmacy (ceased)",
-      "rating": 5,
-      "createdAt": "29/07/2022",
-      "address1": "2-8 Oxford Road",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE1 4HB",
-      "latitude": 49.18889,
-      "longitude": -2.10051
-    },
-    {
       "name": "The Ugly Oyster",
       "rating": 4,
       "createdAt": "27/11/2025",
@@ -10482,6 +10471,17 @@
       "postCode": "JE3 8JW",
       "latitude": 49.191086,
       "longitude": -2.20399
+    },
+    {
+      "name": "Morrisons Daily, St Peter",
+      "rating": 3,
+      "createdAt": "20/01/2026",
+      "address1": "Iceland",
+      "address2": "La Rue de l'Église",
+      "address3": "St. Peter",
+      "postCode": "JE3 7AG",
+      "latitude": 49.21283,
+      "longitude": -2.18372
     },
     {
       "name": "Jerk Oasis",
