@@ -4963,8 +4963,8 @@
     },
     {
       "name": "R Fresh, New Street",
-      "rating": 5,
-      "createdAt": "03/07/2024",
+      "rating": 3,
+      "createdAt": "22/01/2026",
       "address1": "6 New Street",
       "address2": "St. Helier",
       "address3": null,
@@ -10177,8 +10177,8 @@
     },
     {
       "name": "Cafe Barcelona",
-      "rating": 0,
-      "createdAt": "24/09/2025",
+      "rating": 3,
+      "createdAt": "21/01/2026",
       "address1": "19  Commercial Buildings",
       "address2": null,
       "address3": "St. Helier",
@@ -10405,6 +10405,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Asiatico",
+      "rating": 5,
+      "createdAt": "15/01/2026",
+      "address1": "3 Bath Street",
+      "address2": null,
+      "address3": "St Helier",
+      "postCode": "JE2 4ST",
+      "latitude": 49.18398,
+      "longitude": -2.10304
     },
     {
       "name": "St Catherine's Bunker",
@@ -10647,6 +10658,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "The Threadneedle",
+      "rating": 4,
+      "createdAt": "22/01/2026",
+      "address1": "The Threadneedle",
+      "address2": "Seaton Place",
+      "address3": "St Helier",
+      "postCode": null,
+      "latitude": 49.186079,
+      "longitude": -2.112199
     }
   ]
 }
