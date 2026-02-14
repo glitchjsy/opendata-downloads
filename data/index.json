@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T04:08:43.317Z",
+  "generatedAt": "2026-02-14T03:58:31.383Z",
   "datasets": {
     "eatsafe": {
       "files": [
@@ -137,7 +137,7 @@
       "files": [
         {
           "path": "parking-spaces/parking-spaces.csv",
-          "sizeBytes": 4004293
+          "sizeBytes": 4017132
         }
       ]
     }
