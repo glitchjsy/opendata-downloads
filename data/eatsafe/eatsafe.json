@@ -657,8 +657,8 @@
       "address2": "La Pouquelaye",
       "address3": "Jersey",
       "postCode": "JE2 3FU",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.195916,
+      "longitude": -2.108062
     },
     {
       "name": "Jersey Aero Club",
@@ -844,8 +844,8 @@
       "address2": "La Grande Route de la Côte",
       "address3": "Jersey",
       "postCode": "JE2 6FT",
-      "latitude": 48.718906,
-      "longitude": 10.778779
+      "latitude": 46.221767,
+      "longitude": 11.958274
     },
     {
       "name": "The Gardener's Tearoom, Ransoms",
@@ -1042,8 +1042,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": -25.31293,
+      "longitude": -57.384658
     },
     {
       "name": "The Jersey Tea Company Ltd",
@@ -1691,8 +1691,8 @@
       "address2": "La Colomberie",
       "address3": "Jersey",
       "postCode": "JE2 4QA",
-      "latitude": 44.77544,
-      "longitude": -78.77686
+      "latitude": 21.12132,
+      "longitude": 79.101099
     },
     {
       "name": "Pomme d'Or Hotel",
@@ -1911,8 +1911,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.21849,
+      "longitude": -2.14198
     },
     {
       "name": "Cafe Connect, Highlands College",
@@ -2791,8 +2791,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": -25.31293,
+      "longitude": -57.384658
     },
     {
       "name": "Roast Bistro",
@@ -3198,8 +3198,8 @@
       "address2": "92 Great Union Road",
       "address3": "Jersey",
       "postCode": "JE2 3WA",
-      "latitude": 49.19037,
-      "longitude": -2.10842
+      "latitude": 40.696426,
+      "longitude": -74.269888
     },
     {
       "name": "The Royal British Legion",
@@ -5431,8 +5431,8 @@
       "address2": "Beresford Street",
       "address3": "Jersey",
       "postCode": "JE2 4WX",
-      "latitude": 49.185277,
-      "longitude": -2.103836
+      "latitude": 43.865135,
+      "longitude": -85.37849
     },
     {
       "name": "Bastille Brasserie",
@@ -7202,8 +7202,8 @@
       "address2": "Mount Bingham",
       "address3": "Jersey",
       "postCode": "JE2 4UR",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.176008,
+      "longitude": -2.107736
     },
     {
       "name": "The Old Barn",
@@ -10000,6 +10000,17 @@
       "longitude": -2.11038
     },
     {
+      "name": "Morrisons Daily, Colomberie",
+      "rating": 5,
+      "createdAt": "05/01/2026",
+      "address1": "Roseville Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4PL",
+      "latitude": 49.179602,
+      "longitude": -2.101092
+    },
+    {
       "name": "Morrisons Daily, Gloucester Street",
       "rating": 3,
       "createdAt": "08/04/2025",
@@ -10405,6 +10416,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Auberge Du Nord",
+      "rating": 3,
+      "createdAt": "23/01/2026",
+      "address1": "L'Auberge du Nord",
+      "address2": "La Route du Nord",
+      "address3": "St. John",
+      "postCode": "JE3 4AJ",
+      "latitude": 49.24774,
+      "longitude": -2.138465
     },
     {
       "name": "Asiatico",
