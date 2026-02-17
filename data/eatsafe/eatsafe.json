@@ -4929,17 +4929,6 @@
       "longitude": -2.094901
     },
     {
-      "name": "Blind Pig",
-      "rating": 4,
-      "createdAt": "12/01/2024",
-      "address1": "5 Mulcaster Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 3NJ",
-      "latitude": 49.183115,
-      "longitude": -2.106983
-    },
-    {
       "name": "Planet Pool and Snooker Club",
       "rating": 4,
       "createdAt": "10/07/2024",
@@ -10319,6 +10308,17 @@
       "longitude": -2.093266
     },
     {
+      "name": "Guachinche",
+      "rating": 3,
+      "createdAt": "22/01/2026",
+      "address1": "46  Bath Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4SU",
+      "latitude": 49.18536,
+      "longitude": -2.10237
+    },
+    {
       "name": "Hector's Work Cafe",
       "rating": 4,
       "createdAt": "10/06/2024",
@@ -10438,6 +10438,17 @@
       "postCode": "JE2 4ST",
       "latitude": 49.18398,
       "longitude": -2.10304
+    },
+    {
+      "name": "Ob Mizi-at the table",
+      "rating": 4,
+      "createdAt": "22/01/2026",
+      "address1": null,
+      "address2": "Maison Herault",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8AB",
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "St Catherine's Bunker",
