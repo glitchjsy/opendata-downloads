@@ -507,6 +507,17 @@
       "longitude": -2.10137
     },
     {
+      "name": "Cafe Zone",
+      "rating": 2,
+      "createdAt": "28/01/2026",
+      "address1": "The Powerhouse",
+      "address2": "Queens Road",
+      "address3": "St. Helier",
+      "postCode": "JE2 3AP",
+      "latitude": 49.19558,
+      "longitude": -2.110614
+    },
+    {
       "name": "The Bear",
       "rating": 3,
       "createdAt": "03/12/2025",
@@ -10407,6 +10418,17 @@
       "longitude": null
     },
     {
+      "name": "Common Ground",
+      "rating": 5,
+      "createdAt": "20/01/2026",
+      "address1": "Common Ground Coffee Shop",
+      "address2": "17  The Parade",
+      "address3": "St. Helier",
+      "postCode": "JE2 3QP",
+      "latitude": 49.18742,
+      "longitude": -2.11095
+    },
+    {
       "name": "Loaves & Layers",
       "rating": 5,
       "createdAt": "23/09/2025",
@@ -10504,6 +10526,17 @@
       "postCode": "JE2 3RA",
       "latitude": 49.18686,
       "longitude": -2.10579
+    },
+    {
+      "name": "The Diner",
+      "rating": 5,
+      "createdAt": "27/01/2026",
+      "address1": "The Diner",
+      "address2": "8 Waterloo Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WT",
+      "latitude": 49.185216,
+      "longitude": -2.104769
     },
     {
       "name": "Meals on Wheels Society (Jersey)",
