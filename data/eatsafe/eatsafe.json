@@ -452,6 +452,17 @@
       "longitude": -2.094006
     },
     {
+      "name": "Sage",
+      "rating": 5,
+      "createdAt": "29/01/2026",
+      "address1": null,
+      "address2": "51-53  King Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WE",
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Mange Tout, International Finance Centre 5",
       "rating": 3,
       "createdAt": "01/08/2023",
@@ -459,8 +470,8 @@
       "address2": "IFC Jersey",
       "address3": "St. Helier",
       "postCode": "JE2 3BY",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Niche Events",
