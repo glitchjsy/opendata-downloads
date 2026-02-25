@@ -10088,6 +10088,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "Jersey Naturally Tearoom",
+      "rating": 2,
+      "createdAt": "03/02/2026",
+      "address1": "Jersey Naturally",
+      "address2": "14-15 Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "The Hut",
       "rating": 5,
       "createdAt": "17/06/2025",
