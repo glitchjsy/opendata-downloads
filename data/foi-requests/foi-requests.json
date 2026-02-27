@@ -1,11 +1,95 @@
 {
   "pagination": {
-    "totalItems": 9045,
+    "totalItems": 9057,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-29",
+      "producer": "the Freedom of Information office",
+      "id": 9185,
+      "title": "Taxi QR code survey (DPIA)"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-28",
+      "producer": "the Freedom of Information office",
+      "id": 9184,
+      "title": "School premises funding "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-28",
+      "producer": "the Freedom of Information office",
+      "id": 9183,
+      "title": "Pollution statistics from 2020- 2024"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-01-27",
+      "producer": "the Freedom of Information office",
+      "id": 9182,
+      "title": "2024-2025 Environment Health Staff Figures"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-01-27",
+      "producer": "the Freedom of Information office",
+      "id": 9181,
+      "title": "Bicycle thefts 2020- 2025"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-01-23",
+      "producer": "the Freedom of Information office",
+      "id": 9180,
+      "title": "Average time of employment for civil servants"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-23",
+      "producer": "the Freedom of Information office",
+      "id": 9179,
+      "title": "PCOS diagnosis "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-01-23",
+      "producer": "the Freedom of Information office",
+      "id": 9178,
+      "title": "ADHD prescriptions 2020 - 2025"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-01-23",
+      "producer": "the Freedom of Information office",
+      "id": 9177,
+      "title": "Nursery and reception class numbers"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-01-22",
+      "producer": "the Freedom of Information office",
+      "id": 9176,
+      "title": "SOJ media policies"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-01-22",
+      "producer": "the Freedom of Information office",
+      "id": 9175,
+      "title": "Recruitment freeze"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-01-20",
+      "producer": "the Freedom of Information office",
+      "id": 9174,
+      "title": "Agricultural statistics reports"
+    },
     {
       "author": "Treasury and Exchequer",
       "publishDate": "2026-01-20",
