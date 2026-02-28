@@ -1,11 +1,53 @@
 {
   "pagination": {
-    "totalItems": 9057,
+    "totalItems": 9063,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Ministerial Support Office",
+      "publishDate": "2026-02-05",
+      "producer": "the Freedom of Information office",
+      "id": 9191,
+      "title": "Ministerial Correspondence"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-02-04",
+      "producer": "the Freedom of Information office",
+      "id": 9190,
+      "title": "Body camera SOJP policy"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-03",
+      "producer": "the Freedom of Information office",
+      "id": 9189,
+      "title": "Supporting Transgender Persons, Department of Health and Social Services"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-03",
+      "producer": "the Freedom of Information office",
+      "id": 9188,
+      "title": "Environmental Status of St. Aubin’s Bay"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-02",
+      "producer": "the Freedom of Information office",
+      "id": 9187,
+      "title": "Lodging houses with a Registration Certificate"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-01-30",
+      "producer": "the Freedom of Information office",
+      "id": 9186,
+      "title": "Correspondence with the port authority of St Malo"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-01-29",
