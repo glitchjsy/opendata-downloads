@@ -1497,20 +1497,9 @@
       "longitude": -2.10355
     },
     {
-      "name": "Dunells Premier Wines",
-      "rating": 5,
-      "createdAt": "28/07/2022",
-      "address1": "La Cave",
-      "address2": "37 Hill Street",
-      "address3": "Jersey",
-      "postCode": "JE2 4UA",
-      "latitude": 39.118519,
-      "longitude": -90.336891
-    },
-    {
       "name": "Jersey Delight Ices",
       "rating": 5,
-      "createdAt": "18/12/2021",
+      "createdAt": "06/02/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -1713,8 +1702,8 @@
       "address2": "La Colomberie",
       "address3": "Jersey",
       "postCode": "JE2 4QA",
-      "latitude": 21.12132,
-      "longitude": 79.101099
+      "latitude": 21.108167,
+      "longitude": 79.098439
     },
     {
       "name": "Pomme d'Or Hotel",
@@ -1933,8 +1922,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "Cafe Connect, Highlands College",
@@ -5497,8 +5486,8 @@
       "address2": "L'Avenue de la Commune",
       "address3": "Jersey",
       "postCode": "JE3 7ZP",
-      "latitude": 49.202412,
-      "longitude": -2.192182
+      "latitude": 39.278206,
+      "longitude": -75.04356
     },
     {
       "name": "Sorrento.je",
@@ -5834,17 +5823,6 @@
       "name": "Snack Store",
       "rating": 4,
       "createdAt": "01/03/2023",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
-      "name": "Seaweed & Sand",
-      "rating": 5,
-      "createdAt": "04/04/2023",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -6575,8 +6553,8 @@
       "address2": "La Rue De Haut",
       "address3": "Jersey",
       "postCode": "JE3 1JQ",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.200793,
+      "longitude": -2.142924
     },
     {
       "name": "Bethesda Pre-School",
@@ -7798,6 +7776,17 @@
       "postCode": null,
       "latitude": 49.181852,
       "longitude": -2.113789
+    },
+    {
+      "name": "Dunell's La Cave (St Helier)",
+      "rating": 5,
+      "createdAt": "14/01/2026",
+      "address1": "Lower Ground Floor",
+      "address2": "37 Hill Street",
+      "address3": null,
+      "postCode": "JE2 4UA",
+      "latitude": 51.50806,
+      "longitude": -0.14939
     },
     {
       "name": "1823 Cellar",
@@ -9193,8 +9182,8 @@
       "address2": "La Rue de la Commune",
       "address3": "Jersey",
       "postCode": "JE3 7BN",
-      "latitude": 49.201022,
-      "longitude": -2.069192
+      "latitude": 43.865135,
+      "longitude": -85.37849
     },
     {
       "name": "Aromas",
@@ -10630,6 +10619,17 @@
       "name": "Express Auto Parts (Express Bites)",
       "rating": 3,
       "createdAt": "01/05/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Giftology Jersey",
+      "rating": 5,
+      "createdAt": "06/02/2026",
       "address1": null,
       "address2": null,
       "address3": null,
