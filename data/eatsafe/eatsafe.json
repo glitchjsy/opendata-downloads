@@ -1216,7 +1216,7 @@
       "createdAt": "04/03/2025",
       "address1": "37a Gloucester Street",
       "address2": "St. Helier",
-      "address3": null,
+      "address3": "St. Helier",
       "postCode": "JE2 3QR",
       "latitude": 49.186736,
       "longitude": -2.112832
@@ -1667,10 +1667,10 @@
       "createdAt": "16/10/2024",
       "address1": "Nelson Avenue",
       "address2": "St. Helier",
-      "address3": null,
+      "address3": "St. Helier",
       "postCode": "JE2 4PD",
-      "latitude": 49.178599,
-      "longitude": -2.099425
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Cocorico (Events)",
@@ -2954,10 +2954,10 @@
       "createdAt": "05/06/2024",
       "address1": "Howard Davis Park",
       "address2": "St Clements Road",
-      "address3": "Jersey",
+      "address3": "St. Saviour",
       "postCode": "JE2 7PD",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.178839,
+      "longitude": -2.098256
     },
     {
       "name": "Premier Inn (Bath Street)",
@@ -3339,10 +3339,10 @@
       "createdAt": "08/05/2025",
       "address1": "Le Hurel",
       "address2": "La Rue du Tas de Geon",
-      "address3": "Jersey",
+      "address3": "Trinity",
       "postCode": "JE3 5AN",
-      "latitude": 51.34083,
-      "longitude": 12.375101
+      "latitude": 49.240948,
+      "longitude": -2.093866
     },
     {
       "name": "Midland Stores (1987) Ltd",
@@ -4615,21 +4615,10 @@
       "createdAt": "15/04/2025",
       "address1": "68 King Street",
       "address2": "St. Helier",
-      "address3": null,
+      "address3": "St. Helier",
       "postCode": "JE2 4WE",
       "latitude": 49.1848,
       "longitude": -2.10823
-    },
-    {
-      "name": "Georgetown Stores",
-      "rating": 3,
-      "createdAt": "12/01/2026",
-      "address1": "Georgetown Stores",
-      "address2": "Georgetown Road",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7PH",
-      "latitude": 49.178826,
-      "longitude": -2.093266
     },
     {
       "name": "Gradees Ltd",
@@ -5198,10 +5187,10 @@
       "createdAt": "07/10/2024",
       "address1": "Plaisant Place",
       "address2": "Val Plaisant",
-      "address3": "Jersey",
+      "address3": "St. Helier",
       "postCode": "JE2 4ET",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.19148,
+      "longitude": -2.102755
     },
     {
       "name": "Elizabeth Castle Cafe",
@@ -5704,10 +5693,10 @@
       "createdAt": "02/12/2024",
       "address1": "30 Halkett Place",
       "address2": "St. Helier",
-      "address3": null,
+      "address3": "St. Helier",
       "postCode": "JE2 4WG",
-      "latitude": 49.185864,
-      "longitude": -2.1044
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Hank Marvin",
@@ -5724,9 +5713,9 @@
       "name": "100% Health",
       "rating": 4,
       "createdAt": "23/07/2025",
-      "address1": "26-27 Conway Street",
-      "address2": "St. Helier",
-      "address3": null,
+      "address1": "26-27  Conway Street",
+      "address2": null,
+      "address3": "St. Helier",
       "postCode": "JE2 3NT",
       "latitude": 49.183786,
       "longitude": -2.107762
@@ -5846,8 +5835,8 @@
       "rating": 5,
       "createdAt": "28/04/2025",
       "address1": "5 New Street",
-      "address2": "St. Helier",
-      "address3": null,
+      "address2": null,
+      "address3": "St. Helier",
       "postCode": "JE2 3RA",
       "latitude": 49.186648,
       "longitude": -2.10586
@@ -7138,17 +7127,6 @@
       "postCode": "JE3 4BH",
       "latitude": 39.119433,
       "longitude": -90.327488
-    },
-    {
-      "name": "Tony's Cafe",
-      "rating": 3,
-      "createdAt": "19/05/2025",
-      "address1": "9a Cattle Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4WP",
-      "latitude": 49.18559,
-      "longitude": -2.10386
     },
     {
       "name": "Harpers Catering",
@@ -8735,7 +8713,7 @@
       "longitude": null
     },
     {
-      "name": "St. Brelade's Bay Hotel",
+      "name": "St Brelade's Bay Hotel",
       "rating": 5,
       "createdAt": "30/01/2024",
       "address1": "La Route de la Baie",

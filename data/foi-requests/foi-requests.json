@@ -1,11 +1,123 @@
 {
   "pagination": {
-    "totalItems": 9063,
+    "totalItems": 9079,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-12",
+      "producer": "the Freedom of Information office",
+      "id": 9207,
+      "title": "Carers of people with eating disorders"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-12",
+      "producer": "the Freedom of Information office",
+      "id": 9206,
+      "title": "Medical cannabis clinics"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-12",
+      "producer": "the Freedom of Information office",
+      "id": 9205,
+      "title": "Happy Hooves welfare concerns "
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-02-12",
+      "producer": "the Freedom of Information office",
+      "id": 9204,
+      "title": "Employees of the Government of Jersey"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-12",
+      "producer": "the Freedom of Information office",
+      "id": 9203,
+      "title": "Figures on suicide in Jersey"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-11",
+      "producer": "the Freedom of Information office",
+      "id": 9202,
+      "title": "Calculation of the cold weather bonus"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-11",
+      "producer": "the Freedom of Information office",
+      "id": 9201,
+      "title": "Entitled status on grounds of hardship "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-10",
+      "producer": "the Freedom of Information office",
+      "id": 9200,
+      "title": "Fines paid by Durrell Zoo"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-02-10",
+      "producer": "the Freedom of Information office",
+      "id": 9199,
+      "title": "Dormant bank account fund to support charities "
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-02-10",
+      "producer": "the Freedom of Information office",
+      "id": 9198,
+      "title": "Statistics related to the jury service"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-02-10",
+      "producer": "the Freedom of Information office",
+      "id": 9197,
+      "title": "Digital services full time employees"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9196,
+      "title": "Andium homes provided to key workers"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-09",
+      "producer": "the Freedom of Information office",
+      "id": 9195,
+      "title": "Parking tickets issued for registration input errors"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-09",
+      "producer": "the Freedom of Information office",
+      "id": 9194,
+      "title": "Cost of Christmas lights by year"
+    },
+    {
+      "author": "Digital Services",
+      "publishDate": "2026-02-09",
+      "producer": "the Freedom of Information office",
+      "id": 9193,
+      "title": "Number of employees and consultants/contactors"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-09",
+      "producer": "the Freedom of Information office",
+      "id": 9192,
+      "title": "Reimbursed presciptions to pharmacies in the last three years"
+    },
     {
       "author": "Ministerial Support Office",
       "publishDate": "2026-02-05",
