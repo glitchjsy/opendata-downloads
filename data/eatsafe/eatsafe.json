@@ -760,17 +760,6 @@
       "longitude": -2.18372
     },
     {
-      "name": "World Duty Free",
-      "rating": 5,
-      "createdAt": "22/07/2022",
-      "address1": "States of Jersey Airport",
-      "address2": "L'Avenue de la Reine Elizabeth II",
-      "address3": "Jersey",
-      "postCode": "JE3 7BP",
-      "latitude": 49.206594,
-      "longitude": -2.187314
-    },
-    {
       "name": "Co-Op Locale - Val Plaisant",
       "rating": 5,
       "createdAt": "29/07/2024",
@@ -9857,7 +9846,7 @@
       "longitude": -2.103057
     },
     {
-      "name": "St Clement's School (Flourish)",
+      "name": "St. Clement's School (Flourish)",
       "rating": 5,
       "createdAt": "20/05/2025",
       "address1": "St. Clements Primary School",
@@ -10605,6 +10594,28 @@
       "longitude": null
     },
     {
+      "name": "L'Hermitage Care Centre",
+      "rating": 3,
+      "createdAt": "10/02/2026",
+      "address1": "L'Hermitage Gardens",
+      "address2": "La Route de Beaumont",
+      "address3": null,
+      "postCode": "JE3 7HQ",
+      "latitude": 51.34083,
+      "longitude": 12.375101
+    },
+    {
+      "name": "Beaumont Villa Care Home",
+      "rating": 3,
+      "createdAt": "10/02/2026",
+      "address1": "Beaumont Villa",
+      "address2": "La Route De Beaumont",
+      "address3": "St. Peter",
+      "postCode": "JE3 7HQ",
+      "latitude": 49.21283,
+      "longitude": -2.18372
+    },
+    {
       "name": "Giftology Jersey",
       "rating": 5,
       "createdAt": "06/02/2026",
@@ -10715,7 +10726,18 @@
       "longitude": null
     },
     {
-      "name": "La Passerelle School",
+      "name": "World Duty Free",
+      "rating": 5,
+      "createdAt": "19/02/2026",
+      "address1": "World Duty Free",
+      "address2": "Jersey Airport",
+      "address3": "St. Peter",
+      "postCode": "JE3 7BP",
+      "latitude": 49.21283,
+      "longitude": -2.18372
+    },
+    {
+      "name": "La Passerelle Secondary School",
       "rating": 5,
       "createdAt": "26/11/2025",
       "address1": null,
