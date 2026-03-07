@@ -496,6 +496,17 @@
       "longitude": -2.097242
     },
     {
+      "name": "Old Court House Inn",
+      "rating": 4,
+      "createdAt": "17/12/2019",
+      "address1": "Le Boulevard",
+      "address2": null,
+      "address3": "St. Brelade",
+      "postCode": "JE3 8AB",
+      "latitude": 49.186263,
+      "longitude": -2.169611
+    },
+    {
       "name": "Trafalgar Inn",
       "rating": 3,
       "createdAt": "19/11/2018",
@@ -2760,17 +2771,6 @@
       "postCode": "JE2 4ZT",
       "latitude": 39.119433,
       "longitude": -90.327488
-    },
-    {
-      "name": "The Old Courthouse Inn",
-      "rating": 4,
-      "createdAt": "30/01/2024",
-      "address1": "Restaurant",
-      "address2": "Le Boulevard",
-      "address3": "Jersey",
-      "postCode": "JE3 8AB",
-      "latitude": 49.186263,
-      "longitude": -2.169611
     },
     {
       "name": "Tilleys",
@@ -10218,17 +10218,6 @@
       "postCode": "JE3 4DS",
       "latitude": 40.941282,
       "longitude": -77.788639
-    },
-    {
-      "name": "Sue's Hot Snacks",
-      "rating": 3,
-      "createdAt": "20/11/2024",
-      "address1": "Auction Rooms",
-      "address2": "Glencoe",
-      "address3": "St. Lawrence",
-      "postCode": "JE3 1NN",
-      "latitude": -0.895779,
-      "longitude": 119.867997
     },
     {
       "name": "Little Bolo by D",

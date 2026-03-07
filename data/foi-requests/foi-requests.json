@@ -1,11 +1,109 @@
 {
   "pagination": {
-    "totalItems": 9079,
+    "totalItems": 9093,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-19",
+      "producer": "the Freedom of Information office",
+      "id": 9222,
+      "title": "LTIA Statistics"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-02-18",
+      "producer": "the Freedom of Information office",
+      "id": 9221,
+      "title": "Children on a Child Protection register"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-17",
+      "producer": "the Freedom of Information office",
+      "id": 9220,
+      "title": "Rented dwelling licenses "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-02-17",
+      "producer": "the Freedom of Information office",
+      "id": 9219,
+      "title": "Parish rates (States accounts)"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-17",
+      "producer": "the Freedom of Information office",
+      "id": 9218,
+      "title": "Havre des Pas speed bump crossings/traffic lights "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-02-17",
+      "producer": "the Freedom of Information office",
+      "id": 9217,
+      "title": "Comptoller and Auditor General and Jersey Development Company"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-17",
+      "producer": "the Freedom of Information office",
+      "id": 9216,
+      "title": "Angus Fire (Health and Care Jersey)"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9215,
+      "title": "Fines to parents "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9214,
+      "title": "Weedkillers used in parks"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9213,
+      "title": "Comptroller and Auditor General and JPH"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9212,
+      "title": "First Point Lido Jersey"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-13",
+      "producer": "the Freedom of Information office",
+      "id": 9211,
+      "title": "Employers Incentive Scheme "
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-02-16",
+      "producer": "the Freedom of Information office",
+      "id": 9210,
+      "title": "Employment Tribunal service claims by employees (HCJ)"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-13",
+      "producer": "the Freedom of Information office",
+      "id": 9209,
+      "title": "Employers Incentive Scheme "
+    },
     {
       "author": "Employment, Social Security and Housing",
       "publishDate": "2026-02-12",
