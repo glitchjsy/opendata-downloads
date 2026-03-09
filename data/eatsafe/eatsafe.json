@@ -498,7 +498,7 @@
     {
       "name": "Old Court House Inn",
       "rating": 4,
-      "createdAt": "17/12/2019",
+      "createdAt": "30/01/2024",
       "address1": "Le Boulevard",
       "address2": null,
       "address3": "St. Brelade",
@@ -549,6 +549,17 @@
       "postCode": "JE2 4WF",
       "latitude": 49.18445,
       "longitude": -2.10681
+    },
+    {
+      "name": "Normans Limited",
+      "rating": 5,
+      "createdAt": "19/01/2026",
+      "address1": "Normans Ltd",
+      "address2": "10 & 24",
+      "address3": "St. Helier",
+      "postCode": "JE1 1BU",
+      "latitude": 29.886888,
+      "longitude": -95.568877
     },
     {
       "name": "Gloster Vaults",
@@ -6855,8 +6866,8 @@
     },
     {
       "name": "The Log Cabin",
-      "rating": 5,
-      "createdAt": "13/05/2022",
+      "rating": 3,
+      "createdAt": "30/09/2025",
       "address1": "St Brelade Parish Play Park",
       "address2": "La Petite Route des Mielles",
       "address3": "Jersey",
