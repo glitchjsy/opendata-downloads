@@ -1,11 +1,46 @@
 {
   "pagination": {
-    "totalItems": 9093,
+    "totalItems": 9098,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-23",
+      "producer": "the Freedom of Information office",
+      "id": 9228,
+      "title": "Drugs available to GPs and patients in Jersey"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-20",
+      "producer": "the Freedom of Information office",
+      "id": 9226,
+      "title": "Sepsis diagnosis in 2025"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-19",
+      "producer": "the Freedom of Information office",
+      "id": 9225,
+      "title": "Marine Spatial Plan "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-02-19",
+      "producer": "the Freedom of Information office",
+      "id": 9224,
+      "title": "Annual cash spends on Playschemes, Outdoor Education and Community Fund. etc "
+    },
+    {
+      "author": "Strategic Policy, Performance and Population",
+      "publishDate": "2026-02-19",
+      "producer": "the Freedom of Information office",
+      "id": 9223,
+      "title": "Spending on heat pumps and electric charging points"
+    },
     {
       "author": "Employment, Social Security and Housing",
       "publishDate": "2026-02-19",
