@@ -969,7 +969,7 @@
       "longitude": -2.081943
     },
     {
-      "name": "St Clement Sports Club (Football Pi)",
+      "name": "St Clement Sports Club",
       "rating": 4,
       "createdAt": "27/03/2024",
       "address1": "St Clement Sports Club",
@@ -2523,7 +2523,7 @@
       "name": "Fin and Feather",
       "rating": 5,
       "createdAt": "03/02/2023",
-      "address1": "27-28 Beresford Market",
+      "address1": "23-26 Beresford Market",
       "address2": "Beresford Street",
       "address3": "Jersey",
       "postCode": "JE2 4WX",
@@ -3433,17 +3433,6 @@
       "longitude": -2.085331
     },
     {
-      "name": "H.M. Prison La Moye",
-      "rating": 5,
-      "createdAt": "01/03/2023",
-      "address1": "La Rue Baal",
-      "address2": "St. Brelade",
-      "address3": null,
-      "postCode": "JE3 8HQ",
-      "latitude": 49.179905,
-      "longitude": -2.218703
-    },
-    {
       "name": "The Village Tearoom",
       "rating": 5,
       "createdAt": "10/04/2024",
@@ -3631,7 +3620,7 @@
       "longitude": -2.03384
     },
     {
-      "name": "Westhill Country Club Limited T/a Westhill Country Hotel",
+      "name": "Westhill Country Hotel",
       "rating": 3,
       "createdAt": "24/07/2025",
       "address1": "Westhill Country Hotel",
@@ -5384,17 +5373,6 @@
       "rating": 5,
       "createdAt": "13/06/2025",
       "address1": "48 Roseville Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 4PL",
-      "latitude": 49.178323,
-      "longitude": -2.101037
-    },
-    {
-      "name": "Roseville Mini Market",
-      "rating": 3,
-      "createdAt": "01/07/2024",
-      "address1": "66 Roseville Street",
       "address2": "St. Helier",
       "address3": null,
       "postCode": "JE2 4PL",
@@ -10702,6 +10680,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Casa Mia",
+      "rating": 3,
+      "createdAt": "17/02/2026",
+      "address1": "The Restaurant Casa Mia",
+      "address2": "57  Kensington Place",
+      "address3": "St. Helier",
+      "postCode": "JE2 3PA",
+      "latitude": 49.18742,
+      "longitude": -2.11509
     },
     {
       "name": "No1 Lounges (JER) Ltd",

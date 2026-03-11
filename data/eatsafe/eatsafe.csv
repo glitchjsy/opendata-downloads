@@ -87,7 +87,7 @@ Superdrug,5,21/07/2023,Rutland House,76-78 King Street,St. Helier,JE2 4WE,49.184
 Bolero Bistro,4,11/01/2024,22 Rouge Bouillon,St. Helier,,JE2 3ZA,49.190204,-2.109891
 Stuart Court Residential Home,5,12/04/2024,La Rue De Haut,St. Lawrence,,JE3 1JQ,49.200793,-2.142924
 Woodlands Farm Butchers Ltd,4,15/01/2024,Woodlands Farm (Dairy),La Rue de Maupertuis,Jersey,JE2 3HG,49.168064,-2.081943
-St Clement Sports Club (Football Pi),4,27/03/2024,St Clement Sports Club,La Grande Route de St. Clément,,,48.492226,9.211566
+St Clement Sports Club,4,27/03/2024,St Clement Sports Club,La Grande Route de St. Clément,,,48.492226,9.211566
 Aquadome Cascades,5,15/07/2025,Merton Leisure Club & Aquadome,Belvedere Hill,Jersey,JE2 7RP,49.21849,-2.14198
 Cineworld,5,01/07/2022,Cineworld,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
 Crabbe Clay Pigeon Club,5,24/02/2023,La Rue de Crabbé,St. Mary,,JE3 3AD,49.236404,-2.171625
@@ -228,7 +228,7 @@ Royal Jersey Golf Club,4,21/05/2024,Le Chemin au Greves,Grouville,,JE3 9BD,49.18
 The Oxford,4,17/04/2025,6 Union Street,St. Helier,,JE2 3RF,49.18621,-2.10649
 Chloe Bowler,5,09/02/2023,,,,,,
 "Casa Paco, La Folie Harbour",4,08/04/2025,,,,,,
-Fin and Feather,5,03/02/2023,27-28 Beresford Market,Beresford Street,Jersey,JE2 4WX,49.185277,-2.103836
+Fin and Feather,5,03/02/2023,23-26 Beresford Market,Beresford Street,Jersey,JE2 4WX,49.185277,-2.103836
 Gorey Youth Project,5,01/05/2018,Gorey Youth Club,Hilgrove Variety Youth Centre,Grouville,JE3 9EB,49.200801,-2.092713
 Norfolk Lodge Hotel,5,25/06/2025,Norfolk Lodge Hotel,57 Rouge Bouillon,Jersey,JE2 3ZB,49.192778,-2.107506
 The Peirson,4,11/06/2025,17 Royal Square,St. Helier,,JE2 4WA,49.185665,-2.110228
@@ -311,7 +311,6 @@ Lavender Villa Residential Ltd,5,03/03/2025,Lavender Villa Residential Home,La R
 Hollies Day Care Centre (HCS Catering),5,27/02/2025,La Rue Hilgrove,Grouville,,JE3 9EZ,49.19781,-2.032303
 Mr Churros,4,15/05/2024,,,,,,
 Five Oaks Inn,5,05/12/2023,La Rue à la Dame,St. Saviour,,JE2 7NH,49.202273,-2.085331
-H.M. Prison La Moye,5,01/03/2023,La Rue Baal,St. Brelade,,JE3 8HQ,49.179905,-2.218703
 The Village Tearoom,5,10/04/2024,St Peters Youth & Community Centre,Rue des Fosses,Jersey,JE3 7AH,49.211777,-2.182927
 Samares Primary School,4,25/09/2023,School Road,St. Clement,,JE2 6TG,49.169796,-2.084149
 Glanville Residential Home,5,19/07/2024,70-74 St. Marks Road,St. Saviour,,JE2 7LD,49.190451,-2.100316
@@ -329,7 +328,7 @@ Le Squez Youth Project,4,11/01/2024,School Road,St. Clement,,JE2 6TG,49.169796,-
 Jack and Diana's Food Stall,3,10/06/2023,,,,,,
 Laneez Surf Centre,5,05/06/2023,The Surf Shack,La Grande Route Des Mielles,Jersey,JE3 7FN,49.214849,-2.224828
 Rosedale Stores,4,31/10/2023,Gorey Village Main Road,Grouville,,JE3 9FX,49.195959,-2.03384
-Westhill Country Club Limited T/a Westhill Country Hotel,3,24/07/2025,Westhill Country Hotel,West Hill,St. Helier,JE2 3HB,49.198583,-2.119622
+Westhill Country Hotel,3,24/07/2025,Westhill Country Hotel,West Hill,St. Helier,JE2 3HB,49.198583,-2.119622
 The Sir George Carteret,4,28/06/2024,Public House,La Petite Rue de l'Église,Jersey,JE3 7AF,49.213038,-2.18341
 Co-Op Locale - Quennevais,5,18/04/2025,La Route des Quennevais,St. Brelade,,JE3 8LL,49.193048,-2.199306
 The Thai Dicq Shack,3,15/09/2022,The Dicq Slip,St Clements Road,Jersey,JE2 7PD,39.119433,-90.327488
@@ -489,7 +488,6 @@ Great Wall Chinese Takeaway,3,19/02/2025,Princes Tower Road,St. Saviour,,JE2 7WP
 Boots the Chemist,5,15/02/2024,23-29 Queen Street,St. Helier,,JE2 4WD,49.18398,-2.103946
 Cheshire Homes,5,06/03/2025,Cheshire Home,Rope Walk,Jersey,JE2 4UU,40.91078,-74.96769
 Runnymede Court Hotel,5,13/06/2025,48 Roseville Street,St. Helier,,JE2 4PL,49.178323,-2.101037
-Roseville Mini Market,3,01/07/2024,66 Roseville Street,St. Helier,,JE2 4PL,49.178323,-2.101037
 Indian Ocean,3,30/07/2024,Indian Ocean,37 La Motte Street,Jersey,JE2 4SZ,49.18384,-2.10065
 Pickled Pepper Cafe,4,21/07/2022,15-18 Fish Market,Beresford Street,Jersey,JE2 4WX,43.865135,-85.37849
 Bastille Brasserie,4,30/07/2024,35 Queen Street,St. Helier,,JE2 4WD,49.18372,-2.10305
@@ -972,6 +970,7 @@ Ima's Rum Punch,5,24/11/2025,,,,,,
 Jakes BBQ (Events),3,30/07/2025,,,,,,
 Habibi Haus,4,21/11/2025,Habibi Haus,66  Bath Street,St. Helier,JE2 4SU,49.18605,-2.10227
 TJ's Bake & Browse,5,31/10/2025,,,,,,
+Casa Mia,3,17/02/2026,The Restaurant Casa Mia,57  Kensington Place,St. Helier,JE2 3PA,49.18742,-2.11509
 No1 Lounges (JER) Ltd,5,18/11/2025,Jersey Airport,L'Avenue de la Commune,St. Peter,JE1 1BY,49.202412,-2.192182
 Booze Box,4,29/04/2025,,,,,,
 World Duty Free,5,19/02/2026,World Duty Free,Jersey Airport,St. Peter,JE3 7BP,49.21283,-2.18372

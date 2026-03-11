@@ -1,11 +1,109 @@
 {
   "pagination": {
-    "totalItems": 9098,
+    "totalItems": 9112,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-27",
+      "producer": "the Freedom of Information office",
+      "id": 9244,
+      "title": "Jersey’s electricity generation assets"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-02-27",
+      "producer": "the Freedom of Information office",
+      "id": 9243,
+      "title": "Annual cash spends on Playing Fields and Schools Sports "
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9242,
+      "title": "Information on States of Jersey employee roles"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9241,
+      "title": "Reports produced iby NNFCC The Bioeconomy Consultants "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9240,
+      "title": "Proposed Tree law"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9239,
+      "title": "Reported cases of drink spiking in 2025"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9237,
+      "title": "Mental health professional at HMP La Moye"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9236,
+      "title": "Mental health staff and assessments in the Prison Service"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9235,
+      "title": "Cost to implement GST in Jersey"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-02-26",
+      "producer": "the Freedom of Information office",
+      "id": 9234,
+      "title": "GST payments from eBay to The States of Jersey"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-02-25",
+      "producer": "the Freedom of Information office",
+      "id": 9233,
+      "title": "Contributions for Old Age Pension"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-25",
+      "producer": "the Freedom of Information office",
+      "id": 9232,
+      "title": "Medical director's statement about patient care in the Rheumatology Department"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-24",
+      "producer": "the Freedom of Information office",
+      "id": 9231,
+      "title": "Update on Operation Crocus"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-24",
+      "producer": "the Freedom of Information office",
+      "id": 9230,
+      "title": "Public Health publications and advertising concerning Flu and COVID-19 vaccines"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-02-23",
