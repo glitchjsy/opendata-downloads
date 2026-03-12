@@ -1,11 +1,39 @@
 {
   "pagination": {
-    "totalItems": 9112,
+    "totalItems": 9116,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-02",
+      "producer": "the Freedom of Information office",
+      "id": 9249,
+      "title": "Jersey Water's duties under the Road Works Law "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-02",
+      "producer": "the Freedom of Information office",
+      "id": 9248,
+      "title": "Royal College of Physicians (RCP) report relating to the Neurology department"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-02",
+      "producer": "the Freedom of Information office",
+      "id": 9247,
+      "title": "Bus Operator contract 2025 "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-02-27",
+      "producer": "the Freedom of Information office",
+      "id": 9245,
+      "title": "Jersey’s electricity generation assets"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-02-27",
