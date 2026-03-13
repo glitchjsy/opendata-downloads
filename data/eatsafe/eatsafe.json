@@ -1306,8 +1306,8 @@
       "address2": "19 Les Quennevais Parade",
       "address3": "St. Brelade",
       "postCode": "JE3 8FX",
-      "latitude": 49.193037,
-      "longitude": -2.198995
+      "latitude": 49.19299,
+      "longitude": -2.20055
     },
     {
       "name": "Grand Jersey",
@@ -9265,7 +9265,7 @@
     {
       "name": "Cafe Ube (Jersey Airport)",
       "rating": 5,
-      "createdAt": "27/07/2022",
+      "createdAt": "19/02/2026",
       "address1": "Jersey Airport",
       "address2": "L'Avenue de la Reine Elizabeth II",
       "address3": "Jersey",
