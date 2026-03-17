@@ -378,7 +378,7 @@
       "name": "Gustoso Pizzeria",
       "rating": 3,
       "createdAt": "22/09/2025",
-      "address1": "The Shop",
+      "address1": "Gustoso Pizzeria",
       "address2": "9  Kensington Place",
       "address3": "St. Helier",
       "postCode": "JE2 3PA",
@@ -1933,8 +1933,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 49.21849,
+      "longitude": -2.14198
     },
     {
       "name": "Cafe Connect, Highlands College",
@@ -2428,8 +2428,8 @@
       "address2": "37 Trinity Road",
       "address3": "Jersey",
       "postCode": "JE2 4NH",
-      "latitude": 51.78469,
-      "longitude": -0.04118
+      "latitude": 51.4212,
+      "longitude": -0.19666
     },
     {
       "name": "Salty Dog Restaurant",
@@ -2727,17 +2727,6 @@
       "postCode": "JE3 4FA",
       "latitude": 49.243149,
       "longitude": -2.127296
-    },
-    {
-      "name": "Love Bird Too Ltd",
-      "rating": 5,
-      "createdAt": "08/09/2022",
-      "address1": "Jersey War Tunnels",
-      "address2": "Les Charrières Malorey",
-      "address3": "Jersey",
-      "postCode": "JE3 1FU",
-      "latitude": 49.212651,
-      "longitude": -2.153597
     },
     {
       "name": "Portelet Bay Cafe",
@@ -3748,8 +3737,8 @@
       "address2": "5 York Street",
       "address3": "Jersey",
       "postCode": "JE2 3RQ",
-      "latitude": 51.38307,
-      "longitude": -0.16021
+      "latitude": 51.52067,
+      "longitude": -0.15753
     },
     {
       "name": "La Taverne Restaurant",
@@ -4419,8 +4408,8 @@
       "address2": "La Grande Route de St. Clément",
       "address3": "Jersey",
       "postCode": "JE2 6QP",
-      "latitude": 52.131589,
-      "longitude": 11.639961
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Sip n' Snack Cafe",
@@ -5046,8 +5035,8 @@
       "address2": "St. Brelade",
       "address3": null,
       "postCode": "JE3 8FX",
-      "latitude": 49.193037,
-      "longitude": -2.198995
+      "latitude": 49.19341,
+      "longitude": -2.2004
     },
     {
       "name": "Co-Op Five Oaks",
@@ -5068,8 +5057,8 @@
       "address2": "La Route de St. Aubin",
       "address3": "Jersey",
       "postCode": "JE3 1LL",
-      "latitude": 52.131589,
-      "longitude": 11.639961
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Cafe 790",
@@ -5123,8 +5112,8 @@
       "address2": "La Vallée de St. Pierre",
       "address3": "Jersey",
       "postCode": "JE3 1PR",
-      "latitude": 52.131589,
-      "longitude": 11.639961
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "The Moorings Hotel & Restaurant",
@@ -6311,8 +6300,8 @@
       "address2": "Bath Street",
       "address3": null,
       "postCode": "JE2 4ST",
-      "latitude": 51.380836,
-      "longitude": -2.360769
+      "latitude": 51.52797,
+      "longitude": -0.0914
     },
     {
       "name": "Soleil",
@@ -7494,11 +7483,11 @@
     {
       "name": "Co-Op En Route - Trinity",
       "rating": 5,
-      "createdAt": "24/02/2022",
-      "address1": "Co-op En Route Trinity",
+      "createdAt": "23/02/2022",
+      "address1": "Coop Trinity Fuel",
       "address2": "La Grande Route De St. Jean",
       "address3": "Trinity",
-      "postCode": null,
+      "postCode": "JE3 5FN",
       "latitude": 49.239622,
       "longitude": -2.111377
     },
@@ -8159,8 +8148,8 @@
       "address2": "La Grande Route de St. Laurent",
       "address3": "Jersey",
       "postCode": "JE3 1FA",
-      "latitude": 52.131589,
-      "longitude": 11.639961
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Charcuterie Deli Board",
@@ -9215,8 +9204,8 @@
       "address2": "8 Market Street",
       "address3": "Jersey",
       "postCode": "JE2 4WY",
-      "latitude": 39.042903,
-      "longitude": -90.136834
+      "latitude": 51.51936,
+      "longitude": -0.07657
     },
     {
       "name": "The Poplars Tea Room",
@@ -9237,8 +9226,8 @@
       "address2": "33 King Street",
       "address3": "Jersey",
       "postCode": "JE2 4WF",
-      "latitude": 51.65879,
-      "longitude": -3.80917
+      "latitude": 51.50669,
+      "longitude": -0.13613
     },
     {
       "name": "The Taste",
@@ -9314,8 +9303,8 @@
       "address2": "La Grande Route de St. Laurent",
       "address3": "Jersey",
       "postCode": "JE3 1NG",
-      "latitude": 52.131589,
-      "longitude": 11.639961
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Freedom Activity Camp, First Tower School",
