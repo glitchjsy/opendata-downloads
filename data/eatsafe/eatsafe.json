@@ -463,6 +463,17 @@
       "longitude": null
     },
     {
+      "name": "Jersey Theatre Schools",
+      "rating": 4,
+      "createdAt": "28/10/2025",
+      "address1": "Caldwell Hall",
+      "address2": "La Grande Route de St. Clément",
+      "address3": "St. Clement",
+      "postCode": "JE2 6QQ",
+      "latitude": 49.173637,
+      "longitude": -2.056212
+    },
+    {
       "name": "Mange Tout, International Finance Centre 5",
       "rating": 3,
       "createdAt": "01/08/2023",
@@ -505,6 +516,17 @@
       "postCode": "JE3 8AB",
       "latitude": 49.186263,
       "longitude": -2.169611
+    },
+    {
+      "name": "Peterborough House",
+      "rating": 5,
+      "createdAt": "05/01/2026",
+      "address1": "La Rue du Crocquet",
+      "address2": "St Aubin",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8BZ",
+      "latitude": 49.189334,
+      "longitude": -2.169974
     },
     {
       "name": "Trafalgar Inn",
@@ -5435,6 +5457,17 @@
       "longitude": -2.10101
     },
     {
+      "name": "The Smokey Shed",
+      "rating": 5,
+      "createdAt": "17/03/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Roberts Garage - St Peter",
       "rating": 4,
       "createdAt": "18/07/2024",
@@ -7741,8 +7774,8 @@
       "address2": "La Route des Quennevais",
       "address3": null,
       "postCode": "JE3 8FX",
-      "latitude": 49.193048,
-      "longitude": -2.199306
+      "latitude": 49.1931,
+      "longitude": -2.20051
     },
     {
       "name": "Cafe @ The War Tunnels",
@@ -9780,6 +9813,17 @@
       "longitude": null
     },
     {
+      "name": "Match Hampers (Jersey) Ltd",
+      "rating": 5,
+      "createdAt": "27/01/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "KTea Kombucha",
       "rating": 5,
       "createdAt": "03/05/2024",
@@ -10242,6 +10286,17 @@
       "longitude": -2.11222
     },
     {
+      "name": "The Pro Shop (events)",
+      "rating": 5,
+      "createdAt": "02/02/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Luxury Jersey Ice Cream (Events)",
       "rating": 5,
       "createdAt": "25/03/2025",
@@ -10352,6 +10407,17 @@
       "longitude": -2.108134
     },
     {
+      "name": "Alma Sana",
+      "rating": 5,
+      "createdAt": "21/01/2026",
+      "address1": "Unit 2",
+      "address2": "3  Beresford Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WN",
+      "latitude": 49.18534,
+      "longitude": -2.10424
+    },
+    {
       "name": "Jersey Jacks",
       "rating": 5,
       "createdAt": "25/11/2025",
@@ -10414,6 +10480,28 @@
       "address2": "Maison Herault",
       "address3": "St. Brelade",
       "postCode": "JE3 8AB",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Beachside No.1 & No.2",
+      "rating": 5,
+      "createdAt": "25/07/2025",
+      "address1": "Beachside Residence No.1 & No. 2",
+      "address2": "Roseville Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4PL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
+      "name": "Marks and Spencer - St. Brelade",
+      "rating": 5,
+      "createdAt": "12/01/2026",
+      "address1": null,
+      "address2": "7 Centre Point",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8LB",
       "latitude": null,
       "longitude": null
     },
@@ -10605,6 +10693,17 @@
       "longitude": -2.116617
     },
     {
+      "name": "Domino's Pizza",
+      "rating": 5,
+      "createdAt": "02/02/2026",
+      "address1": "4 Centre Point",
+      "address2": "La Route des Genets",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8LB",
+      "latitude": 49.189782,
+      "longitude": -2.19694
+    },
+    {
       "name": "SD Catering",
       "rating": 5,
       "createdAt": "06/05/2025",
@@ -10636,6 +10735,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "St Mary Rubis Filling Station",
+      "rating": 4,
+      "createdAt": "02/02/2026",
+      "address1": "St. Mary's Rubis Filling station.",
+      "address2": "La Rue des Buttes",
+      "address3": "St. Mary",
+      "postCode": "JE3 3DE",
+      "latitude": 49.235592,
+      "longitude": -2.166936
     },
     {
       "name": "Jakes BBQ (Events)",
