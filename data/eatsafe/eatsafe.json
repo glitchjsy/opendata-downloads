@@ -573,6 +573,17 @@
       "longitude": -2.10681
     },
     {
+      "name": "Spearmel Stores",
+      "rating": 3,
+      "createdAt": "27/02/2026",
+      "address1": "21½  Belmont Road",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4SA",
+      "latitude": 49.186798,
+      "longitude": -2.100894
+    },
+    {
       "name": "Normans Limited",
       "rating": 5,
       "createdAt": "19/01/2026",
@@ -8363,7 +8374,7 @@
     {
       "name": "Soft Spot Gelato",
       "rating": 5,
-      "createdAt": "17/06/2024",
+      "createdAt": "26/02/2026",
       "address1": "Bienvenue Farm",
       "address2": "La Grande Route de St. Laurent",
       "address3": "St. Lawrence",
