@@ -353,6 +353,17 @@
       "longitude": -2.109397
     },
     {
+      "name": "Tintos Softplay",
+      "rating": 4,
+      "createdAt": "11/02/2026",
+      "address1": null,
+      "address2": "La Rue De L'Etau",
+      "address3": "St. Helier",
+      "postCode": "JE2 3WF",
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Occasions",
       "rating": 5,
       "createdAt": "18/07/2024",
@@ -10051,17 +10062,6 @@
       "address2": null,
       "address3": null,
       "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
-      "name": "Arroz",
-      "rating": 3,
-      "createdAt": "16/09/2025",
-      "address1": null,
-      "address2": "International House",
-      "address3": "St. Helier",
-      "postCode": "JE2 3QQ",
       "latitude": null,
       "longitude": null
     },
