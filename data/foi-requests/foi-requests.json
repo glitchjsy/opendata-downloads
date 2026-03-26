@@ -1,11 +1,151 @@
 {
   "pagination": {
-    "totalItems": 9116,
+    "totalItems": 9136,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-10",
+      "producer": "the Freedom of Information office",
+      "id": 9274,
+      "title": "Annual cash spends on Sports Centres "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-03-10",
+      "producer": "the Freedom of Information office",
+      "id": 9272,
+      "title": "Dissenting shareholdings paid into the Jersey Treasury "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-09",
+      "producer": "the Freedom of Information office",
+      "id": 9270,
+      "title": "Drink spiking legal outcomes from 2014- 2025"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-09",
+      "producer": "the Freedom of Information office",
+      "id": 9269,
+      "title": "Vetting decisions to be made by the Chief Officer"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-09",
+      "producer": "the Freedom of Information office",
+      "id": 9268,
+      "title": "Statistics on crimes of under 18s"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-03-09",
+      "producer": "the Freedom of Information office",
+      "id": 9267,
+      "title": "Students per parish attending Highlands College"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-09",
+      "producer": "the Freedom of Information office",
+      "id": 9266,
+      "title": "Cannabis Policy Group"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-06",
+      "producer": "the Freedom of Information office",
+      "id": 9265,
+      "title": "Traffic incidents on St John's Road"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-03-06",
+      "producer": "the Freedom of Information office",
+      "id": 9264,
+      "title": "Minutes on decision of vehicle emission charges"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9263,
+      "title": "Appeal to formal misconduct hearing"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9260,
+      "title": "Income support claims "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9259,
+      "title": "Sexual offences against children aged under 18"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9258,
+      "title": "People diagnosed with tinnitus "
+    },
+    {
+      "author": "External Relations",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9257,
+      "title": "Philip Ozouf links with Rwanda"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-03-05",
+      "producer": "the Bailiff's Chamber",
+      "id": 9256,
+      "title": "Trans ID Inclusion Guidance, issued March 2025"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-05",
+      "producer": "the Freedom of Information office",
+      "id": 9255,
+      "title": "Kulpa Platforms Ltd"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-04",
+      "producer": "the Freedom of Information office",
+      "id": 9253,
+      "title": "Figures on average time of arrival to domestic burglary scenes"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-04",
+      "producer": "the Freedom of Information office",
+      "id": 9252,
+      "title": "Survival rate for cancer "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-04",
+      "producer": "the Freedom of Information office",
+      "id": 9251,
+      "title": "List of homicides per capita"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-03-04",
+      "producer": "the Freedom of Information office",
+      "id": 9250,
+      "title": "Drugs Limit Working Group"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-03-02",
