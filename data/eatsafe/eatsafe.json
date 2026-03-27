@@ -122,7 +122,7 @@
       "longitude": -2.11235
     },
     {
-      "name": "Mange Tout, York Street",
+      "name": "Mange Tout (York Street)",
       "rating": 5,
       "createdAt": "31/05/2024",
       "address1": "12  York Street",
@@ -8823,7 +8823,7 @@
       "longitude": -2.051631
     },
     {
-      "name": "Golden Sands Hotel",
+      "name": "La Brise, Golden Sands Hotel",
       "rating": 5,
       "createdAt": "19/03/2025",
       "address1": "La Route de la Baie",
@@ -8979,7 +8979,7 @@
     {
       "name": "Gunsite Cafe",
       "rating": 4,
-      "createdAt": "14/03/2024",
+      "createdAt": "05/03/2026",
       "address1": "La Route de la Haule",
       "address2": "St. Peter",
       "address3": null,
