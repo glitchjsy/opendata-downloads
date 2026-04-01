@@ -419,17 +419,6 @@
       "longitude": -2.053117
     },
     {
-      "name": "The Bagot Inn",
-      "rating": 5,
-      "createdAt": "24/02/2025",
-      "address1": "Georgetown Road",
-      "address2": null,
-      "address3": "St. Saviour",
-      "postCode": "JE2 7PH",
-      "latitude": 49.178826,
-      "longitude": -2.093266
-    },
-    {
       "name": "The Adelphi Lounge",
       "rating": 5,
       "createdAt": "18/05/2021",
@@ -1119,8 +1108,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": -25.31293,
-      "longitude": -57.384658
+      "latitude": 49.21849,
+      "longitude": -2.14198
     },
     {
       "name": "The Jersey Tea Company Ltd",
@@ -1198,17 +1187,6 @@
       "postCode": "JE2 4UQ",
       "latitude": 49.176992,
       "longitude": -2.102229
-    },
-    {
-      "name": "Noodle Box",
-      "rating": 3,
-      "createdAt": "01/07/2025",
-      "address1": "Unit",
-      "address2": "Jersey Bowl",
-      "address3": "St. Peter",
-      "postCode": "JE3 7BP",
-      "latitude": 49.21283,
-      "longitude": -2.18372
     },
     {
       "name": "Temple Stores",
@@ -1977,8 +1955,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "Cafe Connect, Highlands College",
@@ -2835,8 +2813,8 @@
       "address2": "Halkett Place",
       "address3": "Jersey",
       "postCode": "JE2 4WL",
-      "latitude": -25.31293,
-      "longitude": -57.384658
+      "latitude": 49.21849,
+      "longitude": -2.14198
     },
     {
       "name": "Roast Bistro",
@@ -3242,8 +3220,8 @@
       "address2": "92 Great Union Road",
       "address3": "Jersey",
       "postCode": "JE2 3WA",
-      "latitude": 40.696426,
-      "longitude": -74.269888
+      "latitude": 49.19037,
+      "longitude": -2.10842
     },
     {
       "name": "The Royal British Legion",
@@ -5431,8 +5409,8 @@
       "address2": "Beresford Street",
       "address3": "Jersey",
       "postCode": "JE2 4WX",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.185277,
+      "longitude": -2.103836
     },
     {
       "name": "Bastille Brasserie",
@@ -5706,8 +5684,8 @@
       "address2": "Le Mont de Gouray",
       "address3": "Jersey",
       "postCode": "JE3 6ET",
-      "latitude": 39.119433,
-      "longitude": -90.327488
+      "latitude": 48.41017,
+      "longitude": 7.027679
     },
     {
       "name": "Alison's",
@@ -5992,8 +5970,8 @@
       "address2": "20 Sand Street",
       "address3": "Jersey",
       "postCode": "JE2 3QF",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.18552,
+      "longitude": -2.1106
     },
     {
       "name": "Domino's Pizza",
@@ -7246,8 +7224,8 @@
       "address2": "St. Helier",
       "address3": null,
       "postCode": "JE2 3QL",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.186079,
+      "longitude": -2.112199
     },
     {
       "name": "Two Brands",
