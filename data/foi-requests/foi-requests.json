@@ -1,11 +1,32 @@
 {
   "pagination": {
-    "totalItems": 9136,
+    "totalItems": 9139,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-03",
+      "producer": "the Freedom of Information office",
+      "id": 9297,
+      "title": "Immunisations per GP surgery"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-02",
+      "producer": "the Freedom of Information office",
+      "id": 9295,
+      "title": "Slaughtered cow statistics 2025"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-10",
+      "producer": "the Freedom of Information office",
+      "id": 9275,
+      "title": "Correspondence regarding Andy Jehan and Rouge Bouillion sinkhole "
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-03-10",
