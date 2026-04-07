@@ -10231,6 +10231,17 @@
       "longitude": null
     },
     {
+      "name": "Longueville Munchies",
+      "rating": 4,
+      "createdAt": "16/03/2026",
+      "address1": "Longueville Road",
+      "address2": null,
+      "address3": "St. Saviour",
+      "postCode": "JE2 7WF",
+      "latitude": 49.183385,
+      "longitude": -2.078407
+    },
+    {
       "name": "The Troubadour",
       "rating": 4,
       "createdAt": "01/05/2025",
