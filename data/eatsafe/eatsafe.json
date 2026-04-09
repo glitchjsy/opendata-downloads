@@ -309,6 +309,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "Sapori Ltd",
+      "rating": 5,
+      "createdAt": "18/03/2026",
+      "address1": "Unit 4, Eagle House Shops",
+      "address2": "31  La Colomberie",
+      "address3": "St. Helier",
+      "postCode": "JE2 4QB",
+      "latitude": 49.18272,
+      "longitude": -2.10163
+    },
+    {
       "name": "Andy's Artisan Bakery",
       "rating": 5,
       "createdAt": "08/04/2024",
@@ -5589,7 +5600,7 @@
       "longitude": -2.09828
     },
     {
-      "name": "Jersey Kitchen Catering Ltd",
+      "name": "Jersey Kitchen",
       "rating": 4,
       "createdAt": "30/10/2023",
       "address1": null,
@@ -7459,17 +7470,6 @@
       "longitude": null
     },
     {
-      "name": "The Office Bar",
-      "rating": 5,
-      "createdAt": "21/08/2023",
-      "address1": "Wharf Street",
-      "address2": "St. Helier",
-      "address3": null,
-      "postCode": "JE2 3NS",
-      "latitude": 49.182951,
-      "longitude": -2.107887
-    },
-    {
       "name": "24/7 Vend Store",
       "rating": 4,
       "createdAt": "13/12/2023",
@@ -7778,6 +7778,17 @@
       "longitude": -2.141689
     },
     {
+      "name": "Christopher's",
+      "rating": 3,
+      "createdAt": "18/03/2026",
+      "address1": "1 Anley Street",
+      "address2": null,
+      "address3": null,
+      "postCode": "JE2 3QE",
+      "latitude": 49.18519,
+      "longitude": -2.11132
+    },
+    {
       "name": "Jakes BBQ",
       "rating": 4,
       "createdAt": "03/12/2024",
@@ -7789,7 +7800,7 @@
       "longitude": null
     },
     {
-      "name": "Classic Catering (Events)",
+      "name": "Classic Catering Events Ltd",
       "rating": 4,
       "createdAt": "22/06/2024",
       "address1": null,
@@ -10328,17 +10339,6 @@
       "postCode": "JE2 7YB",
       "latitude": 49.181442,
       "longitude": -2.097018
-    },
-    {
-      "name": "Super Spuds by Caring Cooks",
-      "rating": 5,
-      "createdAt": "28/07/2025",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Frida Cowlo",
