@@ -628,6 +628,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "The Office",
+      "rating": 5,
+      "createdAt": "21/08/2023",
+      "address1": "Hope Street",
+      "address2": null,
+      "address3": "St Helier",
+      "postCode": "JE2 3NS",
+      "latitude": 49.183207,
+      "longitude": -2.107488
+    },
+    {
       "name": "The Spice House",
       "rating": 5,
       "createdAt": "23/07/2024",
@@ -1220,17 +1231,6 @@
       "postCode": "JE3 7BR",
       "latitude": 38.792636,
       "longitude": -90.595688
-    },
-    {
-      "name": "Mans Garden",
-      "rating": 2,
-      "createdAt": "29/01/2025",
-      "address1": "Man's Garden",
-      "address2": "Sandybrook Lane",
-      "address3": "St. Lawrence",
-      "postCode": "JE3 1LJ",
-      "latitude": 49.202179,
-      "longitude": -2.155597
     },
     {
       "name": "Thyme Out (HCS Catering)",
@@ -7723,6 +7723,17 @@
       "longitude": -2.10227
     },
     {
+      "name": "The Jersey Royal Company Ltd",
+      "rating": 4,
+      "createdAt": "19/03/2026",
+      "address1": "Talana Hotel",
+      "address2": "Bagot Road",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7RG",
+      "latitude": 49.180562,
+      "longitude": -2.088619
+    },
+    {
       "name": "La Lula Bakery",
       "rating": 5,
       "createdAt": "22/10/2025",
@@ -10264,6 +10275,17 @@
       "longitude": -2.10789
     },
     {
+      "name": "Haute Vallee School Food Trailer (Flourish)",
+      "rating": 5,
+      "createdAt": "28/07/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Gourmet Galley",
       "rating": 5,
       "createdAt": "04/04/2025",
@@ -10812,6 +10834,17 @@
       "postCode": "JE3 7BP",
       "latitude": 49.21283,
       "longitude": -2.18372
+    },
+    {
+      "name": "TGJones",
+      "rating": 5,
+      "createdAt": "19/03/2026",
+      "address1": "72  King Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4WE",
+      "latitude": 49.18472,
+      "longitude": -2.10796
     },
     {
       "name": "La Passerelle Secondary School",
