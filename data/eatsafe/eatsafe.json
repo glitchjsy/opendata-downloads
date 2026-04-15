@@ -609,12 +609,12 @@
       "name": "Gloster Vaults",
       "rating": 5,
       "createdAt": "25/07/2022",
-      "address1": "35 Gloucester Street",
-      "address2": null,
+      "address1": "The Gloster Vaults",
+      "address2": "Gloucester Street",
       "address3": "St. Helier",
       "postCode": "JE2 3QR",
-      "latitude": 49.186736,
-      "longitude": -2.112832
+      "latitude": 49.187144,
+      "longitude": -2.111804
     },
     {
       "name": "The New Park Hotel",
@@ -10570,6 +10570,17 @@
       "postCode": "JE2 3RA",
       "latitude": 49.18686,
       "longitude": -2.10579
+    },
+    {
+      "name": "Breakfast Titans, First Tower School",
+      "rating": 3,
+      "createdAt": "24/03/2026",
+      "address1": "First Tower Primary School",
+      "address2": "La Route de St. Aubin",
+      "address3": "St. Helier",
+      "postCode": "JE2 3SD",
+      "latitude": 49.198121,
+      "longitude": -2.147153
     },
     {
       "name": "The Diner",
