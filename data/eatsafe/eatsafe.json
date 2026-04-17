@@ -474,6 +474,17 @@
       "longitude": null
     },
     {
+      "name": "Peppers Cafe",
+      "rating": 2,
+      "createdAt": "26/03/2026",
+      "address1": "2 Gas Place",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4LS",
+      "latitude": 49.187746,
+      "longitude": -2.101813
+    },
+    {
       "name": "Jersey Theatre Schools",
       "rating": 4,
       "createdAt": "28/10/2025",
@@ -1031,8 +1042,8 @@
       "address2": "La Grande Route de St. Clément",
       "address3": null,
       "postCode": null,
-      "latitude": 48.492226,
-      "longitude": 9.211566
+      "latitude": 48.535843,
+      "longitude": 12.151555
     },
     {
       "name": "Aquadome Cascades",
@@ -1746,8 +1757,8 @@
       "address2": "La Colomberie",
       "address3": "Jersey",
       "postCode": "JE2 4QA",
-      "latitude": 21.108167,
-      "longitude": 79.098439
+      "latitude": 45.61042,
+      "longitude": 9.91986
     },
     {
       "name": "Pomme d'Or Hotel",
@@ -2274,7 +2285,7 @@
       "address2": "Brighton Road",
       "address3": "Jersey",
       "postCode": "JE2 3YN",
-      "latitude": 38.991504,
+      "latitude": 38.99151,
       "longitude": -90.21674
     },
     {
@@ -3154,8 +3165,8 @@
       "address2": "La Neuve Route",
       "address3": "Jersey",
       "postCode": "JE3 8BS",
-      "latitude": 30.937499,
-      "longitude": -92.305998
+      "latitude": 19.922589,
+      "longitude": 102.593737
     },
     {
       "name": "The Paddock & Tipsy Camper",
@@ -3231,8 +3242,8 @@
       "address2": "92 Great Union Road",
       "address3": "Jersey",
       "postCode": "JE2 3WA",
-      "latitude": 49.19037,
-      "longitude": -2.10842
+      "latitude": 40.696426,
+      "longitude": -74.269888
     },
     {
       "name": "The Royal British Legion",
@@ -4364,8 +4375,8 @@
       "address2": "Market Street",
       "address3": "Jersey",
       "postCode": "JE2 4WT",
-      "latitude": 39.046904,
-      "longitude": -90.132336
+      "latitude": 39.042449,
+      "longitude": -90.137354
     },
     {
       "name": "Stars Noodle Bar",
@@ -4595,8 +4606,8 @@
       "address2": "Elizabeth Street",
       "address3": "Jersey",
       "postCode": "JE2 7PG",
-      "latitude": 38.970199,
-      "longitude": -90.188029
+      "latitude": 38.970202,
+      "longitude": -90.188031
     },
     {
       "name": "So Bar",
@@ -4610,7 +4621,7 @@
       "longitude": -2.11196
     },
     {
-      "name": "Boots the Chemist",
+      "name": "Boots - King Street",
       "rating": 5,
       "createdAt": "13/01/2022",
       "address1": "Boots the Chemist",
@@ -5369,7 +5380,7 @@
       "longitude": -2.071267
     },
     {
-      "name": "Boots the Chemist",
+      "name": "Boots - Queen Street",
       "rating": 5,
       "createdAt": "15/02/2024",
       "address1": "23-29 Queen Street",
@@ -5486,8 +5497,8 @@
       "address2": "L'Avenue de la Commune",
       "address3": "Jersey",
       "postCode": "JE3 7ZP",
-      "latitude": 39.278206,
-      "longitude": -75.04356
+      "latitude": 49.202412,
+      "longitude": -2.192182
     },
     {
       "name": "Sorrento.je",
@@ -5508,8 +5519,8 @@
       "address2": "Elizabeth Street",
       "address3": "Jersey",
       "postCode": "JE2 7PG",
-      "latitude": 38.970199,
-      "longitude": -90.188029
+      "latitude": 38.970202,
+      "longitude": -90.188031
     },
     {
       "name": "St. Martin's Primary School (Flourish)",
@@ -6619,8 +6630,8 @@
       "address2": "La Route Du Port Elizabeth",
       "address3": "Jersey",
       "postCode": "JE2 3NW",
-      "latitude": 30.937499,
-      "longitude": -92.305998
+      "latitude": 19.922589,
+      "longitude": 102.593737
     },
     {
       "name": "Best-one Ltd",
@@ -6960,8 +6971,8 @@
       "address2": "La Route Orange",
       "address3": "Jersey",
       "postCode": "JE3 8GQ",
-      "latitude": 49.21849,
-      "longitude": -2.14198
+      "latitude": 19.922589,
+      "longitude": 102.593737
     },
     {
       "name": "Cheval Roc",
@@ -8247,8 +8258,8 @@
       "address2": "Sandybrook Lane",
       "address3": "Jersey",
       "postCode": "JE3 1LJ",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "Izakaya",
@@ -9171,8 +9182,8 @@
       "address2": "La Rue de la Commune",
       "address3": "Jersey",
       "postCode": "JE3 7BN",
-      "latitude": 43.865135,
-      "longitude": -85.37849
+      "latitude": 49.201022,
+      "longitude": -2.069192
     },
     {
       "name": "Aromas",
@@ -9219,7 +9230,7 @@
       "longitude": -2.1035
     },
     {
-      "name": "Boots the Chemist, St. Peter",
+      "name": "Boots - St. Peter",
       "rating": 5,
       "createdAt": "25/05/2022",
       "address1": "Boots",
@@ -9391,8 +9402,8 @@
       "address2": "Elizabeth Street",
       "address3": "Jersey",
       "postCode": "JE2 7PG",
-      "latitude": 38.970199,
-      "longitude": -90.188029
+      "latitude": 38.970202,
+      "longitude": -90.188031
     },
     {
       "name": "Wood's Kitchen Jersey",
@@ -9446,8 +9457,8 @@
       "address2": "La Route Du Port Elizabeth",
       "address3": "Jersey",
       "postCode": "JE2 3NW",
-      "latitude": 30.937499,
-      "longitude": -92.305998
+      "latitude": 19.922589,
+      "longitude": 102.593737
     },
     {
       "name": "City Cafe",
@@ -10000,6 +10011,17 @@
       "longitude": -2.11038
     },
     {
+      "name": "Morrisons Daily, Castle Quay",
+      "rating": 3,
+      "createdAt": "18/03/2026",
+      "address1": "Morrisons Daily Le Capelain House",
+      "address2": "Castle Quay,  La Rue De L'Etau",
+      "address3": "St. Helier",
+      "postCode": "JE2 3EH",
+      "latitude": 49.181852,
+      "longitude": -2.113789
+    },
+    {
       "name": "Morrisons Daily, Colomberie",
       "rating": 5,
       "createdAt": "05/01/2026",
@@ -10238,8 +10260,8 @@
       "address2": "Unit 1A Barette Commercial Centre",
       "address3": null,
       "postCode": "JE3 4DS",
-      "latitude": 40.941282,
-      "longitude": -77.788639
+      "latitude": 44.015121,
+      "longitude": -71.10837
     },
     {
       "name": "Little Bolo by D",
@@ -10427,6 +10449,17 @@
       "postCode": "JE2 4WN",
       "latitude": 49.18534,
       "longitude": -2.10424
+    },
+    {
+      "name": "Mange Tout (Queen Street)",
+      "rating": 3,
+      "createdAt": "25/03/2026",
+      "address1": "30-32  Queen Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4WD",
+      "latitude": 49.18398,
+      "longitude": -2.103946
     },
     {
       "name": "Jersey Jacks",

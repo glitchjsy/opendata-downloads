@@ -42,6 +42,7 @@ The Adelphi Lounge,5,18/05/2021,The Parade,,St. Helier,JE2 3QP,49.187094,-2.1106
 Maison St Brelade Care Home,5,07/02/2025,,Maison St. Brelade,St. Brelade,JE3 8FB,,
 Acorn Cafe,4,21/03/2024,Acorn Enterprises Ltd,La Rue D'Asplet,Trinity,JE3 5JF,49.233709,-2.094006
 Sage,5,29/01/2026,,51-53  King Street,St. Helier,JE2 4WE,,
+Peppers Cafe,2,26/03/2026,2 Gas Place,,St. Helier,JE2 4LS,49.187746,-2.101813
 Jersey Theatre Schools,4,28/10/2025,Caldwell Hall,La Grande Route de St. Clément,St. Clement,JE2 6QQ,49.173637,-2.056212
 "Mange Tout, International Finance Centre 5",3,01/08/2023,IFC 5,IFC Jersey,St. Helier,JE2 3BY,49.185665,-2.110228
 Niche Events,5,23/05/2024,,,,,,
@@ -92,7 +93,7 @@ Superdrug,5,21/07/2023,Rutland House,76-78 King Street,St. Helier,JE2 4WE,49.184
 Bolero Bistro,4,11/01/2024,22 Rouge Bouillon,St. Helier,,JE2 3ZA,49.190204,-2.109891
 Stuart Court Residential Home,5,12/04/2024,La Rue De Haut,St. Lawrence,,JE3 1JQ,49.200793,-2.142924
 Woodlands Farm Butchers Ltd,4,15/01/2024,Woodlands Farm (Dairy),La Rue de Maupertuis,Jersey,JE2 3HG,49.168064,-2.081943
-St Clement Sports Club,4,27/03/2024,St Clement Sports Club,La Grande Route de St. Clément,,,48.492226,9.211566
+St Clement Sports Club,4,27/03/2024,St Clement Sports Club,La Grande Route de St. Clément,,,48.535843,12.151555
 Aquadome Cascades,5,15/07/2025,Merton Leisure Club & Aquadome,Belvedere Hill,Jersey,JE2 7RP,49.21849,-2.14198
 Cineworld,5,01/07/2022,Cineworld,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
 Crabbe Clay Pigeon Club,5,24/02/2023,La Rue de Crabbé,St. Mary,,JE3 3AD,49.236404,-2.171625
@@ -157,7 +158,7 @@ Chambers,5,20/06/2025,5 Mulcaster Street,St. Helier,,JE2 3NJ,49.183115,-2.106983
 Abbeyfield House,3,16/10/2024,Nelson Avenue,St. Helier,St. Helier,JE2 4PD,49.185665,-2.110228
 Cocorico (Events),4,04/05/2024,,,,,,
 Seaweed & Sand,5,23/03/2023,,,,,,
-Thai Chinese Park House Restaurant,3,08/04/2025,1 Colomberie Parade,La Colomberie,Jersey,JE2 4QA,21.108167,79.098439
+Thai Chinese Park House Restaurant,3,08/04/2025,1 Colomberie Parade,La Colomberie,Jersey,JE2 4QA,45.61042,9.91986
 Pomme d'Or Hotel,5,14/04/2025,Weighbridge,St. Helier,,JE2 3NF,49.185665,-2.110228
 Jersey Post Canteen,5,30/05/2022,Sorting Office,Jersey Postal Headquarters,St. Saviour,JE1 1AA,49.194897,-2.090318
 St. Paul's Centre,5,15/03/2024,St. Pauls Centre,St. Pauls Gate,St. Helier,JE2 3RL,49.185665,-2.110228
@@ -205,7 +206,7 @@ Rozel Camp Park,5,18/08/2022,La Grande Route de Rozel,St. Martin,,JE3 6AX,49.217
 Alliance Club,4,31/05/2025,8 Bond Street,St. Helier,,JE2 3NP,49.18371,-2.10736
 The Bouncing Brew,3,19/06/2023,,,,,,
 Roberts Garage - Springfield,4,01/07/2024,Roberts,Springfield Road,Jersey,JE2 4LE,40.701952,-74.320072
-Rouge Bouillon School (Ace of Clubs),3,24/04/2023,Rouge Bouillon School & Nursery,Brighton Road,Jersey,JE2 3YN,38.991504,-90.21674
+Rouge Bouillon School (Ace of Clubs),3,24/04/2023,Rouge Bouillon School & Nursery,Brighton Road,Jersey,JE2 3YN,38.99151,-90.21674
 St. Lawrence Parish Hall,5,17/02/2023,La Grande Route de St. Laurent,St. Lawrence,,JE3 1NG,49.214912,-2.141689
 The Taste,4,28/06/2024,16 Broad Street,St. Helier,,JE2 3RR,49.18432,-2.10786
 Columbus Street Corner Shop,5,02/08/2022,10 Columbus Street,St. Helier,,JE2 3YL,49.1904,-2.10671
@@ -285,14 +286,14 @@ Waitrose (Cafe),5,29/09/2022,La Route Orange,St. Brelade,,JE3 8NG,49.188669,-2.2
 Jersey Gaming Hub,5,25/07/2023,6 The Parade,St. Helier,,JE2 3QP,49.1869,-2.11047
 Café Louise,4,06/07/2023,Gorey Pier,St. Martin,,JE3 6EW,49.199398,-2.020463
 The Mary Rose,5,05/10/2023,18 Mulcaster Street,St. Helier,,JE2 3NJ,49.183115,-2.106983
-The Boat House & The Anchor Club,3,13/05/2025,1 North Quay,La Neuve Route,Jersey,JE3 8BS,30.937499,-92.305998
+The Boat House & The Anchor Club,3,13/05/2025,1 North Quay,La Neuve Route,Jersey,JE3 8BS,19.922589,102.593737
 The Paddock & Tipsy Camper,5,30/09/2023,,,,,,
 Boucher du Nord,5,29/04/2025,Temple Court,La Rue du Temple,Jersey,JE3 4BJ,49.246451,-2.138041
 Belvedere Leisure Shop,5,25/10/2023,Merton Leisure Club & Aquadome,Belvedere Hill,Jersey,JE2 7RP,49.21849,-2.14198
 Thyme Out West (HCS Catering),4,22/01/2024,Enid Quenault House,Les Quennevais Park,St. Brelade,JE3 8JW,49.192715,-2.202559
 Part in the Frame,5,02/10/2023,19  Commercial Buildings,,St. Helier,JE2 3NB,49.18052,-2.1089
 St. John's Village Cafe,5,26/04/2024,3 Temple Court,La Rue du Temple,Jersey,JE3 4BJ,39.119433,-90.327488
-Avoca Villa Guest House,5,15/08/2022,Avoca Villa Guest House,92 Great Union Road,Jersey,JE2 3WA,49.19037,-2.10842
+Avoca Villa Guest House,5,15/08/2022,Avoca Villa Guest House,92 Great Union Road,Jersey,JE2 3WA,40.696426,-74.269888
 The Royal British Legion,5,31/05/2024,Great Union Street,St. Helier,,JE2 3YD,49.187453,-2.106376
 Maison La Corderie,5,21/02/2025,Green Street,St. Helier,,JE2 4UG,49.178722,-2.104437
 Forum Wine Bar,5,25/09/2023,Ground Floor,13 Grenville Street,Jersey,JE2 4UF,49.18192,-2.10206
@@ -395,7 +396,7 @@ Sam's Restaurant and Coffee Shop,3,27/03/2025,1-6 Beresford Street,St. Helier,,J
 Co-Op Locale - Charing Cross,5,19/03/2024,27 Charing Cross,St. Helier,,JE2 3RP,49.185238,-2.109729
 Woodbine Corner Stores,5,21/03/2024,Retail Shop,La Route de Noirmont,Jersey,JE3 8AJ,39.119433,-90.327488
 Just Bee Healthy,3,08/02/2024,,,,,,
-Rabbit Hole,5,11/07/2024,Albatross Ltd,Market Street,Jersey,JE2 4WT,39.046904,-90.132336
+Rabbit Hole,5,11/07/2024,Albatross Ltd,Market Street,Jersey,JE2 4WT,39.042449,-90.137354
 Stars Noodle Bar,4,09/10/2023,23-24 Central Market,Halkett Place,Jersey,JE2 4WL,49.21849,-2.14198
 Brunch Cafe,3,13/03/2025,St John's Recreation Centre,La Route du Mont Mado,Jersey,JE3 4DS,39.119433,-90.327488
 Luxury Jersey Ice Cream,5,30/05/2023,,,,,,
@@ -416,9 +417,9 @@ Wise Owl Cafe,5,03/06/2025,16 York Street,St. Helier,,JE2 3RQ,49.18594,-2.10953
 Melting Pot,5,01/05/2025,6 Caledonia Place,St. Helier,,JE2 3NG,49.18211,-2.1079
 The Oche Club,3,24/04/2025,Ce Soir,10  Caledonia Place,St. Helier,JE2 3NG,49.182536,-2.107873
 Coffee Republic,4,02/07/2024,45 King Street,St. Helier,,JE2 4WE,49.18449,-2.10703
-St. Luke's School Nursery,5,05/06/2024,St Lukes School,Elizabeth Street,Jersey,JE2 7PG,38.970199,-90.188029
+St. Luke's School Nursery,5,05/06/2024,St Lukes School,Elizabeth Street,Jersey,JE2 7PG,38.970202,-90.188031
 So Bar,4,19/07/2022,36 Esplanade,St. Helier,,JE2 3QA,49.18479,-2.11196
-Boots the Chemist,5,13/01/2022,Boots the Chemist,62 King Street,Jersey,JE2 4WE,39.119433,-90.327488
+Boots - King Street,5,13/01/2022,Boots the Chemist,62 King Street,Jersey,JE2 4WE,39.119433,-90.327488
 Alison's,5,15/04/2025,68 King Street,St. Helier,St. Helier,JE2 4WE,49.1848,-2.10823
 Gradees Ltd,4,18/06/2025,9-10 Colomberie Court,La Colomberie,Jersey,JE2 4QB,39.119433,-90.327488
 Bakeology,5,11/06/2024,,,,,,
@@ -487,7 +488,7 @@ Plouf,5,01/03/2024,,,,,,
 Cheshire Home Community Centre,4,31/07/2024,Block A,Edinburgh House,St. Helier,JE2 4BQ,49.185665,-2.110228
 The Drinks Box,4,17/11/2023,,,,,,
 Great Wall Chinese Takeaway,3,19/02/2025,Princes Tower Road,St. Saviour,,JE2 7WP,49.198699,-2.071267
-Boots the Chemist,5,15/02/2024,23-29 Queen Street,St. Helier,,JE2 4WD,49.18398,-2.103946
+Boots - Queen Street,5,15/02/2024,23-29 Queen Street,St. Helier,,JE2 4WD,49.18398,-2.103946
 Cheshire Homes,5,06/03/2025,Cheshire Home,Rope Walk,Jersey,JE2 4UU,40.91078,-74.96769
 Runnymede Court Hotel,5,13/06/2025,48 Roseville Street,St. Helier,,JE2 4PL,49.178323,-2.101037
 Indian Ocean,3,30/07/2024,Indian Ocean,37 La Motte Street,Jersey,JE2 4SZ,49.18384,-2.10065
@@ -497,9 +498,9 @@ The Up and Down Cafe,3,02/07/2024,22 Queen Street,St. Helier,,JE2 4WD,49.183926,
 Millennium Kiosk,4,17/05/2024,Millennium Park,Bath Street,Jersey,JE2 4LS,39.119433,-90.327488
 Staks,5,18/07/2024,67 La Colomberie,St. Helier,,,49.182176,-2.10101
 The Smokey Shed,5,17/03/2025,,,,,,
-Roberts Garage - St Peter,4,18/07/2024,Commercial Premises,L'Avenue de la Commune,Jersey,JE3 7ZP,39.278206,-75.04356
+Roberts Garage - St Peter,4,18/07/2024,Commercial Premises,L'Avenue de la Commune,Jersey,JE3 7ZP,49.202412,-2.192182
 Sorrento.je,4,22/08/2023,Restaurant,Le Boulevard,Jersey,JE3 8AB,49.186263,-2.169611
-St. Luke's Primary School (Flourish),3,26/08/2022,St. Luke's School,Elizabeth Street,Jersey,JE2 7PG,38.970199,-90.188029
+St. Luke's Primary School (Flourish),3,26/08/2022,St. Luke's School,Elizabeth Street,Jersey,JE2 7PG,38.970202,-90.188031
 St. Martin's Primary School (Flourish),3,24/10/2022,St. Martin's School,La Rue de la Croix Au Maitre,Jersey,JE3 6HW,49.219226,-2.053906
 The Icing on the Cake Jersey,5,01/07/2025,,,,,,
 Voisins Home,5,14/07/2023,31 Don Street,St. Helier,,JE2 4TQ,49.18517,-2.10554
@@ -600,7 +601,7 @@ Les Fontaines Tavern,5,27/06/2025,La Route du Nord,St. John,,JE3 4AJ,49.24774,-2
 Lotus House,5,04/02/2025,La Route de St. Aubin,St. Helier,,JE2 3LL,49.198121,-2.147153
 Beausite Hotel,3,28/07/2025,La Rue des Prés,Grouville,,JE3 9DJ,49.186545,-2.041413
 Corbiere Phare,4,13/03/2024,La Rue de la Corbière,St. Brelade,,JE3 8HN,49.180472,-2.230625
-Harbour Newsagent,5,01/08/2022,Elizabeth Harbour,La Route Du Port Elizabeth,Jersey,JE2 3NW,30.937499,-92.305998
+Harbour Newsagent,5,01/08/2022,Elizabeth Harbour,La Route Du Port Elizabeth,Jersey,JE2 3NW,19.922589,102.593737
 Best-one Ltd,4,12/07/2024,La Route de St. Aubin,St. Helier,,JE2 3LN,49.198121,-2.147153
 First Tower Primary School,3,08/03/2024,La Route de St. Aubin,St. Helier,,JE2 3SD,49.198121,-2.147153
 Pinewood Residential Home,5,21/11/2023,Le Mont Millais,St. Helier,,JE2 4RW,49.181442,-2.097018
@@ -631,7 +632,7 @@ Cooper & Co Cafe,5,10/06/2025,Co-Op Fresh Food Grande Marche,La Rue le Masurier,
 Bloomers,4,14/03/2024,42-45 Central Market,Halkett Place,Jersey,JE2 4WL,49.21849,-2.14198
 Charlie Farley's Too,5,01/07/2025,89 St. Saviours Road,St. Helier,,JE2 4GJ,49.187002,-2.097347
 Beaulieu Convent School (Cafe Beau),5,01/07/2024,Canteen,Wellington Road,Jersey,JE2 4RJ,40.852626,-74.115653
-"La Moye School, Pathways holiday club",5,21/12/2023,La Moye School,La Route Orange,Jersey,JE3 8GQ,49.21849,-2.14198
+"La Moye School, Pathways holiday club",5,21/12/2023,La Moye School,La Route Orange,Jersey,JE3 8GQ,19.922589,102.593737
 Cheval Roc,5,12/04/2024,Residential & Nursing,Les Nouvelles Charrieres,Jersey,JE3 4DJ,49.249766,-2.119655
 Kico Cake Art,5,28/11/2024,,,,,,
 Flag and Whistle (Newdawn Catering),2,11/06/2025,Springfield Stadium,Janvrin Road,St. Helier,JE2 4LF,49.191406,-2.099554
@@ -748,7 +749,7 @@ Charcuterie Deli Board,4,27/03/2025,13-14 Beresford Market,Beresford Street,Jers
 St. Saviours School,5,07/06/2024,Bagatelle Road,St. Saviour,,JE2 7TY,49.193129,-2.084875
 Julie's Cookies,4,13/12/2022,,,,,,
 Quintessential Services,5,22/06/2025,,,,,,
-Paperclix,5,17/02/2023,Paperclix House,Sandybrook Lane,Jersey,JE3 1LJ,43.865135,-85.37849
+Paperclix,5,17/02/2023,Paperclix House,Sandybrook Lane,Jersey,JE3 1LJ,39.119433,-90.327488
 Izakaya,4,13/12/2023,Unit 12,Liberty Wharf,St. Helier,JE2 3NY,49.182951,-2.107887
 Lovecake,5,28/07/2023,,,,,,
 Bond Street Social,5,21/03/2025,10 Bond Street,St. Helier,,JE2 3NP,49.18383,-2.10745
@@ -832,12 +833,12 @@ Les Creux Bowls Club,4,25/07/2023,La Route Orange,St. Brelade,,JE3 8GQ,49.188669
 Eurostore Fox,4,19/03/2024,Eurostore Fox,15 Beresford Street,Jersey,JE2 4WN,49.18525,-2.10341
 Breakwater Cafe,3,23/09/2024,La Route de St. Catherine,St. Martin,,JE3 6DD,49.206907,-2.022287
 Cargo Coffee Bar,0,19/05/2025,Cargo Coffee,20  Esplanade,St. Helier,JE2 3QA,49.183975,-2.110619
-Lakeside Care Home & Lakeside Manor,5,06/03/2026,Lakeside Manor Care Home,La Rue de la Commune,Jersey,JE3 7BN,43.865135,-85.37849
+Lakeside Care Home & Lakeside Manor,5,06/03/2026,Lakeside Manor Care Home,La Rue de la Commune,Jersey,JE3 7BN,49.201022,-2.069192
 Aromas,5,17/04/2025,Aromas,44 Kensington Place,Jersey,JE2 3PA,43.865135,-85.37849
 Mont Felard Pub,4,16/04/2025,La Route de St. Aubin,St. Lawrence,,JE3 1LL,49.198121,-2.147153
 Marks & Spencer - St Peter,5,19/07/2024,La Grande Route De St. Pierre,St. Peter,,JE3 7AY,49.213629,-2.182954
 Hugo's,5,14/05/2025,19-23 Halkett Street,St. Helier,,JE2 4WJ,49.184606,-2.1035
-"Boots the Chemist, St. Peter",5,25/05/2022,Boots,La Grande Route De St. Pierre,St. Peter,JE3 7AA,49.213629,-2.182954
+Boots - St. Peter,5,25/05/2022,Boots,La Grande Route De St. Pierre,St. Peter,JE3 7AA,49.213629,-2.182954
 Roberts Garage - Bel Royal,5,05/03/2025,La Route de St. Aubin,St. Lawrence,,JE3 1LN,49.198121,-2.147153
 Rosie's Tea Shop,5,20/05/2025,Rosie's Tea Shop,8 Market Street,Jersey,JE2 4WY,51.51936,-0.07657
 The Poplars Tea Room,5,01/05/2025,La Route Orange,St. Brelade,,JE3 8LN,49.188669,-2.21175
@@ -852,12 +853,12 @@ Hard Bar,5,03/05/2023,Vue du Vallon,4 Parcq De Cadoret,St. Helier,JE2 3HF,49.185
 "Freedom Activity Camp, First Tower School",5,06/05/2025,First Tower Primary School,La Route de St. Aubin,Jersey,JE2 3SD,49.198121,-2.147153
 Jersey Zoo - Airport Concession,4,28/07/2022,Jersey Airport,L'Avenue de la Reine Elizabeth II,Jersey,JE3 7BP,49.206594,-2.187314
 Scooby Shack,5,12/05/2024,,,,,,
-"Freedom Activity Camp, St Luke's School",5,19/06/2025,St Luke Primary School,Elizabeth Street,Jersey,JE2 7PG,38.970199,-90.188029
+"Freedom Activity Camp, St Luke's School",5,19/06/2025,St Luke Primary School,Elizabeth Street,Jersey,JE2 7PG,38.970202,-90.188031
 Wood's Kitchen Jersey,5,01/07/2025,,,,,,
 Tommo's,3,05/06/2024,Normans Depot,Five Oaks,St. Saviour,JE2 7NH,49.198261,-2.081495
 "Freedom Activity Camp, St Clement's School",5,03/06/2025,St Clement Primary School,La Rue de la Chapelle,Jersey,JE2 6LN,39.119433,-90.327488
 Wholly Ground Cafe,5,10/10/2023,Office,St. Mark's Church,St. Helier,JE2 4LY,49.185665,-2.110228
-Elizabeth Terminal Duty Free Shop,5,17/08/2023,Elizabeth Harbour,La Route Du Port Elizabeth,Jersey,JE2 3NW,30.937499,-92.305998
+Elizabeth Terminal Duty Free Shop,5,17/08/2023,Elizabeth Harbour,La Route Du Port Elizabeth,Jersey,JE2 3NW,19.922589,102.593737
 City Cafe,3,13/02/2025,1 Phillips Street,St. Helier,,JE2 4SW,49.185951,-2.101493
 Dino (Events),4,03/05/2024,,,,,,
 Molly Moo,5,14/08/2023,,,,,,
@@ -908,6 +909,7 @@ Costa Coffee,5,29/05/2025,Costa Coffee,30  Queen Street,St. Helier,JE2 4WD,49.18
 "Checkers Xpress, First Tower",3,07/02/2025,Checkers Express,La Route de St. Aubin,St. Helier,JE2 3SG,49.198121,-2.147153
 "Morrisons Daily, New Era",5,29/10/2025,,New Era,St. Clement,JE2 7QG,,
 "Morrisons Daily, Parade",3,14/10/2025,Iceland,4-5  The Parade,St. Helier,JE2 3QP,49.18681,-2.11038
+"Morrisons Daily, Castle Quay",3,18/03/2026,Morrisons Daily Le Capelain House,"Castle Quay,  La Rue De L'Etau",St. Helier,JE2 3EH,49.181852,-2.113789
 "Morrisons Daily, Colomberie",5,05/01/2026,Roseville Street,,St. Helier,JE2 4PL,49.179602,-2.101092
 "Morrisons Daily, Gloucester Street",3,08/04/2025,Spectrum,Gloucester Street,St. Helier,JE2 3DG,49.187144,-2.111804
 Quayside Bistro & Grill and Vittoria,3,05/03/2025,,"Unit 9-10, Liberty Wharf",St. Helier,JE2 3NY,,
@@ -929,7 +931,7 @@ Cafe Barcelona,3,21/01/2026,19  Commercial Buildings,,St. Helier,JE2 3NB,49.1805
 "Dino, The Old England",3,07/11/2024,Old England Hotel,10  Cheapside,St. Helier,JE2 3PG,49.18888,-2.1125
 Jersey Rugby Football Club,4,08/07/2024,Jersey Rugby Football Club,La Rue des Landes,St. Peter,JE3 7BG,49.247256,-2.248054
 Liberty Bistro,4,04/04/2025,Unit 11b,Liberty Wharf,St. Helier,JE2 3NY,49.182951,-2.107887
-Animal Kingdom,4,08/07/2024,Animal Kingdom,Unit 1A Barette Commercial Centre,,JE3 4DS,40.941282,-77.788639
+Animal Kingdom,4,08/07/2024,Animal Kingdom,Unit 1A Barette Commercial Centre,,JE3 4DS,44.015121,-71.10837
 Little Bolo by D,5,04/09/2025,,,,,,
 Longueville Munchies,4,16/03/2026,Longueville Road,,St. Saviour,JE2 7WF,49.183385,-2.078407
 The Troubadour,4,01/05/2025,The Troubadour,7  Caledonia Place,St. Helier,JE2 3NG,49.18217,-2.10789
@@ -947,6 +949,7 @@ Scheherzade,3,03/01/2025,40  Kensington Place,,St. Helier,JE2 3PA,49.18771,-2.11
 Veranda,4,07/01/2025,Village Bistro,Gorey Village Main Road,Grouville,JE3 9EP,49.195959,-2.03384
 Bar Levant,2,11/02/2025,Cafe Colmar,Broad Street,St. Helier,JE2 3RR,49.1845,-2.108134
 Alma Sana,5,21/01/2026,Unit 2,3  Beresford Street,St. Helier,JE2 4WN,49.18534,-2.10424
+Mange Tout (Queen Street),3,25/03/2026,30-32  Queen Street,,St. Helier,JE2 4WD,49.18398,-2.103946
 Jersey Jacks,5,25/11/2025,,,,,,
 Common Ground,5,20/01/2026,Common Ground Coffee Shop,17  The Parade,St. Helier,JE2 3QP,49.18742,-2.11095
 Loaves & Layers,5,23/09/2025,,,,,,
