@@ -1,11 +1,60 @@
 {
   "pagination": {
-    "totalItems": 9139,
+    "totalItems": 9146,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-27",
+      "producer": "the Freedom of Information office",
+      "id": 9306,
+      "title": "Mammography equipment figures "
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-03-27",
+      "producer": "the Freedom of Information office",
+      "id": 9305,
+      "title": "Development plan for HMP La Moye"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-03-27",
+      "producer": "the Freedom of Information office",
+      "id": 9304,
+      "title": "Elm Farm contamination testing "
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-03-26",
+      "producer": "the Freedom of Information office",
+      "id": 9303,
+      "title": "Social Security Department Ministerial Report 2025 figures"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-03-25",
+      "producer": "the Freedom of Information office",
+      "id": 9302,
+      "title": "Value of payments to staff 2018-2025"
+    },
+    {
+      "author": "Cabinet Office",
+      "publishDate": "2026-03-23",
+      "producer": "the Freedom of Information office",
+      "id": 9301,
+      "title": "Climate Council statements "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-23",
+      "producer": "the Freedom of Information office",
+      "id": 9299,
+      "title": "Waiting times for spinal surgery consultation"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-03-03",
