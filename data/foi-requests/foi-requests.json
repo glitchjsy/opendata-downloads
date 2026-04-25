@@ -1,11 +1,81 @@
 {
   "pagination": {
-    "totalItems": 9146,
+    "totalItems": 9156,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-04-02",
+      "producer": "the Freedom of Information office",
+      "id": 9317,
+      "title": "Road accidents since 2016 broken down by age "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-02",
+      "producer": "the Freedom of Information office",
+      "id": 9316,
+      "title": "Use of Kenalog in Ophthalmology department"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-02",
+      "producer": "the Freedom of Information office",
+      "id": 9315,
+      "title": "LADO referrals 2020-2025"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-02",
+      "producer": "the Freedom of Information office",
+      "id": 9314,
+      "title": "Bellozanne Sewage Treatment Works compliance data"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-04-02",
+      "producer": "the Freedom of Information office",
+      "id": 9313,
+      "title": "Roadside drug testing procedures "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-01",
+      "producer": "the Freedom of Information office",
+      "id": 9312,
+      "title": "Awareness of Dog Trust insurance and legislation enforcement"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-03-30",
+      "producer": "the Freedom of Information office",
+      "id": 9311,
+      "title": "Budget for Jersey Prison Service visit to Halden Prison"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-03-30",
+      "producer": "the Freedom of Information office",
+      "id": 9310,
+      "title": "Assessment of Jersey Prison Service visit to Halden Prison "
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-03-30",
+      "producer": "the Freedom of Information office",
+      "id": 9309,
+      "title": "Jersey Prison Service visit to Halden Prison"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-03-30",
+      "producer": "the Freedom of Information office",
+      "id": 9308,
+      "title": "Ministerial correspondence about Rouge Bouillion sinkhole"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-03-27",

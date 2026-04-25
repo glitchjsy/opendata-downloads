@@ -10561,6 +10561,17 @@
       "longitude": -2.226716
     },
     {
+      "name": "Sweet Mouth",
+      "rating": 5,
+      "createdAt": "02/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "La Maison Gourmande",
       "rating": 2,
       "createdAt": "29/09/2025",
