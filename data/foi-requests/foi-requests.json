@@ -1,11 +1,81 @@
 {
   "pagination": {
-    "totalItems": 9156,
+    "totalItems": 9166,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-09",
+      "producer": "the Freedom of Information office",
+      "id": 9328,
+      "title": "Cost of tarmac circle at Broad Street "
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-04-09",
+      "producer": "the Freedom of Information office",
+      "id": 9326,
+      "title": "Total claims received by the Criminal Injuries Compensation Board"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-04-09",
+      "producer": "the Freedom of Information office",
+      "id": 9325,
+      "title": "Details of States transfer to States Employees' Pension Schemes Fund "
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-09",
+      "producer": "the Freedom of Information office",
+      "id": 9324,
+      "title": "ChatGPT statistics for Children's Social Care Service"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-04-08",
+      "producer": "the Freedom of Information office",
+      "id": 9323,
+      "title": "Cost of supporting states members from 2000"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-04-08",
+      "producer": "the Freedom of Information office",
+      "id": 9322,
+      "title": "Value of income support and pension plus for 2015-2025"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-08",
+      "producer": "the Freedom of Information office",
+      "id": 9321,
+      "title": "GoJ expenditure on off-island residential care for children"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-04-07",
+      "producer": "the Freedom of Information office",
+      "id": 9320,
+      "title": "Employees statistics since 2023"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-04-07",
+      "producer": "the Freedom of Information office",
+      "id": 9319,
+      "title": "Households and individuals receiving benefits over £20,000 and £50,000"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-04-07",
+      "producer": "the Freedom of Information office",
+      "id": 9318,
+      "title": "Public funds use to pay UK counsel in the case of Attorney General v Terence Michael Tremarc"
+    },
     {
       "author": "States of Jersey Police",
       "publishDate": "2026-04-02",
