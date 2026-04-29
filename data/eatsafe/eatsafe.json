@@ -1244,6 +1244,17 @@
       "longitude": -90.595688
     },
     {
+      "name": "Mans Garden",
+      "rating": 2,
+      "createdAt": "29/01/2025",
+      "address1": "Man's Garden",
+      "address2": "Sandybrook Lane",
+      "address3": "St. Lawrence",
+      "postCode": "JE3 1LJ",
+      "latitude": 49.202179,
+      "longitude": -2.155597
+    },
+    {
       "name": "Thyme Out (HCS Catering)",
       "rating": 4,
       "createdAt": "25/02/2025",
@@ -5897,7 +5908,7 @@
       "longitude": -83.384244
     },
     {
-      "name": "Freedom Activity Camp, St Saviour School",
+      "name": "Freedom Adventures and Playcare - St Saviours ASC",
       "rating": 4,
       "createdAt": "25/10/2023",
       "address1": "St Saviour Primary School",
@@ -9329,7 +9340,7 @@
       "longitude": -2.110228
     },
     {
-      "name": "Freedom Activity Camp, St Lawrence",
+      "name": "Freedom Adventures and Playcare Ltd - St Lawrence ASC",
       "rating": 5,
       "createdAt": "30/06/2025",
       "address1": "St Lawrence Primary School",
@@ -9340,7 +9351,7 @@
       "longitude": 11.640079
     },
     {
-      "name": "Freedom Activity Camp, First Tower School",
+      "name": "Freedom Adventures and Playcare Ltd - First Tower ASC",
       "rating": 5,
       "createdAt": "06/05/2025",
       "address1": "First Tower Primary School",
@@ -9373,7 +9384,7 @@
       "longitude": null
     },
     {
-      "name": "Freedom Activity Camp, St Luke's School",
+      "name": "Freedom Adventures and Playcare - St Lukes ASC",
       "rating": 5,
       "createdAt": "19/06/2025",
       "address1": "St Luke Primary School",
