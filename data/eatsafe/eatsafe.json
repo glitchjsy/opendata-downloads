@@ -210,17 +210,6 @@
       "longitude": null
     },
     {
-      "name": "Morrisons Daily-La Moye",
-      "rating": 3,
-      "createdAt": "20/11/2025",
-      "address1": "Links Hault",
-      "address2": null,
-      "address3": "St. Brelade",
-      "postCode": "JE3 8GQ",
-      "latitude": 49.193024,
-      "longitude": -2.199614
-    },
-    {
       "name": "Morrisons Daily and Wine Warehouse - Snow Hill",
       "rating": 3,
       "createdAt": "05/01/2026",
@@ -485,6 +474,17 @@
       "longitude": -2.101813
     },
     {
+      "name": "Cocorico (Food Trailer)",
+      "rating": 4,
+      "createdAt": "04/05/2024",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Jersey Theatre Schools",
       "rating": 4,
       "createdAt": "28/10/2025",
@@ -604,6 +604,17 @@
       "postCode": "JE2 4SA",
       "latitude": 49.186798,
       "longitude": -2.100894
+    },
+    {
+      "name": "Vienna Bakery Ltd",
+      "rating": 5,
+      "createdAt": "10/07/2024",
+      "address1": "Vienna Bakery",
+      "address2": "25   29 Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Normans Limited",
@@ -1246,7 +1257,7 @@
     {
       "name": "Mans Garden",
       "rating": 2,
-      "createdAt": "29/01/2025",
+      "createdAt": "01/04/2026",
       "address1": "Man's Garden",
       "address2": "Sandybrook Lane",
       "address3": "St. Lawrence",
@@ -4223,17 +4234,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Supermarket Alliance (Broad Street)",
-      "rating": 5,
-      "createdAt": "11/06/2024",
-      "address1": "11 Broad Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 3RR",
-      "latitude": 49.18406,
-      "longitude": -2.10751
     },
     {
       "name": "Charrien Stores",
@@ -9780,7 +9780,7 @@
       "longitude": null
     },
     {
-      "name": "Match Hampers (Jersey) Ltd",
+      "name": "Match Hampers",
       "rating": 5,
       "createdAt": "27/01/2026",
       "address1": null,
@@ -9868,17 +9868,6 @@
       "longitude": -2.1102
     },
     {
-      "name": "Morrisons Daily, Quennevais",
-      "rating": 4,
-      "createdAt": "12/11/2025",
-      "address1": "Iceland",
-      "address2": "12-15 Les Quennevais Parade",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8FX",
-      "latitude": 49.193037,
-      "longitude": -2.198995
-    },
-    {
       "name": "Morrisons Daily, Kensington Place",
       "rating": 3,
       "createdAt": "08/04/2025",
@@ -9943,17 +9932,6 @@
       "postCode": "JE2 7QG",
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Morrisons Daily, Parade",
-      "rating": 3,
-      "createdAt": "14/10/2025",
-      "address1": "Iceland",
-      "address2": "4-5  The Parade",
-      "address3": "St. Helier",
-      "postCode": "JE2 3QP",
-      "latitude": 49.18681,
-      "longitude": -2.11038
     },
     {
       "name": "Morrisons Daily, Castle Quay",
