@@ -419,6 +419,17 @@
       "longitude": -2.053117
     },
     {
+      "name": "Morrisons Daily (St.Peter)",
+      "rating": 3,
+      "createdAt": "20/01/2025",
+      "address1": "La Rue de l'Eglise",
+      "address2": null,
+      "address3": "St. Peter",
+      "postCode": "JE3 7AG",
+      "latitude": 49.213038,
+      "longitude": -2.18341
+    },
+    {
       "name": "The Adelphi Lounge",
       "rating": 5,
       "createdAt": "18/05/2021",
@@ -624,8 +635,8 @@
       "address2": "10 & 24",
       "address3": "St. Helier",
       "postCode": "JE1 1BU",
-      "latitude": 29.886888,
-      "longitude": -95.568877
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Gloster Vaults",
@@ -3167,17 +3178,6 @@
       "postCode": "JE3 8BS",
       "latitude": 49.189827,
       "longitude": -2.168792
-    },
-    {
-      "name": "The Paddock & Tipsy Camper",
-      "rating": 5,
-      "createdAt": "30/09/2023",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Boucher du Nord",
@@ -6249,7 +6249,7 @@
       "longitude": null
     },
     {
-      "name": "Over the Bridge Catering",
+      "name": "Over the Bridge",
       "rating": 5,
       "createdAt": "23/06/2025",
       "address1": null,
@@ -9617,7 +9617,7 @@
     {
       "name": "Nomu",
       "rating": 4,
-      "createdAt": "24/07/2025",
+      "createdAt": "13/04/2026",
       "address1": "69-73  Bath Street",
       "address2": null,
       "address3": "St. Helier",
@@ -9954,17 +9954,6 @@
       "postCode": "JE2 4PL",
       "latitude": 49.179602,
       "longitude": -2.101092
-    },
-    {
-      "name": "Morrisons Daily, Gloucester Street",
-      "rating": 3,
-      "createdAt": "08/04/2025",
-      "address1": "Spectrum",
-      "address2": "Gloucester Street",
-      "address3": "St. Helier",
-      "postCode": "JE2 3DG",
-      "latitude": 49.187144,
-      "longitude": -2.111804
     },
     {
       "name": "Quayside Bistro & Grill and Vittoria",
@@ -10363,6 +10352,17 @@
       "longitude": -2.108134
     },
     {
+      "name": "Tasty Little Treats",
+      "rating": 3,
+      "createdAt": "02/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Alma Sana",
       "rating": 5,
       "createdAt": "21/01/2026",
@@ -10581,17 +10581,6 @@
       "postCode": "JE3 8JW",
       "latitude": 49.191086,
       "longitude": -2.20399
-    },
-    {
-      "name": "Morrisons Daily, St Peter",
-      "rating": 3,
-      "createdAt": "20/01/2026",
-      "address1": "Iceland",
-      "address2": "La Rue de l'Église",
-      "address3": "St. Peter",
-      "postCode": "JE3 7AG",
-      "latitude": 49.21283,
-      "longitude": -2.18372
     },
     {
       "name": "Jerk Oasis",
