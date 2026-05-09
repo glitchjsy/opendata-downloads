@@ -1,11 +1,102 @@
 {
   "pagination": {
-    "totalItems": 9166,
+    "totalItems": 9179,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Digital Services",
+      "publishDate": "2026-04-08",
+      "producer": "the Freedom of Information office",
+      "id": 9350,
+      "title": "Electronic Patient Record system"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-04-17",
+      "producer": "the Freedom of Information office",
+      "id": 9343,
+      "title": "Policies for handling vulnerable income support claimants"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-16",
+      "producer": "the Freedom of Information office",
+      "id": 9342,
+      "title": "Family courts data 2022 - 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-16",
+      "producer": "the Freedom of Information office",
+      "id": 9341,
+      "title": "Equipment register for manufacturers"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-16",
+      "producer": "the Freedom of Information office",
+      "id": 9338,
+      "title": "Students going off island for creative studies "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-15",
+      "producer": "the Freedom of Information office",
+      "id": 9337,
+      "title": "Travellers on concessionary bus fares "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-15",
+      "producer": "the Freedom of Information office",
+      "id": 9336,
+      "title": "Number of affiliated taxi drivers"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-15",
+      "producer": "the Freedom of Information office",
+      "id": 9335,
+      "title": "Taxi cab plates in use "
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-04-15",
+      "producer": "the Freedom of Information office",
+      "id": 9334,
+      "title": "Mont à L’Abbé primary school broken down by grade"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-13",
+      "producer": "the Freedom of Information office",
+      "id": 9332,
+      "title": "Dairy Cows statistics in Jersey"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-13",
+      "producer": "the Freedom of Information office",
+      "id": 9331,
+      "title": "Neuroinclusive Jersey Strategy 2025-2028"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-13",
+      "producer": "the Freedom of Information office",
+      "id": 9330,
+      "title": "Grainville school attendance and inclusive review implementation"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-13",
+      "producer": "the Freedom of Information office",
+      "id": 9329,
+      "title": "IVF service data 2025"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-04-09",

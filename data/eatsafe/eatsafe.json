@@ -3631,17 +3631,6 @@
       "longitude": null
     },
     {
-      "name": "Laneez Surf Centre",
-      "rating": 5,
-      "createdAt": "05/06/2023",
-      "address1": "The Surf Shack",
-      "address2": "La Grande Route Des Mielles",
-      "address3": "St. Peter",
-      "postCode": "JE3 7FN",
-      "latitude": 49.214849,
-      "longitude": -2.224828
-    },
-    {
       "name": "Rosedale Stores",
       "rating": 4,
       "createdAt": "31/10/2023",
