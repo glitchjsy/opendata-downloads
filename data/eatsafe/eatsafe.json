@@ -34,6 +34,17 @@
       "longitude": null
     },
     {
+      "name": "The Bean Machine",
+      "rating": 5,
+      "createdAt": "20/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Green Dragon / Dish",
       "rating": 3,
       "createdAt": "22/10/2024",
@@ -516,17 +527,6 @@
       "postCode": "JE2 3BY",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "Niche Events",
-      "rating": 5,
-      "createdAt": "23/05/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Hotel De France",
@@ -1145,7 +1145,7 @@
       "longitude": null
     },
     {
-      "name": "Banjo",
+      "name": "Beresford House",
       "rating": 5,
       "createdAt": "01/05/2024",
       "address1": "Banjo",
@@ -2960,7 +2960,7 @@
       "longitude": -2.110228
     },
     {
-      "name": "The Potato Shack",
+      "name": "The (Potato) Shack",
       "rating": 5,
       "createdAt": "13/03/2025",
       "address1": "Woodlands Fram",
@@ -7811,17 +7811,6 @@
       "longitude": -2.113789
     },
     {
-      "name": "Morrisons Daily and Wine Warehouse-Benest",
-      "rating": 3,
-      "createdAt": "06/05/2025",
-      "address1": "Lisbon House",
-      "address2": "La Route de St. Aubin",
-      "address3": "St. Lawrence",
-      "postCode": "JE3 1LL",
-      "latitude": 49.198121,
-      "longitude": -2.147153
-    },
-    {
       "name": "Fig Tree House",
       "rating": 4,
       "createdAt": "01/07/2024",
@@ -9549,17 +9538,6 @@
       "longitude": -2.110228
     },
     {
-      "name": "Italian American Social Club",
-      "rating": 5,
-      "createdAt": "30/04/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Pembroke Hotel",
       "rating": 3,
       "createdAt": "10/09/2024",
@@ -9912,28 +9890,6 @@
       "longitude": -2.147153
     },
     {
-      "name": "Morrisons Daily, New Era",
-      "rating": 5,
-      "createdAt": "29/10/2025",
-      "address1": null,
-      "address2": "New Era",
-      "address3": "St. Clement",
-      "postCode": "JE2 7QG",
-      "latitude": null,
-      "longitude": null
-    },
-    {
-      "name": "Morrisons Daily, Castle Quay",
-      "rating": 3,
-      "createdAt": "18/03/2026",
-      "address1": "Morrisons Daily Le Capelain House",
-      "address2": "Castle Quay,  La Rue De L'Etau",
-      "address3": "St. Helier",
-      "postCode": "JE2 3EH",
-      "latitude": 49.181852,
-      "longitude": -2.113789
-    },
-    {
       "name": "Morrisons Daily, Colomberie",
       "rating": 5,
       "createdAt": "05/01/2026",
@@ -9987,6 +9943,17 @@
       "postCode": "JE2 4WL",
       "latitude": 49.185665,
       "longitude": -2.110228
+    },
+    {
+      "name": "Petit Gateau Jersey",
+      "rating": 5,
+      "createdAt": "21/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Jersey Naturally Tearoom",
@@ -10652,6 +10619,17 @@
       "name": "Nomad Jersey",
       "rating": 4,
       "createdAt": "10/02/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Bessie' Bakes Jersey",
+      "rating": 5,
+      "createdAt": "17/04/2026",
       "address1": null,
       "address2": null,
       "address3": null,

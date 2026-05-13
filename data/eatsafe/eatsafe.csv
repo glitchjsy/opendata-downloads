@@ -2,6 +2,7 @@ name,rating,createdAt,address1,address2,address3,postCode,latitude,longitude
 "G&J Flavours of Home, Bath Street",3,16/09/2024,Morrisons Daily,48-60  Bath Street,St. Helier,JE2 4SU,49.185462,-2.102357
 The Mulcaster & 1823 Grill,4,09/12/2024,The Mulcaster & 1823 Grill,14  Mulcaster Street,St. Helier,JE2 3NJ,49.183115,-2.106983
 The Office Bar (Events),2,23/08/2024,,,,,,
+The Bean Machine,5,20/04/2026,,,,,,
 Green Dragon / Dish,3,22/10/2024,Green Dragon Chinese Restaurant,Gloucester Street,St. Helier,JE2 3QR,49.187144,-2.111804
 BE Caterers,5,25/03/2025,,,,,,
 Grouville School (Flourish),5,03/10/2024,Grouville Primary School,La Rue de la Haye du Puits,Grouville,JE3 9DL,49.185554,-2.04231
@@ -46,7 +47,6 @@ Peppers Cafe,2,26/03/2026,2 Gas Place,,St. Helier,JE2 4LS,49.187746,-2.101813
 Cocorico (Food Trailer),4,04/05/2024,,,,,,
 Jersey Theatre Schools,4,28/10/2025,Caldwell Hall,La Grande Route de St. Clément,St. Clement,JE2 6QQ,49.173637,-2.056212
 "Mange Tout, International Finance Centre 5",3,01/08/2023,IFC 5,IFC Jersey,St. Helier,JE2 3BY,49.185665,-2.110228
-Niche Events,5,23/05/2024,,,,,,
 Hotel De France,5,10/04/2019,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.097242
 Old Court House Inn,4,30/01/2024,Le Boulevard,,St. Brelade,JE3 8AB,49.186263,-2.169611
 Peterborough House,5,05/01/2026,La Rue du Crocquet,St Aubin,St. Brelade,JE3 8BZ,49.189334,-2.169974
@@ -103,7 +103,7 @@ Cargo Coffee at Santander Work Cafe,4,21/05/2024,13-15 Charing Cross,St. Helier,
 Entwhistle's Takeaway,5,02/04/2024,Entwhistles Takeaway,Gorey Village Main Road,Grouville,JE3 9EP,49.195959,-2.03384
 Co-Op Locale - Pontac,5,05/09/2022,La Grande Route de la Côte,St. Clement,St. Clement,JE2 6SE,49.173637,-2.056212
 Finchy's,5,29/04/2022,,,,,,
-Banjo,5,01/05/2024,Banjo,8  Beresford Street,St. Helier,JE2 4WN,49.185278,-2.103844
+Beresford House,5,01/05/2024,Banjo,8  Beresford Street,St. Helier,JE2 4WN,49.185278,-2.103844
 Just William,5,13/10/2022,93 Central Market,Halkett Place,St. Helier,JE2 4WL,49.185665,-2.110228
 The Jersey Tea Company Ltd,5,29/02/2024,,,,,,
 Seawold Guest House,4,27/09/2022,La Route de la Haule,St. Peter,St. Peter,JE3 7BA,49.21283,-2.18372
@@ -268,7 +268,7 @@ Simple Simon's,4,14/02/2024,4 Charing Cross,St. Helier,St. Helier,JE2 3RP,49.185
 Colleen's Cafe,5,15/07/2025,Commercial Premises,La Greve de Lecq,St. Ouen,JE3 2DL,49.248716,-2.20353
 Fast and Tasty Food,4,28/02/2024,,,,,,
 The Old England,4,05/08/2022,10 Cheapside,St. Helier,St. Helier,JE2 3PG,49.185665,-2.110228
-The Potato Shack,5,13/03/2025,Woodlands Fram,La Rue de Maupertuis,St. Helier,JE2 3HG,49.210741,-2.114835
+The (Potato) Shack,5,13/03/2025,Woodlands Fram,La Rue de Maupertuis,St. Helier,JE2 3HG,49.210741,-2.114835
 Casa Paco,3,24/07/2025,38-41,Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 Clubhouse Bar & Eatery,5,22/03/2023,Jersey Hockey Clubhouse,La Route des Quennevais,St. Brelade,JE3 8LZ,49.193048,-2.199306
 Valley Foods (Caring Cooks),4,24/06/2024,Valley Foods,La Rue de la Solitude,St. Martin,JE3 6DF,49.217728,-2.051631
@@ -709,7 +709,6 @@ Christopher's,3,18/03/2026,1 Anley Street,,St. Clement,JE2 3QE,49.18519,-2.11132
 Jakes BBQ,4,03/12/2024,,,,,,
 Classic Catering Events Ltd,4,22/06/2024,,,,,,
 KFC - Jersey St. Helier,5,02/07/2024,KFC,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
-Morrisons Daily and Wine Warehouse-Benest,3,06/05/2025,Lisbon House,La Route de St. Aubin,St. Lawrence,JE3 1LL,49.198121,-2.147153
 Fig Tree House,4,01/07/2024,14-16 Parade Road,St. Helier,St. Helier,JE2 3PL,49.190399,-2.112026
 Cheapside Butcher (Events Catering),3,23/08/2024,,,,,,
 Fountain Court Souvenirs,4,05/11/2025,St.Martin,Gorey Pier,St. Martin,JE3 6EW,49.199398,-2.020463
@@ -867,7 +866,6 @@ Cook Stars Jersey,5,11/03/2024,,,,,,
 Saffron Restaurant,4,15/01/2024,Havre des Pas,St. Helier,St. Helier,JE2 4UQ,49.178125,-2.101715
 Soy Fusion,3,30/01/2025,8-10,West Centre,St. Helier,JE2 4ST,49.185665,-2.110228
 The Rooster Stove,5,03/07/2024,29 Kensington Place,St. Helier,St. Helier,JE2 3PA,49.185665,-2.110228
-Italian American Social Club,5,30/04/2024,,,,,,
 Pembroke Hotel,3,10/09/2024,La Grande Route des Sablons,Grouville,Grouville,JE3 9FR,49.18404,-2.051683
 Jemma Jelley,5,07/05/2025,,,,,,
 The Flour Barn/Sylvie's Cookies,5,17/03/2025,,,,,,
@@ -900,13 +898,12 @@ Chopsticks,5,15/04/2025,43  Hill Street,,St. Helier,JE2 4UA,49.183584,-2.104436
 Costa Coffee,5,19/02/2025,Costa Coffee,Victoria House,St. Brelade,JE3 8BS,49.193024,-2.199614
 Costa Coffee,5,29/05/2025,Costa Coffee,30  Queen Street,St. Helier,JE2 4WD,49.183853,-2.103465
 "Checkers Xpress, First Tower",3,07/02/2025,Checkers Express,La Route de St. Aubin,St. Helier,JE2 3SG,49.198121,-2.147153
-"Morrisons Daily, New Era",5,29/10/2025,,New Era,St. Clement,JE2 7QG,,
-"Morrisons Daily, Castle Quay",3,18/03/2026,Morrisons Daily Le Capelain House,"Castle Quay,  La Rue De L'Etau",St. Helier,JE2 3EH,49.181852,-2.113789
 "Morrisons Daily, Colomberie",5,05/01/2026,Roseville Street,,St. Helier,JE2 4PL,49.179602,-2.101092
 Quayside Bistro & Grill and Vittoria,3,05/03/2025,,"Unit 9-10, Liberty Wharf",St. Helier,JE2 3NY,,
 George's Garden Cafe (Catering),5,27/06/2025,2 Grands Vaux Court,Les Grands Vaux,St. Helier,JE2 4NA,49.201405,-2.09225
 The Pizza Box Events,3,31/08/2024,,,,,,
 La Bottega,4,21/11/2025,Unit 75/77,Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
+Petit Gateau Jersey,5,21/04/2026,,,,,,
 Jersey Naturally Tearoom,2,03/02/2026,Jersey Naturally,14-15 Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 The Hut,5,17/06/2025,Coronation Park,La Route de St. Aubin,St. Lawrence,JE3 1LN,49.198121,-2.147153
 Gerry's Fish Bar,5,17/07/2025,47A,,St. Helier,JE2 3WA,49.185665,-2.110228
@@ -968,6 +965,7 @@ L'Hermitage Care Centre,3,10/02/2026,L'Hermitage Gardens,La Route de Beaumont,St
 Beaumont Villa Care Home,3,10/02/2026,Beaumont Villa,La Route De Beaumont,St. Peter,JE3 7HQ,49.21283,-2.18372
 Giftology Jersey,5,06/02/2026,,,,,,
 Nomad Jersey,4,10/02/2026,,,,,,
+Bessie' Bakes Jersey,5,17/04/2026,,,,,,
 La Cantina,5,27/06/2025,La Cantina Restaurant,7-8  Peirson Road,St. Helier,JE2 3PD,49.187614,-2.116617
 Domino's Pizza,5,02/02/2026,4 Centre Point,La Route des Genets,St. Brelade,JE3 8LB,49.189782,-2.19694
 SD Catering,5,06/05/2025,,,,,,
