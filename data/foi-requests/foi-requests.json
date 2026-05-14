@@ -1,11 +1,39 @@
 {
   "pagination": {
-    "totalItems": 9179,
+    "totalItems": 9183,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-21",
+      "producer": "the Freedom of Information office",
+      "id": 9354,
+      "title": "Total costs of New Street crossing"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-04-21",
+      "producer": "the Freedom of Information office",
+      "id": 9353,
+      "title": "Fired involving e-bikes and scooters "
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-04-21",
+      "producer": "the Freedom of Information office",
+      "id": 9352,
+      "title": "Family Courts events"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-21",
+      "producer": "the Freedom of Information office",
+      "id": 9351,
+      "title": "P59 approvals for recruitment in HCJ"
+    },
     {
       "author": "Digital Services",
       "publishDate": "2026-04-08",
