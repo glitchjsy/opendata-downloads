@@ -54,6 +54,7 @@ Trafalgar Inn,3,19/11/2018,Trafalgar Inn,Charing Cross,St. Brelade,JE3 8AA,49.18
 Earl Granville,3,28/03/2019,Earl Granville,Charles Street,St. Helier,JE2 4SF,49.185469,-2.10137
 Cafe Zone,2,28/01/2026,The Powerhouse,Queens Road,St. Helier,JE2 3AP,49.19558,-2.110614
 The Bear,3,03/12/2025,The Bear Public House & Dining Room,36  King Street,St. Helier,JE2 4WF,49.18445,-2.10681
+Morrisons Daily at Benests (Millbrook),3,06/05/2025,Benests Supermarket,La Route de St. Aubin,St. Lawrence,JE3 1LL,49.198121,-2.147153
 Spearmel Stores,3,27/02/2026,21½  Belmont Road,,St. Helier,JE2 4SA,49.186798,-2.100894
 Vienna Bakery Ltd,5,10/07/2024,Vienna Bakery,25   29 Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 Normans Limited,5,19/01/2026,Normans Ltd,10 & 24,St. Helier,JE1 1BU,49.185665,-2.110228
@@ -827,7 +828,6 @@ Pizza Express,5,03/10/2023,La Route de la Baie,St. Brelade,St. Brelade,JE3 8EF,4
 Les Creux Bowls Club,4,25/07/2023,La Route Orange,St. Brelade,St. Brelade,JE3 8GQ,49.188669,-2.21175
 Eurostore Fox,4,19/03/2024,Eurostore Fox,15 Beresford Street,St. Helier,JE2 4WN,49.18525,-2.10341
 Breakwater Cafe,3,23/09/2024,La Route de St. Catherine,St. Martin,St. Martin,JE3 6DD,49.217728,-2.051631
-Cargo Coffee Bar,0,19/05/2025,Cargo Coffee,20  Esplanade,St. Helier,JE2 3QA,49.183975,-2.110619
 Lakeside Care Home & Lakeside Manor,5,06/03/2026,Lakeside Manor Care Home,La Rue de la Commune,St. Peter,JE3 7BN,49.21283,-2.18372
 Aromas,5,17/04/2025,Aromas,44  Kensington Place,St. Helier,JE2 3PA,49.18745,-2.11501
 Mont Felard Pub,4,16/04/2025,La Route de St. Aubin,St. Lawrence,St. Lawrence,JE3 1LL,49.214912,-2.141689
@@ -979,7 +979,8 @@ Casa Mia,3,17/02/2026,The Restaurant Casa Mia,57  Kensington Place,St. Helier,JE
 No1 Lounges (JER) Ltd,5,18/11/2025,Jersey Airport,L'Avenue de la Commune,St. Peter,JE1 1BY,49.202412,-2.192182
 Booze Box,4,29/04/2025,,,,,,
 World Duty Free,5,19/02/2026,World Duty Free,Jersey Airport,St. Peter,JE3 7BP,49.21283,-2.18372
-Timbers,2,02/04/2026,Ouaisne Car Park,Le Mont du Ouaisné,St. Brelade,JE3 8AW,49.17621,-2.179202
+Timbers,2,26/03/2026,Ouaisne Car Park,Le Mont du Ouaisné,St. Brelade,JE3 8AW,49.17621,-2.179202
+The Dunes,3,22/04/2026,Restaurant,La Route de la Pulente,St. Brelade,JE3 8HG,49.19282,-2.226311
 TGJones,5,19/03/2026,72  King Street,,St. Helier,JE2 4WE,49.18472,-2.10796
 La Passerelle Secondary School,5,26/11/2025,Greenfields Centre,La Grande Route de St. Martin,St. Saviour,JE2 7GS,49.199905,-2.078274
 The Threadneedle,4,22/01/2026,The Threadneedle,Seaton Place,St Helier,,49.186079,-2.112199

@@ -606,6 +606,17 @@
       "longitude": -2.10681
     },
     {
+      "name": "Morrisons Daily at Benests (Millbrook)",
+      "rating": 3,
+      "createdAt": "06/05/2025",
+      "address1": "Benests Supermarket",
+      "address2": "La Route de St. Aubin",
+      "address3": "St. Lawrence",
+      "postCode": "JE3 1LL",
+      "latitude": 49.198121,
+      "longitude": -2.147153
+    },
+    {
       "name": "Spearmel Stores",
       "rating": 3,
       "createdAt": "27/02/2026",
@@ -9109,17 +9120,6 @@
       "longitude": -2.051631
     },
     {
-      "name": "Cargo Coffee Bar",
-      "rating": 0,
-      "createdAt": "19/05/2025",
-      "address1": "Cargo Coffee",
-      "address2": "20  Esplanade",
-      "address3": "St. Helier",
-      "postCode": "JE2 3QA",
-      "latitude": 49.183975,
-      "longitude": -2.110619
-    },
-    {
       "name": "Lakeside Care Home & Lakeside Manor",
       "rating": 5,
       "createdAt": "06/03/2026",
@@ -10783,13 +10783,24 @@
     {
       "name": "Timbers",
       "rating": 2,
-      "createdAt": "02/04/2026",
+      "createdAt": "26/03/2026",
       "address1": "Ouaisne Car Park",
       "address2": "Le Mont du Ouaisné",
       "address3": "St. Brelade",
       "postCode": "JE3 8AW",
       "latitude": 49.17621,
       "longitude": -2.179202
+    },
+    {
+      "name": "The Dunes",
+      "rating": 3,
+      "createdAt": "22/04/2026",
+      "address1": "Restaurant",
+      "address2": "La Route de la Pulente",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8HG",
+      "latitude": 49.19282,
+      "longitude": -2.226311
     },
     {
       "name": "TGJones",
