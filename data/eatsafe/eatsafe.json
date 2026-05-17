@@ -932,8 +932,8 @@
       "address2": "St. Peter",
       "address3": "St. Peter",
       "postCode": "JE3 7FR",
-      "latitude": 49.21283,
-      "longitude": -2.18372
+      "latitude": 48.018562,
+      "longitude": 8.035901
     },
     {
       "name": "La Petite Ecole 2",
@@ -1224,7 +1224,7 @@
     {
       "name": "Le Hocq Shack",
       "rating": 2,
-      "createdAt": "18/08/2025",
+      "createdAt": "23/03/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -2637,8 +2637,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4WA",
-      "latitude": 51.48976,
-      "longitude": -0.16152
+      "latitude": 51.50614,
+      "longitude": -0.21379
     },
     {
       "name": "Cock & Bottle Public House",
@@ -3891,8 +3891,8 @@
       "address2": "La Route de la Trinité",
       "address3": "Trinity",
       "postCode": "JE3 5JP",
-      "latitude": 49.216634,
-      "longitude": -2.096009
+      "latitude": 49.234493,
+      "longitude": -2.092927
     },
     {
       "name": "Will Gorman Catering & Private Dining",
@@ -5354,8 +5354,8 @@
       "address2": "St. Saviour",
       "address3": "St. Saviour",
       "postCode": "JE2 7WP",
-      "latitude": 49.198699,
-      "longitude": -2.071267
+      "latitude": 49.194897,
+      "longitude": -2.090318
     },
     {
       "name": "Boots - Queen Street",
@@ -7026,8 +7026,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4WA",
-      "latitude": 51.48978,
-      "longitude": -0.16157
+      "latitude": 51.50613,
+      "longitude": -0.21365
     },
     {
       "name": "Beuvelande Campsite",
@@ -7609,8 +7609,8 @@
       "address2": "St. Peter",
       "address3": "St. Peter",
       "postCode": "JE3 7AA",
-      "latitude": 48.018562,
-      "longitude": 8.035901
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "TRU @ No. 8",
@@ -8526,17 +8526,6 @@
       "longitude": -2.103105
     },
     {
-      "name": "Benfica Sports Bar",
-      "rating": 5,
-      "createdAt": "16/07/2025",
-      "address1": "Cattle Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WP",
-      "latitude": 49.185665,
-      "longitude": -2.110228
-    },
-    {
       "name": "Naughty Monkeys",
       "rating": 5,
       "createdAt": "02/07/2022",
@@ -9116,8 +9105,8 @@
       "address2": "St. Martin",
       "address3": "St. Martin",
       "postCode": "JE3 6DD",
-      "latitude": 49.217728,
-      "longitude": -2.051631
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Lakeside Care Home & Lakeside Manor",
@@ -9160,8 +9149,8 @@
       "address2": "St. Peter",
       "address3": "St. Peter",
       "postCode": "JE3 7AY",
-      "latitude": 48.018562,
-      "longitude": 8.035901
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Hugo's",
@@ -9989,6 +9978,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "Puffins After School Club (Jersey Babysitting)",
+      "rating": 5,
+      "createdAt": "24/04/2026",
+      "address1": "Les Landes Primary School",
+      "address2": "La Rue des Cosnets",
+      "address3": "St. Ouen",
+      "postCode": "JE3 2BJ",
+      "latitude": 49.246014,
+      "longitude": -2.226716
+    },
+    {
       "name": "Le Moulin de Quétivel",
       "rating": 5,
       "createdAt": "28/04/2025",
@@ -10482,6 +10482,17 @@
       "postCode": "JE2 7TP",
       "latitude": 49.196771,
       "longitude": -2.082619
+    },
+    {
+      "name": "Baiana",
+      "rating": 3,
+      "createdAt": "24/04/2026",
+      "address1": "4 Gros Puits",
+      "address2": "Fountain Lane",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7RL",
+      "latitude": 49.182513,
+      "longitude": -2.09132
     },
     {
       "name": "Paraiso Cafe",
