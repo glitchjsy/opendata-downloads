@@ -104,7 +104,6 @@ Cargo Coffee at Santander Work Cafe,4,21/05/2024,13-15 Charing Cross,St. Helier,
 Entwhistle's Takeaway,5,02/04/2024,Entwhistles Takeaway,Gorey Village Main Road,Grouville,JE3 9EP,49.195959,-2.03384
 Co-Op Locale - Pontac,5,05/09/2022,La Grande Route de la Côte,St. Clement,St. Clement,JE2 6SE,49.173637,-2.056212
 Finchy's,5,29/04/2022,,,,,,
-Beresford House,5,01/05/2024,Banjo,8  Beresford Street,St. Helier,JE2 4WN,49.185278,-2.103844
 Just William,5,13/10/2022,93 Central Market,Halkett Place,St. Helier,JE2 4WL,49.185665,-2.110228
 The Jersey Tea Company Ltd,5,29/02/2024,,,,,,
 Seawold Guest House,4,27/09/2022,La Route de la Haule,St. Peter,St. Peter,JE3 7BA,49.21283,-2.18372
@@ -143,7 +142,7 @@ Ommaroo Hotel,5,31/01/2024,Havre des Pas,St. Helier,St. Helier,JE2 4UL,49.178125
 Marina Metro Hotel,3,20/06/2024,Havre des Pas,St. Helier,St. Helier,JE2 4UL,49.178125,-2.101715
 Prince of Wales,4,20/02/2023,8 Hilgrove Street,St. Helier,St. Helier,JE2 4SL,49.185665,-2.110228
 The Dog & Sausage,5,03/07/2024,9 Halkett Street,St. Helier,St. Helier,JE2 4SL,49.18445,-2.10358
-Supermarket Alliance (Halkett Street),5,15/01/2024,12 Halkett Street,St. Helier,St. Helier,JE2 4WJ,49.18453,-2.10355
+Alliance (Halkett Street),5,15/01/2024,12 Halkett Street,St. Helier,St. Helier,JE2 4WJ,49.18453,-2.10355
 Jersey Delight Ices,5,06/02/2026,,,,,,
 Chateau La Chaire Hotel,2,02/10/2025,Chateau La Chaire Hotel,La Vallée de Rozel,St. Martin,JE3 6AJ,49.217728,-2.051631
 The Rozel Bar and Dining,0,04/11/2025,La Vallée de Rozel,,St. Martin,JE3 6AJ,49.217728,-2.051631
@@ -507,7 +506,7 @@ The Line Up Cafe,4,01/05/2025,Port de la Mer,La Grande Route Des Mielles,St. Pet
 Arepera La Tricolor (Events),2,23/04/2024,,,,,,
 Fireside Events,5,04/05/2025,,,,,,
 Vasco Da Gama Take Away,3,03/12/2024,79 La Colomberie,,St. Helier,JE2 4QA,49.18126,-2.09828
-Jersey Kitchen,4,30/10/2023,,,,,,
+Jersey Kitchen (Events),4,30/10/2023,,,,,,
 Star at Legends,5,24/07/2024,15 La Colomberie,St. Helier,St. Helier,JE2 4QB,49.18327,-2.10244
 Headway (Jersey) Limited,5,29/07/2024,Le Coie Centre,Springfield Road,St. Helier,JE2 7DN,49.192033,-2.099767
 Wally's Chippy,4,05/02/2025,1 Red Houses Parade,La Route des Genets,St. Brelade,JE3 8DA,49.189782,-2.19694
@@ -848,7 +847,6 @@ Scooby Shack,5,12/05/2024,,,,,,
 Freedom Adventures and Playcare - St Lukes ASC,5,19/06/2025,St Luke Primary School,Elizabeth Street,St. Saviour,JE2 7PG,49.17926,-2.094901
 Wood's Kitchen Jersey,5,01/07/2025,,,,,,
 Tommo's,3,05/06/2024,Normans Depot,Five Oaks,St. Saviour,JE2 7NH,49.198261,-2.081495
-Freedom Adventures and Playcare - St Clement's ASCSchool,5,03/06/2025,St Clement Primary School,La Rue de la Chapelle,St. Clement,JE2 6LN,49.173637,-2.056212
 Wholly Ground Cafe,5,10/10/2023,Office,St. Mark's Church,St. Helier,JE2 4LY,49.185665,-2.110228
 Elizabeth Terminal Duty Free Shop,5,17/08/2023,Elizabeth Harbour,La Route Du Port Elizabeth,St. Helier,JE2 3NW,49.182489,-2.113081
 City Cafe,3,13/02/2025,1 Phillips Street,St. Helier,St. Helier,JE2 4SW,49.185665,-2.110228
@@ -957,6 +955,7 @@ Paraiso Cafe,3,14/11/2023,61a  New Street,,St. Helier,JE2 3RA,49.18686,-2.10579
 "Breakfast Titans, First Tower School",3,24/03/2026,First Tower Primary School,La Route de St. Aubin,St. Helier,JE2 3SD,49.198121,-2.147153
 Marivi's Cake,5,08/04/2026,,,,,,
 The Diner,5,27/01/2026,The Diner,8 Waterloo Street,St. Helier,JE2 4WT,49.185216,-2.104769
+Sushi-Go,2,27/04/2026,4  Charing Cross,,St. Helier,JE2 3RP,49.185027,-2.108923
 Meals on Wheels Society (Jersey),3,29/07/2025,Enid Quenault Health and Wellbeing Centre,Le Clos des Sables,St. Brelade,JE3 8JW,49.191086,-2.20399
 Jerk Oasis,5,15/05/2025,2  St. James Street,,St. Helier,,49.18383,-2.10007
 MOMO,3,18/03/2025,Nightclub,22  Beresford Street,St. Helier,JE2 4WN,49.185217,-2.103294
@@ -981,6 +980,7 @@ No1 Lounges (JER) Ltd,5,18/11/2025,Jersey Airport,L'Avenue de la Commune,St. Pet
 Booze Box,4,29/04/2025,,,,,,
 World Duty Free,5,19/02/2026,World Duty Free,Jersey Airport,St. Peter,JE3 7BP,49.21283,-2.18372
 Timbers,2,26/03/2026,Ouaisne Car Park,Le Mont du Ouaisné,St. Brelade,JE3 8AW,49.17621,-2.179202
+Yeu's Bakes,5,27/03/2026,,,,,,
 The Dunes,3,22/04/2026,Restaurant,La Route de la Pulente,St. Brelade,JE3 8HG,49.19282,-2.226311
 TGJones,5,19/03/2026,72  King Street,,St. Helier,JE2 4WE,49.18472,-2.10796
 La Passerelle Secondary School,5,26/11/2025,Greenfields Centre,La Grande Route de St. Martin,St. Saviour,JE2 7GS,49.199905,-2.078274
