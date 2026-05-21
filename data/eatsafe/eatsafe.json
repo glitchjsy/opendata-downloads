@@ -7294,6 +7294,17 @@
       "longitude": -2.111973
     },
     {
+      "name": "Machans",
+      "rating": 4,
+      "createdAt": "11/09/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Enoteca",
       "rating": 5,
       "createdAt": "20/07/2025",
@@ -9241,17 +9252,6 @@
       "longitude": null
     },
     {
-      "name": "Hooray Henri's",
-      "rating": 4,
-      "createdAt": "10/03/2025",
-      "address1": "Green Street Slip",
-      "address2": "Havre des Pas",
-      "address3": "St. Helier",
-      "postCode": "JE2 4HL",
-      "latitude": 49.178722,
-      "longitude": -2.104437
-    },
-    {
       "name": "Hard Bar",
       "rating": 5,
       "createdAt": "03/05/2023",
@@ -9516,6 +9516,17 @@
       "longitude": -2.051683
     },
     {
+      "name": "Lido Jersey",
+      "rating": 4,
+      "createdAt": "28/04/2026",
+      "address1": "The Lido",
+      "address2": "Havre des Pas",
+      "address3": "St. Helier",
+      "postCode": "JE2 4UQ",
+      "latitude": 49.178125,
+      "longitude": -2.101715
+    },
+    {
       "name": "Jemma Jelley",
       "rating": 5,
       "createdAt": "07/05/2025",
@@ -9525,6 +9536,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Morrisons Daily, St Ouen",
+      "rating": 5,
+      "createdAt": "28/04/2026",
+      "address1": "St. Ouen's Village",
+      "address2": "La Route du Marais",
+      "address3": "St. Ouen",
+      "postCode": "JE3 2GG",
+      "latitude": 49.23351,
+      "longitude": -2.202041
     },
     {
       "name": "The Flour Barn/Sylvie's Cookies",
@@ -10020,17 +10042,6 @@
       "postCode": null,
       "latitude": 49.18562,
       "longitude": -2.1094
-    },
-    {
-      "name": "5 Mile Thai",
-      "rating": 2,
-      "createdAt": "14/01/2025",
-      "address1": "35-05S Milano Slipway",
-      "address2": "La Charrière Cappelain",
-      "address3": "St. Ouen",
-      "postCode": null,
-      "latitude": 49.24033,
-      "longitude": -2.243643
     },
     {
       "name": "Jerk Oasis (Mobile Food Trailer)",
@@ -10561,6 +10572,17 @@
       "longitude": -2.103294
     },
     {
+      "name": "Candy Keg",
+      "rating": 4,
+      "createdAt": "28/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Supermarket Madeira",
       "rating": 5,
       "createdAt": "02/05/2025",
@@ -10779,6 +10801,17 @@
       "postCode": "JE3 7BP",
       "latitude": 49.21283,
       "longitude": -2.18372
+    },
+    {
+      "name": "Nourish by Aimee",
+      "rating": 5,
+      "createdAt": "24/04/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Timbers",
