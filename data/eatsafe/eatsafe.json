@@ -430,6 +430,17 @@
       "longitude": -2.053117
     },
     {
+      "name": "Cocorico",
+      "rating": 2,
+      "createdAt": "21/11/2025",
+      "address1": "118-119",
+      "address2": "Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "Morrisons Daily (St.Peter)",
       "rating": 3,
       "createdAt": "20/01/2025",
@@ -1607,17 +1618,6 @@
       "longitude": -2.051631
     },
     {
-      "name": "The Rozel Bar and Dining",
-      "rating": 0,
-      "createdAt": "04/11/2025",
-      "address1": "La Vallée de Rozel",
-      "address2": null,
-      "address3": "St. Martin",
-      "postCode": "JE3 6AJ",
-      "latitude": 49.217728,
-      "longitude": -2.051631
-    },
-    {
       "name": "Grouville Football Club",
       "rating": 5,
       "createdAt": "01/06/2023",
@@ -2071,7 +2071,7 @@
     {
       "name": "Donut Worry Be Happy",
       "rating": 5,
-      "createdAt": "03/11/2022",
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -3446,7 +3446,7 @@
     {
       "name": "Mr Churros",
       "rating": 4,
-      "createdAt": "15/05/2024",
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -4084,7 +4084,7 @@
     {
       "name": "Alfresco Events & Bars, Pimms Pod",
       "rating": 5,
-      "createdAt": "07/04/2021",
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -4667,7 +4667,7 @@
     {
       "name": "Spiral Ices Limited",
       "rating": 5,
-      "createdAt": "11/02/2022",
+      "createdAt": "02/05/2026",
       "address1": "Longbeach Car Park",
       "address2": "La Rue à Don",
       "address3": "Grouville",
@@ -4817,17 +4817,6 @@
       "postCode": "JE2 3QA",
       "latitude": 49.183308,
       "longitude": -2.109478
-    },
-    {
-      "name": "Jersey Wanderers Football Club",
-      "rating": 4,
-      "createdAt": "29/03/2023",
-      "address1": "Jersey Wanderers Football Club",
-      "address2": "Jersey Hockey Club",
-      "address3": "St. Peter",
-      "postCode": "JE3 7BJ",
-      "latitude": 49.21283,
-      "longitude": -2.18372
     },
     {
       "name": "Krafty J's",
@@ -5677,7 +5666,7 @@
       "longitude": -2.051631
     },
     {
-      "name": "Alison's",
+      "name": "Alison's (Halkett Place)",
       "rating": 5,
       "createdAt": "02/12/2024",
       "address1": "30 Halkett Place",
@@ -8537,17 +8526,6 @@
       "longitude": null
     },
     {
-      "name": "Hotel de Normandie",
-      "rating": 4,
-      "createdAt": "30/10/2023",
-      "address1": "Hotel de Normandie",
-      "address2": "Havre des Pas",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7PD",
-      "latitude": 49.178125,
-      "longitude": -2.101715
-    },
-    {
       "name": "The Caesarea",
       "rating": 4,
       "createdAt": "23/07/2024",
@@ -8604,8 +8582,8 @@
     },
     {
       "name": "Slice",
-      "rating": 4,
-      "createdAt": "03/05/2024",
+      "rating": 5,
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -9052,17 +9030,6 @@
       "postCode": "JE3 8AF",
       "latitude": 49.193024,
       "longitude": -2.199614
-    },
-    {
-      "name": "De la Salle College Canteen",
-      "rating": 5,
-      "createdAt": "11/11/2022",
-      "address1": "De la Salle College",
-      "address2": "Wellington Road",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7TH",
-      "latitude": 49.191135,
-      "longitude": -2.089939
     },
     {
       "name": "Pizza Express",
