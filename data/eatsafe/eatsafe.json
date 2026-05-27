@@ -441,7 +441,7 @@
       "longitude": -2.110228
     },
     {
-      "name": "Morrisons Daily (St.Peter)",
+      "name": "Morrisons Daily (St. Peter)",
       "rating": 3,
       "createdAt": "20/01/2025",
       "address1": "La Rue de l'Eglise",
@@ -9000,8 +9000,8 @@
     },
     {
       "name": "Hotel Cristina",
-      "rating": 2,
-      "createdAt": "16/07/2025",
+      "rating": 4,
+      "createdAt": "05/05/2026",
       "address1": "Hotel Cristina",
       "address2": "Le Mont Félard",
       "address3": "St. Lawrence",
