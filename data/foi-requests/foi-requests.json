@@ -1,11 +1,102 @@
 {
   "pagination": {
-    "totalItems": 9183,
+    "totalItems": 9196,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-04-29",
+      "producer": "the Freedom of Information office",
+      "id": 9369,
+      "title": "Phase 8 of HMP La Moye"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-04-29",
+      "producer": "the Freedom of Information office",
+      "id": 9368,
+      "title": "States Assembly’s climate emergency declaration on 2 May 2019"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-04-29",
+      "producer": "the Freedom of Information office",
+      "id": 9367,
+      "title": "Children's services abuse referrals "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-04-29",
+      "producer": "the Freedom of Information office",
+      "id": 9366,
+      "title": "Birthplace of sex offenders "
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-04-27",
+      "producer": "the Freedom of Information office",
+      "id": 9365,
+      "title": "SOJP abuse referrals"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-27",
+      "producer": "the Freedom of Information office",
+      "id": 9364,
+      "title": "Cardiac referral figures "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-27",
+      "producer": "the Freedom of Information office",
+      "id": 9363,
+      "title": "Recovery hub budget for 2025 and 2026"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-24",
+      "producer": "the Freedom of Information office",
+      "id": 9361,
+      "title": "Budget for traffic signs "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-24",
+      "producer": "the Freedom of Information office",
+      "id": 9360,
+      "title": "Noise nuisance at Retreat Farm"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-04-22",
+      "producer": "the Freedom of Information office",
+      "id": 9359,
+      "title": "Drug seizures 2025 by value and weight "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-22",
+      "producer": "the Freedom of Information office",
+      "id": 9358,
+      "title": "Medical cannabis cultivation in Jersey"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-04-22",
+      "producer": "the Freedom of Information office",
+      "id": 9357,
+      "title": "Decision letter policies "
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-04-22",
+      "producer": "the Freedom of Information office",
+      "id": 9355,
+      "title": "Total court trials from 2016 - 2026"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-04-21",
