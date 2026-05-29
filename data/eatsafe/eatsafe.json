@@ -221,7 +221,7 @@
       "longitude": null
     },
     {
-      "name": "Morrisons Daily and Wine Warehouse - Snow Hill",
+      "name": "Morrisons Daily and Wine Warehouse (Snow Hill)",
       "rating": 3,
       "createdAt": "05/01/2026",
       "address1": "2 La Colomberie",
@@ -318,6 +318,17 @@
       "postCode": "JE2 4QB",
       "latitude": 49.18272,
       "longitude": -2.10163
+    },
+    {
+      "name": "AmaThK Flavaz",
+      "rating": 4,
+      "createdAt": "06/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Andy's Artisan Bakery",
@@ -553,7 +564,7 @@
     {
       "name": "Hotel De France",
       "rating": 5,
-      "createdAt": "10/04/2019",
+      "createdAt": "15/04/2025",
       "address1": "St. Saviours Road",
       "address2": null,
       "address3": "St. Saviour",
@@ -626,6 +637,17 @@
       "postCode": "JE2 4WF",
       "latitude": 49.18445,
       "longitude": -2.10681
+    },
+    {
+      "name": "Morrisons Daily (St Aubin)",
+      "rating": 5,
+      "createdAt": "24/04/2026",
+      "address1": "La Neuve Route",
+      "address2": null,
+      "address3": "St. Brelade",
+      "postCode": "JE3 8BS",
+      "latitude": 49.189827,
+      "longitude": -2.168792
     },
     {
       "name": "Morrisons Daily at Benests (Millbrook)",
@@ -3145,17 +3167,6 @@
       "postCode": "JE3 8NG",
       "latitude": 49.188669,
       "longitude": -2.21175
-    },
-    {
-      "name": "Jersey Gaming Hub",
-      "rating": 5,
-      "createdAt": "25/07/2023",
-      "address1": "6 The Parade",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 3QP",
-      "latitude": 49.1869,
-      "longitude": -2.11047
     },
     {
       "name": "Café Louise",
@@ -7690,6 +7701,17 @@
       "longitude": -2.169974
     },
     {
+      "name": "Meaw's Thai Kitchen",
+      "rating": 0,
+      "createdAt": "15/04/2026",
+      "address1": "The Forum Wine Bar",
+      "address2": "13  Grenville Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4UF",
+      "latitude": 49.18192,
+      "longitude": -2.10206
+    },
+    {
       "name": "For Love & The Liminal",
       "rating": 4,
       "createdAt": "01/10/2024",
@@ -7756,6 +7778,17 @@
       "longitude": -2.113789
     },
     {
+      "name": "KwaMother",
+      "rating": 4,
+      "createdAt": "06/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Dunell's La Cave (St Helier)",
       "rating": 5,
       "createdAt": "14/01/2026",
@@ -7776,6 +7809,17 @@
       "postCode": "JE3 8FX",
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "The Rozel Bar & Dining",
+      "rating": 0,
+      "createdAt": "04/11/2025",
+      "address1": "The Rozel Bar and Restaurant",
+      "address2": "La Vallée de Rozel",
+      "address3": null,
+      "postCode": "JE3 6AJ",
+      "latitude": 49.103395,
+      "longitude": 7.504213
     },
     {
       "name": "Cafe @ The War Tunnels",
@@ -9527,7 +9571,7 @@
       "longitude": null
     },
     {
-      "name": "Morrisons Daily, St Ouen",
+      "name": "Morrisons Daily (St Ouen)",
       "rating": 5,
       "createdAt": "28/04/2026",
       "address1": "St. Ouen's Village",
@@ -9813,7 +9857,7 @@
       "longitude": -2.1102
     },
     {
-      "name": "Morrisons Daily, Kensington Place",
+      "name": "Morrisons Daily (Kensington Place)",
       "rating": 3,
       "createdAt": "08/04/2025",
       "address1": "Kensington Place",
@@ -10152,6 +10196,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "La Moye School (Flourish)",
+      "rating": 4,
+      "createdAt": "16/03/2026",
+      "address1": "La Moye Primary School",
+      "address2": "La Route Orange",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8GQ",
+      "latitude": 49.188669,
+      "longitude": -2.21175
     },
     {
       "name": "Gourmet Galley",
