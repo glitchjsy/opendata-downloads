@@ -320,6 +320,17 @@
       "longitude": -2.10163
     },
     {
+      "name": "Classic Origin Bar (Classic Catering)",
+      "rating": 5,
+      "createdAt": "02/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "AmaThK Flavaz",
       "rating": 4,
       "createdAt": "06/05/2026",
@@ -637,6 +648,17 @@
       "postCode": "JE2 4WF",
       "latitude": 49.18445,
       "longitude": -2.10681
+    },
+    {
+      "name": "Morrisons Daily & Wine Warehouse (Five Oaks)",
+      "rating": 3,
+      "createdAt": "30/04/2026",
+      "address1": "Le Grand Route de St Martin",
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": 49.217728,
+      "longitude": -2.051631
     },
     {
       "name": "Morrisons Daily (St Aubin)",
@@ -2929,7 +2951,7 @@
     {
       "name": "Salmini's Candy Floss",
       "rating": 4,
-      "createdAt": "04/09/2023",
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -7868,7 +7890,7 @@
     {
       "name": "KFC - Jersey St. Helier",
       "rating": 5,
-      "createdAt": "02/07/2024",
+      "createdAt": "07/05/2026",
       "address1": "KFC",
       "address2": "La Rue De L'Etau",
       "address3": "St. Helier",
@@ -9923,6 +9945,17 @@
       "longitude": -2.101092
     },
     {
+      "name": "Morrisons Daily, Grands Vaux",
+      "rating": 3,
+      "createdAt": "30/04/2026",
+      "address1": "Grands Vaux Court",
+      "address2": "Les Grands Vaux",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7NA",
+      "latitude": 49.201405,
+      "longitude": -2.09225
+    },
+    {
       "name": "Quayside Bistro & Grill and Vittoria",
       "rating": 3,
       "createdAt": "05/03/2025",
@@ -10869,6 +10902,17 @@
       "longitude": -2.179202
     },
     {
+      "name": "The Pantry by Kismet Cabana",
+      "rating": 5,
+      "createdAt": "06/05/2026",
+      "address1": "La Haule Farm",
+      "address2": "Le Mont Au Roux",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8BD",
+      "latitude": 49.193024,
+      "longitude": -2.199614
+    },
+    {
       "name": "Yeu's Bakes",
       "rating": 5,
       "createdAt": "27/03/2026",
@@ -10911,6 +10955,17 @@
       "postCode": "JE2 7GS",
       "latitude": 49.199905,
       "longitude": -2.078274
+    },
+    {
+      "name": "Rafiki",
+      "rating": 2,
+      "createdAt": "08/05/2026",
+      "address1": "37  The Parade",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3QQ",
+      "latitude": 49.186765,
+      "longitude": -2.109737
     },
     {
       "name": "The Threadneedle",
