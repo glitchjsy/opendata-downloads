@@ -42,7 +42,7 @@ Bar Basso & Catch Fish & Chips,2,02/12/2025,Unit 13b Liberty Wharf,La Route de l
 La Hougue Bie,5,29/04/2025,La Hougue Bie Museum,La Route de la Hougue Bie,Grouville,JE3 9HQ,49.202214,-2.053117
 Cocorico,2,21/11/2025,118-119,Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 Morrisons Daily (St. Peter),3,20/01/2025,La Rue de l'Eglise,,St. Peter,JE3 7AG,49.213038,-2.18341
-The Adelphi Lounge,5,18/05/2021,The Parade,,St. Helier,JE2 3QP,49.187094,-2.110629
+The Adelphi Lounge,4,31/05/2024,The Parade,,St. Helier,JE2 3QP,49.187094,-2.110629
 Maison St Brelade Care Home,5,07/02/2025,,Maison St. Brelade,St. Brelade,JE3 8FB,,
 Acorn Cafe,4,21/03/2024,Acorn Enterprises Ltd,La Rue D'Asplet,Trinity,JE3 5JF,49.233709,-2.094006
 Sage,5,29/01/2026,,51-53  King Street,St. Helier,JE2 4WE,,
@@ -55,7 +55,7 @@ Hotel De France,5,15/04/2025,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.
 Old Court House Inn,4,30/01/2024,Le Boulevard,,St. Brelade,JE3 8AB,49.186263,-2.169611
 Peterborough House,5,05/01/2026,La Rue du Crocquet,St Aubin,St. Brelade,JE3 8BZ,49.189334,-2.169974
 Trafalgar Inn,3,19/11/2018,Trafalgar Inn,Charing Cross,St. Brelade,JE3 8AA,49.187571,-2.17088
-Earl Granville,3,28/03/2019,Earl Granville,Charles Street,St. Helier,JE2 4SF,49.185469,-2.10137
+Earl Granville,4,26/06/2025,Earl Granville,Charles Street,St. Helier,JE2 4SF,49.185469,-2.10137
 Cafe Zone,2,28/01/2026,The Powerhouse,Queens Road,St. Helier,JE2 3AP,49.19558,-2.110614
 The Bear,3,03/12/2025,The Bear Public House & Dining Room,36  King Street,St. Helier,JE2 4WF,49.18445,-2.10681
 Morrisons Daily & Wine Warehouse (Five Oaks),3,30/04/2026,Le Grand Route de St Martin,,,,49.217728,-2.051631
@@ -96,7 +96,7 @@ Noya Shapla,4,05/06/2025,Natwest Bank,Charing Cross,St. Brelade,JE3 8AA,49.18757
 Brig-y-Don House,3,05/07/2024,Brig-y-Don House,La Grande Route de la Côte,St. Clement,JE2 6FT,49.167532,-2.063859
 "The Gardener's Tearoom, Ransoms",4,03/02/2025,The Gardener's Tearoom,Ransoms Garden Centre,St. Martin,JE3 6UG,49.217728,-2.051631
 The Lighthouse Beach Cafe,5,01/06/2022,La Mare Slipway,La Grande Route de la Côte,St. Clement,JE2 6SB,49.167532,-2.063859
-Rhona's at the Beach,5,03/02/2025,La Montee des Greves Slipway,La Route de la Cote,St. Martin,,49.206907,-2.022287
+Rhona's at the Beach,5,03/02/2025,La Montee des Greves Slipway,La Route de la Cote,St. Martin,,49.217728,-2.051631
 Barkers Newsagents,3,29/07/2024,Barkers Newsagent,12  Val Plaisant,St. Helier,JE2 4TA,49.191634,-2.102534
 Superdrug,5,21/07/2023,Rutland House,76-78 King Street,St. Helier,JE2 4WE,49.184451,-2.106853
 Bolero Bistro,4,11/01/2024,22 Rouge Bouillon,St. Helier,St. Helier,JE2 3ZA,49.192647,-2.108546
@@ -134,7 +134,7 @@ The Bakery,3,13/05/2025,The Bakery,19 Les Quennevais Parade,St. Brelade,JE3 8FX,
 Grand Jersey,5,04/03/2025,Hotel & Spa,Esplanade,St. Helier,JE2 3QA,49.18478,-2.111973
 Marks & Spencer - Liberty Wharf,5,06/10/2023,Liberty Wharf Food Hall,Liberty Wharf,St. Helier,JE2 3NY,49.185665,-2.110228
 "R Fresh , Charing Cross",3,25/01/2025,12a Charing Cross,St. Helier,St. Helier,JE2 3RP,49.185665,-2.110228
-Highlands College Academy Restaurant,5,28/01/2025,Highlands College,Highlands Lane,St. Saviour,JE1 1HL,49.191614,-2.094016
+Highlands College Academy Restaurant,5,28/01/2025,Highlands College,Highlands Lane,St. Saviour,JE1 1HL,49.194897,-2.090318
 Samphire,5,08/08/2023,7-11 Don Street,St. Helier,St. Helier,JE2 4TQ,49.185665,-2.110228
 LV Pharmacy,5,14/07/2023,24 Beresford Street,St. Helier,St. Helier,JE2 4WN,49.185217,-2.103294
 Dandy Coffee Shop,5,09/08/2024,,2 Colomberie Court,St. Helier,JE2 4QB,,
@@ -174,7 +174,7 @@ The Lido,5,25/07/2025,Havre des Pas Bathing Pool,Havre des Pas,St. Helier,,49.17
 Vinifera,5,28/06/2024,4 Broad Street,St. Helier,St. Helier,JE2 3RR,49.184035,-2.107455
 General Hospital (HCS Catering),4,04/09/2025,Gloucester Street,St. Helier,St. Helier,JE2 3QR,49.187144,-2.111804
 The Spice of Life,5,15/02/2024,12 Sand Street,St. Helier,St. Helier,JE2 3QF,49.18542,-2.11031
-Fox & Thistle,5,27/08/2021,14½,Queen Street,St. Helier,JE2 4WD,49.18398,-2.103946
+Fox & Thistle,5,11/05/2026,14½,Queen Street,St. Helier,JE2 4WD,49.18398,-2.103946
 Liberation Square Kiosk,4,21/08/2023,,,,,,
 El Tico Cafe,4,04/04/2024,La Grande Route Des Mielles,St. Peter,St. Peter,JE3 7FN,49.214849,-2.224828
 Co-Op Locale - Colomberie,5,26/07/2024,22 La Colomberie,St. Helier,St. Helier,JE2 4QB,49.183,-2.10194

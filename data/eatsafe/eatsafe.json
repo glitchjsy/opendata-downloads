@@ -475,8 +475,8 @@
     },
     {
       "name": "The Adelphi Lounge",
-      "rating": 5,
-      "createdAt": "18/05/2021",
+      "rating": 4,
+      "createdAt": "31/05/2024",
       "address1": "The Parade",
       "address2": null,
       "address3": "St. Helier",
@@ -618,8 +618,8 @@
     },
     {
       "name": "Earl Granville",
-      "rating": 3,
-      "createdAt": "28/03/2019",
+      "rating": 4,
+      "createdAt": "26/06/2025",
       "address1": "Earl Granville",
       "address2": "Charles Street",
       "address3": "St. Helier",
@@ -1075,8 +1075,8 @@
       "address2": "La Route de la Cote",
       "address3": "St. Martin",
       "postCode": null,
-      "latitude": 49.206907,
-      "longitude": -2.022287
+      "latitude": 49.217728,
+      "longitude": -2.051631
     },
     {
       "name": "Barkers Newsagents",
@@ -1493,8 +1493,8 @@
       "address2": "Highlands Lane",
       "address3": "St. Saviour",
       "postCode": "JE1 1HL",
-      "latitude": 49.191614,
-      "longitude": -2.094016
+      "latitude": 49.194897,
+      "longitude": -2.090318
     },
     {
       "name": "Samphire",
@@ -1928,7 +1928,7 @@
     {
       "name": "Fox & Thistle",
       "rating": 5,
-      "createdAt": "27/08/2021",
+      "createdAt": "11/05/2026",
       "address1": "14½",
       "address2": "Queen Street",
       "address3": "St. Helier",
