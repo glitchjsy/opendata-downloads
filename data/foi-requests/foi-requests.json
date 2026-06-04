@@ -1,11 +1,158 @@
 {
   "pagination": {
-    "totalItems": 9196,
+    "totalItems": 9217,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-05-08",
+      "producer": "the Freedom of Information office",
+      "id": 9406,
+      "title": "Copy of Register mandated under Art.38(1) of the Education Law 1999"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-08",
+      "producer": "the Freedom of Information office",
+      "id": 9405,
+      "title": "Ambulance call outes for substance misuse and domestic violence from 2022 - 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-08",
+      "producer": "the Freedom of Information office",
+      "id": 9404,
+      "title": "Medical cannabis exported in the last 6 months of 2025"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-08",
+      "producer": "the Freedom of Information office",
+      "id": 9401,
+      "title": "Steven Raine communications regarding Chateau Plaisir "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-08",
+      "producer": "the Freedom of Information office",
+      "id": 9400,
+      "title": "Nude Food hartigans drawings"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-07",
+      "producer": "the Freedom of Information office",
+      "id": 9397,
+      "title": "Taxi reform programme "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-07",
+      "producer": "the Freedom of Information office",
+      "id": 9396,
+      "title": "Taxi companies operating in Jersey"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-05-07",
+      "producer": "the Freedom of Information office",
+      "id": 9393,
+      "title": "Tier 1 (Chief Officer) down to Tier 3"
+    },
+    {
+      "author": "Cabinet Office",
+      "publishDate": "2026-05-06",
+      "producer": "the Freedom of Information office",
+      "id": 9391,
+      "title": "States Assembly’s climate emergency declaration "
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-05-06",
+      "producer": "the Freedom of Information office",
+      "id": 9390,
+      "title": "Child protection and family assessments"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-06",
+      "producer": "the Freedom of Information office",
+      "id": 9387,
+      "title": "Vehicle inspection failures for excessive exhaust noise from 2021"
+    },
+    {
+      "author": "Cabinet Office",
+      "publishDate": "2026-05-05",
+      "producer": "the Freedom of Information office",
+      "id": 9386,
+      "title": "Number of Ministerial Decisions made by the current Social Security Minister"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-05",
+      "producer": "the Freedom of Information office",
+      "id": 9385,
+      "title": "New Havre des Pas Lido lease "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-05",
+      "producer": "the Freedom of Information office",
+      "id": 9384,
+      "title": "Bike shelter at Snow Hill"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-05-05",
+      "producer": "the Freedom of Information office",
+      "id": 9383,
+      "title": "Prison Governor uniforms "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-01",
+      "producer": "the Freedom of Information office",
+      "id": 9380,
+      "title": "Clinical negligence claims from 2015"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-05-01",
+      "producer": "the Freedom of Information office",
+      "id": 9379,
+      "title": "Draft Road Traffic Law"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-05-01",
+      "producer": "the Freedom of Information office",
+      "id": 9378,
+      "title": "CYPES bottled water expenditure"
+    },
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-05-01",
+      "producer": "the Freedom of Information office",
+      "id": 9374,
+      "title": "Homelessness from 2022 - 2025"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-04-30",
+      "producer": "the Freedom of Information office",
+      "id": 9373,
+      "title": "Field H1219, St Helier"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-04-30",
+      "producer": "the Freedom of Information office",
+      "id": 9372,
+      "title": "Scrutiny Panel and Dogs Trust UK"
+    },
     {
       "author": "Justice and Home Affairs",
       "publishDate": "2026-04-29",
