@@ -54,7 +54,7 @@ Jersey Theatre Schools,4,28/10/2025,Caldwell Hall,La Grande Route de St. Clémen
 Hotel De France,5,15/04/2025,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.097242
 Old Court House Inn,4,30/01/2024,Le Boulevard,,St. Brelade,JE3 8AB,49.186263,-2.169611
 Peterborough House,5,05/01/2026,La Rue du Crocquet,St Aubin,St. Brelade,JE3 8BZ,49.189334,-2.169974
-Trafalgar Inn,3,19/11/2018,Trafalgar Inn,Charing Cross,St. Brelade,JE3 8AA,49.187571,-2.17088
+Trafalgar Inn,5,06/12/2023,Trafalgar Inn,Charing Cross,St. Brelade,JE3 8AA,49.187571,-2.17088
 Earl Granville,4,26/06/2025,Earl Granville,Charles Street,St. Helier,JE2 4SF,49.185469,-2.10137
 Cafe Zone,2,28/01/2026,The Powerhouse,Queens Road,St. Helier,JE2 3AP,49.19558,-2.110614
 The Bear,3,03/12/2025,The Bear Public House & Dining Room,36  King Street,St. Helier,JE2 4WF,49.18445,-2.10681
@@ -73,7 +73,7 @@ Quick Stop,5,21/05/2024,7 Charing Cross,St. Helier,St. Helier,JE2 3RP,49.185665,
 Cheapside Butchers,3,19/07/2024,19 Cheapside,St. Helier,St. Helier,JE2 3PG,49.185665,-2.110228
 St. John's Inn,3,07/03/2024,La Rue De La Mare Ballam,St. John,St. John,JE3 4EJ,18.34533,-64.73886
 St. John's Parish Hall,5,24/10/2023,La Rue De La Mare Ballam,St. John,St. John,JE3 4EJ,18.34533,-64.73886
-Cafe Ouen,4,12/04/2024,Portinfer Farm,La Rue de la Porte,St. Ouen,JE3 2BN,49.246765,-2.129072
+Cafe Ouen,2,14/05/2026,Portinfer Farm,La Rue de la Porte,St. Ouen,JE3 2BN,49.246765,-2.129072
 Unifare Stores,3,10/04/2024,Le Geyt Road,St. Saviour,St. Saviour,JE2 7NS,49.192846,-2.098538
 Waitrose (Jersey) Ltd - St Helier,5,12/07/2022,La Vallée des Vaux,St. Helier,St. Helier,JE2 3GA,49.185665,-2.110228
 The Good Stone,4,31/05/2022,,,,,,
@@ -636,7 +636,7 @@ Beaulieu Convent School (Cafe Beau),5,01/07/2024,Canteen,Wellington Road,St. Hel
 "La Moye School, Pathways holiday club",5,21/12/2023,La Moye School,La Route Orange,St. Brelade,JE3 8GQ,49.188669,-2.21175
 Cheval Roc,5,12/04/2024,Residential & Nursing,Les Nouvelles Charrieres,St. John,JE3 4DJ,49.249766,-2.119655
 Kico Cake Art,5,28/11/2024,,,,,,
-Flag and Whistle (Newdawn Catering),2,11/06/2025,Springfield Stadium,Janvrin Road,St. Helier,JE2 4LF,49.191406,-2.099554
+Flag and Whistle (Newdawn Catering),5,13/05/2026,Springfield Stadium,Janvrin Road,St. Helier,JE2 4LF,49.191406,-2.099554
 Farmers Cricket Club,5,13/05/2024,Club House / Pavillion,La Rue de la Vignette,St. Martin,JE3 6HY,49.217728,-2.051631
 Yogolicious Ltd,5,02/07/2024,10 Hilgrove Street,St. Helier,St. Helier,JE2 4SL,49.184367,-2.103577
 Cheffins Restaurant,4,03/07/2025,1717 Ltd,Victoria House,St. Brelade,JE3 7BA,49.193024,-2.199614
@@ -912,6 +912,7 @@ Petit Gateau Jersey,5,21/04/2026,,,,,,
 Jersey Naturally Tearoom,2,03/02/2026,Jersey Naturally,14-15 Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 The Hut,5,17/06/2025,Coronation Park,La Route de St. Aubin,St. Lawrence,JE3 1LN,49.198121,-2.147153
 Gerry's Fish Bar,5,17/07/2025,47A,,St. Helier,JE2 3WA,49.185665,-2.110228
+Dip Doh Pizza Co,5,14/05/2026,La Rue De L'Etau,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
 Puffins After School Club (Jersey Babysitting),5,24/04/2026,Les Landes Primary School,La Rue des Cosnets,St. Ouen,JE3 2BJ,49.246014,-2.226716
 Le Moulin de Quétivel,5,28/04/2025,Le Moulin de Quetivel,Le Mont Fallu,St. Peter,JE3 7EF,51.135727,6.801864
 The Oat Bar,5,02/05/2025,,,,,,
@@ -953,6 +954,7 @@ Asiatico,5,15/01/2026,3 Bath Street,,St Helier,JE2 4ST,49.18398,-2.10304
 Ob Mizi-at the table,4,22/01/2026,,Maison Herault,St. Brelade,JE3 8AB,,
 Beachside No.1 & No.2,5,25/07/2025,Beachside Residence No.1 & No. 2,Roseville Street,St. Helier,JE2 4PL,49.185665,-2.110228
 Marks and Spencer - St. Brelade,5,12/01/2026,,7 Centre Point,St. Brelade,JE3 8LB,,
+Seahorse Coffee,5,12/05/2026,2 Fairview,Le Mont de Gouray,St. Martin,JE3 6ET,49.217728,-2.051631
 St Catherine's Bunker,3,10/05/2025,St. Catherine's Bunker,La Route de St. Catherine,St. Martin,JE3 6DD,49.206907,-2.022287
 Tavola,4,18/09/2025,Jersey Central Market 103-107,,St. Helier,JE2 4WL,49.185665,-2.110228
 Les Landes Primary School,5,20/06/2025,Les Landes Primary School,La Rue des Cosnets,St. Ouen,JE3 2BJ,49.246014,-2.226716
@@ -983,6 +985,7 @@ Ima's Rum Punch,5,24/11/2025,,,,,,
 St Mary Rubis Filling Station,4,02/02/2026,St. Mary's Rubis Filling station.,La Rue des Buttes,St. Mary,JE3 3DE,49.235592,-2.166936
 Jakes BBQ (Events),3,30/07/2025,,,,,,
 Habibi Haus,4,21/11/2025,Habibi Haus,66  Bath Street,St. Helier,JE2 4SU,49.18605,-2.10227
+Dandy (Sand Street),3,13/05/2026,27-29  Sand Street,,St. Helier,JE2 3QF,49.185691,-2.111007
 TJ's Bake & Browse,5,31/10/2025,,,,,,
 Casa Mia,3,17/02/2026,The Restaurant Casa Mia,57  Kensington Place,St. Helier,JE2 3PA,49.18742,-2.11509
 No1 Lounges (JER) Ltd,5,18/11/2025,Jersey Airport,L'Avenue de la Commune,St. Peter,JE1 1BY,49.202412,-2.192182

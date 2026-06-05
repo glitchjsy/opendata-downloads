@@ -607,8 +607,8 @@
     },
     {
       "name": "Trafalgar Inn",
-      "rating": 3,
-      "createdAt": "19/11/2018",
+      "rating": 5,
+      "createdAt": "06/12/2023",
       "address1": "Trafalgar Inn",
       "address2": "Charing Cross",
       "address3": "St. Brelade",
@@ -816,8 +816,8 @@
     },
     {
       "name": "Cafe Ouen",
-      "rating": 4,
-      "createdAt": "12/04/2024",
+      "rating": 2,
+      "createdAt": "14/05/2026",
       "address1": "Portinfer Farm",
       "address2": "La Rue de la Porte",
       "address3": "St. Ouen",
@@ -7009,8 +7009,8 @@
     },
     {
       "name": "Flag and Whistle (Newdawn Catering)",
-      "rating": 2,
-      "createdAt": "11/06/2025",
+      "rating": 5,
+      "createdAt": "13/05/2026",
       "address1": "Springfield Stadium",
       "address2": "Janvrin Road",
       "address3": "St. Helier",
@@ -10044,6 +10044,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "Dip Doh Pizza Co",
+      "rating": 5,
+      "createdAt": "14/05/2026",
+      "address1": "La Rue De L'Etau",
+      "address2": "La Rue De L'Etau",
+      "address3": "St. Helier",
+      "postCode": "JE2 3WF",
+      "latitude": 49.181852,
+      "longitude": -2.113789
+    },
+    {
       "name": "Puffins After School Club (Jersey Babysitting)",
       "rating": 5,
       "createdAt": "24/04/2026",
@@ -10495,6 +10506,17 @@
       "longitude": null
     },
     {
+      "name": "Seahorse Coffee",
+      "rating": 5,
+      "createdAt": "12/05/2026",
+      "address1": "2 Fairview",
+      "address2": "Le Mont de Gouray",
+      "address3": "St. Martin",
+      "postCode": "JE3 6ET",
+      "latitude": 49.217728,
+      "longitude": -2.051631
+    },
+    {
       "name": "St Catherine's Bunker",
       "rating": 3,
       "createdAt": "10/05/2025",
@@ -10823,6 +10845,17 @@
       "postCode": "JE2 4SU",
       "latitude": 49.18605,
       "longitude": -2.10227
+    },
+    {
+      "name": "Dandy (Sand Street)",
+      "rating": 3,
+      "createdAt": "13/05/2026",
+      "address1": "27-29  Sand Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3QF",
+      "latitude": 49.185691,
+      "longitude": -2.111007
     },
     {
       "name": "TJ's Bake & Browse",
