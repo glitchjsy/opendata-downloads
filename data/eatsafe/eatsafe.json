@@ -78,6 +78,17 @@
       "longitude": -2.04231
     },
     {
+      "name": "Paddock Events",
+      "rating": 5,
+      "createdAt": "30/09/2023",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Wicked Chicken",
       "rating": 5,
       "createdAt": "10/06/2024",
@@ -10630,12 +10641,12 @@
       "name": "Sushi-Go",
       "rating": 2,
       "createdAt": "27/04/2026",
-      "address1": "4  Charing Cross",
-      "address2": null,
+      "address1": "Takeaway",
+      "address2": "10  Mulcaster Street",
       "address3": "St. Helier",
-      "postCode": "JE2 3RP",
-      "latitude": 49.185027,
-      "longitude": -2.108923
+      "postCode": "JE2 3NJ",
+      "latitude": 49.183115,
+      "longitude": -2.106983
     },
     {
       "name": "Meals on Wheels Society (Jersey)",
