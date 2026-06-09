@@ -331,9 +331,31 @@
       "longitude": -2.10163
     },
     {
+      "name": "The Blind Pig",
+      "rating": 5,
+      "createdAt": "14/05/2026",
+      "address1": "Unit 10 Liberty Wharf",
+      "address2": "La Route de la Libération",
+      "address3": "St. Helier",
+      "postCode": "JE2 3NY",
+      "latitude": 49.183607,
+      "longitude": -2.112168
+    },
+    {
       "name": "Classic Origin Bar (Classic Catering)",
       "rating": 5,
       "createdAt": "02/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "TL Afrobites",
+      "rating": 3,
+      "createdAt": "18/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
