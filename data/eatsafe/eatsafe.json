@@ -7866,7 +7866,7 @@
       "longitude": null
     },
     {
-      "name": "The Rozel Bar & Dining",
+      "name": "The Rozel Pub & Dining",
       "rating": 0,
       "createdAt": "04/11/2025",
       "address1": "The Rozel Bar and Restaurant",
@@ -9879,6 +9879,17 @@
       "longitude": -2.103057
     },
     {
+      "name": "The Party Crew",
+      "rating": 5,
+      "createdAt": "19/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "St. Clement's School (Flourish)",
       "rating": 5,
       "createdAt": "20/05/2025",
@@ -9910,6 +9921,17 @@
       "postCode": "JE2 3QP",
       "latitude": 49.18671,
       "longitude": -2.1102
+    },
+    {
+      "name": "Morrisons Daily (Val Plaisant)",
+      "rating": 3,
+      "createdAt": "19/05/2026",
+      "address1": "Morrisons Daily",
+      "address2": "38-39  Val Plaisant",
+      "address3": "St. Helier",
+      "postCode": "JE2 4TA",
+      "latitude": 49.19148,
+      "longitude": -2.102755
     },
     {
       "name": "Morrisons Daily (Kensington Place)",
