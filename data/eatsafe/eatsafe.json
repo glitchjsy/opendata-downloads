@@ -7218,8 +7218,8 @@
     },
     {
       "name": "The Slipway at Greve de Lecq Pier",
-      "rating": 4,
-      "createdAt": "22/08/2023",
+      "rating": 5,
+      "createdAt": "21/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -7385,12 +7385,12 @@
       "name": "Enoteca",
       "rating": 5,
       "createdAt": "20/07/2025",
-      "address1": "Charing Cross",
-      "address2": "St. Brelade",
+      "address1": "Enoteca, Surrey House",
+      "address2": "Charing Cross",
       "address3": "St. Brelade",
       "postCode": "JE3 8AA",
-      "latitude": 49.187571,
-      "longitude": -2.17088
+      "latitude": 49.193024,
+      "longitude": -2.199614
     },
     {
       "name": "Roccos Activity Centre",
@@ -9591,6 +9591,17 @@
       "postCode": "JE2 3PA",
       "latitude": 49.185665,
       "longitude": -2.110228
+    },
+    {
+      "name": "Italian American Social Club",
+      "rating": 5,
+      "createdAt": "30/04/2024",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Pembroke Hotel",
