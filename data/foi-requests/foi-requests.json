@@ -1,11 +1,88 @@
 {
   "pagination": {
-    "totalItems": 9217,
+    "totalItems": 9228,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-03",
+      "producer": "the Freedom of Information office",
+      "id": 9454,
+      "title": "Multiple births over last 20 years"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-02",
+      "producer": "the Freedom of Information office",
+      "id": 9450,
+      "title": "2021 - 2023 Hospital Acquired Pneumonia cases"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-02",
+      "producer": "the Freedom of Information office",
+      "id": 9447,
+      "title": "People redirected from A&E triage in 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-02",
+      "producer": "the Freedom of Information office",
+      "id": 9446,
+      "title": "Test directory or catalogue used by the Blood Sciences department"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-01",
+      "producer": "the Freedom of Information office",
+      "id": 9444,
+      "title": "Children's Social Care SARs"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-01",
+      "producer": "the Freedom of Information office",
+      "id": 9443,
+      "title": "Tranquilisation medications for Dementia patients "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-28",
+      "producer": "the Fostering and adoption",
+      "id": 9439,
+      "title": "Patients diagnosed with Functional Neurological Disorder (FND) "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-28",
+      "producer": "the Freedom of Information office",
+      "id": 9438,
+      "title": "Agency or temporary to permanent conversion data for HCJ"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-20",
+      "producer": "the Freedom of Information office",
+      "id": 9424,
+      "title": "External clinical team costs "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-15",
+      "producer": "the Freedom of Information office",
+      "id": 9416,
+      "title": "New referrals to the neurology (i.e. neurology and neuroscience) department at Jersey General Hospital"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-14",
+      "producer": "the Freedom of Information office",
+      "id": 9414,
+      "title": "Maternity services statistics"
+    },
     {
       "author": "Children, Young People, Education and Skills",
       "publishDate": "2026-05-08",

@@ -1288,17 +1288,6 @@
       "longitude": -2.18372
     },
     {
-      "name": "Stanley's Cafe & Holme Grown",
-      "rating": 5,
-      "createdAt": "17/02/2025",
-      "address1": "Fauvic Nurseries (Holme Grown)",
-      "address2": "La Rue Au Long",
-      "address3": "Grouville",
-      "postCode": "JE3 9SH",
-      "latitude": 49.176711,
-      "longitude": -2.036546
-    },
-    {
       "name": "Busy Bees Nursery, Castle Quay",
       "rating": 5,
       "createdAt": "24/04/2024",
@@ -3376,17 +3365,6 @@
       "postCode": "JE2 6PX",
       "latitude": 49.173637,
       "longitude": -2.056212
-    },
-    {
-      "name": "The Halkett",
-      "rating": 5,
-      "createdAt": "16/07/2025",
-      "address1": "53 Halkett Place",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WG",
-      "latitude": 49.185665,
-      "longitude": -2.110228
     },
     {
       "name": "Cooper & Co",
