@@ -305,8 +305,8 @@
       "address2": "Le Mont de la Greve de Lecq",
       "address3": "St. Ouen",
       "postCode": "JE3 2DT",
-      "latitude": 49.242504,
-      "longitude": -2.203671
+      "latitude": 39.756511,
+      "longitude": -74.109494
     },
     {
       "name": "Pablo's Jersey Ltd",
@@ -1108,8 +1108,8 @@
       "address2": "La Route de la Cote",
       "address3": "St. Martin",
       "postCode": null,
-      "latitude": 49.217728,
-      "longitude": -2.051631
+      "latitude": 49.206907,
+      "longitude": -2.022287
     },
     {
       "name": "Barkers Newsagents",
@@ -1515,8 +1515,8 @@
       "address2": "Highlands Lane",
       "address3": "St. Saviour",
       "postCode": "JE1 1HL",
-      "latitude": 49.194897,
-      "longitude": -2.090318
+      "latitude": 49.191614,
+      "longitude": -2.094016
     },
     {
       "name": "Samphire",
@@ -9527,17 +9527,6 @@
       "longitude": null
     },
     {
-      "name": "Cook Stars Jersey",
-      "rating": 5,
-      "createdAt": "11/03/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Saffron Restaurant",
       "rating": 4,
       "createdAt": "15/01/2024",
@@ -9932,6 +9921,17 @@
       "postCode": "JE1 1HS",
       "latitude": 49.188007,
       "longitude": -2.113717
+    },
+    {
+      "name": "Morrisons Daily (Longueville)",
+      "rating": 4,
+      "createdAt": "26/05/2026",
+      "address1": "Miladi Parade",
+      "address2": "Longueville Road",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7QW",
+      "latitude": 49.183385,
+      "longitude": -2.078407
     },
     {
       "name": "Chopsticks",
@@ -10350,6 +10350,17 @@
       "postCode": "JE2 7PH",
       "latitude": 49.178826,
       "longitude": -2.093266
+    },
+    {
+      "name": "Tamba Bowl",
+      "rating": 3,
+      "createdAt": "27/05/2026",
+      "address1": "Jersey Bowl",
+      "address2": "L'Avenue de la Reine Elizabeth II",
+      "address3": "St. Peter",
+      "postCode": "JE3 7BP",
+      "latitude": 49.206594,
+      "longitude": -2.187314
     },
     {
       "name": "Guachinche",
@@ -11054,6 +11065,17 @@
       "postCode": null,
       "latitude": 49.186079,
       "longitude": -2.112199
+    },
+    {
+      "name": "Strikes",
+      "rating": 5,
+      "createdAt": "27/05/2026",
+      "address1": "Jersey Bowl Car Park",
+      "address2": "L'Avenue de la Reine Elizabeth II",
+      "address3": "St. Peter",
+      "postCode": "JE3 7BP",
+      "latitude": 49.206594,
+      "longitude": -2.187314
     }
   ]
 }
