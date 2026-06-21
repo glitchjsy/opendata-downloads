@@ -7822,6 +7822,17 @@
       "longitude": null
     },
     {
+      "name": "Victoria In The Valley",
+      "rating": 3,
+      "createdAt": "28/05/2026",
+      "address1": "The Victoria in the Valley",
+      "address2": "La Vallée de St. Pierre",
+      "address3": "St. Peter",
+      "postCode": "JE3 7EG",
+      "latitude": 49.21283,
+      "longitude": -2.18372
+    },
+    {
       "name": "Dunell's La Cave (St Helier)",
       "rating": 5,
       "createdAt": "14/01/2026",
