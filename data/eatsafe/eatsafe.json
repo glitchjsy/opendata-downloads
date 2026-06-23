@@ -2912,8 +2912,8 @@
       "address2": "Jardins de la Mer",
       "address3": "St. Helier",
       "postCode": "JE2 4ZT",
-      "latitude": 49.170298,
-      "longitude": -2.030415
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Tilleys",
@@ -7768,8 +7768,8 @@
     },
     {
       "name": "Atlantico",
-      "rating": 2,
-      "createdAt": "17/12/2024",
+      "rating": 3,
+      "createdAt": "01/06/2026",
       "address1": "The Bath House",
       "address2": "63  Bath Street",
       "address3": "St. Helier",
@@ -8181,8 +8181,8 @@
       "address2": "49  Hill Street",
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.183584,
-      "longitude": -2.104436
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Bellagio Bar",
@@ -10658,6 +10658,17 @@
       "postCode": "JE2 3RA",
       "latitude": 49.18686,
       "longitude": -2.10579
+    },
+    {
+      "name": "Holland & Barrett",
+      "rating": 5,
+      "createdAt": "28/05/2026",
+      "address1": null,
+      "address2": "44  King Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WE",
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Breakfast Titans, First Tower School",
