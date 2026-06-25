@@ -562,6 +562,17 @@
       "longitude": -2.101813
     },
     {
+      "name": "St Luke's Primary School",
+      "rating": 5,
+      "createdAt": "03/06/2026",
+      "address1": "St. Lukes Primary School",
+      "address2": "Elizabeth Street",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7PG",
+      "latitude": 49.17926,
+      "longitude": -2.094901
+    },
+    {
       "name": "Cocorico (Food Trailer)",
       "rating": 4,
       "createdAt": "04/05/2024",
@@ -7679,6 +7690,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "La Cote Distillery",
+      "rating": 5,
+      "createdAt": "28/05/2026",
+      "address1": "11 La Motte Street",
+      "address2": "St. Helier",
+      "address3": "St. Helier",
+      "postCode": "JE2 4SY",
+      "latitude": 49.18367,
+      "longitude": -2.10243
+    },
+    {
       "name": "Bets & Buds",
       "rating": 5,
       "createdAt": "20/06/2025",
@@ -10416,17 +10438,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Scheherzade",
-      "rating": 3,
-      "createdAt": "03/01/2025",
-      "address1": "40  Kensington Place",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 3PA",
-      "latitude": 49.18771,
-      "longitude": -2.1144
     },
     {
       "name": "Veranda",
