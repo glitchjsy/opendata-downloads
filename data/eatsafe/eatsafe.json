@@ -1541,7 +1541,7 @@
       "longitude": -2.110228
     },
     {
-      "name": "LV Pharmacy",
+      "name": "LV Pharmacy Limited",
       "rating": 5,
       "createdAt": "14/07/2023",
       "address1": "24 Beresford Street",
@@ -10053,6 +10053,17 @@
       "postCode": "JE2 4NA",
       "latitude": 49.201405,
       "longitude": -2.09225
+    },
+    {
+      "name": "Cart and Soul",
+      "rating": 5,
+      "createdAt": "04/06/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "The Pizza Box Events",
