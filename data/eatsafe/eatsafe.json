@@ -2676,7 +2676,7 @@
     {
       "name": "Fin and Feather",
       "rating": 5,
-      "createdAt": "03/02/2023",
+      "createdAt": "16/04/2026",
       "address1": "23-26 Beresford Market",
       "address2": "Beresford Street",
       "address3": "St. Helier",
@@ -4793,8 +4793,8 @@
       "address2": "St. Brelade",
       "address3": "St. Brelade",
       "postCode": "JE3 8EQ",
-      "latitude": 49.188941,
-      "longitude": -2.198858
+      "latitude": 49.193024,
+      "longitude": -2.199614
     },
     {
       "name": "Alvin's Hot Stuff Pizza",
@@ -5260,8 +5260,8 @@
     },
     {
       "name": "Not Posh (Mobile Unit)",
-      "rating": 4,
-      "createdAt": "29/04/2022",
+      "rating": 5,
+      "createdAt": "05/06/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -5497,8 +5497,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": null,
-      "latitude": 49.182176,
-      "longitude": -2.10101
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "The Smokey Shed",
@@ -6421,8 +6421,8 @@
       "address2": "45 Hill Street",
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.183584,
-      "longitude": -2.104436
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "The Dolphin Hotel",
@@ -7675,8 +7675,8 @@
       "address2": "St. Peter",
       "address3": "St. Peter",
       "postCode": "JE3 7AA",
-      "latitude": 48.018562,
-      "longitude": 8.035901
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "TRU @ No. 8",
@@ -8060,8 +8060,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4QA",
-      "latitude": 49.18126,
-      "longitude": -2.09828
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Plat Douet School (Golden Cockerels)",
@@ -9248,8 +9248,8 @@
       "address2": "St. Peter",
       "address3": "St. Peter",
       "postCode": "JE3 7AY",
-      "latitude": 48.018562,
-      "longitude": 8.035901
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Hugo's",
@@ -9974,8 +9974,8 @@
       "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.183584,
-      "longitude": -2.104436
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Costa Coffee",
@@ -10282,8 +10282,8 @@
       "address2": "Unit 1A Barette Commercial Centre",
       "address3": "St. John",
       "postCode": "JE3 4DS",
-      "latitude": 49.246555,
-      "longitude": -2.134973
+      "latitude": 39.278206,
+      "longitude": -75.04356
     },
     {
       "name": "Little Bolo by D",
@@ -10788,8 +10788,8 @@
       "address2": "Bagatelle Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7TP",
-      "latitude": 49.196771,
-      "longitude": -2.082619
+      "latitude": 49.1946,
+      "longitude": -2.08574
     },
     {
       "name": "Express Auto Parts (Express Bites)",
