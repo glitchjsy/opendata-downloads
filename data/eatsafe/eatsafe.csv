@@ -55,6 +55,7 @@ Cocorico (Food Trailer),4,04/05/2024,,,,,,
 Morrisons Daily (Gloucester Street),3,08/04/2025,"Unit 3, Spectrum",Queens Road,St. Helier,JE2 3DG,49.19558,-2.110614
 Jersey Theatre Schools,4,28/10/2025,Caldwell Hall,La Grande Route de St. Clément,St. Clement,JE2 6QQ,49.173637,-2.056212
 "Mange Tout, International Finance Centre 5",3,01/08/2023,IFC 5,IFC Jersey,St. Helier,JE2 3BY,49.185665,-2.110228
+Dunn-Ross Fisheries,5,16/04/2026,11-12 Beresford Market,Beresford Street,St. Helier,JE2 4WN,49.185665,-2.110228
 Hotel De France,5,15/04/2025,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.097242
 Old Court House Inn,4,30/01/2024,Le Boulevard,,St. Brelade,JE3 8AB,49.186263,-2.169611
 Peterborough House,5,05/01/2026,La Rue du Crocquet,St Aubin,St. Brelade,JE3 8BZ,49.189334,-2.169974
@@ -153,7 +154,7 @@ Prince of Wales,4,20/02/2023,8 Hilgrove Street,St. Helier,St. Helier,JE2 4SL,49.
 The Dog & Sausage,5,03/07/2024,9 Halkett Street,St. Helier,St. Helier,JE2 4SL,49.18445,-2.10358
 Alliance (Halkett Street),5,15/01/2024,12 Halkett Street,St. Helier,St. Helier,JE2 4WJ,49.18453,-2.10355
 Jersey Delight Ices,5,06/02/2026,,,,,,
-Chateau La Chaire Hotel,2,02/10/2025,Chateau La Chaire Hotel,La Vallée de Rozel,St. Martin,JE3 6AJ,49.217728,-2.051631
+Chateau La Chaire Hotel,4,08/06/2026,Chateau La Chaire Hotel,La Vallée de Rozel,St. Martin,JE3 6AJ,49.217728,-2.051631
 Grouville Football Club,5,01/06/2023,La Rue du Boulivot,Grouville,Grouville,JE3 9UY,49.18404,-2.051683
 St. Aubins Sports Bar,5,02/05/2025,St. Aubins Wine Bar,La Rue du Crocquet,St. Brelade,JE3 8BZ,49.189334,-2.169974
 The Panorama,5,13/05/2022,Panorama Hotel,La Rue du Crocquet,St. Brelade,JE3 8BZ,49.189334,-2.169974
@@ -354,7 +355,7 @@ Cleveland Stores,5,30/05/2022,2-3 Dicq Corner,St Clements Road,St. Saviour,JE2 4
 Cafe @ the Centre,5,10/07/2024,St Helier Methodist Church,Halkett Place,St. Helier,JE2 4WH,49.18573,-2.104436
 Eastern Delights,5,27/09/2023,4 Minden Place,St. Helier,St. Helier,JE2 4WQ,49.185665,-2.110228
 Radisson Blu Waterfront Hotel,5,17/03/2025,Waterfront,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
-Pizzeria Famosa Limited,3,17/07/2024,39-41 La Colomberie,St. Helier,St. Helier,JE2 4QB,49.182203,-2.101044
+Pizzeria Famosa Limited,3,17/07/2024,41  La Colomberie,,St. Helier,JE2 4QB,49.182377,-2.101256
 Cafe Jac,4,15/03/2024,Cafe,Jersey Arts Centre,St. Helier,JE2 4SW,49.185665,-2.110228
 Jersey Squash and Racketball Club,3,21/12/2023,St. Clement's Sports Hub,Plat Douet Road,St. Clement,JE2 6PN,49.178519,-2.087669
 RJA & HS,5,27/10/2022,Agriculture Department,La Route de la Trinité,Trinity,JE3 5JP,49.234493,-2.092927
@@ -563,7 +564,6 @@ Market Kitchen,4,30/07/2024,63-65 Halkett Place,St. Helier,St. Helier,JE2 4WL,49
 The Lookout,5,06/02/2025,First Tower Kiosk,Victoria Avenue,St. Helier,JE2 3LU,49.194921,-2.131153
 The Square,5,22/01/2024,14-16 Weighbridge,St. Helier,St. Helier,JE2 3NF,49.185665,-2.110228
 St. Peter's Youth Club,3,22/09/2023,St. Peters Youth & Community Centre,Rue des Fosses,St. Peter,JE3 7AH,49.211777,-2.182927
-Blanc Pignon (Events),4,12/05/2025,,,,,,
 Kismet Cabana (Events),5,10/04/2024,,,,,,
 Saturday Lunches,3,28/02/2023,St. Mary Youth & Community Centre,La Rue du Pont,St. Mary,JE3 3AS,49.236404,-2.171625
 La Piscine,5,12/04/2023,Les Quennevais Sports Centre,Don Farm,St. Brelade,JE3 8LZ,49.195341,-2.20037
@@ -780,7 +780,6 @@ Bond Street Deli,3,19/06/2024,1 Bond Street,St. Helier,St. Helier,JE2 3NP,49.183
 Bean around the World,5,29/04/2025,73 Halkett Place,St. Helier,St. Helier,JE2 4WH,49.185665,-2.110228
 Lifeboat Cafe,5,06/03/2025,Albert Pier,St. Helier,St. Helier,JE2 3NE,49.185665,-2.110228
 Cambridge Bar,4,17/04/2025,25 Burrard Street,St. Helier,St. Helier,JE2 4WS,49.18609,-2.10534
-Barros Tropical Bistro,3,21/03/2023,Barros Tropical Bistro,37  David Place,St. Helier,JE2 4TE,49.189235,-2.1031
 Jersey Mechanics Institute,5,19/07/2025,Jersey Mechanics Institute,81 Halkett Place,St. Helier,JE2 4WH,49.18629,-2.10428
 Quayside Cafe,3,29/05/2024,Albert Pier,St. Helier,St. Helier,JE2 3NE,49.185665,-2.110228
 Pizza Express,5,06/06/2022,Pizza Express,59-61 Halkett Place,St. Helier,JE2 4WG,49.18573,-2.104436

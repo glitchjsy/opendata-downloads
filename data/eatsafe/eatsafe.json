@@ -617,6 +617,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "Dunn-Ross Fisheries",
+      "rating": 5,
+      "createdAt": "16/04/2026",
+      "address1": "11-12 Beresford Market",
+      "address2": "Beresford Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WN",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "Hotel De France",
       "rating": 5,
       "createdAt": "15/04/2025",
@@ -1696,8 +1707,8 @@
     },
     {
       "name": "Chateau La Chaire Hotel",
-      "rating": 2,
-      "createdAt": "02/10/2025",
+      "rating": 4,
+      "createdAt": "08/06/2026",
       "address1": "Chateau La Chaire Hotel",
       "address2": "La Vallée de Rozel",
       "address3": "St. Martin",
@@ -3909,12 +3920,12 @@
       "name": "Pizzeria Famosa Limited",
       "rating": 3,
       "createdAt": "17/07/2024",
-      "address1": "39-41 La Colomberie",
-      "address2": "St. Helier",
+      "address1": "41  La Colomberie",
+      "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 4QB",
-      "latitude": 49.182203,
-      "longitude": -2.101044
+      "latitude": 49.182377,
+      "longitude": -2.101256
     },
     {
       "name": "Cafe Jac",
@@ -6203,17 +6214,6 @@
       "postCode": "JE3 7AH",
       "latitude": 49.211777,
       "longitude": -2.182927
-    },
-    {
-      "name": "Blanc Pignon (Events)",
-      "rating": 4,
-      "createdAt": "12/05/2025",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Kismet Cabana (Events)",
@@ -8590,17 +8590,6 @@
       "postCode": "JE2 4WS",
       "latitude": 49.18609,
       "longitude": -2.10534
-    },
-    {
-      "name": "Barros Tropical Bistro",
-      "rating": 3,
-      "createdAt": "21/03/2023",
-      "address1": "Barros Tropical Bistro",
-      "address2": "37  David Place",
-      "address3": "St. Helier",
-      "postCode": "JE2 4TE",
-      "latitude": 49.189235,
-      "longitude": -2.1031
     },
     {
       "name": "Jersey Mechanics Institute",
