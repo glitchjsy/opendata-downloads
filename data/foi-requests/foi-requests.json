@@ -1,11 +1,74 @@
 {
   "pagination": {
-    "totalItems": 9228,
+    "totalItems": 9237,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-06-18",
+      "producer": "the Freedom of Information office",
+      "id": 9485,
+      "title": "Severance payments made to retiring States Members"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-25",
+      "producer": "the Health and Care Jersey",
+      "id": 9484,
+      "title": "Radiology activity data and outsourcing"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-25",
+      "producer": "the Health and Care Jersey",
+      "id": 9483,
+      "title": "Adult ADHD Prescribing"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-18",
+      "producer": "the Health and Care Jersey",
+      "id": 9482,
+      "title": "Specialist Paramedic programme "
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-06-22",
+      "producer": "the Health and Care Jersey",
+      "id": 9479,
+      "title": "Clinical responsibility for inpatients June 2024"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-06-16",
+      "producer": "the Freedom of Information office",
+      "id": 9477,
+      "title": "Election costs for States Greffe"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-06-05",
+      "producer": "the Freedom of Information office",
+      "id": 9459,
+      "title": "Civil servant's jobs"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-06-04",
+      "producer": "the Freedom of Information office",
+      "id": 9458,
+      "title": "Coronation Park Millbrook recent Tree & Hedge Felling"
+    },
+    {
+      "author": "Cabinet Office",
+      "publishDate": "2026-06-03",
+      "producer": "the Freedom of Information office",
+      "id": 9455,
+      "title": "Revised plan to convert South Hill into a Cycle Park "
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-06-03",
