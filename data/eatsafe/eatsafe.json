@@ -464,8 +464,8 @@
     },
     {
       "name": "Bar Basso & Catch Fish & Chips",
-      "rating": 2,
-      "createdAt": "02/12/2025",
+      "rating": 3,
+      "createdAt": "10/06/2026",
       "address1": "Unit 13b Liberty Wharf",
       "address2": "La Route de la Libération",
       "address3": "St. Helier",
@@ -6769,12 +6769,12 @@
       "name": "Pound Magic",
       "rating": 4,
       "createdAt": "21/06/2023",
-      "address1": "17 Les Quennevais Parade",
-      "address2": "La Route des Quennevais",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8FX",
-      "latitude": 49.18311,
-      "longitude": -2.17618
+      "address1": "Pound Magic",
+      "address2": "11  Beresford Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WN",
+      "latitude": 49.18528,
+      "longitude": -2.10362
     },
     {
       "name": "Marks & Spencer - St Clement",
@@ -10022,6 +10022,17 @@
       "longitude": -2.09225
     },
     {
+      "name": "Morrisons Daily, Haute Croix",
+      "rating": 5,
+      "createdAt": "09/06/2026",
+      "address1": "La Grande Route De St. Jean",
+      "address2": null,
+      "address3": "Trinity",
+      "postCode": "JE3 5DX",
+      "latitude": 49.239622,
+      "longitude": -2.111377
+    },
+    {
       "name": "Quayside Bistro & Grill and Vittoria",
       "rating": 3,
       "createdAt": "05/03/2025",
@@ -10223,12 +10234,12 @@
       "name": "Cafe Barcelona",
       "rating": 3,
       "createdAt": "21/01/2026",
-      "address1": "19  Commercial Buildings",
+      "address1": "24  Commercial Buildings",
       "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 3NB",
-      "latitude": 49.18052,
-      "longitude": -2.1089
+      "latitude": 49.18101,
+      "longitude": -2.1086
     },
     {
       "name": "Dino, The Old England",
