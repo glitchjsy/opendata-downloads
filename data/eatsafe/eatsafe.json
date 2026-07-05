@@ -727,6 +727,17 @@
       "longitude": -2.168792
     },
     {
+      "name": "Morrisons Daily (Queen's Road)",
+      "rating": 3,
+      "createdAt": "12/06/2026",
+      "address1": "Queens Road Food Hall",
+      "address2": "Queens Road",
+      "address3": "St. Helier",
+      "postCode": "JE2 3GR",
+      "latitude": 49.19558,
+      "longitude": -2.110614
+    },
+    {
       "name": "Morrisons Daily at Benests (Millbrook)",
       "rating": 3,
       "createdAt": "06/05/2025",
