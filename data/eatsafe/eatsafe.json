@@ -387,8 +387,8 @@
     },
     {
       "name": "Downdog",
-      "rating": 2,
-      "createdAt": "12/05/2025",
+      "rating": 3,
+      "createdAt": "15/06/2026",
       "address1": "Cyril Le Marquand Court",
       "address2": null,
       "address3": "St. Helier",
@@ -3984,8 +3984,8 @@
     },
     {
       "name": "The Brasserie by Tiffin",
-      "rating": 3,
-      "createdAt": "04/03/2025",
+      "rating": 4,
+      "createdAt": "17/06/2026",
       "address1": "46-52 King Street",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -6723,8 +6723,8 @@
     },
     {
       "name": "Jersey College for Girls",
-      "rating": 3,
-      "createdAt": "23/09/2024",
+      "rating": 5,
+      "createdAt": "17/06/2026",
       "address1": "Jersey College For Girls Secondary School",
       "address2": "Le Mont Millais",
       "address3": "St. Saviour",
@@ -10700,6 +10700,17 @@
       "address2": "44  King Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WE",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Lulu's ice cream",
+      "rating": 5,
+      "createdAt": "15/06/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
       "latitude": null,
       "longitude": null
     },
