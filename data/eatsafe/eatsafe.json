@@ -221,17 +221,6 @@
       "longitude": null
     },
     {
-      "name": "Pretty Punchy",
-      "rating": 3,
-      "createdAt": "25/09/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Morrisons Daily and Wine Warehouse (Snow Hill)",
       "rating": 3,
       "createdAt": "05/01/2026",
@@ -615,6 +604,17 @@
       "postCode": "JE2 3BY",
       "latitude": 49.185665,
       "longitude": -2.110228
+    },
+    {
+      "name": "Gama Aviation Jersey",
+      "rating": 4,
+      "createdAt": "03/06/2026",
+      "address1": "Private Airport Lounge",
+      "address2": "Beauport House",
+      "address3": "St. Peter",
+      "postCode": "JE3 7BY",
+      "latitude": 49.21283,
+      "longitude": -2.18372
     },
     {
       "name": "Dunn-Ross Fisheries",
@@ -2951,7 +2951,7 @@
     {
       "name": "Tilleys",
       "rating": 4,
-      "createdAt": "22/08/2022",
+      "createdAt": "04/06/2026",
       "address1": "Beuvelande Camp Site",
       "address2": "La Rue de Beuvelande",
       "address3": "St. Martin",
@@ -5490,17 +5490,6 @@
       "longitude": -2.10305
     },
     {
-      "name": "The Up and Down Cafe",
-      "rating": 3,
-      "createdAt": "02/07/2024",
-      "address1": "22 Queen Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WD",
-      "latitude": 49.183926,
-      "longitude": -2.103715
-    },
-    {
       "name": "Millennium Kiosk",
       "rating": 4,
       "createdAt": "17/05/2024",
@@ -7385,7 +7374,7 @@
       "name": "Enoteca",
       "rating": 5,
       "createdAt": "20/07/2025",
-      "address1": "Enoteca, Surrey House",
+      "address1": "Surrey House",
       "address2": "Charing Cross",
       "address3": "St. Brelade",
       "postCode": "JE3 8AA",
@@ -10474,8 +10463,8 @@
     },
     {
       "name": "Bar Levant",
-      "rating": 2,
-      "createdAt": "11/02/2025",
+      "rating": 3,
+      "createdAt": "18/06/2026",
       "address1": "Cafe Colmar",
       "address2": "Broad Street",
       "address3": "St. Helier",
@@ -11087,6 +11076,17 @@
       "postCode": "JE3 8HG",
       "latitude": 49.19282,
       "longitude": -2.226311
+    },
+    {
+      "name": "Ganache Jersey Limited",
+      "rating": 5,
+      "createdAt": "12/06/2026",
+      "address1": "Shop",
+      "address2": "3  Dumaresq Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 3RL",
+      "latitude": 49.18552,
+      "longitude": -2.10905
     },
     {
       "name": "TGJones",
