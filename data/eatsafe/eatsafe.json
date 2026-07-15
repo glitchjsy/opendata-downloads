@@ -243,17 +243,6 @@
       "longitude": -2.090318
     },
     {
-      "name": "Nicoleta's Home Cakes",
-      "rating": 5,
-      "createdAt": "26/03/2024",
-      "address1": "35  Burrard Street",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 4WS",
-      "latitude": 49.18613,
-      "longitude": -2.10596
-    },
-    {
       "name": "Spice View",
       "rating": 4,
       "createdAt": "14/02/2025",
@@ -7878,14 +7867,14 @@
     },
     {
       "name": "The Rozel Pub & Dining",
-      "rating": 0,
-      "createdAt": "04/11/2025",
+      "rating": 4,
+      "createdAt": "08/06/2026",
       "address1": "The Rozel Bar and Restaurant",
       "address2": "La Vallée de Rozel",
-      "address3": null,
+      "address3": "St. Martin",
       "postCode": "JE3 6AJ",
-      "latitude": 49.103395,
-      "longitude": 7.504213
+      "latitude": 49.217728,
+      "longitude": -2.051631
     },
     {
       "name": "Cafe @ The War Tunnels",
@@ -10878,6 +10867,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Arroz",
+      "rating": 3,
+      "createdAt": "16/09/2025",
+      "address1": "41  The Parade",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3QQ",
+      "latitude": 49.186708,
+      "longitude": -2.109732
     },
     {
       "name": "La Cantina",
