@@ -7888,6 +7888,17 @@
       "longitude": -2.141689
     },
     {
+      "name": "Alliance Iceland - St Ouen",
+      "rating": 4,
+      "createdAt": "25/06/2026",
+      "address1": "La Grande Route de St. Ouen",
+      "address2": null,
+      "address3": null,
+      "postCode": "JE3 2HY",
+      "latitude": 49.232253,
+      "longitude": -2.202159
+    },
+    {
       "name": "Christopher's",
       "rating": 3,
       "createdAt": "18/03/2026",
@@ -10143,6 +10154,17 @@
       "longitude": -2.113789
     },
     {
+      "name": "Your Local Green Street",
+      "rating": 4,
+      "createdAt": "24/06/2026",
+      "address1": null,
+      "address2": "Shop 2-3,  Clos des Pas",
+      "address3": "St. Helier",
+      "postCode": "JE2 4PW",
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Puffins After School Club (Jersey Babysitting)",
       "rating": 5,
       "createdAt": "24/04/2026",
@@ -11076,17 +11098,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "The Dunes",
-      "rating": 3,
-      "createdAt": "22/04/2026",
-      "address1": "Restaurant",
-      "address2": "La Route de la Pulente",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8HG",
-      "latitude": 49.19282,
-      "longitude": -2.226311
     },
     {
       "name": "Ganache Jersey Limited",
