@@ -243,17 +243,6 @@
       "longitude": -2.090318
     },
     {
-      "name": "Spice View",
-      "rating": 4,
-      "createdAt": "14/02/2025",
-      "address1": "Spice View",
-      "address2": "La Route de la Côte",
-      "address3": "St. Martin",
-      "postCode": "JE3 6DR",
-      "latitude": 49.206907,
-      "longitude": -2.022287
-    },
-    {
       "name": "Rozel Tea Room & Love Cake, Samares Manor",
       "rating": 4,
       "createdAt": "02/04/2024",
@@ -4038,17 +4027,6 @@
       "longitude": -2.20083
     },
     {
-      "name": "Cafe Firefly @ Durrell",
-      "rating": 5,
-      "createdAt": "07/02/2025",
-      "address1": "Augres Manor",
-      "address2": "La Profonde Rue",
-      "address3": "Trinity",
-      "postCode": "JE3 5BP",
-      "latitude": 49.230414,
-      "longitude": -2.074973
-    },
-    {
       "name": "Army Camp Training Centre (TA)",
       "rating": 5,
       "createdAt": "04/11/2022",
@@ -4071,7 +4049,7 @@
       "longitude": -2.10039
     },
     {
-      "name": "Cafe Dodo @ Durrell",
+      "name": "Cafe Dodo and Firefly @ Durrell",
       "rating": 5,
       "createdAt": "07/02/2025",
       "address1": "Augres Manor",
@@ -4399,17 +4377,6 @@
       "postCode": "JE3 8AJ",
       "latitude": 49.179756,
       "longitude": -2.175266
-    },
-    {
-      "name": "Just Bee Healthy",
-      "rating": 3,
-      "createdAt": "08/02/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Rabbit Hole",
@@ -6371,8 +6338,8 @@
     },
     {
       "name": "Red House Coffee Bar and Pizzeria",
-      "rating": 3,
-      "createdAt": "22/07/2024",
+      "rating": 2,
+      "createdAt": "06/07/2026",
       "address1": "1 Wests Centre",
       "address2": "Bath Street",
       "address3": "St. Helier",
@@ -7842,6 +7809,17 @@
       "postCode": "JE3 7EG",
       "latitude": 49.21283,
       "longitude": -2.18372
+    },
+    {
+      "name": "Morrisons Daily (Grouville)",
+      "rating": 3,
+      "createdAt": "26/06/2026",
+      "address1": "La Rue à Don",
+      "address2": null,
+      "address3": null,
+      "postCode": "JE3 9HB",
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "Dunell's La Cave (St Helier)",
@@ -10011,6 +9989,17 @@
       "longitude": -2.147153
     },
     {
+      "name": "Morrisons Daily, Gorey Village",
+      "rating": 3,
+      "createdAt": "26/06/2026",
+      "address1": "Morrison Daily",
+      "address2": "Gorey Village Main Road",
+      "address3": "Grouville",
+      "postCode": "JE3 9EP",
+      "latitude": 49.18404,
+      "longitude": -2.051683
+    },
+    {
       "name": "Morrisons Daily, Colomberie",
       "rating": 5,
       "createdAt": "05/01/2026",
@@ -10465,6 +10454,17 @@
       "name": "Tea Tent",
       "rating": 5,
       "createdAt": "21/07/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Jerikusina",
+      "rating": 5,
+      "createdAt": "26/06/2026",
       "address1": null,
       "address2": null,
       "address3": null,

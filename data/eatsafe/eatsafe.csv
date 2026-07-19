@@ -21,7 +21,6 @@ Le Geyt Day Centre,4,15/04/2024,Le Geyt Centre,La Grande Route de St. Martin,St.
 1TREEFOODS,3,21/05/2025,,,,,,
 Morrisons Daily and Wine Warehouse (Snow Hill),3,05/01/2026,2 La Colomberie,Snow Hill,St. Helier,JE2 4QB,49.18349,-2.10298
 Kaffe Kitchen,5,05/07/2024,15  La Rue Sinnatt,Rue Des Pres Trading Estate,St. Saviour,JE2 7QT,49.194897,-2.090318
-Spice View,4,14/02/2025,Spice View,La Route de la Côte,St. Martin,JE3 6DR,49.206907,-2.022287
 "Rozel Tea Room & Love Cake, Samares Manor",4,02/04/2024,Samares Manor,La Grande Route de St. Clément,St. Clement,JE2 6QW,49.167526,-2.080117
 Sweet Humble Pies,4,07/11/2025,,,,,,
 Moulin de Lecq,4,22/05/2024,Le Moulin de Lecq,Le Mont de la Greve de Lecq,St. Ouen,JE3 2DT,39.756511,-74.109494
@@ -366,10 +365,9 @@ Cafe Spice,4,16/07/2024,Cafe Spice,53 Kensington Place,St. Helier,JE2 3PA,49.187
 D'Auvergne School,3,01/03/2023,D'Auvergne School,La Pouquelaye,St. Helier,JE2 3GF,49.195916,-2.108062
 Jessindy Cafe,4,18/07/2024,3 Peter Street,St. Helier,St. Helier,JE2 4SP,49.18512,-2.10221
 Crab Shack,5,10/04/2024,St Brelade's Bay,La Route de la Baie,St. Brelade,JE3 8EF,49.18529,-2.20083
-Cafe Firefly @ Durrell,5,07/02/2025,Augres Manor,La Profonde Rue,Trinity,JE3 5BP,49.230414,-2.074973
 Army Camp Training Centre (TA),5,04/11/2022,Army Careers Office,T A Centre,St. Helier,JE2 4XY,49.185665,-2.110228
 The Fresh Crust Pizza Company,3,30/07/2024,49 La Colomberie,St. Helier,St. Helier,JE2 4QA,49.18188,-2.10039
-Cafe Dodo @ Durrell,5,07/02/2025,Augres Manor,La Profonde Rue,Trinity,JE3 5BP,49.230414,-2.074973
+Cafe Dodo and Firefly @ Durrell,5,07/02/2025,Augres Manor,La Profonde Rue,Trinity,JE3 5BP,49.230414,-2.074973
 Little Oaks Nursery,5,08/05/2025,Highlands College,La Rue du Froid Vent,St. Saviour,JE4 8QJ,49.192936,-2.089218
 Co-Op Locale - Don Street,5,14/07/2023,57 Don Street,St. Helier,St. Helier,JE2 4TR,49.18651,-2.10502
 Cooper & Co,5,09/06/2025,Millais House,Castle Quay,St. Helier,JE2 3WF,49.185665,-2.110228
@@ -399,7 +397,6 @@ Supermarket Alliance (St. Ouen),4,19/05/2022,Tesco/Alliance,La Grande Route de S
 Sam's Restaurant and Coffee Shop,3,27/03/2025,1-6 Beresford Street,St. Helier,St. Helier,JE2 4WN,49.18536,-2.10439
 Co-Op Locale - Charing Cross,5,19/03/2024,27 Charing Cross,St. Helier,St. Helier,JE2 3RP,49.185665,-2.110228
 Woodbine Corner Stores,5,21/03/2024,Retail Shop,La Route de Noirmont,St. Brelade,JE3 8AJ,49.179756,-2.175266
-Just Bee Healthy,3,08/02/2024,,,,,,
 Rabbit Hole,5,11/07/2024,Albatross Ltd,Market Street,St. Helier,JE2 4WT,49.184763,-2.103724
 Stars Noodle Bar,4,09/10/2023,23-24 Central Market,Halkett Place,St. Helier,JE2 4WL,49.185665,-2.110228
 Brunch Cafe,3,13/03/2025,St. Johns Recreation Centre,La Route du Mont Mado,St. John,JE3 4DS,49.246555,-2.134973
@@ -578,7 +575,7 @@ Kyoto Prefecture,3,30/04/2024,2 Bank Place,Charing Cross,St. Brelade,,49.193024,
 Majestic Wine (St Helier),5,21/10/2025,The Powerhouse,Queens Road,St. Helier,JE2 3AP,49.19558,-2.110614
 Jade Garden Restaurant,5,06/06/2024,Jade Garden,4-6  Market Street,St. Helier,JE2 4WY,49.184763,-2.103724
 Cucina,3,13/11/2024,18  Charing Cross,,St. Helier,JE2 3RP,49.185238,-2.109729
-Red House Coffee Bar and Pizzeria,3,22/07/2024,1 Wests Centre,Bath Street,St. Helier,JE2 4ST,49.18387,-2.10312
+Red House Coffee Bar and Pizzeria,2,06/07/2026,1 Wests Centre,Bath Street,St. Helier,JE2 4ST,49.18387,-2.10312
 Soleil,4,04/08/2022,12 Bath Street,St. Helier,St. Helier,JE2 4ST,49.18464,-2.10267
 "Tuk Tuk, Cafe du Port",3,19/07/2024,Gorey Pier,St. Martin,St. Martin,JE3 6EW,49.217728,-2.051631
 Joshuas Sandwich Bar & Takeaway,4,23/08/2022,Joshuas Sandwich Bar & Takeaway,45 Hill Street,St. Helier,JE2 4UA,49.185665,-2.110228
@@ -712,6 +709,7 @@ La Lula Bakery,5,22/10/2025,,,,,,
 Fenn & Co. Limited,3,15/05/2025,Horizon East,La Rue De L'Etau,St. Helier,,49.181852,-2.113789
 KwaMother,4,06/05/2026,,,,,,
 Victoria In The Valley,3,28/05/2026,The Victoria in the Valley,La Vallée de St. Pierre,St. Peter,JE3 7EG,49.21283,-2.18372
+Morrisons Daily (Grouville),3,26/06/2026,La Rue à Don,,,JE3 9HB,49.195884,-2.031789
 Dunell's La Cave (St Helier),5,14/01/2026,Lower Ground Floor,37 Hill Street,St. Helier,JE2 4UA,49.183584,-2.104436
 1823 Cellar,5,21/06/2023,,Les Quennevais Parade,St. Brelade,JE3 8FX,,
 The Rozel Pub & Dining,4,08/06/2026,The Rozel Bar and Restaurant,La Vallée de Rozel,St. Martin,JE3 6AJ,49.217728,-2.051631
@@ -909,6 +907,7 @@ Chopsticks,5,15/04/2025,43  Hill Street,,St. Helier,JE2 4UA,49.185665,-2.110228
 Costa Coffee,5,19/02/2025,Costa Coffee,Victoria House,St. Brelade,JE3 8BS,49.193024,-2.199614
 Costa Coffee,5,29/05/2025,Costa Coffee,30  Queen Street,St. Helier,JE2 4WD,49.183853,-2.103465
 "Checkers Xpress, First Tower",3,07/02/2025,Checkers Express,La Route de St. Aubin,St. Helier,JE2 3SG,49.198121,-2.147153
+"Morrisons Daily, Gorey Village",3,26/06/2026,Morrison Daily,Gorey Village Main Road,Grouville,JE3 9EP,49.18404,-2.051683
 "Morrisons Daily, Colomberie",5,05/01/2026,Roseville Street,,St. Helier,JE2 4PL,49.179602,-2.101092
 "Morrisons Daily, Grands Vaux",3,30/04/2026,Grands Vaux Court,Les Grands Vaux,St. Saviour,JE2 7NA,49.201405,-2.09225
 "Morrisons Daily, Haute Croix",5,09/06/2026,La Grande Route De St. Jean,,Trinity,JE3 5DX,49.239622,-2.111377
@@ -951,6 +950,7 @@ Guachinche,3,22/01/2026,46  Bath Street,,St. Helier,JE2 4SU,49.18536,-2.10237
 Hector's Work Cafe,4,10/06/2024,Jersey College For Girls Secondary School,Le Mont Millais,St. Saviour,JE2 7YB,49.194897,-2.090318
 Frida Cowlo,4,01/04/2025,,,,,,
 Tea Tent,5,21/07/2025,,,,,,
+Jerikusina,5,26/06/2026,,,,,,
 Veranda,4,07/01/2025,Village Bistro,Gorey Village Main Road,Grouville,JE3 9EP,49.195959,-2.03384
 Bar Levant,3,18/06/2026,Cafe Colmar,Broad Street,St. Helier,JE2 3RR,49.1845,-2.108134
 Tasty Little Treats,3,02/04/2026,,,,,,
