@@ -177,7 +177,7 @@
       "longitude": -2.107887
     },
     {
-      "name": "Dough Jersey",
+      "name": "Dough Jersey Limited",
       "rating": 4,
       "createdAt": "07/08/2024",
       "address1": "90 Central Market",
@@ -2126,7 +2126,7 @@
     {
       "name": "Shuga Coffee",
       "rating": 3,
-      "createdAt": "22/07/2024",
+      "createdAt": "29/06/2026",
       "address1": "Shuga Coffee",
       "address2": "Eaton House Esplanade",
       "address3": "St. Helier",
@@ -4520,6 +4520,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Dough Rye Me",
+      "rating": 3,
+      "createdAt": "08/03/2023",
+      "address1": "5",
+      "address2": "Temple Court",
+      "address3": "St. John",
+      "postCode": "JE3 4BJ",
+      "latitude": 49.24642,
+      "longitude": -2.13834
     },
     {
       "name": "Ceri's Cakes",
