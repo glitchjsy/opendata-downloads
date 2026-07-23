@@ -298,6 +298,17 @@
       "longitude": -2.10163
     },
     {
+      "name": "The Hen House",
+      "rating": 5,
+      "createdAt": "01/07/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "The Blind Pig",
       "rating": 5,
       "createdAt": "14/05/2026",
@@ -450,6 +461,17 @@
       "postCode": "JE3 9HQ",
       "latitude": 49.202214,
       "longitude": -2.053117
+    },
+    {
+      "name": "Morrisons Daily (Castle Quay)",
+      "rating": 3,
+      "createdAt": "18/03/2026",
+      "address1": "La Rue De L'Etau",
+      "address2": null,
+      "address3": "St Helier",
+      "postCode": "JE2 3WF",
+      "latitude": 49.181852,
+      "longitude": -2.113789
     },
     {
       "name": "Cocorico",
@@ -650,6 +672,17 @@
       "longitude": -2.17088
     },
     {
+      "name": "Morrisons Daily (New Era - Georgetown)",
+      "rating": 5,
+      "createdAt": "29/10/2025",
+      "address1": "Victoria Road",
+      "address2": "New Era",
+      "address3": "St. Clement",
+      "postCode": "JE2 7QG",
+      "latitude": 43.559289,
+      "longitude": -86.345221
+    },
+    {
       "name": "Earl Granville",
       "rating": 4,
       "createdAt": "26/06/2025",
@@ -692,6 +725,17 @@
       "postCode": null,
       "latitude": 49.217728,
       "longitude": -2.051631
+    },
+    {
+      "name": "Morrisons Daily (Bath Street)",
+      "rating": 4,
+      "createdAt": "30/06/2026",
+      "address1": "48-60  Bath Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4SU",
+      "latitude": 49.185462,
+      "longitude": -2.102357
     },
     {
       "name": "Morrisons Daily (St Aubin)",
@@ -780,6 +824,17 @@
       "postCode": "JE2 3PD",
       "latitude": 49.185665,
       "longitude": -2.110228
+    },
+    {
+      "name": "Mange Tout (New Street)",
+      "rating": 5,
+      "createdAt": "03/06/2025",
+      "address1": "39 New Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3RA",
+      "latitude": 49.186138,
+      "longitude": -2.10609
     },
     {
       "name": "The Office",
@@ -1130,8 +1185,8 @@
       "address2": "12  Val Plaisant",
       "address3": "St. Helier",
       "postCode": "JE2 4TA",
-      "latitude": 49.191634,
-      "longitude": -2.102534
+      "latitude": 49.189781,
+      "longitude": -2.104591
     },
     {
       "name": "Superdrug",
@@ -3748,8 +3803,8 @@
       "address2": "St Clements Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7PX",
-      "latitude": 49.178839,
-      "longitude": -2.098256
+      "latitude": 49.181143,
+      "longitude": -2.098544
     },
     {
       "name": "Westmount Day Nursery",
@@ -5068,8 +5123,8 @@
       "address2": "South Pier",
       "address3": "St. Helier",
       "postCode": "JE2 3NB",
-      "latitude": 49.177864,
-      "longitude": -2.111973
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "FCJ Pre-School",
@@ -7855,6 +7910,17 @@
       "longitude": null
     },
     {
+      "name": "Roses Mini Market",
+      "rating": 3,
+      "createdAt": "01/07/2024",
+      "address1": "Roseville Street Mini Market",
+      "address2": "66 Roseville Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4PL",
+      "latitude": 49.178179,
+      "longitude": -2.100955
+    },
+    {
       "name": "The Rozel Pub & Dining",
       "rating": 4,
       "createdAt": "08/06/2026",
@@ -7908,6 +7974,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Shahrazad",
+      "rating": 4,
+      "createdAt": "07/07/2026",
+      "address1": "Scheherzade",
+      "address2": "40  Kensington Place",
+      "address3": "St. Helier",
+      "postCode": "JE2 3PA",
+      "latitude": 49.18771,
+      "longitude": -2.1144
     },
     {
       "name": "Jakes BBQ",
@@ -9151,6 +9228,17 @@
       "postCode": "JE3 8AF",
       "latitude": 49.193024,
       "longitude": -2.199614
+    },
+    {
+      "name": "De la Salle College Canteen",
+      "rating": 5,
+      "createdAt": "11/11/2022",
+      "address1": "De la Salle College",
+      "address2": "Wellington Road",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7TH",
+      "latitude": 49.191135,
+      "longitude": -2.089939
     },
     {
       "name": "Pizza Express",
@@ -10548,6 +10636,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Paradox Limited",
+      "rating": 3,
+      "createdAt": "04/06/2026",
+      "address1": "Haut de la Garenne",
+      "address2": "La Rue de la Pouclee et des Quatre Chemins",
+      "address3": "St. Martin",
+      "postCode": "JE3 6DU",
+      "latitude": 49.202315,
+      "longitude": -2.028152
     },
     {
       "name": "Common Ground",
