@@ -573,6 +573,17 @@
       "longitude": null
     },
     {
+      "name": "Jersey Hockey (Savanna Social Club)",
+      "rating": 2,
+      "createdAt": "21/06/2026",
+      "address1": "Jersey Hockey Clubhouse",
+      "address2": "Les Quennevais Sports Centre,  Don Farm",
+      "address3": "St. Brelade",
+      "postCode": "JE3 8LZ",
+      "latitude": 49.21849,
+      "longitude": -2.14198
+    },
+    {
       "name": "Morrisons Daily (Gloucester Street)",
       "rating": 3,
       "createdAt": "08/04/2025",
@@ -923,6 +934,17 @@
       "postCode": "JE3 2BN",
       "latitude": 49.246765,
       "longitude": -2.129072
+    },
+    {
+      "name": "Andy Hibbs - Fisherman",
+      "rating": 4,
+      "createdAt": "23/02/2021",
+      "address1": "Latchetts",
+      "address2": "La Vallée des Vaux",
+      "address3": "Jersey",
+      "postCode": "JE2 3GZ",
+      "latitude": 39.119433,
+      "longitude": -90.327488
     },
     {
       "name": "Unifare Stores",
@@ -1583,6 +1605,17 @@
       "postCode": "JE1 1HL",
       "latitude": 49.191614,
       "longitude": -2.094016
+    },
+    {
+      "name": "Heritage Shellfish Limited (JY012FV)",
+      "rating": 3,
+      "createdAt": "04/04/2019",
+      "address1": "Unit V12M",
+      "address2": "Victoria Pier",
+      "address3": "Jersey",
+      "postCode": "JE2 2WS",
+      "latitude": 49.203123,
+      "longitude": -2.089414
     },
     {
       "name": "Samphire",
@@ -2575,6 +2608,17 @@
       "longitude": -2.171625
     },
     {
+      "name": "Captain Lobster (JY013FE)",
+      "rating": 4,
+      "createdAt": "04/03/2022",
+      "address1": "Fleur des Champs",
+      "address2": "La Rue de St. Clément",
+      "address3": "Jersey",
+      "postCode": "JE3 7AJ",
+      "latitude": 49.173637,
+      "longitude": -2.056212
+    },
+    {
       "name": "Bacchus Wine Bar",
       "rating": 5,
       "createdAt": "26/06/2025",
@@ -2749,6 +2793,17 @@
       "postCode": "JE3 9EB",
       "latitude": 49.200801,
       "longitude": -2.092713
+    },
+    {
+      "name": "Andy Reynolds Shellfish Exp (JY010)",
+      "rating": 3,
+      "createdAt": "30/10/2019",
+      "address1": "Flat 1, 4, Gloster Terrace",
+      "address2": "43 Rouge Bouillon",
+      "address3": "Jersey",
+      "postCode": "JE2 3ZA",
+      "latitude": 49.192647,
+      "longitude": -2.108546
     },
     {
       "name": "Norfolk Lodge Hotel",
@@ -3068,6 +3123,17 @@
       "postCode": "JE2 3RP",
       "latitude": 49.185027,
       "longitude": -2.108923
+    },
+    {
+      "name": "Jade - S Fisheries Jersey",
+      "rating": 4,
+      "createdAt": "11/08/2021",
+      "address1": "Cherry Blossom Farm",
+      "address2": "La Rue de la Fosse à Grès",
+      "address3": "Jersey",
+      "postCode": "JE3 6AU",
+      "latitude": 50.633096,
+      "longitude": 2.94668
     },
     {
       "name": "Colleen's Cafe",
@@ -4335,6 +4401,17 @@
       "longitude": null
     },
     {
+      "name": "Jersey Hemp",
+      "rating": 5,
+      "createdAt": "19/05/2021",
+      "address1": "Warwick Farm",
+      "address2": "La Grande Route De St. Jean",
+      "address3": "Jersey",
+      "postCode": "JE2 3FL",
+      "latitude": 49.246555,
+      "longitude": -2.134973
+    },
+    {
       "name": "Charrien Stores",
       "rating": 4,
       "createdAt": "16/07/2024",
@@ -4852,6 +4929,17 @@
       "longitude": -2.102283
     },
     {
+      "name": "Crabs Direct (JY 027)",
+      "rating": 5,
+      "createdAt": "05/07/2020",
+      "address1": "40 Sydney Crill Park",
+      "address2": "St. Clement",
+      "address3": null,
+      "postCode": "JE2 6SY",
+      "latitude": 49.17069,
+      "longitude": -2.05059
+    },
+    {
       "name": "Tasty Bite",
       "rating": 5,
       "createdAt": "01/07/2025",
@@ -5301,6 +5389,17 @@
       "postCode": "JE2 4LF",
       "latitude": 49.191406,
       "longitude": -2.099554
+    },
+    {
+      "name": "Batch Limited",
+      "rating": 5,
+      "createdAt": "10/02/2022",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Not Posh (Mobile Unit)",
@@ -5785,6 +5884,17 @@
       "postCode": "JE3 5FG",
       "latitude": 49.234493,
       "longitude": -2.092927
+    },
+    {
+      "name": "Four Bakery",
+      "rating": 5,
+      "createdAt": "21/09/2023",
+      "address1": "53-55 Bath Street",
+      "address2": "St. Helier",
+      "address3": null,
+      "postCode": "JE2 4SU",
+      "latitude": 49.185462,
+      "longitude": -2.102357
     },
     {
       "name": "100% Health",
@@ -6557,6 +6667,17 @@
       "longitude": -2.230703
     },
     {
+      "name": "Provider Fisheries",
+      "rating": 3,
+      "createdAt": "17/11/2023",
+      "address1": "6 Grasett Park Estate",
+      "address2": "St. Saviour",
+      "address3": null,
+      "postCode": "JE2 7PQ",
+      "latitude": 49.17756,
+      "longitude": -2.0896
+    },
+    {
       "name": "Nourish",
       "rating": 4,
       "createdAt": "17/07/2023",
@@ -6997,6 +7118,17 @@
       "longitude": -2.110228
     },
     {
+      "name": "La Robeline Cider Brewery",
+      "rating": 4,
+      "createdAt": "13/09/2023",
+      "address1": "The Barn",
+      "address2": "La Rue de la Prairie",
+      "address3": "Jersey",
+      "postCode": "JE3 3EH",
+      "latitude": 39.119433,
+      "longitude": -90.327488
+    },
+    {
       "name": "Charlie Farley's Too",
       "rating": 5,
       "createdAt": "01/07/2025",
@@ -7248,6 +7380,17 @@
       "postCode": "JE2 4UR",
       "latitude": 49.172886,
       "longitude": -2.110813
+    },
+    {
+      "name": "Douet Farm",
+      "rating": 5,
+      "createdAt": "27/11/2020",
+      "address1": "La Rue ès Picots",
+      "address2": "Trinity",
+      "address3": null,
+      "postCode": "JE3 5GG",
+      "latitude": 49.232969,
+      "longitude": -2.086812
     },
     {
       "name": "The Old Barn",
@@ -7912,7 +8055,7 @@
     {
       "name": "Roses Mini Market",
       "rating": 3,
-      "createdAt": "01/07/2024",
+      "createdAt": "22/07/2022",
       "address1": "Roseville Street Mini Market",
       "address2": "66 Roseville Street",
       "address3": "St. Helier",
@@ -8249,6 +8392,17 @@
       "postCode": "JE3 7AH",
       "latitude": 49.211777,
       "longitude": -2.182927
+    },
+    {
+      "name": "The Channel Island Liquor Company",
+      "rating": 5,
+      "createdAt": "31/01/2023",
+      "address1": "Commercial Buildings",
+      "address2": "South Pier",
+      "address3": "Jersey",
+      "postCode": "JE2 3NB",
+      "latitude": 49.180127,
+      "longitude": -2.109128
     },
     {
       "name": "Scoop, The Sustainable Cooperative",
