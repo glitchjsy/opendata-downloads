@@ -463,17 +463,6 @@
       "longitude": -2.053117
     },
     {
-      "name": "Alfonso Catering Meats, Warehouse",
-      "rating": 5,
-      "createdAt": "14/06/2025",
-      "address1": "4  La Rue Martel",
-      "address2": null,
-      "address3": "St. Saviour",
-      "postCode": "JE2 3PG",
-      "latitude": 49.194897,
-      "longitude": -2.090318
-    },
-    {
       "name": "Morrisons Daily (Castle Quay)",
       "rating": 3,
       "createdAt": "18/03/2026",
@@ -956,28 +945,6 @@
       "postCode": "JE3 2BN",
       "latitude": 49.246765,
       "longitude": -2.129072
-    },
-    {
-      "name": "Wheelhouse (JY 008FE)",
-      "rating": 5,
-      "createdAt": "22/07/2025",
-      "address1": "The Glade",
-      "address2": "La Rue de la Prairie",
-      "address3": "Jersey",
-      "postCode": "JE3 3EH",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
-      "name": "Andy Hibbs - Fisherman",
-      "rating": 4,
-      "createdAt": "23/02/2021",
-      "address1": "Latchetts",
-      "address2": "La Vallée des Vaux",
-      "address3": "Jersey",
-      "postCode": "JE2 3GZ",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Unifare Stores",
@@ -1508,17 +1475,6 @@
       "longitude": -2.078407
     },
     {
-      "name": "Woodside Farms Ltd",
-      "rating": 4,
-      "createdAt": "05/07/2023",
-      "address1": "Woodside Farm",
-      "address2": "La Rue Coutanche",
-      "address3": "Jersey",
-      "postCode": "JE3 5DU",
-      "latitude": 49.237757,
-      "longitude": -2.104594
-    },
-    {
       "name": "Abilio's",
       "rating": 4,
       "createdAt": "04/03/2025",
@@ -1537,8 +1493,8 @@
       "address2": "La Rue à Don",
       "address3": "Grouville",
       "postCode": "JE3 9DX",
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "Timmy's Hard Rocque Cafe",
@@ -1649,17 +1605,6 @@
       "postCode": "JE1 1HL",
       "latitude": 49.191614,
       "longitude": -2.094016
-    },
-    {
-      "name": "Heritage Shellfish Limited (JY012FV)",
-      "rating": 3,
-      "createdAt": "04/04/2019",
-      "address1": "Unit V12M",
-      "address2": "Victoria Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 2WS",
-      "latitude": 49.203123,
-      "longitude": -2.089414
     },
     {
       "name": "Samphire",
@@ -1944,8 +1889,8 @@
       "address2": "Le Mont de L'Ecole",
       "address3": "St. Peter",
       "postCode": "JE3 7EL",
-      "latitude": 49.218475,
-      "longitude": -2.173591
+      "latitude": 49.220269,
+      "longitude": -2.166365
     },
     {
       "name": "The Chilli Kitchen",
@@ -2142,8 +2087,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4PL",
-      "latitude": 49.178323,
-      "longitude": -2.101037
+      "latitude": 49.178179,
+      "longitude": -2.100955
     },
     {
       "name": "Sprigs Cafe",
@@ -2538,8 +2483,8 @@
       "address2": "St. Lawrence",
       "address3": "St. Lawrence",
       "postCode": "JE3 1NG",
-      "latitude": 49.214912,
-      "longitude": -2.141689
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "The Taste",
@@ -2560,8 +2505,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3YL",
-      "latitude": 49.1904,
-      "longitude": -2.10671
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Club Carrefour",
@@ -2571,8 +2516,8 @@
       "address2": "St. Lawrence",
       "address3": "St. Lawrence",
       "postCode": "JE3 1NH",
-      "latitude": 49.214912,
-      "longitude": -2.141689
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Le Rocquier School",
@@ -2630,17 +2575,6 @@
       "longitude": -2.224828
     },
     {
-      "name": "Jersey Oyster (JY007D)",
-      "rating": 5,
-      "createdAt": "26/07/2021",
-      "address1": "La Ferme",
-      "address2": "La Grande Route des Sablons",
-      "address3": "Jersey",
-      "postCode": "JE3 9FE",
-      "latitude": 20.86685,
-      "longitude": 102.11664
-    },
-    {
       "name": "Green Island Restaurant",
       "rating": 3,
       "createdAt": "05/07/2024",
@@ -2661,17 +2595,6 @@
       "postCode": "JE3 3BD",
       "latitude": 49.236404,
       "longitude": -2.171625
-    },
-    {
-      "name": "Captain Lobster (JY013FE)",
-      "rating": 4,
-      "createdAt": "04/03/2022",
-      "address1": "Fleur des Champs",
-      "address2": "La Rue de St. Clément",
-      "address3": "Jersey",
-      "postCode": "JE3 7AJ",
-      "latitude": 49.173637,
-      "longitude": -2.056212
     },
     {
       "name": "Bacchus Wine Bar",
@@ -2850,17 +2773,6 @@
       "longitude": -2.092713
     },
     {
-      "name": "Andy Reynolds Shellfish Exp (JY010)",
-      "rating": 3,
-      "createdAt": "30/10/2019",
-      "address1": "Flat 1, 4, Gloster Terrace",
-      "address2": "43 Rouge Bouillon",
-      "address3": "Jersey",
-      "postCode": "JE2 3ZA",
-      "latitude": 49.192647,
-      "longitude": -2.108546
-    },
-    {
       "name": "Norfolk Lodge Hotel",
       "rating": 5,
       "createdAt": "25/06/2025",
@@ -2967,8 +2879,8 @@
       "address2": "Grouville",
       "address3": "Grouville",
       "postCode": "JE3 9GB",
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "St Ewolds Residential Home",
@@ -3033,8 +2945,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3TE",
-      "latitude": 49.186138,
-      "longitude": -2.10609
+      "latitude": 49.186073,
+      "longitude": -2.10612
     },
     {
       "name": "Marks & Spencer - St John",
@@ -3180,17 +3092,6 @@
       "longitude": -2.108923
     },
     {
-      "name": "Jade - S Fisheries Jersey",
-      "rating": 4,
-      "createdAt": "11/08/2021",
-      "address1": "Cherry Blossom Farm",
-      "address2": "La Rue de la Fosse à Grès",
-      "address3": "Jersey",
-      "postCode": "JE3 6AU",
-      "latitude": 50.633096,
-      "longitude": 2.94668
-    },
-    {
       "name": "Colleen's Cafe",
       "rating": 5,
       "createdAt": "15/07/2025",
@@ -3198,8 +3099,8 @@
       "address2": "La Greve de Lecq",
       "address3": "St. Ouen",
       "postCode": "JE3 2DL",
-      "latitude": 49.248716,
-      "longitude": -2.20353
+      "latitude": 49.247204,
+      "longitude": -2.202332
     },
     {
       "name": "Fast and Tasty Food",
@@ -3275,8 +3176,8 @@
       "address2": "St Clements Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7PD",
-      "latitude": 49.178839,
-      "longitude": -2.098256
+      "latitude": 49.181143,
+      "longitude": -2.098544
     },
     {
       "name": "Premier Inn (Bath Street)",
@@ -3374,8 +3275,8 @@
       "address2": "Les Chenolles",
       "address3": "St. Peter",
       "postCode": "JE3 7DW",
-      "latitude": 49.233924,
-      "longitude": -2.183567
+      "latitude": 49.233377,
+      "longitude": -2.183099
     },
     {
       "name": "La Boutique Normande",
@@ -3649,8 +3550,8 @@
       "address2": "La Rue à Don",
       "address3": "Grouville",
       "postCode": "JE3 9GB",
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "Rozel Rovers Football Club",
@@ -3682,8 +3583,8 @@
       "address2": "La Rue à Don",
       "address3": "Grouville",
       "postCode": "JE3 9DX",
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "Hollies Day Care Centre (HCS Catering)",
@@ -3748,8 +3649,8 @@
       "address2": "St. Saviour",
       "address3": "St. Saviour",
       "postCode": "JE2 7LD",
-      "latitude": 49.190451,
-      "longitude": -2.100316
+      "latitude": 49.194897,
+      "longitude": -2.090318
     },
     {
       "name": "Longfield Villa Care Home",
@@ -4056,8 +3957,8 @@
       "address2": "St Clements Road",
       "address3": "St. Saviour",
       "postCode": "JE2 4PX",
-      "latitude": 49.178839,
-      "longitude": -2.098256
+      "latitude": 49.181143,
+      "longitude": -2.098544
     },
     {
       "name": "Cafe @ the Centre",
@@ -4124,17 +4025,6 @@
       "postCode": "JE2 6PN",
       "latitude": 49.178519,
       "longitude": -2.087669
-    },
-    {
-      "name": "The Foodstate Company",
-      "rating": 4,
-      "createdAt": "27/01/2020",
-      "address1": "3 Le Hocq Gardens",
-      "address2": "La Rue du Hocq",
-      "address3": "Jersey",
-      "postCode": "JE2 6LF",
-      "latitude": 49.169398,
-      "longitude": -2.062442
     },
     {
       "name": "RJA & HS",
@@ -4478,17 +4368,6 @@
       "longitude": null
     },
     {
-      "name": "Jersey Hemp",
-      "rating": 5,
-      "createdAt": "19/05/2021",
-      "address1": "Warwick Farm",
-      "address2": "La Grande Route De St. Jean",
-      "address3": "Jersey",
-      "postCode": "JE2 3FL",
-      "latitude": 49.246555,
-      "longitude": -2.134973
-    },
-    {
       "name": "Charrien Stores",
       "rating": 4,
       "createdAt": "16/07/2024",
@@ -4586,17 +4465,6 @@
       "postCode": "JE3 8AJ",
       "latitude": 49.179756,
       "longitude": -2.175266
-    },
-    {
-      "name": "Sarah-Ann Fisheries",
-      "rating": 5,
-      "createdAt": "17/07/2020",
-      "address1": "Redwood",
-      "address2": "La Rue des Marettes",
-      "address3": "Jersey",
-      "postCode": "JE3 2HE",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Rabbit Hole",
@@ -4837,8 +4705,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4WE",
-      "latitude": 49.18449,
-      "longitude": -2.10703
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "St. Luke's School Nursery",
@@ -4958,8 +4826,8 @@
       "address2": "La Rue à Don",
       "address3": "Grouville",
       "postCode": null,
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "St George's Preparatory School Limited",
@@ -4995,17 +4863,6 @@
       "longitude": -2.04231
     },
     {
-      "name": "La Mare Vineyards Limited",
-      "rating": 5,
-      "createdAt": "26/03/2021",
-      "address1": "La Rue de la Hougue Mauger",
-      "address2": "St. Mary",
-      "address3": null,
-      "postCode": "JE3 3BA",
-      "latitude": 49.245557,
-      "longitude": -2.171748
-    },
-    {
       "name": "St. Michael's School",
       "rating": 5,
       "createdAt": "05/06/2024",
@@ -5037,17 +4894,6 @@
       "postCode": "JE2 4LB",
       "latitude": 49.18923,
       "longitude": -2.102283
-    },
-    {
-      "name": "Crabs Direct (JY 027)",
-      "rating": 5,
-      "createdAt": "05/07/2020",
-      "address1": "40 Sydney Crill Park",
-      "address2": "St. Clement",
-      "address3": null,
-      "postCode": "JE2 6SY",
-      "latitude": 49.17069,
-      "longitude": -2.05059
     },
     {
       "name": "Tasty Bite",
@@ -5695,8 +5541,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4PL",
-      "latitude": 49.178323,
-      "longitude": -2.101037
+      "latitude": 49.178179,
+      "longitude": -2.100955
     },
     {
       "name": "Indian Ocean",
@@ -5897,17 +5743,6 @@
       "longitude": null
     },
     {
-      "name": "La Rocque Fisheries Limited (JY001D)",
-      "rating": 4,
-      "createdAt": "26/04/2019",
-      "address1": "Oyster Farm",
-      "address2": "La Rue de la Sente Maillard",
-      "address3": "Jersey",
-      "postCode": "JE3 9BS",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
       "name": "Star at Legends",
       "rating": 5,
       "createdAt": "24/07/2024",
@@ -5937,8 +5772,8 @@
       "address2": "La Route des Genets",
       "address3": "St. Brelade",
       "postCode": "JE3 8DA",
-      "latitude": 49.189782,
-      "longitude": -2.19694
+      "latitude": 49.18978,
+      "longitude": -2.196916
     },
     {
       "name": "Plemont Beach Cafe",
@@ -6282,17 +6117,6 @@
       "longitude": -2.104436
     },
     {
-      "name": "K S Fisheries",
-      "rating": 4,
-      "createdAt": "04/04/2019",
-      "address1": "Flat 31",
-      "address2": "Kensington Court",
-      "address3": "St. Helier",
-      "postCode": "JE2 3PA",
-      "latitude": 49.185665,
-      "longitude": -2.110228
-    },
-    {
       "name": "Norfolk Hotel",
       "rating": 4,
       "createdAt": "13/05/2024",
@@ -6302,17 +6126,6 @@
       "postCode": "JE2 4QA",
       "latitude": 49.182203,
       "longitude": -2.101044
-    },
-    {
-      "name": "Ian Syvret Fisheries T/A Green Bean",
-      "rating": 4,
-      "createdAt": "30/10/2019",
-      "address1": "Flat 14",
-      "address2": "Bel Air Apartments",
-      "address3": "St. Helier",
-      "postCode": "JE2 3BA",
-      "latitude": 49.19784,
-      "longitude": -2.13376
     },
     {
       "name": "The Taste",
@@ -6652,8 +6465,8 @@
       "address2": "4-6  Market Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WY",
-      "latitude": 49.184763,
-      "longitude": -2.103724
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Cucina",
@@ -6819,17 +6632,6 @@
       "postCode": null,
       "latitude": 49.182891,
       "longitude": -2.230703
-    },
-    {
-      "name": "Provider Fisheries",
-      "rating": 3,
-      "createdAt": "17/11/2023",
-      "address1": "6 Grasett Park Estate",
-      "address2": "St. Saviour",
-      "address3": null,
-      "postCode": "JE2 7PQ",
-      "latitude": 49.17756,
-      "longitude": -2.0896
     },
     {
       "name": "Nourish",
@@ -7158,8 +6960,8 @@
       "address2": "Grouville",
       "address3": "Grouville",
       "postCode": "JE3 9GA",
-      "latitude": 49.188577,
-      "longitude": -2.040517
+      "latitude": 49.195884,
+      "longitude": -2.031789
     },
     {
       "name": "Six Rues Stores",
@@ -7270,17 +7072,6 @@
       "postCode": "JE2 4WL",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "La Robeline Cider Brewery",
-      "rating": 4,
-      "createdAt": "13/09/2023",
-      "address1": "The Barn",
-      "address2": "La Rue de la Prairie",
-      "address3": "Jersey",
-      "postCode": "JE3 3EH",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Charlie Farley's Too",
@@ -7523,17 +7314,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Battricks Seafoods (JY 002 FE)",
-      "rating": 4,
-      "createdAt": "18/04/2019",
-      "address1": "Unit V12",
-      "address2": "Victoria Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 3NB",
-      "latitude": 49.203123,
-      "longitude": -2.089414
     },
     {
       "name": "The Good Egg Beach Cafe",
@@ -8009,17 +7789,6 @@
       "longitude": 11.640079
     },
     {
-      "name": "F.C. Crab Meat",
-      "rating": 4,
-      "createdAt": "01/12/2021",
-      "address1": "The Viviers",
-      "address2": "Victoria Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 3WS",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
       "name": "TRU @ No. 8",
       "rating": 4,
       "createdAt": "19/06/2025",
@@ -8214,8 +7983,8 @@
       "address2": "37 Hill Street",
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.183584,
-      "longitude": -2.104436
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "1823 Cellar",
@@ -8313,17 +8082,6 @@
       "address2": null,
       "address3": null,
       "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
-      "name": "Classic Catering",
-      "rating": 5,
-      "createdAt": "10/11/2023",
-      "address1": null,
-      "address2": "4",
-      "address3": null,
-      "postCode": "JE2 7QP",
       "latitude": null,
       "longitude": null
     },
@@ -8581,17 +8339,6 @@
       "longitude": -2.182927
     },
     {
-      "name": "The Channel Island Liquor Company",
-      "rating": 5,
-      "createdAt": "31/01/2023",
-      "address1": "Commercial Buildings",
-      "address2": "South Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 3NB",
-      "latitude": 49.180127,
-      "longitude": -2.109128
-    },
-    {
       "name": "Scoop, The Sustainable Cooperative",
       "rating": 4,
       "createdAt": "04/10/2022",
@@ -8841,8 +8588,8 @@
       "address2": "17  Val Plaisant",
       "address3": "St. Helier",
       "postCode": "JE2 4TA",
-      "latitude": 49.191651,
-      "longitude": -2.102513
+      "latitude": 49.189781,
+      "longitude": -2.104591
     },
     {
       "name": "Family, Food and Fitness Programme",
@@ -8962,8 +8709,8 @@
       "address2": "St. Lawrence",
       "address3": "St. Lawrence",
       "postCode": "JE3 1NL",
-      "latitude": 49.214912,
-      "longitude": -2.141689
+      "latitude": 52.131478,
+      "longitude": 11.640079
     },
     {
       "name": "Bond Street Deli",
@@ -9083,8 +8830,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3YJ",
-      "latitude": 49.190294,
-      "longitude": -2.106655
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "The White Horse Inn",
@@ -9226,8 +8973,8 @@
       "address2": "St. Brelade",
       "address3": "St. Brelade",
       "postCode": "JE3 8DB",
-      "latitude": 49.189782,
-      "longitude": -2.19694
+      "latitude": 49.18978,
+      "longitude": -2.196916
     },
     {
       "name": "Midbay Cafe",
@@ -9259,8 +9006,8 @@
       "address2": "La Route des Genets",
       "address3": "St. Brelade",
       "postCode": "JE3 8LF",
-      "latitude": 49.189782,
-      "longitude": -2.19694
+      "latitude": 49.18978,
+      "longitude": -2.196916
     },
     {
       "name": "Beau Rivage Hotel",
@@ -9516,17 +9263,6 @@
       "longitude": -2.179202
     },
     {
-      "name": "The Fresh Fish Co. (JY009FE)",
-      "rating": 4,
-      "createdAt": "11/08/2021",
-      "address1": "5 Fish Processing Warehouse",
-      "address2": "Victoria Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 3WS",
-      "latitude": 39.119433,
-      "longitude": -90.327488
-    },
-    {
       "name": "Hotel Cristina",
       "rating": 4,
       "createdAt": "05/05/2026",
@@ -9536,17 +9272,6 @@
       "postCode": "JE3 1JA",
       "latitude": 49.202693,
       "longitude": -2.139063
-    },
-    {
-      "name": "Aqua Mar Fisheries Ltd JY001FE",
-      "rating": 4,
-      "createdAt": "15/11/2022",
-      "address1": "8 Fish Processing Warehouse",
-      "address2": "Victoria Pier",
-      "address3": "Jersey",
-      "postCode": "JE2 3WS",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "Tivoli Tavern",
@@ -9734,17 +9459,6 @@
       "postCode": "JE2 4WY",
       "latitude": 49.184763,
       "longitude": -2.103724
-    },
-    {
-      "name": "La Crete Shellfish Ltd (JY026)",
-      "rating": 4,
-      "createdAt": "06/04/2023",
-      "address1": "La Crete Quarry",
-      "address2": "La Route de la Cote",
-      "address3": "Jersey",
-      "postCode": "JE3 6DY",
-      "latitude": 39.119433,
-      "longitude": -90.327488
     },
     {
       "name": "The Poplars Tea Room",
@@ -11243,17 +10957,6 @@
       "longitude": -2.104769
     },
     {
-      "name": "Sushi-Go",
-      "rating": 2,
-      "createdAt": "27/04/2026",
-      "address1": "Takeaway",
-      "address2": "10  Mulcaster Street",
-      "address3": "St. Helier",
-      "postCode": "JE2 3NJ",
-      "latitude": 49.183115,
-      "longitude": -2.106983
-    },
-    {
       "name": "Meals on Wheels Society (Jersey)",
       "rating": 3,
       "createdAt": "29/07/2025",
@@ -11404,8 +11107,8 @@
       "address2": "La Route des Genets",
       "address3": "St. Brelade",
       "postCode": "JE3 8LB",
-      "latitude": 49.189782,
-      "longitude": -2.19694
+      "latitude": 49.18978,
+      "longitude": -2.196916
     },
     {
       "name": "SD Catering",
