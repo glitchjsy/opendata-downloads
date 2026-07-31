@@ -881,17 +881,6 @@
       "longitude": -2.110228
     },
     {
-      "name": "Pizzeria Romana",
-      "rating": 4,
-      "createdAt": "12/07/2024",
-      "address1": "17 Charing Cross",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 3RP",
-      "latitude": 49.185665,
-      "longitude": -2.110228
-    },
-    {
       "name": "Quick Stop",
       "rating": 5,
       "createdAt": "21/05/2024",
@@ -1693,17 +1682,6 @@
       "postCode": "JE2 4UQ",
       "latitude": 49.17689,
       "longitude": -2.10314
-    },
-    {
-      "name": "Clifton Residential Care Home",
-      "rating": 3,
-      "createdAt": "10/03/2025",
-      "address1": "Bagatelle Lane",
-      "address2": "St. Saviour",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7TD",
-      "latitude": 49.189759,
-      "longitude": -2.090073
     },
     {
       "name": "Ommaroo Hotel",
@@ -4454,17 +4432,6 @@
       "postCode": "JE2 3RP",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "Woodbine Corner Stores",
-      "rating": 5,
-      "createdAt": "21/03/2024",
-      "address1": "Retail Shop",
-      "address2": "La Route de Noirmont",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8AJ",
-      "latitude": 49.179756,
-      "longitude": -2.175266
     },
     {
       "name": "Rabbit Hole",
@@ -11351,6 +11318,17 @@
       "postCode": "JE3 7BP",
       "latitude": 49.206594,
       "longitude": -2.187314
+    },
+    {
+      "name": "Blonde",
+      "rating": 5,
+      "createdAt": "09/07/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     }
   ]
 }
