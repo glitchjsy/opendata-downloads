@@ -3,9 +3,86 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9237
+    "totalItems": 9248
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-16",
+      "producer": "the Health and Care Jersey",
+      "id": 9537,
+      "title": "Locally cultivated cannabis destroyed in 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-16",
+      "producer": "the Health and Care Jersey",
+      "id": 9536,
+      "title": "Monthly cannabis export licences 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-16",
+      "producer": "the Health and Care Jersey",
+      "id": 9535,
+      "title": "Monthly cannabis import licences 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-08",
+      "producer": "the Health and Care Jersey",
+      "id": 9521,
+      "title": "Adult Mental Health Service complaints"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-01",
+      "producer": "the Health and Care Jersey",
+      "id": 9513,
+      "title": "Birth data by parental residential status"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-07-01",
+      "producer": "the Health and Care Jersey",
+      "id": 9512,
+      "title": "Telecare Service"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-06-19",
+      "producer": "the Freedom of Information office",
+      "id": 9492,
+      "title": "Victoria College GCSE and A level results"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-06-19",
+      "producer": "the Freedom of Information office",
+      "id": 9489,
+      "title": "Support school meals"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-06-18",
+      "producer": "the Freedom of Information office",
+      "id": 9488,
+      "title": "Strive Hotel correspondence"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-06-18",
+      "producer": "the Freedom of Information office",
+      "id": 9487,
+      "title": "Somantic cell level in Jersey milk"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-06-18",
+      "producer": "the Freedom of Information office",
+      "id": 9486,
+      "title": "Rented dwelling license properties "
+    },
     {
       "author": "States Greffe",
       "publishDate": "2026-06-18",
