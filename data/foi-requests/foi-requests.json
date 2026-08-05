@@ -3,9 +3,23 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9248
+    "totalItems": 9250
   },
   "results": [
+    {
+      "author": "Government of Jersey",
+      "publishDate": "2026-07-28",
+      "producer": "the Health and Care Jersey",
+      "id": 9558,
+      "title": "Blood donations 2023 to June 2026"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-02-27",
+      "producer": "the Health and Care Jersey",
+      "id": 9556,
+      "title": "National propranolol shortage"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-07-16",

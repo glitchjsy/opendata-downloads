@@ -23,17 +23,6 @@
       "longitude": -2.106983
     },
     {
-      "name": "The Office Bar (Events)",
-      "rating": 2,
-      "createdAt": "23/08/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "The Bean Machine",
       "rating": 5,
       "createdAt": "20/04/2026",
@@ -250,8 +239,8 @@
       "address2": "La Grande Route de St. Clément",
       "address3": "St. Clement",
       "postCode": "JE2 6QW",
-      "latitude": 49.167526,
-      "longitude": -2.080117
+      "latitude": 49.171828,
+      "longitude": -2.064751
     },
     {
       "name": "Sweet Humble Pies",
@@ -602,8 +591,8 @@
       "address2": "La Grande Route de St. Clément",
       "address3": "St. Clement",
       "postCode": "JE2 6QQ",
-      "latitude": 49.173637,
-      "longitude": -2.056212
+      "latitude": 49.171828,
+      "longitude": -2.064751
     },
     {
       "name": "Mange Tout, International Finance Centre 5",
@@ -800,8 +789,8 @@
       "address2": "25   29 Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.184763,
+      "longitude": -2.103724
     },
     {
       "name": "Normans Limited",
@@ -833,8 +822,8 @@
       "address2": "4",
       "address3": "St. Helier",
       "postCode": "JE2 3PD",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 51.44137,
+      "longitude": -2.53777
     },
     {
       "name": "Mange Tout (New Street)",
@@ -1178,17 +1167,6 @@
       "longitude": -2.063859
     },
     {
-      "name": "Rhona's at the Beach",
-      "rating": 5,
-      "createdAt": "03/02/2025",
-      "address1": "La Montee des Greves Slipway",
-      "address2": "La Route de la Cote",
-      "address3": "St. Martin",
-      "postCode": null,
-      "latitude": 49.206907,
-      "longitude": -2.022287
-    },
-    {
       "name": "Barkers Newsagents",
       "rating": 3,
       "createdAt": "29/07/2024",
@@ -1248,7 +1226,7 @@
       "rating": 4,
       "createdAt": "27/03/2024",
       "address1": "St. Clement Sports Club Football Pitch",
-      "address2": "La Grande Route de St. Clément",
+      "address2": "FB Fields",
       "address3": "St. Clement",
       "postCode": null,
       "latitude": 49.173637,
@@ -1372,8 +1350,8 @@
       "address2": "Castle Quay",
       "address3": "St. Helier",
       "postCode": "JE2 3ED",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.184792,
+      "longitude": -2.110439
     },
     {
       "name": "Le Hocq Shack",
@@ -1471,8 +1449,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3QR",
-      "latitude": 49.186736,
-      "longitude": -2.112832
+      "latitude": 51.49006,
+      "longitude": -0.1407
     },
     {
       "name": "Co-Op Locale - Grouville",
@@ -2465,7 +2443,7 @@
       "longitude": 11.640079
     },
     {
-      "name": "The Taste",
+      "name": "The Taste, Broad Street",
       "rating": 4,
       "createdAt": "28/06/2024",
       "address1": "16 Broad Street",
@@ -2606,17 +2584,6 @@
       "postCode": "JE3 8BS",
       "latitude": 49.189827,
       "longitude": -2.168792
-    },
-    {
-      "name": "Liberation Quality Drinks",
-      "rating": 5,
-      "createdAt": "21/11/2023",
-      "address1": "Victor Hugo Wines",
-      "address2": "Longueville Road",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7SA",
-      "latitude": 49.183385,
-      "longitude": -2.078407
     },
     {
       "name": "Longueville Manor Hotel & Restaurant",
@@ -4236,15 +4203,15 @@
       "longitude": -2.125339
     },
     {
-      "name": "Pizza Quarter",
+      "name": "Pizza Quarter (Le Mont de Gouray)",
       "rating": 4,
       "createdAt": "30/09/2022",
-      "address1": "Commercial Premises",
+      "address1": "Joyride House",
       "address2": "Le Mont de Gouray",
       "address3": "St. Martin",
       "postCode": "JE3 6ET",
-      "latitude": 49.217728,
-      "longitude": -2.051631
+      "latitude": 49.199235,
+      "longitude": -2.026424
     },
     {
       "name": "The Kings Bar",
@@ -4467,7 +4434,7 @@
       "longitude": -2.134973
     },
     {
-      "name": "Luxury Jersey Ice Cream",
+      "name": "Luxury Jersey Ice Cream Van",
       "rating": 5,
       "createdAt": "30/05/2023",
       "address1": null,
@@ -5072,7 +5039,7 @@
       "longitude": -2.110228
     },
     {
-      "name": "The Kiosk",
+      "name": "The Kiosk, St. Brelade Sports and Social Club",
       "rating": 4,
       "createdAt": "23/07/2024",
       "address1": null,
@@ -5554,6 +5521,17 @@
       "postCode": "JE2 4LS",
       "latitude": 49.185462,
       "longitude": -2.102357
+    },
+    {
+      "name": "Pizza Quarter (Victoria Avenue)",
+      "rating": 3,
+      "createdAt": "30/07/2025",
+      "address1": "Victoria House",
+      "address2": "Victoria Avenue",
+      "address3": "Jersey",
+      "postCode": "JE3 1LU",
+      "latitude": 51.517603,
+      "longitude": -0.079321
     },
     {
       "name": "Staks",
@@ -6095,7 +6073,7 @@
       "longitude": -2.101044
     },
     {
-      "name": "The Taste",
+      "name": "The Taste, Sand Street",
       "rating": 4,
       "createdAt": "28/07/2022",
       "address1": "Trojan House",
@@ -6172,7 +6150,7 @@
       "longitude": -2.056212
     },
     {
-      "name": "Pizza Quarter",
+      "name": "Pizza Quarter (Greve d'Azette)",
       "rating": 5,
       "createdAt": "01/08/2024",
       "address1": "Greve d'Azette Slipway",
@@ -6283,8 +6261,8 @@
     },
     {
       "name": "Kismet Cabana (Events)",
-      "rating": 5,
-      "createdAt": "10/04/2024",
+      "rating": 4,
+      "createdAt": "02/05/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -6621,6 +6599,17 @@
       "postCode": "JE2 7SN",
       "latitude": 49.190324,
       "longitude": -2.084183
+    },
+    {
+      "name": "Anneville Farm Ltd",
+      "rating": 5,
+      "createdAt": "01/08/2023",
+      "address1": "Anneville Farm",
+      "address2": "La Rue de Guilleaume Et D'Anneville",
+      "address3": "Jersey",
+      "postCode": "JE3 6DP",
+      "latitude": 49.20801,
+      "longitude": -2.02964
     },
     {
       "name": "St. Mary's Country Inn",
@@ -7182,17 +7171,6 @@
       "postCode": "JE4 8NN",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "McDonalds",
-      "rating": 5,
-      "createdAt": "23/07/2024",
-      "address1": "6 Halkett Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WJ",
-      "latitude": 49.1842,
-      "longitude": -2.10366
     },
     {
       "name": "Raw",
@@ -9200,7 +9178,7 @@
       "name": "The Kiosk",
       "rating": 4,
       "createdAt": "13/01/2023",
-      "address1": "Bel Royal",
+      "address1": "Bel Royal Car Park",
       "address2": "Victoria Avenue",
       "address3": "St. Lawrence",
       "postCode": "JE3 1LU",
@@ -9450,7 +9428,7 @@
       "longitude": -2.10637
     },
     {
-      "name": "The Taste",
+      "name": "The Taste, La Colomberie",
       "rating": 4,
       "createdAt": "21/07/2022",
       "address1": "35 La Colomberie",
@@ -9551,7 +9529,7 @@
     {
       "name": "Tommo's",
       "rating": 3,
-      "createdAt": "05/06/2024",
+      "createdAt": "14/07/2026",
       "address1": "Normans Depot",
       "address2": "Five Oaks",
       "address3": "St. Saviour",
@@ -9776,8 +9754,8 @@
       "address2": "La Route du Marais",
       "address3": "St. Ouen",
       "postCode": "JE3 2GG",
-      "latitude": 49.23351,
-      "longitude": -2.202041
+      "latitude": 49.233703,
+      "longitude": -2.209346
     },
     {
       "name": "The Flour Barn/Sylvie's Cookies",
@@ -10968,7 +10946,7 @@
       "longitude": null
     },
     {
-      "name": "Supermarket Madeira",
+      "name": "Supermarket Madeira (Bagatelle Parade)",
       "rating": 5,
       "createdAt": "02/05/2025",
       "address1": "7 Bagatelle Parade",
