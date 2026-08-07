@@ -470,8 +470,8 @@
       "address2": "Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.184763,
+      "longitude": -2.103724
     },
     {
       "name": "Morrisons Daily (St. Peter)",
@@ -679,8 +679,8 @@
       "address2": "New Era",
       "address3": "St. Clement",
       "postCode": "JE2 7QG",
-      "latitude": 43.559289,
-      "longitude": -86.345221
+      "latitude": 49.177034,
+      "longitude": -2.088613
     },
     {
       "name": "Earl Granville",
@@ -1872,8 +1872,8 @@
     },
     {
       "name": "Abbeyfield House",
-      "rating": 3,
-      "createdAt": "16/10/2024",
+      "rating": 4,
+      "createdAt": "15/07/2026",
       "address1": "Nelson Avenue",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -2164,8 +2164,8 @@
       "address2": "Eaton House Esplanade",
       "address3": "St. Helier",
       "postCode": "JE2 3QY",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.18478,
+      "longitude": -2.111973
     },
     {
       "name": "Next",
@@ -3088,8 +3088,8 @@
       "address2": "Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.184763,
+      "longitude": -2.103724
     },
     {
       "name": "Clubhouse Bar & Eatery",
@@ -3847,8 +3847,8 @@
       "address2": "La Rue du Pont",
       "address3": "St. Mary",
       "postCode": "JE3 3AS",
-      "latitude": 49.236404,
-      "longitude": -2.171625
+      "latitude": 49.23958,
+      "longitude": -2.175196
     },
     {
       "name": "Restaurant Do Porto",
@@ -4034,8 +4034,8 @@
       "address2": "La Pouquelaye",
       "address3": "St. Helier",
       "postCode": "JE2 3GF",
-      "latitude": 49.195916,
-      "longitude": -2.108062
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Jessindy Cafe",
@@ -4430,8 +4430,8 @@
       "address2": "La Route du Mont Mado",
       "address3": "St. John",
       "postCode": "JE3 4DS",
-      "latitude": 49.246555,
-      "longitude": -2.134973
+      "latitude": 49.244811,
+      "longitude": -2.123488
     },
     {
       "name": "Luxury Jersey Ice Cream Van",
@@ -4687,17 +4687,6 @@
       "longitude": -2.10823
     },
     {
-      "name": "Petit Menage Farm",
-      "rating": 4,
-      "createdAt": "05/11/2018",
-      "address1": "Fountain Lane",
-      "address2": "St. Saviour",
-      "address3": null,
-      "postCode": "JE2 7RL",
-      "latitude": 49.182513,
-      "longitude": -2.09132
-    },
-    {
       "name": "Gradees Ltd",
       "rating": 4,
       "createdAt": "18/06/2025",
@@ -4874,17 +4863,6 @@
       "longitude": -2.087669
     },
     {
-      "name": "Field Farm",
-      "rating": 5,
-      "createdAt": "31/05/2022",
-      "address1": "La Rue de la Golarde",
-      "address2": "St. Lawrence",
-      "address3": null,
-      "postCode": "JE3 1GW",
-      "latitude": 49.232786,
-      "longitude": -2.146407
-    },
-    {
       "name": "Acrewood Day Nursery",
       "rating": 5,
       "createdAt": "24/10/2022",
@@ -4938,17 +4916,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Gorey Fruit & Veg Shop",
-      "rating": 5,
-      "createdAt": "01/06/2022",
-      "address1": "La Rue Hilgrove",
-      "address2": "Grouville",
-      "address3": null,
-      "postCode": "JE3 9EZ",
-      "latitude": 49.19781,
-      "longitude": -2.032303
     },
     {
       "name": "Momentum Cafe & Grocery Stores",
@@ -5112,8 +5079,8 @@
       "address2": "South Pier",
       "address3": "St. Helier",
       "postCode": "JE2 3NB",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.177864,
+      "longitude": -2.111973
     },
     {
       "name": "FCJ Pre-School",
@@ -6278,8 +6245,8 @@
       "address2": "La Rue du Pont",
       "address3": "St. Mary",
       "postCode": "JE3 3AS",
-      "latitude": 49.236404,
-      "longitude": -2.171625
+      "latitude": 49.23958,
+      "longitude": -2.175196
     },
     {
       "name": "La Piscine",
@@ -6388,8 +6355,8 @@
       "address2": "Charing Cross",
       "address3": "St. Brelade",
       "postCode": null,
-      "latitude": 49.193024,
-      "longitude": -2.199614
+      "latitude": 40.563958,
+      "longitude": -74.349269
     },
     {
       "name": "Majestic Wine (St Helier)",
@@ -6599,17 +6566,6 @@
       "postCode": "JE2 7SN",
       "latitude": 49.190324,
       "longitude": -2.084183
-    },
-    {
-      "name": "Anneville Farm Ltd",
-      "rating": 5,
-      "createdAt": "01/08/2023",
-      "address1": "Anneville Farm",
-      "address2": "La Rue de Guilleaume Et D'Anneville",
-      "address3": "Jersey",
-      "postCode": "JE3 6DP",
-      "latitude": 49.20801,
-      "longitude": -2.02964
     },
     {
       "name": "St. Mary's Country Inn",
@@ -7272,17 +7228,6 @@
       "longitude": -2.110813
     },
     {
-      "name": "Douet Farm",
-      "rating": 5,
-      "createdAt": "27/11/2020",
-      "address1": "La Rue ès Picots",
-      "address2": "Trinity",
-      "address3": null,
-      "postCode": "JE3 5GG",
-      "latitude": 49.232969,
-      "longitude": -2.086812
-    },
-    {
       "name": "The Old Barn",
       "rating": 3,
       "createdAt": "24/06/2025",
@@ -7290,8 +7235,8 @@
       "address2": "La Route du Manoir",
       "address3": "St. Peter",
       "postCode": "JE3 7DD",
-      "latitude": 49.21283,
-      "longitude": -2.18372
+      "latitude": 49.213976,
+      "longitude": -2.179788
     },
     {
       "name": "The Watchmaker",
@@ -7844,7 +7789,7 @@
       "longitude": -2.1151
     },
     {
-      "name": "Atlantico",
+      "name": "Atlantico (Bath Street)",
       "rating": 3,
       "createdAt": "01/06/2026",
       "address1": "The Bath House",
@@ -8141,7 +8086,7 @@
       "longitude": null
     },
     {
-      "name": "Sylvia's Butchers",
+      "name": "Sylvia's",
       "rating": 3,
       "createdAt": "30/07/2024",
       "address1": "19-24 Beresford Street",
@@ -8313,8 +8258,8 @@
       "address2": "49  Hill Street",
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.183584,
+      "longitude": -2.104436
     },
     {
       "name": "Bellagio Bar",
@@ -8368,8 +8313,8 @@
       "address2": "La Rue du Pont",
       "address3": "St. Mary",
       "postCode": "JE3 3AS",
-      "latitude": 49.236404,
-      "longitude": -2.171625
+      "latitude": 49.23958,
+      "longitude": -2.175196
     },
     {
       "name": "St. Ouen Youth and Community Centre",
@@ -8401,8 +8346,8 @@
       "address2": "La Grande Route de St. Laurent",
       "address3": "St. Lawrence",
       "postCode": "JE3 1FA",
-      "latitude": 49.214912,
-      "longitude": -2.141689
+      "latitude": 49.221847,
+      "longitude": -2.141663
     },
     {
       "name": "Charcuterie Deli Board",
@@ -10693,17 +10638,6 @@
       "longitude": -2.11095
     },
     {
-      "name": "Loaves & Layers",
-      "rating": 5,
-      "createdAt": "23/09/2025",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Auberge Du Nord",
       "rating": 3,
       "createdAt": "23/01/2026",
@@ -10900,6 +10834,17 @@
       "postCode": "JE2 4WT",
       "latitude": 49.185216,
       "longitude": -2.104769
+    },
+    {
+      "name": "Grainville School",
+      "rating": 3,
+      "createdAt": "15/07/2026",
+      "address1": "Grainville Secondary School",
+      "address2": "St. Saviours Hill",
+      "address3": "St. Saviour",
+      "postCode": "JE2 7XB",
+      "latitude": 49.194944,
+      "longitude": -2.090842
     },
     {
       "name": "Meals on Wheels Society (Jersey)",
