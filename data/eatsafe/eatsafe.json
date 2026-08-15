@@ -1585,6 +1585,17 @@
       "longitude": null
     },
     {
+      "name": "The Jersey Mixologist",
+      "rating": 4,
+      "createdAt": "24/07/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
       "name": "Bulls Catering",
       "rating": 5,
       "createdAt": "13/01/2024",
@@ -7371,17 +7382,6 @@
       "longitude": -2.217956
     },
     {
-      "name": "Nowhere Coffee Co.",
-      "rating": 4,
-      "createdAt": "02/09/2022",
-      "address1": "E407",
-      "address2": "Metropol East",
-      "address3": "St. Helier",
-      "postCode": "JE2 4DG",
-      "latitude": 49.185665,
-      "longitude": -2.110228
-    },
-    {
       "name": "Thyme Out Express (HCS Catering)",
       "rating": 5,
       "createdAt": "01/08/2024",
@@ -7765,17 +7765,6 @@
       "postCode": "JE2 3QT",
       "latitude": 49.18694,
       "longitude": -2.1151
-    },
-    {
-      "name": "Atlantico (Bath Street)",
-      "rating": 3,
-      "createdAt": "01/06/2026",
-      "address1": "The Bath House",
-      "address2": "63  Bath Street",
-      "address3": "St. Helier",
-      "postCode": "JE2 4QU",
-      "latitude": 49.18603,
-      "longitude": -2.10227
     },
     {
       "name": "The Jersey Royal Company Ltd",
