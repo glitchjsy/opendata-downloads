@@ -55,7 +55,7 @@ Morrisons Daily (Gloucester Street),3,08/04/2025,"Unit 3, Spectrum",Queens Road,
 Jersey Theatre Schools,4,28/10/2025,Caldwell Hall,La Grande Route de St. Clément,St. Clement,JE2 6QQ,49.171828,-2.064751
 "Mange Tout, International Finance Centre 5",3,01/08/2023,IFC 5,IFC Jersey,St. Helier,JE2 3BY,49.185665,-2.110228
 Gama Aviation Jersey,4,03/06/2026,Private Airport Lounge,Beauport House,St. Peter,JE3 7BY,49.21283,-2.18372
-Dunn-Ross Fisheries,5,16/04/2026,11-12 Beresford Market,Beresford Street,St. Helier,JE2 4WN,49.185665,-2.110228
+Dunn-Ross Fisheries,5,16/04/2026,11-12 Beresford Market,Beresford Street,St. Helier,JE2 4WN,49.185278,-2.103846
 Hotel De France,5,15/04/2025,St. Saviours Road,,St. Saviour,JE1 7XP,49.18823,-2.097242
 Old Court House Inn,4,30/01/2024,Le Boulevard,,St. Brelade,JE3 8AB,49.186263,-2.169611
 Peterborough House,5,05/01/2026,La Rue du Crocquet,St Aubin,St. Brelade,JE3 8BZ,49.189334,-2.169974
@@ -307,7 +307,7 @@ The Royal British Legion,5,31/05/2024,Great Union Street,St. Helier,St. Helier,J
 Maison La Corderie,5,21/02/2025,Green Street,St. Helier,St. Helier,JE2 4UG,52.056187,-0.01908
 Forum Wine Bar,5,25/09/2023,Ground Floor,13 Grenville Street,St. Helier,JE2 4UF,49.18192,-2.10206
 Roberts Garage - St Clement,3,20/03/2025,La Grève d'Azette,St. Clement,St. Clement,JE2 6PT,49.173637,-2.056212
-Rice Bowl Restaurant,3,23/04/2025,La Grève d'Azette,St. Clement,St. Clement,JE2 6PX,49.173637,-2.056212
+Rice Bowl Restaurant,3,09/07/2026,La Grève d'Azette,St. Clement,St. Clement,JE2 6PX,49.173637,-2.056212
 Cooper & Co,4,26/07/2024,57  Halkett Place,,St. Helier,JE2 4WG,49.185393,-2.104528
 Awabi,4,01/07/2025,63 Halket Place,St. Helier,St. Helier,,49.18572,-2.10435
 Bay Stores,3,29/07/2024,Bay Stores,Weston Villas,St. Helier,JE2 3SF,49.185665,-2.110228
@@ -614,7 +614,7 @@ Stinky Bay Brewing Company,5,10/06/2025,,,,,,
 Sweet Celebrations,5,02/04/2024,,,,,,
 Boots Les Quennevais Parade,5,11/05/2022,11 Les Quennevais Parade,La Route des Quennevais,St. Brelade,JE3 8FX,49.18325,-2.17563
 St Aubin Methodist Church,5,31/07/2024,Wesleyan School,Le Quai Bisson,St. Brelade,JE3 8JT,49.186597,-2.170469
-Pound Magic,4,21/06/2023,Pound Magic,11  Beresford Street,St. Helier,JE2 4WN,49.18528,-2.10362
+Pound Magic,4,21/06/2023,Pound Magic,11  Beresford Street,St. Helier,JE2 4WN,49.18527,-2.10363
 Marks & Spencer - St Clement,5,31/05/2022,La Grande Route de la Côte,St. Clement,St. Clement,JE2 6FE,49.167532,-2.063859
 The Party Shop,5,29/09/2021,16 Les Quennevais Parade,La Route des Quennevais,St. Brelade,JE3 8FX,49.18316,-2.176
 Undercliff Guest House,5,26/05/2022,Les Charrières de Boulay,Trinity,Trinity,JE3 5AS,49.234493,-2.092927
@@ -710,7 +710,7 @@ La Lula Bakery,5,22/10/2025,,,,,,
 Fenn & Co. Limited,3,15/05/2025,Horizon East,La Rue De L'Etau,St. Helier,,49.181852,-2.113789
 KwaMother,4,06/05/2026,,,,,,
 Victoria In The Valley,3,28/05/2026,The Victoria in the Valley,La Vallée de St. Pierre,St. Peter,JE3 7EG,49.21283,-2.18372
-Morrisons Daily (Grouville),3,26/06/2026,La Rue à Don,,,JE3 9HB,49.195884,-2.031789
+Morrisons Daily (Grouville),3,26/06/2026,La Rue à Don,,,JE3 9HB,49.188577,-2.040517
 Dunell's La Cave (St Helier),5,14/01/2026,Lower Ground Floor,37 Hill Street,St. Helier,JE2 4UA,49.187923,-2.104026
 1823 Cellar,5,21/06/2023,,Les Quennevais Parade,St. Brelade,JE3 8FX,,
 Roses Mini Market,3,22/07/2022,Roseville Street Mini Market,66 Roseville Street,St. Helier,JE2 4PL,49.178179,-2.100955
@@ -934,7 +934,7 @@ The Sundown,5,21/03/2025,4  Wharf Street,,St. Helier,,49.182898,-2.107852
 "Fuel 2 Go, York Street",4,31/05/2024,7  York Street,,St. Helier,,49.185615,-2.1094
 Jerk Oasis (Mobile Food Trailer),5,02/05/2026,,,,,,
 Sea Level Distillery Shop,5,16/06/2025,Gorey Coast Road Stores,La Route de la Cote,St. Martin,JE3 6EU,49.206907,-2.022287
-Cafe Barcelona,3,21/01/2026,24  Commercial Buildings,,St. Helier,JE2 3NB,49.18101,-2.1086
+Cafe Barcelona,3,21/01/2026,24  Commercial Buildings,,St. Helier,JE2 3NB,49.18098,-2.10862
 "Dino, The Old England",3,07/11/2024,Old England Hotel,10  Cheapside,St. Helier,JE2 3PG,49.18888,-2.11251
 Jersey Rugby Football Club,4,08/07/2024,Jersey Rugby Football Club,La Rue des Landes,St. Peter,JE3 7BG,49.202955,-2.180445
 Liberty Bistro,4,04/04/2025,Unit 11b,Liberty Wharf,St. Helier,JE2 3NY,49.182947,-2.107884

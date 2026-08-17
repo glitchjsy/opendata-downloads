@@ -624,8 +624,8 @@
       "address2": "Beresford Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WN",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.185278,
+      "longitude": -2.103846
     },
     {
       "name": "Hotel De France",
@@ -3391,7 +3391,7 @@
     {
       "name": "Rice Bowl Restaurant",
       "rating": 3,
-      "createdAt": "23/04/2025",
+      "createdAt": "09/07/2026",
       "address1": "La Grève d'Azette",
       "address2": "St. Clement",
       "address3": "St. Clement",
@@ -6773,8 +6773,8 @@
       "address2": "11  Beresford Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WN",
-      "latitude": 49.18528,
-      "longitude": -2.10362
+      "latitude": 49.18527,
+      "longitude": -2.10363
     },
     {
       "name": "Marks & Spencer - St Clement",
@@ -7829,8 +7829,8 @@
       "address2": null,
       "address3": null,
       "postCode": "JE3 9HB",
-      "latitude": 49.195884,
-      "longitude": -2.031789
+      "latitude": 49.188577,
+      "longitude": -2.040517
     },
     {
       "name": "Dunell's La Cave (St Helier)",
@@ -10293,8 +10293,8 @@
       "address2": null,
       "address3": "St. Helier",
       "postCode": "JE2 3NB",
-      "latitude": 49.18101,
-      "longitude": -2.1086
+      "latitude": 49.18098,
+      "longitude": -2.10862
     },
     {
       "name": "Dino, The Old England",
