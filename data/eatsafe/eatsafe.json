@@ -7525,17 +7525,6 @@
       "longitude": -2.11047
     },
     {
-      "name": "Hong Kong Chef",
-      "rating": 4,
-      "createdAt": "24/02/2025",
-      "address1": "Mathew House",
-      "address2": "La Rue Hilgrove",
-      "address3": "Grouville",
-      "postCode": "JE3 9EZ",
-      "latitude": 49.197809,
-      "longitude": -2.0323
-    },
-    {
       "name": "Grainville School (Flourish)",
       "rating": 3,
       "createdAt": "13/11/2025",
@@ -7803,6 +7792,17 @@
       "name": "KwaMother",
       "rating": 4,
       "createdAt": "06/05/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "The Roll Box",
+      "rating": 4,
+      "createdAt": "28/07/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -9987,17 +9987,6 @@
       "postCode": "JE2 7QW",
       "latitude": 49.183385,
       "longitude": -2.078407
-    },
-    {
-      "name": "Chopsticks",
-      "rating": 5,
-      "createdAt": "15/04/2025",
-      "address1": "43  Hill Street",
-      "address2": null,
-      "address3": "St. Helier",
-      "postCode": "JE2 4UA",
-      "latitude": 49.187923,
-      "longitude": -2.104026
     },
     {
       "name": "Costa Coffee",
