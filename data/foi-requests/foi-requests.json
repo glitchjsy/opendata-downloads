@@ -3,9 +3,51 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9250
+    "totalItems": 9256
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-05",
+      "producer": "the Health and Care Jersey",
+      "id": 9583,
+      "title": "Ambulance Service access to Advanced Care Plans"
+    },
+    {
+      "author": "Government of Jersey",
+      "publishDate": "2026-07-30",
+      "producer": "the Health and Care Jersey",
+      "id": 9582,
+      "title": "Cannabis prescriptions dispensed 2025"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-07-23",
+      "producer": "the Freedom of Information office",
+      "id": 9570,
+      "title": "Incidents Attended by Jersey Fire and Rescue Service During January 2024"
+    },
+    {
+      "author": "People Services",
+      "publishDate": "2026-08-22",
+      "producer": "the Freedom of Information office",
+      "id": 9568,
+      "title": "Talent pool for JCIS trainee officers"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-07-21",
+      "producer": "the Freedom of Information office",
+      "id": 9567,
+      "title": "Vote.je costs for 2026 elections"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-08-17",
+      "producer": "the Freedom of Information office",
+      "id": 9561,
+      "title": "Primary School Reading Assessment Figures"
+    },
     {
       "author": "Government of Jersey",
       "publishDate": "2026-07-28",

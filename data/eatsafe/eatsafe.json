@@ -382,8 +382,8 @@
       "address2": "10  York Street",
       "address3": "St. Helier",
       "postCode": "JE2 3RQ",
-      "latitude": 49.185587,
-      "longitude": -2.109397
+      "latitude": 49.185584,
+      "longitude": -2.109396
     },
     {
       "name": "Tintos Softplay",
@@ -470,8 +470,8 @@
       "address2": "Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.184763,
-      "longitude": -2.103724
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Morrisons Daily (St. Peter)",
@@ -789,8 +789,8 @@
       "address2": "25   29 Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.184763,
-      "longitude": -2.103724
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Normans Limited",
@@ -822,8 +822,8 @@
       "address2": "4",
       "address3": "St. Helier",
       "postCode": "JE2 3PD",
-      "latitude": 51.44137,
-      "longitude": -2.53777
+      "latitude": 49.19225,
+      "longitude": -2.10251
     },
     {
       "name": "The Office",
@@ -1163,8 +1163,8 @@
       "address2": "76-78 King Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WE",
-      "latitude": 49.184451,
-      "longitude": -2.106853
+      "latitude": 49.18445,
+      "longitude": -2.106843
     },
     {
       "name": "Bolero Bistro",
@@ -1328,8 +1328,8 @@
       "address2": "Castle Quay",
       "address3": "St. Helier",
       "postCode": "JE2 3ED",
-      "latitude": 49.184792,
-      "longitude": -2.110439
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Le Hocq Shack",
@@ -1427,8 +1427,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3QR",
-      "latitude": 51.49006,
-      "longitude": -0.1407
+      "latitude": 49.18714,
+      "longitude": -2.1118
     },
     {
       "name": "Co-Op Locale - Grouville",
@@ -2153,8 +2153,8 @@
       "address2": "Eaton House Esplanade",
       "address3": "St. Helier",
       "postCode": "JE2 3QY",
-      "latitude": 49.18478,
-      "longitude": -2.111973
+      "latitude": 49.184776,
+      "longitude": -2.111966
     },
     {
       "name": "Next",
@@ -3077,8 +3077,8 @@
       "address2": "Central Market",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 49.184763,
-      "longitude": -2.103724
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Clubhouse Bar & Eatery",
@@ -3770,8 +3770,8 @@
       "address2": "St Clements Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7PX",
-      "latitude": 49.181143,
-      "longitude": -2.098544
+      "latitude": 49.178839,
+      "longitude": -2.098256
     },
     {
       "name": "Westmount Day Nursery",
@@ -3957,8 +3957,8 @@
       "address2": "Plat Douet Road",
       "address3": "St. Clement",
       "postCode": "JE2 6PN",
-      "latitude": 49.178519,
-      "longitude": -2.087669
+      "latitude": 49.17859,
+      "longitude": -2.087679
     },
     {
       "name": "RJA & HS",
@@ -4221,8 +4221,8 @@
       "address2": "Plat Douet Road",
       "address3": "St. Clement",
       "postCode": "JE2 6PN",
-      "latitude": 49.178519,
-      "longitude": -2.087669
+      "latitude": 49.17859,
+      "longitude": -2.087679
     },
     {
       "name": "Samares Stores",
@@ -7532,8 +7532,8 @@
       "address2": "La Rue de Deloraine",
       "address3": "St. Saviour",
       "postCode": "JE2 7NF",
-      "latitude": 49.194897,
-      "longitude": -2.090318
+      "latitude": 49.1984,
+      "longitude": -2.08489
     },
     {
       "name": "Co-Op En Route - Trinity",
@@ -7862,8 +7862,8 @@
       "address2": "66 Roseville Street",
       "address3": "St. Helier",
       "postCode": "JE2 4PL",
-      "latitude": 49.178179,
-      "longitude": -2.100955
+      "latitude": 49.178323,
+      "longitude": -2.101037
     },
     {
       "name": "The Rozel Pub & Dining",
@@ -8054,8 +8054,8 @@
     },
     {
       "name": "Sylvia's",
-      "rating": 3,
-      "createdAt": "30/07/2024",
+      "rating": 2,
+      "createdAt": "30/07/2026",
       "address1": "19-24 Beresford Street",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -8225,8 +8225,8 @@
       "address2": "49  Hill Street",
       "address3": "St. Helier",
       "postCode": "JE2 4UA",
-      "latitude": 49.183584,
-      "longitude": -2.104436
+      "latitude": 49.187923,
+      "longitude": -2.104026
     },
     {
       "name": "Bellagio Bar",
@@ -11186,6 +11186,17 @@
       "postCode": "JE3 7BP",
       "latitude": 49.206594,
       "longitude": -2.187314
+    },
+    {
+      "name": "Red House @ Santander Work Cafe",
+      "rating": 3,
+      "createdAt": "08/07/2026",
+      "address1": "Santander Work Cafe",
+      "address2": "13-15  Charing Cross",
+      "address3": "St. Helier",
+      "postCode": "JE2 3RP",
+      "latitude": 49.185157,
+      "longitude": -2.109372
     },
     {
       "name": "Blonde",
