@@ -3,9 +3,65 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9256
+    "totalItems": 9264
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-21",
+      "producer": "the Health and Care Jersey",
+      "id": 9591,
+      "title": "General Practitioners with extended roles"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-21",
+      "producer": "the Health and Care Jersey",
+      "id": 9590,
+      "title": "Endotracheal Intubation practices in Ambulance services"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-19",
+      "producer": "the Health and Care Jersey",
+      "id": 9589,
+      "title": "Clinical Strategy 2026 to 2030: Consolidated Action Plan"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-18",
+      "producer": "the Health and Care Jersey",
+      "id": 9588,
+      "title": "Spinal surgery waits"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-13",
+      "producer": "the Health and Care Jersey",
+      "id": 9587,
+      "title": "Dermatology patients seen in June 2026"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-13",
+      "producer": "the Health and Care Jersey",
+      "id": 9586,
+      "title": "Female Accident and Emergency attendances for various factors"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-13",
+      "producer": "the Health and Care Jersey",
+      "id": 9585,
+      "title": "Hospital catering unit chiller"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-06",
+      "producer": "the Health and Care Jersey",
+      "id": 9584,
+      "title": "Child Flu Vaccination Budget"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-08-05",
