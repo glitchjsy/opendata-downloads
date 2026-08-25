@@ -3,9 +3,16 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9264
+    "totalItems": 9265
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-24",
+      "producer": "the Health and Care Jersey",
+      "id": 9592,
+      "title": "Public and private elective procedures 2021 to 2026"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-08-21",
