@@ -3,9 +3,16 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9265
+    "totalItems": 9266
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-24",
+      "producer": "the Health and Care Jersey",
+      "id": 9593,
+      "title": "Waits for knee replacement surgery"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-08-24",
