@@ -3,9 +3,44 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9266
+    "totalItems": 9271
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-13",
+      "producer": "Health and Care Jersey",
+      "id": 9607,
+      "title": "Clinical Lead for Ophthalmology"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-03-05",
+      "producer": "Health and Care Jersey",
+      "id": 9598,
+      "title": "Annual health budget allocation to charities"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-07-30",
+      "producer": "Freedom of Information office",
+      "id": 9597,
+      "title": "Branchange"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-26",
+      "producer": "Health and Care Jersey",
+      "id": 9595,
+      "title": "FOI response 860677938 - Readmission due to home condition"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-25",
+      "producer": "Health and Care Jersey",
+      "id": 9594,
+      "title": "Flexible working"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-08-24",

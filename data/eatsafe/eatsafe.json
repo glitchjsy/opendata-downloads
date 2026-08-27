@@ -67,6 +67,17 @@
       "longitude": -2.04231
     },
     {
+      "name": "Boatfayre Duty-Free (Elizabeth Terminal)",
+      "rating": 5,
+      "createdAt": "05/08/2026",
+      "address1": "Elizabeth Terminal",
+      "address2": "Elizabeth Harbour",
+      "address3": "St. Helier",
+      "postCode": "JE2 3NW",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "Paddock Events",
       "rating": 5,
       "createdAt": "30/09/2023",
@@ -7899,6 +7910,17 @@
       "longitude": -2.202159
     },
     {
+      "name": "Boatfayre",
+      "rating": 5,
+      "createdAt": "05/08/2026",
+      "address1": "Store A29",
+      "address2": "Albert Quay",
+      "address3": "St Helier",
+      "postCode": "JE2 3NE",
+      "latitude": 49.185665,
+      "longitude": -2.110228
+    },
+    {
       "name": "Christopher's",
       "rating": 3,
       "createdAt": "18/03/2026",
@@ -7963,6 +7985,17 @@
       "postCode": "JE2 3WF",
       "latitude": 49.181852,
       "longitude": -2.113789
+    },
+    {
+      "name": "The Shipyard",
+      "rating": 5,
+      "createdAt": "05/08/2026",
+      "address1": "Elizabeth Terminal",
+      "address2": "La Route Du Port Elizabeth",
+      "address3": "St. Helier",
+      "postCode": "JE2 3NW",
+      "latitude": 49.182489,
+      "longitude": -2.113081
     },
     {
       "name": "Fig Tree House",
