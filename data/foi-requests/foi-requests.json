@@ -3,9 +3,37 @@
     "limit": 1000000,
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9271
+    "totalItems": 9275
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-28",
+      "producer": "Health and Care Jersey",
+      "id": 9623,
+      "title": "Clozapine and Lithium prescription data 2014 to 2025"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-26",
+      "producer": "Health and Care Jersey",
+      "id": 9620,
+      "title": "Battle of Flowers fireworks"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-04-17",
+      "producer": "Health and Care Jersey",
+      "id": 9614,
+      "title": "Mental health crisis access for deaf and hard of hearing"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-08",
+      "producer": "Health and Care Jersey",
+      "id": 9609,
+      "title": "HCJ admission data by ICD-10 dagnosis and OPCS procedure code, 2018 to 2025"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-03-13",
