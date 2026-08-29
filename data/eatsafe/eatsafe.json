@@ -463,6 +463,17 @@
       "longitude": -2.053117
     },
     {
+      "name": "Rhona's at the Beach",
+      "rating": 5,
+      "createdAt": "06/08/2026",
+      "address1": "Rhona's at the Beach",
+      "address2": "La Route de la Cote",
+      "address3": "St. Martin",
+      "postCode": null,
+      "latitude": 49.206907,
+      "longitude": -2.022287
+    },
+    {
       "name": "Morrisons Daily (Castle Quay)",
       "rating": 3,
       "createdAt": "18/03/2026",
@@ -1388,8 +1399,8 @@
     },
     {
       "name": "Jersey Lillie Tandoori",
-      "rating": 4,
-      "createdAt": "24/07/2024",
+      "rating": 2,
+      "createdAt": "06/08/2026",
       "address1": "Commercial Unit",
       "address2": "Westlyn",
       "address3": "St. Peter",
@@ -1966,8 +1977,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3RR",
-      "latitude": 50.82034,
-      "longitude": -0.13488
+      "latitude": 50.82059,
+      "longitude": -0.13454
     },
     {
       "name": "General Hospital (HCS Catering)",
@@ -2395,8 +2406,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3NP",
-      "latitude": 51.51238,
-      "longitude": -0.30617
+      "latitude": 49.18371,
+      "longitude": -2.10736
     },
     {
       "name": "The Bouncing Brew",
@@ -2890,8 +2901,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3TE",
-      "latitude": 51.51719,
-      "longitude": -0.07983
+      "latitude": 51.51714,
+      "longitude": -0.07955
     },
     {
       "name": "Marks & Spencer - St John",
@@ -3000,8 +3011,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3RD",
-      "latitude": 51.26004,
-      "longitude": -1.09651
+      "latitude": 49.1871,
+      "longitude": -2.1079
     },
     {
       "name": "Salmini's Candy Floss",
@@ -3693,8 +3704,8 @@
       "address2": "La Rue de Deloraine",
       "address3": "St. Saviour",
       "postCode": "JE2 7XB",
-      "latitude": 49.194897,
-      "longitude": -2.090318
+      "latitude": 49.1984,
+      "longitude": -2.08489
     },
     {
       "name": "James St Newsagents",
@@ -3704,8 +3715,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3QZ",
-      "latitude": 51.48864,
-      "longitude": -0.22665
+      "latitude": 49.18375,
+      "longitude": -2.10011
     },
     {
       "name": "Le Squez Youth Project",
@@ -4188,8 +4199,8 @@
       "address2": "Wellington Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7TH",
-      "latitude": 49.191135,
-      "longitude": -2.089939
+      "latitude": 49.19117,
+      "longitude": -2.08881
     },
     {
       "name": "Bonne Nuit Beach Cafe",
@@ -4221,8 +4232,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3NP",
-      "latitude": 51.51225,
-      "longitude": -0.30615
+      "latitude": 49.18351,
+      "longitude": -2.1072
     },
     {
       "name": "Partners Restaurant",
@@ -4584,8 +4595,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3RR",
-      "latitude": 50.82025,
-      "longitude": -0.1349
+      "latitude": 50.82068,
+      "longitude": -0.13455
     },
     {
       "name": "Blacks",
@@ -5090,8 +5101,8 @@
       "address2": "La Rue de Deloraine",
       "address3": "St. Saviour",
       "postCode": "JE2 7XB",
-      "latitude": 49.194897,
-      "longitude": -2.090318
+      "latitude": 49.1984,
+      "longitude": -2.08489
     },
     {
       "name": "The Butcher's Block",
@@ -5447,8 +5458,8 @@
     },
     {
       "name": "Indian Ocean",
-      "rating": 3,
-      "createdAt": "30/07/2024",
+      "rating": 2,
+      "createdAt": "06/08/2026",
       "address1": "Indian Ocean",
       "address2": "37  La Motte Street",
       "address3": "St. Helier",
@@ -6718,8 +6729,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4GJ",
-      "latitude": 49.18497,
-      "longitude": -2.09885
+      "latitude": 49.1867,
+      "longitude": -2.09747
     },
     {
       "name": "Jersey College for Girls",
@@ -7004,8 +7015,8 @@
       "address2": "Wellington Road",
       "address3": "St. Helier",
       "postCode": "JE2 4RJ",
-      "latitude": 49.191135,
-      "longitude": -2.089939
+      "latitude": 49.18911,
+      "longitude": -2.09662
     },
     {
       "name": "La Moye School, Pathways holiday club",
@@ -7576,8 +7587,8 @@
       "address2": "Wellington Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7TH",
-      "latitude": 49.191135,
-      "longitude": -2.089939
+      "latitude": 49.19117,
+      "longitude": -2.08881
     },
     {
       "name": "Pink Panda Van/Pando's/Private Panda",
@@ -8434,8 +8445,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3NP",
-      "latitude": 51.51232,
-      "longitude": -0.30616
+      "latitude": 49.18383,
+      "longitude": -2.10745
     },
     {
       "name": "The Horse Box",
@@ -8610,8 +8621,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3NP",
-      "latitude": 50.8238,
-      "longitude": -0.14032
+      "latitude": 49.1832,
+      "longitude": -2.10704
     },
     {
       "name": "Bean around the World",
@@ -9215,8 +9226,8 @@
       "address2": "Wellington Road",
       "address3": "St. Saviour",
       "postCode": "JE2 7TH",
-      "latitude": 49.191135,
-      "longitude": -2.089939
+      "latitude": 49.19117,
+      "longitude": -2.08881
     },
     {
       "name": "Pizza Express",
@@ -9413,8 +9424,8 @@
       "address2": "4 Parcq De Cadoret",
       "address3": "St. Helier",
       "postCode": "JE2 3HF",
-      "latitude": 49.185665,
-      "longitude": -2.110228
+      "latitude": 49.19456,
+      "longitude": -2.03891
     },
     {
       "name": "Freedom Adventures and Playcare Ltd - St Lawrence ASC",
@@ -10790,6 +10801,17 @@
       "postCode": "JE2 3SD",
       "latitude": 49.198121,
       "longitude": -2.147153
+    },
+    {
+      "name": "Karma Coffee",
+      "rating": 4,
+      "createdAt": "06/08/2026",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Marivi's Cake",
