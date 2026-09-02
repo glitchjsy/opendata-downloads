@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9275,
+    "totalItems": 9276,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-08-28",
+      "producer": "Health and Care Jersey",
+      "id": 9629,
+      "title": "Ambulance and first responder attendances"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-05-28",
