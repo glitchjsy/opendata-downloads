@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9276,
+    "totalItems": 9277,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-05-28",
+      "producer": "Health and Care Jersey",
+      "id": 9630,
+      "title": "Autism and ADHD assessments resulting in diagnosis"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-08-28",

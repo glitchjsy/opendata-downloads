@@ -1478,8 +1478,8 @@
       "name": "Mira Restaurant",
       "rating": 3,
       "createdAt": "03/05/2024",
-      "address1": "9-11 Burrard Street",
-      "address2": "St. Helier",
+      "address1": "Mira",
+      "address2": "9-11  Burrard Street",
       "address3": "St. Helier",
       "postCode": "JE2 4WS",
       "latitude": 49.186037,
@@ -2408,17 +2408,6 @@
       "postCode": "JE2 3NP",
       "latitude": 49.18371,
       "longitude": -2.10736
-    },
-    {
-      "name": "The Bouncing Brew",
-      "rating": 3,
-      "createdAt": "19/06/2023",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "Roberts Garage - Springfield",
@@ -4773,17 +4762,6 @@
       "postCode": "JE3 7DB",
       "latitude": 49.21283,
       "longitude": -2.18372
-    },
-    {
-      "name": "Greatcatch (JY029)",
-      "rating": 4,
-      "createdAt": "22/09/2023",
-      "address1": "Aigremont Farm",
-      "address2": "La Rue de la Hambye",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7UQ",
-      "latitude": 49.203149,
-      "longitude": -2.055515
     },
     {
       "name": "Grouville Primary School",
@@ -8020,17 +7998,6 @@
       "longitude": -2.112026
     },
     {
-      "name": "Cheapside Butcher (Events Catering)",
-      "rating": 3,
-      "createdAt": "23/08/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Fountain Court Souvenirs",
       "rating": 4,
       "createdAt": "05/11/2025",
@@ -9265,7 +9232,7 @@
     {
       "name": "Breakwater Cafe",
       "rating": 3,
-      "createdAt": "23/09/2024",
+      "createdAt": "11/08/2026",
       "address1": "La Route de St. Catherine",
       "address2": "St. Martin",
       "address3": "St. Martin",
