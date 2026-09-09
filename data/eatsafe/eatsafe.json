@@ -717,8 +717,8 @@
     },
     {
       "name": "Cafe Zone",
-      "rating": 2,
-      "createdAt": "28/01/2026",
+      "rating": 3,
+      "createdAt": "07/07/2026",
       "address1": "The Powerhouse",
       "address2": "Queens Road",
       "address3": "St. Helier",
@@ -2215,6 +2215,17 @@
       "name": "Lady LaLa Ice Cream Bicycle",
       "rating": 4,
       "createdAt": "08/04/2025",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "Bertie Smalls Burger Co.",
+      "rating": 5,
+      "createdAt": "26/08/2022",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -5314,17 +5325,6 @@
       "longitude": null
     },
     {
-      "name": "Sweet Dreams",
-      "rating": 3,
-      "createdAt": "01/10/2021",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Borough Market Kitchen",
       "rating": 2,
       "createdAt": "14/01/2026",
@@ -7844,7 +7844,7 @@
       "longitude": -2.104026
     },
     {
-      "name": "1823 Cellar",
+      "name": "1823 Cellar, Les Quennevais Parade",
       "rating": 5,
       "createdAt": "21/06/2023",
       "address1": null,
@@ -10616,17 +10616,6 @@
       "longitude": -2.10304
     },
     {
-      "name": "Ob Mizi-at the table",
-      "rating": 4,
-      "createdAt": "22/01/2026",
-      "address1": null,
-      "address2": "Maison Herault",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8AB",
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Beachside No.1 & No.2",
       "rating": 5,
       "createdAt": "25/07/2025",
@@ -10713,6 +10702,17 @@
       "postCode": "JE2 7TP",
       "latitude": 49.193129,
       "longitude": -2.084875
+    },
+    {
+      "name": "1823 Cellar, Central Market",
+      "rating": 5,
+      "createdAt": "17/08/2026",
+      "address1": "47-49",
+      "address2": "Central Market",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WL",
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "Baiana",
@@ -11109,6 +11109,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "Lulu's",
+      "rating": 3,
+      "createdAt": "18/08/2026",
+      "address1": "15  Mulcaster Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3NJ",
+      "latitude": 49.183115,
+      "longitude": -2.106983
     },
     {
       "name": "Timbers",
