@@ -1317,8 +1317,8 @@
       "address2": "Halkett Place",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 51.385234,
-      "longitude": -0.189778
+      "latitude": 49.19229,
+      "longitude": -2.10276
     },
     {
       "name": "The Jersey Tea Company Ltd",
@@ -1685,8 +1685,8 @@
     },
     {
       "name": "Marina Metro Hotel",
-      "rating": 3,
-      "createdAt": "20/06/2024",
+      "rating": 2,
+      "createdAt": "19/08/2026",
       "address1": "Havre des Pas",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -11131,6 +11131,17 @@
       "postCode": "JE3 8AW",
       "latitude": 49.17621,
       "longitude": -2.179202
+    },
+    {
+      "name": "Tallow",
+      "rating": 4,
+      "createdAt": "19/08/2026",
+      "address1": "8  Caledonia Place",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 3NG",
+      "latitude": 49.18222,
+      "longitude": -2.10788
     },
     {
       "name": "The Pantry by Kismet Cabana",
