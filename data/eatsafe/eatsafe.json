@@ -903,17 +903,6 @@
       "longitude": -2.11295
     },
     {
-      "name": "St. John's Inn",
-      "rating": 3,
-      "createdAt": "07/03/2024",
-      "address1": "La Rue De La Mare Ballam",
-      "address2": "St. John",
-      "address3": "St. John",
-      "postCode": "JE3 4EJ",
-      "latitude": 49.227283,
-      "longitude": -2.147582
-    },
-    {
       "name": "St. John's Parish Hall",
       "rating": 5,
       "createdAt": "24/10/2023",
@@ -1977,8 +1966,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3RR",
-      "latitude": 50.82059,
-      "longitude": -0.13454
+      "latitude": 50.82034,
+      "longitude": -0.13488
     },
     {
       "name": "General Hospital (HCS Catering)",
@@ -2560,8 +2549,8 @@
       "address2": "St. Mary",
       "address3": "St. Mary",
       "postCode": "JE3 3BD",
-      "latitude": 49.1845,
-      "longitude": -2.108134
+      "latitude": 49.305369,
+      "longitude": -0.663231
     },
     {
       "name": "Bacchus Wine Bar",
@@ -3292,7 +3281,7 @@
     {
       "name": "The Boat House & The Anchor Club",
       "rating": 3,
-      "createdAt": "13/05/2025",
+      "createdAt": "20/08/2026",
       "address1": "The Boat House Restaurant",
       "address2": "La Neuve Route",
       "address3": "St. Brelade",
@@ -4595,8 +4584,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3RR",
-      "latitude": 50.82068,
-      "longitude": -0.13455
+      "latitude": 50.82025,
+      "longitude": -0.1349
     },
     {
       "name": "Blacks",
@@ -4848,8 +4837,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3QP",
-      "latitude": 50.76889,
-      "longitude": -0.87264
+      "latitude": 51.12115,
+      "longitude": -0.18085
     },
     {
       "name": "Plat Douet School",
@@ -6707,8 +6696,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4GJ",
-      "latitude": 49.1867,
-      "longitude": -2.09747
+      "latitude": 49.18497,
+      "longitude": -2.09885
     },
     {
       "name": "Jersey College for Girls",
@@ -6839,8 +6828,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4WF",
-      "latitude": 51.49323,
-      "longitude": -0.22746
+      "latitude": 51.126305,
+      "longitude": -0.009127
     },
     {
       "name": "Co-op Fresh Food Grande Marche",
@@ -6872,8 +6861,8 @@
       "address2": "St. Lawrence",
       "address3": "St. Lawrence",
       "postCode": "JE3 1GL",
-      "latitude": 49.227283,
-      "longitude": -2.147582
+      "latitude": 49.459205,
+      "longitude": -1.313287
     },
     {
       "name": "Earl Grey Public House",
@@ -7620,8 +7609,8 @@
       "address2": "Weighbridge",
       "address3": "St. Helier",
       "postCode": "JE2 3NF",
-      "latitude": 49.193375,
-      "longitude": -2.116609
+      "latitude": 49.185665,
+      "longitude": -2.110228
     },
     {
       "name": "The Secret Bartender",
@@ -8489,8 +8478,8 @@
       "address2": "Halkett Place",
       "address3": "St. Helier",
       "postCode": "JE2 4WL",
-      "latitude": 51.39754,
-      "longitude": -0.18623
+      "latitude": 49.19229,
+      "longitude": -2.10276
     },
     {
       "name": "Soft Spot Gelato",
