@@ -1,11 +1,67 @@
 {
   "pagination": {
-    "totalItems": 9277,
+    "totalItems": 9285,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-15",
+      "producer": "Health and Care Jersey",
+      "id": 9667,
+      "title": "dDeaf Partnership Board records"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-15",
+      "producer": "Health and Care Jersey",
+      "id": 9666,
+      "title": "dDeaf Partnership Board records (2)"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-15",
+      "producer": "Health and Care Jersey",
+      "id": 9665,
+      "title": "Multiple Sclerosis data"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-10",
+      "producer": "Health and Care Jersey",
+      "id": 9651,
+      "title": "HCJ Subject Access Request Data as at July 2026"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-08-20",
+      "producer": "Freedom of Information office",
+      "id": 9635,
+      "title": "Coercive and Controlling Behaviour Offences & Training"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-08-18",
+      "producer": "Freedom of Information office",
+      "id": 9634,
+      "title": "Tender Opportunity"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-08-18",
+      "producer": "Freedom of Information office",
+      "id": 9633,
+      "title": "Married Taxpayers "
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-08-18",
+      "producer": "Freedom of Information office",
+      "id": 9632,
+      "title": "Translation Services"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-05-28",
