@@ -916,7 +916,7 @@
     {
       "name": "Cafe Ouen",
       "rating": 2,
-      "createdAt": "14/05/2026",
+      "createdAt": "23/06/2026",
       "address1": "Portinfer Farm",
       "address2": "La Rue de la Porte",
       "address3": "St. Ouen",
@@ -927,7 +927,7 @@
     {
       "name": "Unifare Stores",
       "rating": 3,
-      "createdAt": "10/04/2024",
+      "createdAt": "24/08/2026",
       "address1": "Le Geyt Road",
       "address2": "St. Saviour",
       "address3": "St. Saviour",
@@ -1528,17 +1528,6 @@
       "postCode": "JE2 3QA",
       "latitude": 49.184776,
       "longitude": -2.111966
-    },
-    {
-      "name": "Marks & Spencer - Liberty Wharf",
-      "rating": 5,
-      "createdAt": "06/10/2023",
-      "address1": "Liberty Wharf Food Hall",
-      "address2": "Liberty Wharf",
-      "address3": "St. Helier",
-      "postCode": "JE2 3NY",
-      "latitude": 49.185665,
-      "longitude": -2.110228
     },
     {
       "name": "R Fresh , Charing Cross",
@@ -3181,8 +3170,8 @@
     },
     {
       "name": "Binney & Boarder",
-      "rating": 3,
-      "createdAt": "22/09/2025",
+      "rating": 5,
+      "createdAt": "28/04/2026",
       "address1": null,
       "address2": null,
       "address3": null,

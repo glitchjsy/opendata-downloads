@@ -1,11 +1,32 @@
 {
   "pagination": {
-    "totalItems": 9285,
+    "totalItems": 9288,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-16",
+      "producer": "Health and Care Jersey",
+      "id": 9671,
+      "title": "Hip and cataract waitlist data (2)"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-16",
+      "producer": "Health and Care Jersey",
+      "id": 9670,
+      "title": "Dual-mobility hip replacement surgery"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-16",
+      "producer": "Health and Care Jersey",
+      "id": 9669,
+      "title": "Gender Service data"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-09-15",
