@@ -8185,17 +8185,6 @@
       "longitude": -2.182927
     },
     {
-      "name": "Scoop, The Sustainable Cooperative",
-      "rating": 4,
-      "createdAt": "04/10/2022",
-      "address1": "Bienvenue Farm",
-      "address2": "La Grande Route de St. Laurent",
-      "address3": "St. Lawrence",
-      "postCode": "JE3 1NN",
-      "latitude": 49.221847,
-      "longitude": -2.141663
-    },
-    {
       "name": "The Bass and Lobster",
       "rating": 3,
       "createdAt": "19/04/2024",
@@ -9023,7 +9012,7 @@
     {
       "name": "The Goose",
       "rating": 3,
-      "createdAt": "29/05/2024",
+      "createdAt": "27/08/2026",
       "address1": "La Route de la Haule",
       "address2": "St. Peter",
       "address3": "St. Peter",
