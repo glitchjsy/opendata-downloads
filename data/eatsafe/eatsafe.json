@@ -243,6 +243,17 @@
       "longitude": -2.090318
     },
     {
+      "name": "Trinity Local Store",
+      "rating": 5,
+      "createdAt": "02/09/2026",
+      "address1": "La Rue ès Picots",
+      "address2": null,
+      "address3": "Trinity",
+      "postCode": "JE3 5JX",
+      "latitude": 49.232969,
+      "longitude": -2.086812
+    },
+    {
       "name": "Rozel Tea Room & Love Cake, Samares Manor",
       "rating": 4,
       "createdAt": "02/04/2024",
@@ -486,8 +497,8 @@
     },
     {
       "name": "Cocorico",
-      "rating": 2,
-      "createdAt": "21/11/2025",
+      "rating": 4,
+      "createdAt": "03/09/2026",
       "address1": "118-119",
       "address2": "Central Market",
       "address3": "St. Helier",
@@ -3479,7 +3490,7 @@
     {
       "name": "Beachcombers Hotel",
       "rating": 2,
-      "createdAt": "12/02/2025",
+      "createdAt": "02/09/2026",
       "address1": "Beachcombers Hotel",
       "address2": "La Rue à Don",
       "address3": "Grouville",
@@ -5193,17 +5204,6 @@
       "longitude": -2.022287
     },
     {
-      "name": "Little Brazil",
-      "rating": 3,
-      "createdAt": "13/03/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Age Concern Jersey",
       "rating": 5,
       "createdAt": "07/10/2024",
@@ -6632,17 +6632,6 @@
       "postCode": "JE3 8HN",
       "latitude": 49.180472,
       "longitude": -2.230625
-    },
-    {
-      "name": "Harbour Newsagent",
-      "rating": 5,
-      "createdAt": "01/08/2022",
-      "address1": "Elizabeth Harbour",
-      "address2": "La Route Du Port Elizabeth",
-      "address3": "St. Helier",
-      "postCode": "JE2 3NW",
-      "latitude": 49.182489,
-      "longitude": -2.113081
     },
     {
       "name": "Best-one Ltd",
@@ -9439,17 +9428,6 @@
       "longitude": -2.110228
     },
     {
-      "name": "Elizabeth Terminal Duty Free Shop",
-      "rating": 5,
-      "createdAt": "17/08/2023",
-      "address1": "Elizabeth Harbour",
-      "address2": "La Route Du Port Elizabeth",
-      "address3": "St. Helier",
-      "postCode": "JE2 3NW",
-      "latitude": 49.182489,
-      "longitude": -2.113081
-    },
-    {
       "name": "City Cafe",
       "rating": 3,
       "createdAt": "13/02/2025",
@@ -9890,7 +9868,7 @@
       "longitude": -2.103057
     },
     {
-      "name": "The Party Crew",
+      "name": "The Party Crew Limited",
       "rating": 5,
       "createdAt": "19/05/2026",
       "address1": null,
