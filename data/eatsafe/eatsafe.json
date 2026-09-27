@@ -6711,6 +6711,17 @@
       "longitude": null
     },
     {
+      "name": "Biarritz Hotel",
+      "rating": 4,
+      "createdAt": "02/07/2025",
+      "address1": "Le Mont Sohier",
+      "address2": "St. Brelade",
+      "address3": null,
+      "postCode": "JE3 8EA",
+      "latitude": 49.184566,
+      "longitude": -2.190593
+    },
+    {
       "name": "Boots Les Quennevais Parade",
       "rating": 5,
       "createdAt": "11/05/2022",
