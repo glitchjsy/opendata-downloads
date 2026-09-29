@@ -1312,7 +1312,7 @@
     {
       "name": "Just William",
       "rating": 5,
-      "createdAt": "13/10/2022",
+      "createdAt": "07/09/2026",
       "address1": "93 Central Market",
       "address2": "Halkett Place",
       "address3": "St. Helier",
@@ -1675,7 +1675,7 @@
     {
       "name": "Marina Metro Hotel",
       "rating": 2,
-      "createdAt": "19/08/2026",
+      "createdAt": "01/09/2026",
       "address1": "Havre des Pas",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -1938,8 +1938,8 @@
     },
     {
       "name": "The Cabana",
-      "rating": 3,
-      "createdAt": "31/07/2024",
+      "rating": 4,
+      "createdAt": "07/09/2026",
       "address1": "11-11a Waterloo Street",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -4342,8 +4342,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4SU",
-      "latitude": 51.527312,
-      "longitude": -0.091324
+      "latitude": 51.527311,
+      "longitude": -0.091304
     },
     {
       "name": "The Organic Shop",
@@ -4853,8 +4853,8 @@
     },
     {
       "name": "Acrewood Day Nursery",
-      "rating": 5,
-      "createdAt": "24/10/2022",
+      "rating": 4,
+      "createdAt": "07/09/2026",
       "address1": "Acrewood Day Nursery",
       "address2": "Petit Menage",
       "address3": "St. Saviour",
@@ -6674,8 +6674,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4GJ",
-      "latitude": 49.18497,
-      "longitude": -2.09885
+      "latitude": 49.1867,
+      "longitude": -2.09747
     },
     {
       "name": "Jersey College for Girls",
@@ -10304,8 +10304,8 @@
       "address2": "Unit 1A Barette Commercial Centre",
       "address3": "St. John",
       "postCode": "JE3 4DS",
-      "latitude": 39.278206,
-      "longitude": -75.04356
+      "latitude": 49.246555,
+      "longitude": -2.134973
     },
     {
       "name": "Little Bolo by D",
