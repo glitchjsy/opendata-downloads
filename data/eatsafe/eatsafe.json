@@ -859,6 +859,17 @@
       "longitude": -2.10251
     },
     {
+      "name": "Salt",
+      "rating": 5,
+      "createdAt": "08/09/2026",
+      "address1": "La Route de la Baie",
+      "address2": null,
+      "address3": "JE3 8EF",
+      "postCode": null,
+      "latitude": 48.132118,
+      "longitude": -64.988816
+    },
+    {
       "name": "The Office",
       "rating": 5,
       "createdAt": "21/08/2023",
@@ -2434,7 +2445,7 @@
     {
       "name": "St. Lawrence Parish Hall",
       "rating": 5,
-      "createdAt": "17/02/2023",
+      "createdAt": "26/03/2026",
       "address1": "La Grande Route de St. Laurent",
       "address2": "St. Lawrence",
       "address3": "St. Lawrence",
@@ -2971,17 +2982,6 @@
       "longitude": -2.110228
     },
     {
-      "name": "Roast Bistro",
-      "rating": 4,
-      "createdAt": "05/01/2023",
-      "address1": "28 Sand Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": null,
-      "latitude": 49.18566,
-      "longitude": -2.11093
-    },
-    {
       "name": "Dandy",
       "rating": 3,
       "createdAt": "29/01/2025",
@@ -3343,17 +3343,6 @@
       "postCode": "JE3 4BJ",
       "latitude": 49.246555,
       "longitude": -2.134973
-    },
-    {
-      "name": "Avoca Villa Guest House",
-      "rating": 5,
-      "createdAt": "15/08/2022",
-      "address1": "Avoca Villa Guest House",
-      "address2": "92 Great Union Road",
-      "address3": "St. Helier",
-      "postCode": "JE2 3WA",
-      "latitude": 49.19037,
-      "longitude": -2.10842
     },
     {
       "name": "The Royal British Legion",
@@ -5325,17 +5314,6 @@
       "longitude": null
     },
     {
-      "name": "Master Farms Ltd",
-      "rating": 5,
-      "createdAt": "23/08/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Plouf",
       "rating": 5,
       "createdAt": "01/03/2024",
@@ -6709,17 +6687,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "Biarritz Hotel",
-      "rating": 4,
-      "createdAt": "02/07/2025",
-      "address1": "Le Mont Sohier",
-      "address2": "St. Brelade",
-      "address3": null,
-      "postCode": "JE3 8EA",
-      "latitude": 49.184566,
-      "longitude": -2.190593
     },
     {
       "name": "Boots Les Quennevais Parade",
@@ -10889,6 +10856,17 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
+    },
+    {
+      "name": "House of Champions",
+      "rating": 5,
+      "createdAt": "09/09/2026",
+      "address1": "3 St. Andrews Place",
+      "address2": "Charing Cross",
+      "address3": "St. Helier",
+      "postCode": "JE2 3RP",
+      "latitude": 49.184822,
+      "longitude": -2.109772
     },
     {
       "name": "Bessie' Bakes Jersey",
