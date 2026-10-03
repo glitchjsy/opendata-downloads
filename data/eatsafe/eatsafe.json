@@ -1761,17 +1761,6 @@
       "longitude": -2.062365
     },
     {
-      "name": "St. Aubins Sports Bar",
-      "rating": 5,
-      "createdAt": "02/05/2025",
-      "address1": "St. Aubins Wine Bar",
-      "address2": "La Rue du Crocquet",
-      "address3": "St. Brelade",
-      "postCode": "JE3 8BZ",
-      "latitude": 49.189334,
-      "longitude": -2.169974
-    },
-    {
       "name": "The Panorama",
       "rating": 5,
       "createdAt": "13/05/2022",
@@ -6876,17 +6865,6 @@
       "longitude": -2.196851
     },
     {
-      "name": "Wheatlands Limited",
-      "rating": 5,
-      "createdAt": "25/05/2022",
-      "address1": "Restaurant",
-      "address2": "Les Grupieaux",
-      "address3": "St. Peter",
-      "postCode": "JE3 7ED",
-      "latitude": 49.204464,
-      "longitude": -2.160662
-    },
-    {
       "name": "Maison Gorey Hotel",
       "rating": 5,
       "createdAt": "03/06/2025",
@@ -8209,7 +8187,7 @@
     {
       "name": "St. Brelade Youth Project",
       "rating": 3,
-      "createdAt": "30/07/2021",
+      "createdAt": "10/09/2026",
       "address1": "Communicare Centre",
       "address2": "Clos de Carrel",
       "address3": "St. Brelade",
