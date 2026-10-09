@@ -573,6 +573,17 @@
       "longitude": -2.101813
     },
     {
+      "name": "Wheatlands Golf Course",
+      "rating": 5,
+      "createdAt": "25/05/2022",
+      "address1": "Wheatlands Golf Course",
+      "address2": "Les Grupieaux",
+      "address3": null,
+      "postCode": "JE3 7ED",
+      "latitude": 49.204464,
+      "longitude": -2.160662
+    },
+    {
       "name": "St Luke's Primary School",
       "rating": 5,
       "createdAt": "03/06/2026",
@@ -2984,7 +2995,7 @@
     {
       "name": "Polo Market",
       "rating": 4,
-      "createdAt": "31/08/2023",
+      "createdAt": "17/09/2026",
       "address1": "31 Devonshire Place",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -3831,7 +3842,7 @@
     {
       "name": "Restaurant Do Porto",
       "rating": 3,
-      "createdAt": "28/07/2022",
+      "createdAt": "15/09/2026",
       "address1": "Restaurant Do Porto",
       "address2": "2-3 Minden Street",
       "address3": "St. Helier",
@@ -7065,7 +7076,7 @@
     {
       "name": "Voisins Kitchen",
       "rating": 3,
-      "createdAt": "29/10/2024",
+      "createdAt": "17/09/2026",
       "address1": "26-32 King Street",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -10350,17 +10361,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "TJ's Bake & Browse (Retail)",
-      "rating": 5,
-      "createdAt": "31/10/2025",
-      "address1": "Georgetown Shop",
-      "address2": "Georgetown Road",
-      "address3": "St. Saviour",
-      "postCode": "JE2 7PH",
-      "latitude": 49.178826,
-      "longitude": -2.093266
     },
     {
       "name": "Tamba Bowl",
