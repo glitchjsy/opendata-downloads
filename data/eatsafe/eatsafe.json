@@ -4535,7 +4535,7 @@
     {
       "name": "Dough Rye Me",
       "rating": 3,
-      "createdAt": "08/03/2023",
+      "createdAt": "22/09/2026",
       "address1": "5",
       "address2": "Temple Court",
       "address3": "St. John",
@@ -4971,17 +4971,6 @@
       "postCode": null,
       "latitude": 51.51728,
       "longitude": -0.07947
-    },
-    {
-      "name": "The Kiosk, St. Brelade Sports and Social Club",
-      "rating": 4,
-      "createdAt": "23/07/2024",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "name": "The Jersey Grazing Co",
@@ -6641,8 +6630,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4GJ",
-      "latitude": 49.1867,
-      "longitude": -2.09747
+      "latitude": 49.18497,
+      "longitude": -2.09885
     },
     {
       "name": "Jersey College for Girls",
@@ -8610,8 +8599,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 3YJ",
-      "latitude": 51.53421,
-      "longitude": -0.14174
+      "latitude": 51.83651,
+      "longitude": -0.4619
     },
     {
       "name": "The White Horse Inn",
@@ -10606,8 +10595,8 @@
     },
     {
       "name": "La Maison Gourmande",
-      "rating": 2,
-      "createdAt": "29/09/2025",
+      "rating": 3,
+      "createdAt": "23/09/2026",
       "address1": "1-2  Bagatelle Parade",
       "address2": "Bagatelle Road",
       "address3": "St. Saviour",

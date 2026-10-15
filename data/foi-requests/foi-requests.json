@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9288,
+    "totalItems": 9289,
     "limit": 1000000,
     "totalPages": 1,
     "page": 1
   },
   "results": [
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-09-11",
+      "producer": "Freedom of Information office",
+      "id": 9673,
+      "title": "DFDS Ferry concession, Capacity, Availability and Compliance"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-09-16",
