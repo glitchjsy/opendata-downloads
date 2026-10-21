@@ -3,7 +3,7 @@
     {
       "name": "G&J Flavours of Home, Bath Street",
       "rating": 3,
-      "createdAt": "16/09/2024",
+      "createdAt": "10/09/2026",
       "address1": "Morrisons Daily",
       "address2": "48-60  Bath Street",
       "address3": "St. Helier",
@@ -1927,8 +1927,8 @@
     },
     {
       "name": "Jersey Post Canteen",
-      "rating": 5,
-      "createdAt": "30/05/2022",
+      "rating": 4,
+      "createdAt": "25/09/2026",
       "address1": "Sorting Office",
       "address2": "Jersey Postal Headquarters",
       "address3": "St. Saviour",
@@ -3996,7 +3996,7 @@
     {
       "name": "First Stop Coffee Shop & Restaurant",
       "rating": 3,
-      "createdAt": "01/08/2024",
+      "createdAt": "28/09/2026",
       "address1": "Maison du Coin",
       "address2": "Cheapside",
       "address3": "St. Helier",
@@ -7811,6 +7811,17 @@
       "longitude": -2.202159
     },
     {
+      "name": "The Lounge Sports Bar",
+      "rating": 5,
+      "createdAt": "23/09/2026",
+      "address1": "22  Beresford Street",
+      "address2": null,
+      "address3": "St. Helier",
+      "postCode": "JE2 4WN",
+      "latitude": 49.185217,
+      "longitude": -2.103294
+    },
+    {
       "name": "Boatfayre",
       "rating": 5,
       "createdAt": "05/08/2026",
@@ -10341,7 +10352,7 @@
       "longitude": -2.11222
     },
     {
-      "name": "The Pro Shop (events)",
+      "name": "Lakrids by Bulow, The Pro Shop",
       "rating": 5,
       "createdAt": "02/02/2026",
       "address1": null,
@@ -10449,6 +10460,17 @@
       "postCode": "JE2 3RR",
       "latitude": 49.1845,
       "longitude": -2.108134
+    },
+    {
+      "name": "Lilly's Mini Market",
+      "rating": 5,
+      "createdAt": "24/09/2026",
+      "address1": "Trinity House",
+      "address2": "30  Bath Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4ST",
+      "latitude": 49.18481,
+      "longitude": -2.10262
     },
     {
       "name": "Tasty Little Treats",
@@ -10640,7 +10662,7 @@
     {
       "name": "Paraiso Cafe",
       "rating": 3,
-      "createdAt": "14/11/2023",
+      "createdAt": "28/09/2026",
       "address1": "61a  New Street",
       "address2": null,
       "address3": "St. Helier",
