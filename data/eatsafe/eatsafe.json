@@ -2784,7 +2784,7 @@
       "longitude": -2.102542
     },
     {
-      "name": "Silkworth",
+      "name": "Silkworth Lodge",
       "rating": 4,
       "createdAt": "30/05/2024",
       "address1": "Silkworth",
@@ -3732,7 +3732,7 @@
     {
       "name": "Westhill Country Hotel",
       "rating": 3,
-      "createdAt": "24/07/2025",
+      "createdAt": "02/10/2026",
       "address1": "Westhill Country Hotel",
       "address2": "West Hill",
       "address3": "St. Helier",
@@ -3908,7 +3908,7 @@
     {
       "name": "Eastern Delights",
       "rating": 5,
-      "createdAt": "27/09/2023",
+      "createdAt": "30/09/2026",
       "address1": "4 Minden Place",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -4113,17 +4113,6 @@
       "postCode": "JE2 3WF",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "Supermarket Alliance Ltd",
-      "rating": 5,
-      "createdAt": "07/08/2023",
-      "address1": "6 & 8",
-      "address2": "Sand Street",
-      "address3": "St. Helier",
-      "postCode": "JE2 3QF",
-      "latitude": 49.18535,
-      "longitude": -2.11013
     },
     {
       "name": "The Club Hotel & Spa & Bohemia",
@@ -6401,17 +6390,6 @@
       "postCode": "JE2 4TT",
       "latitude": 49.186671,
       "longitude": -2.103575
-    },
-    {
-      "name": "Little Thai Ltd",
-      "rating": 3,
-      "createdAt": "18/08/2022",
-      "address1": "35 Hill Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4UA",
-      "latitude": 51.50811,
-      "longitude": -0.14926
     },
     {
       "name": "The Kitchen at Gorey Village",
@@ -10735,6 +10713,17 @@
       "postCode": "JE2 4WT",
       "latitude": 49.185216,
       "longitude": -2.104769
+    },
+    {
+      "name": "Sushi-Go Limited",
+      "rating": 3,
+      "createdAt": "01/10/2026",
+      "address1": "Takeaway",
+      "address2": "10  Mulcaster Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 3NJ",
+      "latitude": 49.183115,
+      "longitude": -2.106983
     },
     {
       "name": "Grainville School",
