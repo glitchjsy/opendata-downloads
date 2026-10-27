@@ -1,11 +1,165 @@
 {
   "pagination": {
-    "totalItems": 9289,
+    "totalItems": 9311,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-23",
+      "producer": "Health and Care Jersey",
+      "id": 9719,
+      "title": "Missing medical records"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-19",
+      "producer": "Health and Care Jersey",
+      "id": 9717,
+      "title": "Southampton patient treatment and expenses"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-16",
+      "producer": "Health and Care Jersey",
+      "id": 9716,
+      "title": "Ambulance access at La Ville de la Croix 2021 to present"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-14",
+      "producer": "Health and Care Jersey",
+      "id": 9715,
+      "title": "PFAS health outcome analysis"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-12",
+      "producer": "Health and Care Jersey",
+      "id": 9713,
+      "title": "PFAS indemnity"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-08",
+      "producer": "Health and Care Jersey",
+      "id": 9712,
+      "title": "Use of community first responders"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-08",
+      "producer": "Health and Care Jersey",
+      "id": 9711,
+      "title": "Women's health strategy budget (2)"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-10-08",
+      "producer": "Health and Care Jersey",
+      "id": 9710,
+      "title": "Covid vaccine indemnity"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-30",
+      "producer": "Health and Care Jersey",
+      "id": 9705,
+      "title": "Restrictions on a doctor's medical and surgical practice at the General Hospital"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-30",
+      "producer": "Health and Care Jersey",
+      "id": 9700,
+      "title": "Job creation in Health and Care Jersey during recruitment freeze"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-09-30",
+      "producer": "Health and Care Jersey",
+      "id": 9698,
+      "title": "Suppliers for hybrid mail, print and post or patient communication"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-18",
+      "producer": "Freedom of Information office",
+      "id": 9687,
+      "title": "Coronation Park Parking Fines"
+    },
+    {
+      "author": "Viscounts Department",
+      "publishDate": "2026-09-16",
+      "producer": "Freedom of Information office",
+      "id": 9686,
+      "title": "Court Services Feedback and Complaints Policy Viscount’s Department "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-15",
+      "producer": "Freedom of Information office",
+      "id": 9684,
+      "title": "Lions Swimarathon Funding and support"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-15",
+      "producer": "Freedom of Information office",
+      "id": 9683,
+      "title": "Fort Regent Stage 1 re-development"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-09-15",
+      "producer": "Freedom of Information office",
+      "id": 9682,
+      "title": "Minimum wage and inflation"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-09-15",
+      "producer": "Freedom of Information office",
+      "id": 9681,
+      "title": "Tax Paid to the UK Government"
+    },
+    {
+      "author": "Judicial Greffe",
+      "publishDate": "2026-09-14",
+      "producer": "Freedom of Information office",
+      "id": 9680,
+      "title": "Judicial Greffe Complaints Policy"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-09-14",
+      "producer": "Freedom of Information office",
+      "id": 9679,
+      "title": "Hautlieu Admissions"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-14",
+      "producer": "Freedom of Information office",
+      "id": 9678,
+      "title": "Victoria Marine Lake Pool Costs"
+    },
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-09-14",
+      "producer": "Freedom of Information office",
+      "id": 9676,
+      "title": "Commissioner for Standards complaints correspondence"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-09-14",
+      "producer": "Freedom of Information office",
+      "id": 9675,
+      "title": "Reading and Writing Assessments"
+    },
     {
       "author": "Department for the Economy",
       "publishDate": "2026-09-11",
