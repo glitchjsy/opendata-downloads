@@ -683,6 +683,17 @@
       "longitude": -2.097242
     },
     {
+      "name": "Old Bank House",
+      "rating": 3,
+      "createdAt": "05/10/2026",
+      "address1": "Gorey Village Main Road",
+      "address2": null,
+      "address3": "Grouville",
+      "postCode": "JE3 9FX",
+      "latitude": 49.195959,
+      "longitude": -2.03384
+    },
+    {
       "name": "Old Court House Inn",
       "rating": 4,
       "createdAt": "30/01/2024",
@@ -3952,7 +3963,7 @@
     {
       "name": "Jersey Squash and Racketball Club",
       "rating": 3,
-      "createdAt": "21/12/2023",
+      "createdAt": "05/10/2026",
       "address1": "St. Clement's Sports Hub",
       "address2": "Plat Douet Road",
       "address3": "St. Clement",
@@ -7393,6 +7404,17 @@
       "longitude": -2.1094
     },
     {
+      "name": "The Outlet St. John",
+      "rating": 3,
+      "createdAt": "06/10/2026",
+      "address1": "Les Ruettes",
+      "address2": "La Grande Route De St. Jean",
+      "address3": "St. John",
+      "postCode": "JE3 4FN",
+      "latitude": 49.218901,
+      "longitude": -2.114669
+    },
+    {
       "name": "New Dynasty",
       "rating": 3,
       "createdAt": "13/02/2024",
@@ -8715,7 +8737,7 @@
     {
       "name": "Airport Cash Stores",
       "rating": 4,
-      "createdAt": "10/04/2024",
+      "createdAt": "05/10/2026",
       "address1": "La Petite Route des Mielles",
       "address2": null,
       "address3": "St. Brelade",
@@ -9527,7 +9549,7 @@
       "longitude": null
     },
     {
-      "name": "Pembroke Hotel",
+      "name": "The Pembroke Pub",
       "rating": 3,
       "createdAt": "10/09/2024",
       "address1": "La Grande Route des Sablons",
