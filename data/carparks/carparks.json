@@ -38,8 +38,8 @@
       "longitude": -2.111843,
       "paymentMethods": [
         "PAY_BY_PHONE",
-        "PAYCARD",
-        "SEASON_TICKET"
+        "SEASON_TICKET",
+        "PAYCARD"
       ],
       "spaces": 49,
       "disabledSpaces": 0,
@@ -313,9 +313,9 @@
       "latitude": 49.191433,
       "longitude": -2.123773,
       "paymentMethods": [
-        "PAY_BY_PHONE",
         "PAYCARD",
-        "SEASON_TICKET"
+        "SEASON_TICKET",
+        "PAY_BY_PHONE"
       ],
       "spaces": 59,
       "disabledSpaces": 3,
@@ -524,8 +524,8 @@
       "longitude": -2.125935,
       "paymentMethods": [
         "PAY_BY_PHONE",
-        "PAYCARD",
-        "SEASON_TICKET"
+        "SEASON_TICKET",
+        "PAYCARD"
       ],
       "spaces": 122,
       "disabledSpaces": 5,
@@ -718,9 +718,9 @@
       "latitude": 49.180432,
       "longitude": -2.107817,
       "paymentMethods": [
-        "PAY_BY_PHONE",
+        "SEASON_TICKET",
         "PAYCARD",
-        "SEASON_TICKET"
+        "PAY_BY_PHONE"
       ],
       "spaces": 836,
       "disabledSpaces": 4,
@@ -889,8 +889,8 @@
       "longitude": -2.158121,
       "paymentMethods": [
         "PAY_BY_PHONE",
-        "SEASON_TICKET",
-        "PAYCARD"
+        "PAYCARD",
+        "SEASON_TICKET"
       ],
       "spaces": 109,
       "disabledSpaces": 2,
@@ -1102,9 +1102,9 @@
       "latitude": 49.190883,
       "longitude": -2.200871,
       "paymentMethods": [
+        "SEASON_TICKET",
         "PAY_BY_PHONE",
-        "PAYCARD",
-        "SEASON_TICKET"
+        "PAYCARD"
       ],
       "spaces": 35,
       "disabledSpaces": 0,
@@ -1242,8 +1242,8 @@
       "longitude": -2.102141,
       "paymentMethods": [
         "PAY_BY_PHONE",
-        "PAYCARD",
-        "SEASON_TICKET"
+        "SEASON_TICKET",
+        "PAYCARD"
       ],
       "spaces": 576,
       "disabledSpaces": 8,
@@ -1355,9 +1355,9 @@
       "latitude": 49.185676,
       "longitude": -2.196665,
       "paymentMethods": [
-        "PAY_BY_PHONE",
+        "SEASON_TICKET",
         "PAYCARD",
-        "SEASON_TICKET"
+        "PAY_BY_PHONE"
       ],
       "spaces": 122,
       "disabledSpaces": 2,

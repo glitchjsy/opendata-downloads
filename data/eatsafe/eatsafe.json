@@ -2555,7 +2555,7 @@
     {
       "name": "Green Island Restaurant",
       "rating": 3,
-      "createdAt": "05/07/2024",
+      "createdAt": "08/10/2026",
       "address1": "La Rue de Samarès",
       "address2": "St. Clement",
       "address3": "St. Clement",
@@ -6608,8 +6608,8 @@
       "address2": "St. Helier",
       "address3": "St. Helier",
       "postCode": "JE2 4GJ",
-      "latitude": 49.18497,
-      "longitude": -2.09885
+      "latitude": 49.1867,
+      "longitude": -2.09747
     },
     {
       "name": "Jersey College for Girls",
@@ -7417,7 +7417,7 @@
     {
       "name": "New Dynasty",
       "rating": 3,
-      "createdAt": "13/02/2024",
+      "createdAt": "07/10/2026",
       "address1": "6 Parade Arcade",
       "address2": "The Parade",
       "address3": "St. Helier",
@@ -11111,6 +11111,17 @@
       "longitude": null
     },
     {
+      "name": "Banh Mi To Go",
+      "rating": 5,
+      "createdAt": "08/10/2026",
+      "address1": "10 Beresford Market",
+      "address2": "Beresford Street",
+      "address3": "St. Helier",
+      "postCode": "JE2 4WX",
+      "latitude": 49.185261,
+      "longitude": -2.103687
+    },
+    {
       "name": "Ganache Jersey Limited",
       "rating": 5,
       "createdAt": "12/06/2026",
@@ -11197,6 +11208,17 @@
       "postCode": "JE2 3RP",
       "latitude": 49.185157,
       "longitude": -2.109372
+    },
+    {
+      "name": "The Little B Cafe",
+      "rating": 2,
+      "createdAt": "08/10/2026",
+      "address1": "Liberation Station",
+      "address2": "Esplanade",
+      "address3": "St. Helier",
+      "postCode": "JE2 3AS",
+      "latitude": 49.184776,
+      "longitude": -2.111966
     },
     {
       "name": "Blonde",
