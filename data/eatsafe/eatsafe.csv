@@ -79,6 +79,7 @@ Vienna Bakery Ltd,5,10/07/2024,Vienna Bakery,25   29 Central Market,St. Helier,J
 Normans Limited,5,19/01/2026,Normans Ltd,10 & 24,St. Helier,JE1 1BU,49.185665,-2.110228
 Gloster Vaults,5,25/07/2022,The Gloster Vaults,Gloucester Street,St. Helier,JE2 3QR,49.187144,-2.111804
 The New Park Hotel,4,19/02/2019,New Park Hotel,4,St. Helier,JE2 3PD,49.19225,-2.10251
+St John's Hotel,3,14/10/2026,St. John's Inn,La Rue de la Mare Ballam,St. John,JE3 4EJ,49.232167,-0.192676
 Salt,5,08/09/2026,La Route de la Baie,,JE3 8EF,,48.132118,-64.988816
 The Office,5,21/08/2023,Hope Street,,St Helier,JE2 3NS,49.183207,-2.107488
 Luma Cafe,2,30/06/2026,25  Halkett Street,,St. Helier,JE2 4WJ,49.18504,-2.10338
@@ -247,7 +248,7 @@ The Oxford,4,17/04/2025,6 Union Street,St. Helier,St. Helier,JE2 3RF,51.50351,-0
 Chloe Bowler,5,09/02/2023,,,,,,
 "Casa Paco, La Folie Harbour",4,08/04/2025,,,,,,
 Fin and Feather,5,16/04/2026,23-26 Beresford Market,Beresford Street,St. Helier,JE2 4WX,49.185278,-2.103846
-Gorey Youth Project,5,01/05/2018,Gorey Youth Club,Hilgrove Variety Youth Centre,Grouville,JE3 9EB,49.200801,-2.092713
+Gorey Youth Project,3,13/10/2026,Gorey Youth Club,Hilgrove Variety Youth Centre,Grouville,JE3 9EB,49.200801,-2.092713
 Norfolk Lodge Hotel,5,25/06/2025,Norfolk Lodge Hotel,57 Rouge Bouillon,St. Helier,JE2 3ZB,49.192778,-2.107506
 The Peirson,4,11/06/2025,17 Royal Square,St. Helier,St. Helier,JE2 4WA,51.48976,-0.16152
 Cock & Bottle Public House,5,06/06/2025,18-19 Royal Square,St. Helier,St. Helier,JE2 4WA,39.61592,-75.081406
@@ -262,7 +263,6 @@ St Ewolds Residential Home,5,09/07/2024,Balmoral Drive,St. Helier,St. Helier,JE2
 St. Brelade Bowls Club,5,06/10/2025,St. Brelade Bowls Club,Les Quennevais Sports Centre,St. Brelade,JE3 8GW,49.193024,-2.199614
 Kelly's Cakes,5,11/12/2023,,,,,,
 Samantha Boon Wedding Cake Design,5,07/03/2024,,,,,,
-New Look,5,21/07/2022,New Look,6  King Street,St. Helier,JE2 4WF,49.1842,-2.10535
 National Trust for Jersey,5,26/07/2022,16 New Street,St. Helier,St. Helier,JE2 3TE,51.51714,-0.07955
 Marks & Spencer - St John,5,22/05/2024,La Route des Issues,St. John,St. John,JE3 4FA,49.243149,-2.127296
 Portelet Bay Cafe,3,28/07/2026,Portelet Bay,La Rue Voisin,St. Brelade,JE3 8AU,49.174492,-2.17672
@@ -580,7 +580,6 @@ The Dolphin Hotel,3,03/02/2025,Gorey Pier,St. Martin,St. Martin,JE3 6EW,49.21772
 Post Horn,5,14/03/2024,5-11½,Hue Street,St. Helier,JE2 3RE,49.185864,-2.108636
 Seascale Hotel,4,03/02/2025,Gorey Pier,St. Martin,St. Martin,JE3 6EW,49.217728,-2.051631
 St James Wine Bar,5,10/10/2022,St James Wine Bar Brasserie,5 Rue du Funchal,St. Helier,JE2 4TT,49.186671,-2.103575
-The Kitchen at Gorey Village,4,13/03/2024,Fairview,Gorey Village Main Road,Grouville,JE3 9EP,49.195959,-2.03384
 Les Houmets Residential Home,5,07/03/2024,Gorey Village Main Road,Grouville,Grouville,JE3 9EP,49.195959,-2.03384
 Mark Jordan at the Beach,5,06/03/2025,La Plage,La Route de la Haule,St. Peter,JE3 7YD,49.196625,-2.157534
 Little Italy,4,16/07/2024,Little Italy,36-38 Kensington Place,St. Helier,JE2 3PA,49.188007,-2.113717
@@ -747,7 +746,7 @@ St. Brelade Youth Project,3,10/09/2026,Communicare Centre,Clos de Carrel,St. Bre
 St. Mary's Youth Project,3,01/02/2022,St Mary's Youth and Community Centre,La Rue du Pont,St. Mary,JE3 3AS,49.23958,-2.175196
 St. Ouen Youth and Community Centre,3,07/03/2022,La Grande Route de St. Ouen,St. Ouen,St. Ouen,JE3 2DA,49.232253,-2.202159
 Youth Arts Jersey,4,06/02/2022,St. James Centre,St. James Street,St. Helier,JE2 3QZ,49.183256,-2.100232
-St. Lawrence Youth Project,3,22/02/2022,Three Oaks,La Grande Route de St. Laurent,St. Lawrence,JE3 1FA,49.221847,-2.141663
+St. Lawrence Youth Project,3,13/10/2026,Three Oaks,La Grande Route de St. Laurent,St. Lawrence,JE3 1FA,49.221847,-2.141663
 Charcuterie Deli Board,4,27/03/2025,13-14 Beresford Market,Beresford Street,St. Helier,JE2 4WX,49.185278,-2.103846
 St. Saviours School,5,07/06/2024,Bagatelle Road,St. Saviour,St. Saviour,JE2 7TY,49.193129,-2.084875
 Julie's Cookies,4,13/12/2022,,,,,,

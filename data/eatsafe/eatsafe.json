@@ -881,6 +881,17 @@
       "longitude": -2.10251
     },
     {
+      "name": "St John's Hotel",
+      "rating": 3,
+      "createdAt": "14/10/2026",
+      "address1": "St. John's Inn",
+      "address2": "La Rue de la Mare Ballam",
+      "address3": "St. John",
+      "postCode": "JE3 4EJ",
+      "latitude": 49.232167,
+      "longitude": -0.192676
+    },
+    {
       "name": "Salt",
       "rating": 5,
       "createdAt": "08/09/2026",
@@ -2730,8 +2741,8 @@
     },
     {
       "name": "Gorey Youth Project",
-      "rating": 5,
-      "createdAt": "01/05/2018",
+      "rating": 3,
+      "createdAt": "13/10/2026",
       "address1": "Gorey Youth Club",
       "address2": "Hilgrove Variety Youth Centre",
       "address3": "Grouville",
@@ -2892,17 +2903,6 @@
       "postCode": null,
       "latitude": null,
       "longitude": null
-    },
-    {
-      "name": "New Look",
-      "rating": 5,
-      "createdAt": "21/07/2022",
-      "address1": "New Look",
-      "address2": "6  King Street",
-      "address3": "St. Helier",
-      "postCode": "JE2 4WF",
-      "latitude": 49.1842,
-      "longitude": -2.10535
     },
     {
       "name": "National Trust for Jersey",
@@ -6392,17 +6392,6 @@
       "longitude": -2.103575
     },
     {
-      "name": "The Kitchen at Gorey Village",
-      "rating": 4,
-      "createdAt": "13/03/2024",
-      "address1": "Fairview",
-      "address2": "Gorey Village Main Road",
-      "address3": "Grouville",
-      "postCode": "JE3 9EP",
-      "latitude": 49.195959,
-      "longitude": -2.03384
-    },
-    {
       "name": "Les Houmets Residential Home",
       "rating": 5,
       "createdAt": "07/03/2024",
@@ -8231,7 +8220,7 @@
     {
       "name": "St. Lawrence Youth Project",
       "rating": 3,
-      "createdAt": "22/02/2022",
+      "createdAt": "13/10/2026",
       "address1": "Three Oaks",
       "address2": "La Grande Route de St. Laurent",
       "address3": "St. Lawrence",
