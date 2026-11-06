@@ -1,11 +1,109 @@
 {
   "pagination": {
-    "totalItems": 9311,
+    "totalItems": 9325,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-09-30",
+      "producer": "Freedom of Information office",
+      "id": 9744,
+      "title": "Battle of Flowers 2026 Fireworks: Fire Service Advice and Risk Planning"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-09-30",
+      "producer": "Freedom of Information office",
+      "id": 9742,
+      "title": "Image and Performance Enhancing Drug Seizures 2016–2026"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-09-30",
+      "producer": "Freedom of Information office",
+      "id": 9740,
+      "title": "Language GCSE Results"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-09-29",
+      "producer": "Freedom of Information office",
+      "id": 9739,
+      "title": "Prison Telephone Services and Extreme Weather Arrangements at La Moye Prison"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-09-29",
+      "producer": "Freedom of Information office",
+      "id": 9737,
+      "title": "Jersey Youth Service"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-09-29",
+      "producer": "Freedom of Information office",
+      "id": 9736,
+      "title": "Tourists from France"
+    },
+    {
+      "author": "States of Jersey Police",
+      "publishDate": "2026-09-28",
+      "producer": "Freedom of Information office",
+      "id": 9734,
+      "title": "Peptides, Steroids and Human Growth Hormone: Seizures and Investigations (States of Jersey Police)"
+    },
+    {
+      "author": "Cabinet Office",
+      "publishDate": "2026-09-28",
+      "producer": "Freedom of Information office",
+      "id": 9730,
+      "title": "Battle of Flowers Firework Display"
+    },
+    {
+      "author": "External Relations",
+      "publishDate": "2026-09-28",
+      "producer": "Freedom of Information office",
+      "id": 9728,
+      "title": "Small Boat Migrant Crossings"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-09-28",
+      "producer": "Freedom of Information office",
+      "id": 9727,
+      "title": "Incidents Attended by Jersey Fire and Rescue Service During January 2024"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-24",
+      "producer": "Freedom of Information office",
+      "id": 9726,
+      "title": "Sewage Sludge Incineration"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-24",
+      "producer": "Freedom of Information office",
+      "id": 9725,
+      "title": "Sewage Sludge & PFAS"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-24",
+      "producer": "Freedom of Information office",
+      "id": 9724,
+      "title": "Testing of Ash"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-09-24",
+      "producer": "Freedom of Information office",
+      "id": 9721,
+      "title": "PFAS- Boreholes"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-10-23",
