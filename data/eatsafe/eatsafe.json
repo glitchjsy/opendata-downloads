@@ -529,6 +529,17 @@
       "longitude": -2.110629
     },
     {
+      "name": "Supermarket Alliance (Sand Street)",
+      "rating": 5,
+      "createdAt": "14/10/2026",
+      "address1": "6-8 Sand Street",
+      "address2": "St Helier",
+      "address3": null,
+      "postCode": "JE2 3QF",
+      "latitude": 49.18533,
+      "longitude": -2.11007
+    },
+    {
       "name": "Maison St Brelade Care Home",
       "rating": 5,
       "createdAt": "07/02/2025",

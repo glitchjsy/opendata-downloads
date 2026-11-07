@@ -1,11 +1,95 @@
 {
   "pagination": {
-    "totalItems": 9325,
+    "totalItems": 9337,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-11-06",
+      "producer": "Health and Care Jersey",
+      "id": 9763,
+      "title": "Waits for various assessment and treatment"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-10-09",
+      "producer": "Freedom of Information office",
+      "id": 9761,
+      "title": "Jersey Bursary Funding"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-08",
+      "producer": "Freedom of Information office",
+      "id": 9760,
+      "title": "Middle Eastern Relocation and Visa Applications to Jersey"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-10-08",
+      "producer": "Freedom of Information office",
+      "id": 9759,
+      "title": "African Jersey Forum"
+    },
+    {
+      "author": "Accountable Officer Arrangements",
+      "publishDate": "2026-10-07",
+      "producer": "Freedom of Information office",
+      "id": 9758,
+      "title": "Accountable Officer Arrangements"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-06",
+      "producer": "Freedom of Information office",
+      "id": 9756,
+      "title": "Jersey Fire and Rescue Service Callouts Supporting Ambulance Service"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-06",
+      "producer": "Freedom of Information office",
+      "id": 9755,
+      "title": "HMP La Moye Nursing Staffing and Cover"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-06",
+      "producer": "Freedom of Information office",
+      "id": 9754,
+      "title": "JCIS Trainee Officer Recruitment, Scoring and Appointments"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-10-06",
+      "producer": "Freedom of Information office",
+      "id": 9753,
+      "title": "C&AG Recommendations Tracker "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-10-05",
+      "producer": "Freedom of Information office",
+      "id": 9752,
+      "title": "Jerriais Signs and Letter Heads"
+    },
+    {
+      "author": "Department for the Economy",
+      "publishDate": "2026-10-02",
+      "producer": "Freedom of Information office",
+      "id": 9751,
+      "title": "Battle of Flowers fireworks"
+    },
+    {
+      "author": "Treasury and Exchequer",
+      "publishDate": "2026-10-01",
+      "producer": "Freedom of Information office",
+      "id": 9748,
+      "title": "Compliance Review of Tax Submissions"
+    },
     {
       "author": "Justice and Home Affairs",
       "publishDate": "2026-09-30",
