@@ -1,11 +1,25 @@
 {
   "pagination": {
-    "totalItems": 9337,
+    "totalItems": 9339,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-11-09",
+      "producer": "Health and Care Jersey",
+      "id": 9765,
+      "title": "System and software supplier contracts"
+    },
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-11-09",
+      "producer": "Health and Care Jersey",
+      "id": 9764,
+      "title": "Hours worked by Foundation Year doctors"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-11-06",
