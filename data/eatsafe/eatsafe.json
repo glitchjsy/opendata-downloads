@@ -5052,7 +5052,7 @@
     {
       "name": "The Butcher's Block",
       "rating": 5,
-      "createdAt": "24/08/2022",
+      "createdAt": "15/10/2026",
       "address1": "25 Les Quennevais Parade",
       "address2": "St. Brelade",
       "address3": "St. Brelade",
@@ -7140,7 +7140,7 @@
       "longitude": -2.147153
     },
     {
-      "name": "Kyoto Restobar",
+      "name": "Kyoto Restobar Takeaway (2 Elizabeth Place)",
       "rating": 4,
       "createdAt": "25/06/2025",
       "address1": "2 Elizabeth Place",
@@ -9550,8 +9550,8 @@
     },
     {
       "name": "The Pembroke Pub",
-      "rating": 3,
-      "createdAt": "10/09/2024",
+      "rating": 5,
+      "createdAt": "22/10/2026",
       "address1": "La Grande Route des Sablons",
       "address2": "Grouville",
       "address3": "Grouville",

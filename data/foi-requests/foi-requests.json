@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9339,
+    "totalItems": 9340,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-11-10",
+      "producer": "Health and Care Jersey",
+      "id": 9774,
+      "title": "Adult Mental Health Crisis Team Pathways"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-11-09",
