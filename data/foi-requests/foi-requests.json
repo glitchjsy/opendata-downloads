@@ -1,11 +1,53 @@
 {
   "pagination": {
-    "totalItems": 9340,
+    "totalItems": 9346,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-11-16",
+      "producer": "Freedom of Information office",
+      "id": 9781,
+      "title": "Jersey Sport Health Assessments"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-10-16",
+      "producer": "Freedom of Information office",
+      "id": 9780,
+      "title": "Examination Funding "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-10-16",
+      "producer": "Freedom of Information office",
+      "id": 9779,
+      "title": "Mont a L'Abbe Perimeter Fence"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-15",
+      "producer": "Freedom of Information office",
+      "id": 9778,
+      "title": "Cannabis Listed as a Contributing Factor in Deaths (2020–2026)"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-15",
+      "producer": "Freedom of Information office",
+      "id": 9777,
+      "title": "French Language Use in Justice and Home Affairs Services and Records"
+    },
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-14",
+      "producer": "Freedom of Information office",
+      "id": 9775,
+      "title": "Lieutenant Governor role"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-11-10",
