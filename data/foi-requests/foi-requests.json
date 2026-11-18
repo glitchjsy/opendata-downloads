@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9346,
+    "totalItems": 9347,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Government of Jersey",
+      "publishDate": "2026-11-16",
+      "producer": "Bailiff's Chamber",
+      "id": 9785,
+      "title": "Le Seelleur Fund and La Motte Street Mental Health Hub"
+    },
     {
       "author": "Infrastructure and Environment",
       "publishDate": "2026-11-16",
