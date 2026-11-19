@@ -1,11 +1,32 @@
 {
   "pagination": {
-    "totalItems": 9347,
+    "totalItems": 9350,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Justice and Home Affairs",
+      "publishDate": "2026-10-21",
+      "producer": "Freedom of Information office",
+      "id": 9791,
+      "title": "Use of French language in legislation "
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-10-21",
+      "producer": "Freedom of Information office",
+      "id": 9789,
+      "title": "Colmar Brasserie"
+    },
+    {
+      "author": "Children, Young People, Education and Skills",
+      "publishDate": "2026-10-21",
+      "producer": "Freedom of Information office",
+      "id": 9788,
+      "title": "JSRF Curriculum and Retention"
+    },
     {
       "author": "Government of Jersey",
       "publishDate": "2026-11-16",
