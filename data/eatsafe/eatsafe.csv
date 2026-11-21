@@ -31,6 +31,7 @@ The Hen House,5,01/07/2026,,,,,,
 The Blind Pig,5,14/05/2026,Unit 10 Liberty Wharf,La Route de la Libération,St. Helier,JE2 3NY,49.183607,-2.112168
 Classic Origin Bar (Classic Catering),5,02/05/2026,,,,,,
 TL Afrobites,3,18/05/2026,,,,,,
+Zest Limited,2,29/10/2026,28  Halkett Place,,St. Helier,JE2 4WG,49.185568,-2.10448
 AmaThK Flavaz,4,06/05/2026,,,,,,
 Andy's Artisan Bakery,5,08/04/2024,,,,,,
 Downdog,3,15/06/2026,Cyril Le Marquand Court,,St. Helier,JE2 4SU,49.185665,-2.110228
@@ -110,7 +111,6 @@ Noya Shapla,4,05/06/2025,Natwest Bank,Charing Cross,St. Brelade,JE3 8AA,49.18757
 Brig-y-Don House,3,05/07/2024,Brig-y-Don House,La Grande Route de la Côte,St. Clement,JE2 6FT,49.167532,-2.063859
 "The Gardener's Tearoom, Ransoms",4,03/02/2025,The Gardener's Tearoom,Ransoms Garden Centre,St. Martin,JE3 6UG,49.217728,-2.051631
 The Lighthouse Beach Cafe,5,01/06/2022,La Mare Slipway,La Grande Route de la Côte,St. Clement,JE2 6SB,49.167532,-2.063859
-Barkers Newsagents,3,08/09/2026,Barkers Newsagent,12  Val Plaisant,St. Helier,JE2 4TA,49.189781,-2.104591
 Superdrug,5,21/07/2023,Rutland House,76-78 King Street,St. Helier,JE2 4WE,49.18445,-2.106843
 Bolero Bistro,4,11/01/2024,22 Rouge Bouillon,St. Helier,St. Helier,JE2 3ZA,49.190204,-2.109891
 Stuart Court Residential Home,5,12/04/2024,La Rue De Haut,St. Lawrence,St. Lawrence,JE3 1JQ,49.200793,-2.142924
@@ -519,7 +519,6 @@ Four Bakery,5,21/09/2023,53-55 Bath Street,St. Helier,,JE2 4SU,49.185462,-2.1023
 100% Health,4,23/07/2025,26-27  Conway Street,,St. Helier,JE2 3NT,49.183782,-2.107766
 Woodside Flowers and Farm Shop,5,22/04/2024,Woodside Farm Shop,La Rue Coutanche,Trinity,JE3 5DU,49.237757,-2.104594
 Solshine,5,30/09/2024,The Beach Hut,La Route de la Baie,St. Brelade,JE3 8EF,49.18529,-2.20083
-The St Laurent Public House,4,30/10/2023,Public House,La Grande Route de St. Laurent,St. Lawrence,JE3 1NL,49.221847,-2.141663
 Mini Mes Childcare,5,06/03/2024,Les Quennevais Playing Fields,Don Farm,St. Brelade,,49.195341,-2.20037
 First Tower Youth Project,3,14/11/2022,La Route de St. Aubin,St. Helier,St. Helier,JE2 3SD,49.198121,-2.147153
 Sunrise Catering,3,13/05/2025,,,,,,
@@ -669,7 +668,6 @@ Slush Puppie Jersey (M. Noel),5,02/05/2026,,,,,,
 The Trading Point,5,23/01/2024,Alexandre House,La Rue,St. Lawrence,JE3 1GL,49.227283,-2.147582
 Katherine Jauncey t/a Katherine Jauncey Culinary,4,16/01/2024,,,,,,
 Co-Op Philip Street,4,06/12/2023,Somerville House,Phillips Street,St. Helier,JE2 4SW,49.185951,-2.101493
-Kabuki Sushi,5,21/10/2024,,,,,,
 24/7 Vend Store,4,13/12/2023,7  York Street,,St. Helier,JE2 3RQ,49.185615,-2.1094
 The Outlet St. John,3,06/10/2026,Les Ruettes,La Grande Route De St. Jean,St. John,JE3 4FN,49.218901,-2.114669
 New Dynasty,3,07/10/2026,6 Parade Arcade,The Parade,St. Helier,JE2 3QP,49.1869,-2.11047
@@ -912,7 +910,7 @@ Cart and Soul,5,04/06/2026,,,,,,
 The Pizza Box Events,3,31/08/2024,,,,,,
 La Bottega,4,21/11/2025,Unit 75/77,Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 Petit Gateau Jersey,5,21/04/2026,,,,,,
-Jersey Naturally Tearoom,2,03/02/2026,Jersey Naturally,14-15 Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
+Jersey Naturally Tearoom,2,29/10/2026,Jersey Naturally,14-15 Central Market,St. Helier,JE2 4WL,49.185665,-2.110228
 The Hut,5,17/06/2025,Coronation Park,La Route de St. Aubin,St. Lawrence,JE3 1LN,49.198121,-2.147153
 Gerry's Fish Bar,5,17/07/2025,47A,,St. Helier,JE2 3WA,49.19229,-2.10276
 Dip Doh Pizza Co,5,14/05/2026,La Rue De L'Etau,La Rue De L'Etau,St. Helier,JE2 3WF,49.181852,-2.113789
@@ -954,7 +952,7 @@ Tasty Little Treats,3,02/04/2026,,,,,,
 Alma Sana,5,21/01/2026,Unit 2,3  Beresford Street,St. Helier,JE2 4WN,49.18534,-2.10424
 Mange Tout (Queen Street),3,25/03/2026,30-32  Queen Street,,St. Helier,JE2 4WD,49.18398,-2.103946
 Jersey Jacks,5,25/11/2025,,,,,,
-Paradox Limited,3,04/06/2026,Haut de la Garenne,La Rue de la Pouclee et des Quatre Chemins,St. Martin,JE3 6DU,49.202315,-2.028152
+Paradox Limited,3,27/10/2026,Haut de la Garenne,La Rue de la Pouclee et des Quatre Chemins,St. Martin,JE3 6DU,49.202315,-2.028152
 Common Ground,5,20/01/2026,Common Ground Coffee Shop,17  The Parade,St. Helier,JE2 3QP,49.18742,-2.11095
 Asiatico,5,15/01/2026,3 Bath Street,,St Helier,JE2 4ST,49.18398,-2.10304
 Beachside No.1 & No.2,5,25/07/2025,Beachside Residence No.1 & No. 2,Roseville Street,St. Helier,JE2 4PL,49.179602,-2.101092
