@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-23T09:54:29.039Z",
+  "generatedAt": "2026-11-25T10:35:54.074Z",
   "datasets": {
     "eatsafe": {
       "files": [
         {
           "path": "eatsafe/eatsafe.json",
-          "sizeBytes": 291756
+          "sizeBytes": 291557
         },
         {
           "path": "eatsafe/eatsafe.csv",
-          "sizeBytes": 94029
+          "sizeBytes": 94039
         }
       ]
     },
@@ -113,11 +113,11 @@
       "files": [
         {
           "path": "foi-requests/foi-requests.json",
-          "sizeBytes": 2078002
+          "sizeBytes": 2078220
         },
         {
           "path": "foi-requests/foi-requests.csv",
-          "sizeBytes": 1078318
+          "sizeBytes": 1078429
         }
       ]
     },
@@ -137,7 +137,7 @@
       "files": [
         {
           "path": "parking-spaces/parking-spaces.csv",
-          "sizeBytes": 7826343
+          "sizeBytes": 7852849
         }
       ]
     }

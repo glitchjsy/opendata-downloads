@@ -78,17 +78,6 @@
       "longitude": -2.110228
     },
     {
-      "name": "Paddock Events",
-      "rating": 5,
-      "createdAt": "30/09/2023",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Wicked Chicken",
       "rating": 5,
       "createdAt": "10/06/2024",
@@ -2818,8 +2807,8 @@
     },
     {
       "name": "Silkworth Lodge",
-      "rating": 4,
-      "createdAt": "30/05/2024",
+      "rating": 5,
+      "createdAt": "02/11/2026",
       "address1": "Silkworth",
       "address2": "6 Vauxhall Street",
       "address3": "St. Helier",
@@ -3310,6 +3299,17 @@
       "postCode": "JE3 8BS",
       "latitude": 49.189827,
       "longitude": -2.168792
+    },
+    {
+      "name": "The Paddock, Tipsy Camper, Olive & Fig",
+      "rating": 5,
+      "createdAt": "30/09/2023",
+      "address1": null,
+      "address2": null,
+      "address3": null,
+      "postCode": null,
+      "latitude": null,
+      "longitude": null
     },
     {
       "name": "Boucher du Nord",
@@ -4027,7 +4027,7 @@
       "longitude": -2.11486
     },
     {
-      "name": "D'Auvergne School",
+      "name": "D'Auvergne School (Breakfast Club)",
       "rating": 3,
       "createdAt": "01/03/2023",
       "address1": "D'Auvergne School",
@@ -5734,7 +5734,7 @@
     {
       "name": "First Tower Youth Project",
       "rating": 3,
-      "createdAt": "14/11/2022",
+      "createdAt": "02/11/2026",
       "address1": "La Route de St. Aubin",
       "address2": "St. Helier",
       "address3": "St. Helier",
@@ -7569,17 +7569,6 @@
       "longitude": -2.101008
     },
     {
-      "name": "Bite Me Cakes",
-      "rating": 4,
-      "createdAt": "10/10/2023",
-      "address1": null,
-      "address2": null,
-      "address3": null,
-      "postCode": null,
-      "latitude": null,
-      "longitude": null
-    },
-    {
       "name": "Flavour.je (Meze Bar)",
       "rating": 4,
       "createdAt": "21/11/2023",
@@ -9364,7 +9353,7 @@
     {
       "name": "City Cafe",
       "rating": 3,
-      "createdAt": "13/02/2025",
+      "createdAt": "03/11/2026",
       "address1": "1 Phillips Street",
       "address2": "St. Helier",
       "address3": "St. Helier",

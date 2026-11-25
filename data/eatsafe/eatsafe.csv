@@ -6,7 +6,6 @@ Green Dragon / Dish,3,22/10/2024,Green Dragon Chinese Restaurant,Gloucester Stre
 BE Caterers,5,25/03/2025,,,,,,
 Grouville School (Flourish),5,03/10/2024,Grouville Primary School,La Rue de la Haye du Puits,Grouville,JE3 9DL,49.185554,-2.04231
 Boatfayre Duty-Free (Elizabeth Terminal),5,05/08/2026,Elizabeth Terminal,Elizabeth Harbour,St. Helier,JE2 3NW,49.185665,-2.110228
-Paddock Events,5,30/09/2023,,,,,,
 Wicked Chicken,5,10/06/2024,Wicked Chicken,4  La Rue du Crocquet,St. Brelade,JE3 8AA,49.189334,-2.169974
 Kracking Food,5,08/04/2024,,,,,,
 Jersey Family Food Kitchen,3,27/01/2025,,,,,,
@@ -255,7 +254,7 @@ The Peirson,4,11/06/2025,17 Royal Square,St. Helier,St. Helier,JE2 4WA,51.48976,
 Cock & Bottle Public House,5,06/06/2025,18-19 Royal Square,St. Helier,St. Helier,JE2 4WA,39.61592,-75.081406
 Age Concern (Events),5,16/12/2022,,,,,,
 The Salvation Army Community Cafe,5,26/07/2022,The Salvation Army Hall,Minden Street,St. Helier,JE2 4WR,49.186326,-2.102542
-Silkworth Lodge,4,30/05/2024,Silkworth,6 Vauxhall Street,St. Helier,JE2 4TJ,49.18785,-2.10496
+Silkworth Lodge,5,02/11/2026,Silkworth,6 Vauxhall Street,St. Helier,JE2 4TJ,49.18785,-2.10496
 Merton Hotel,5,15/07/2025,Belvedere Hill,St. Saviour,St. Saviour,JE2 7RX,49.179907,-2.093135
 Falles Service Station,3,06/10/2025,Falles Service Station,Longueville Road,St. Saviour,JE2 7SA,49.183385,-2.078407
 Silver Star Community Playgroup,5,07/12/2022,St Marys Youth Community Centre,La Rue du Pont,St. Mary,JE3 3AS,49.23958,-2.175196
@@ -300,6 +299,7 @@ Waitrose (Cafe),5,29/09/2022,La Route Orange,St. Brelade,St. Brelade,JE3 8NG,49.
 Café Louise,4,06/07/2023,Gorey Pier,St. Martin,St. Martin,JE3 6EW,49.217728,-2.051631
 The Mary Rose,5,05/10/2023,18 Mulcaster Street,St. Helier,St. Helier,JE2 3NJ,49.183115,-2.106983
 The Boat House & The Anchor Club,3,20/08/2026,The Boat House Restaurant,La Neuve Route,St. Brelade,JE3 8BS,49.189827,-2.168792
+"The Paddock, Tipsy Camper, Olive & Fig",5,30/09/2023,,,,,,
 Boucher du Nord,5,29/04/2025,Temple Court,La Rue du Temple,St. John,JE3 4BJ,49.246451,-2.138041
 Belvedere Leisure Shop,5,25/10/2023,Merton Leisure Club & Aquadome,Belvedere Hill,St. Saviour,JE2 7RP,49.179907,-2.093135
 Thyme Out West (HCS Catering),4,22/01/2024,Enid Quenault House,Les Quennevais Park,St. Brelade,JE3 8JW,49.192715,-2.202559
@@ -365,7 +365,7 @@ Will Gorman Catering & Private Dining,5,10/06/2025,,,,,,
 The Brasserie by Tiffin,4,17/06/2026,46-52 King Street,St. Helier,St. Helier,JE4 8NN,51.50046,-0.38319
 First Stop Coffee Shop & Restaurant,3,28/09/2026,Maison du Coin,Cheapside,St. Helier,JE2 3PG,49.185665,-2.110228
 Cafe Spice,4,16/07/2024,Cafe Spice,53 Kensington Place,St. Helier,JE2 3PA,49.18751,-2.11486
-D'Auvergne School,3,01/03/2023,D'Auvergne School,La Pouquelaye,St. Helier,JE2 3GF,49.185665,-2.110228
+D'Auvergne School (Breakfast Club),3,01/03/2023,D'Auvergne School,La Pouquelaye,St. Helier,JE2 3GF,49.185665,-2.110228
 Jessindy Cafe,4,18/07/2024,3 Peter Street,St. Helier,St. Helier,JE2 4SP,49.18512,-2.102215
 Crab Shack,5,10/04/2024,St Brelade's Bay,La Route de la Baie,St. Brelade,JE3 8EF,49.18529,-2.20083
 Army Camp Training Centre (TA),5,04/11/2022,Army Careers Office,T A Centre,St. Helier,JE2 4XY,49.185665,-2.110228
@@ -520,7 +520,7 @@ Four Bakery,5,21/09/2023,53-55 Bath Street,St. Helier,,JE2 4SU,49.185462,-2.1023
 Woodside Flowers and Farm Shop,5,22/04/2024,Woodside Farm Shop,La Rue Coutanche,Trinity,JE3 5DU,49.237757,-2.104594
 Solshine,5,30/09/2024,The Beach Hut,La Route de la Baie,St. Brelade,JE3 8EF,49.18529,-2.20083
 Mini Mes Childcare,5,06/03/2024,Les Quennevais Playing Fields,Don Farm,St. Brelade,,49.195341,-2.20037
-First Tower Youth Project,3,14/11/2022,La Route de St. Aubin,St. Helier,St. Helier,JE2 3SD,49.198121,-2.147153
+First Tower Youth Project,3,02/11/2026,La Route de St. Aubin,St. Helier,St. Helier,JE2 3SD,49.198121,-2.147153
 Sunrise Catering,3,13/05/2025,,,,,,
 Chipstix Jersey,5,02/05/2026,,,,,,
 The Patisserie,5,14/11/2023,6a La Colomberie,St. Helier,St. Helier,JE2 4QB,49.18341,-2.10277
@@ -687,7 +687,6 @@ La Cote Distillery,5,28/05/2026,11 La Motte Street,St. Helier,St. Helier,JE2 4SY
 Bets & Buds,5,20/06/2025,,,,,,
 Harriet & Rose,5,25/10/2023,,71 King Street,St. Helier,JE2 4WE,,
 Funchal Paradise,4,24/07/2024,68a La Colomberie,St. Helier,St. Helier,JE2 4QA,49.182174,-2.101008
-Bite Me Cakes,4,10/10/2023,,,,,,
 Flavour.je (Meze Bar),4,21/11/2023,4 La Rue du Crocquet,St. Brelade,St. Brelade,JE3 8BZ,40.884688,-73.438849
 Meaw's Thai Kitchen,0,15/04/2026,The Forum Wine Bar,13  Grenville Street,St. Helier,JE2 4UF,49.18192,-2.10206
 For Love & The Liminal,4,01/10/2024,,,,,,
@@ -850,7 +849,7 @@ Freedom Adventures and Playcare - St Lukes ASC,5,19/06/2025,St Luke Primary Scho
 Wood's Kitchen Jersey,5,01/07/2025,,,,,,
 Tommo's,3,14/07/2026,Normans Depot,Five Oaks,St. Saviour,JE2 7NH,49.198261,-2.081495
 Wholly Ground Cafe,5,10/10/2023,Office,St. Mark's Church,St. Helier,JE2 4LY,49.185665,-2.110228
-City Cafe,3,13/02/2025,1 Phillips Street,St. Helier,St. Helier,JE2 4SW,51.71621,-3.23296
+City Cafe,3,03/11/2026,1 Phillips Street,St. Helier,St. Helier,JE2 4SW,51.71621,-3.23296
 Dino (Events),4,03/05/2024,,,,,,
 Molly Moo,5,14/08/2023,,,,,,
 Beez Kneez,4,09/07/2024,,,,,,

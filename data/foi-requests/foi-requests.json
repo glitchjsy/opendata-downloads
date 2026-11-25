@@ -1,11 +1,18 @@
 {
   "pagination": {
-    "totalItems": 9350,
+    "totalItems": 9351,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Health and Care Jersey",
+      "publishDate": "2026-11-23",
+      "producer": "Health and Care Jersey",
+      "id": 9792,
+      "title": "PFAS Scientific Advisory Panel Fees and Expenses"
+    },
     {
       "author": "Justice and Home Affairs",
       "publishDate": "2026-10-21",
