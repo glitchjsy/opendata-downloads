@@ -1,11 +1,39 @@
 {
   "pagination": {
-    "totalItems": 9351,
+    "totalItems": 9355,
     "page": 1,
     "totalPages": 1,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "Employment, Social Security and Housing",
+      "publishDate": "2026-10-28",
+      "producer": "Freedom of Information office",
+      "id": 9798,
+      "title": "Pension Payment Statistics Request"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-10-28",
+      "producer": "Freedom of Information office",
+      "id": 9797,
+      "title": "Noise monitoring – Weekender"
+    },
+    {
+      "author": "Infrastructure and Environment",
+      "publishDate": "2026-10-27",
+      "producer": "Freedom of Information office",
+      "id": 9796,
+      "title": "Colmar Brasserie"
+    },
+    {
+      "author": "External Relations",
+      "publishDate": "2026-10-27",
+      "producer": "Freedom of Information office",
+      "id": 9793,
+      "title": "Minister for External Relations Correspondence on Small Boats"
+    },
     {
       "author": "Health and Care Jersey",
       "publishDate": "2026-11-23",
