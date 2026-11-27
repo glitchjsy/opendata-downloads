@@ -1552,17 +1552,6 @@
       "longitude": -2.113789
     },
     {
-      "name": "Belmont Fish Bar",
-      "rating": 3,
-      "createdAt": "25/01/2025",
-      "address1": "16-18 Museum Street",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4SS",
-      "latitude": 49.186352,
-      "longitude": -2.101523
-    },
-    {
       "name": "The Bakery",
       "rating": 3,
       "createdAt": "13/05/2025",
@@ -4027,7 +4016,7 @@
       "longitude": -2.11486
     },
     {
-      "name": "D'Auvergne School (Breakfast Club)",
+      "name": "D'Auvergne School (Breakfast Club & Nursery)",
       "rating": 3,
       "createdAt": "01/03/2023",
       "address1": "D'Auvergne School",
@@ -4069,17 +4058,6 @@
       "postCode": "JE2 4XY",
       "latitude": 49.185665,
       "longitude": -2.110228
-    },
-    {
-      "name": "The Fresh Crust Pizza Company",
-      "rating": 3,
-      "createdAt": "30/07/2024",
-      "address1": "49 La Colomberie",
-      "address2": "St. Helier",
-      "address3": "St. Helier",
-      "postCode": "JE2 4QA",
-      "latitude": 49.18187,
-      "longitude": -2.10039
     },
     {
       "name": "Cafe Dodo and Firefly @ Durrell",
@@ -5426,7 +5404,7 @@
     {
       "name": "The Smokey Shed",
       "rating": 5,
-      "createdAt": "17/03/2025",
+      "createdAt": "04/11/2026",
       "address1": null,
       "address2": null,
       "address3": null,
@@ -7118,7 +7096,7 @@
       "longitude": -2.147153
     },
     {
-      "name": "Kyoto Restobar Takeaway (2 Elizabeth Place)",
+      "name": "Kyoto Restobar Takeaway",
       "rating": 4,
       "createdAt": "25/06/2025",
       "address1": "2 Elizabeth Place",
@@ -8088,7 +8066,7 @@
     {
       "name": "The Bass and Lobster",
       "rating": 3,
-      "createdAt": "19/04/2024",
+      "createdAt": "04/11/2026",
       "address1": "The Bass & Lobster Foodhouse",
       "address2": "La Route de la Cote",
       "address3": "St. Martin",
@@ -8132,7 +8110,7 @@
     {
       "name": "Maufant Youth Club",
       "rating": 3,
-      "createdAt": "06/02/2022",
+      "createdAt": "04/11/2026",
       "address1": "Maufant Youth Centre",
       "address2": "La Grande Route de St. Martin",
       "address3": "St. Saviour",
