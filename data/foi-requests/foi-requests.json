@@ -2,10 +2,17 @@
   "pagination": {
     "totalPages": 1,
     "page": 1,
-    "totalItems": 9355,
+    "totalItems": 9356,
     "limit": 1000000
   },
   "results": [
+    {
+      "author": "States Greffe",
+      "publishDate": "2026-07-10",
+      "producer": "Freedom of Information office",
+      "id": 9806,
+      "title": "Scrutiny Panel awareness of review of Day Care Law"
+    },
     {
       "author": "Employment, Social Security and Housing",
       "publishDate": "2026-10-28",
